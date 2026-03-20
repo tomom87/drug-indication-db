@@ -4,12 +4,7 @@
     "name": "シテイ",
     "generic_name": "シテイ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "シテイ",
-        "kana": "ｼﾃｲ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

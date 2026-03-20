@@ -4,12 +4,7 @@
     "name": "ウズ",
     "generic_name": "ウズ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ウズ",
-        "kana": "ｳｽﾞ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

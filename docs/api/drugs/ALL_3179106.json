@@ -4,12 +4,7 @@
     "name": "ノイロビタン配合錠",
     "generic_name": "ノイロビタン配合",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "ノイロビタン配合錠",
-        "kana": "ﾉｲﾛﾋﾞﾀﾝﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

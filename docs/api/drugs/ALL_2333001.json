@@ -4,12 +4,7 @@
     "name": "苦味チンキ",
     "generic_name": "苦味チンキ",
     "category": "その他",
-    "brands": [
-      {
-        "name": "苦味チンキ",
-        "kana": "ｸﾐﾁﾝｷ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "無水カフェイン",
     "generic_name": "無水カフェイン",
     "category": "その他",
-    "brands": [
-      {
-        "name": "無水カフェイン",
-        "kana": "ﾑｽｲｶﾌｪｲﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

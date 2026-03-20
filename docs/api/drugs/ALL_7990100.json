@@ -4,12 +4,7 @@
     "name": "ニフレック配合内用剤",
     "generic_name": "ニフレック配合内用剤",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ニフレック配合内用剤",
-        "kana": "ﾆﾌﾚｯｸﾊｲｺﾞｳﾅｲﾖｳｻﾞｲ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

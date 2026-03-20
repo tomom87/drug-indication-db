@@ -4,12 +4,7 @@
     "name": "クコシ",
     "generic_name": "クコシ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "クコシ",
-        "kana": "ｸｺｼ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

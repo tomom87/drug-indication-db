@@ -4,12 +4,7 @@
     "name": "ツムラの生薬バイモ",
     "generic_name": "ツムラの生薬バイモ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ツムラの生薬バイモ",
-        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾊﾞｲﾓ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

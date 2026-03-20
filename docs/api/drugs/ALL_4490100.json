@@ -4,12 +4,7 @@
     "name": "ディレグラ配合錠",
     "generic_name": "ディレグラ配合",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ディレグラ配合錠",
-        "kana": "ﾃﾞｨﾚｸﾞﾗﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

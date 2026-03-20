@@ -4,12 +4,7 @@
     "name": "タンニン酸",
     "generic_name": "タンニン酸",
     "category": "外用薬",
-    "brands": [
-      {
-        "name": "タンニン酸",
-        "kana": "ﾀﾝﾆﾝｻﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

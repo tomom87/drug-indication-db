@@ -4,12 +4,7 @@
     "name": "トコン",
     "generic_name": "トコン",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "トコン",
-        "kana": "ﾄｺﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

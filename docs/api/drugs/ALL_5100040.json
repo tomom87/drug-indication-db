@@ -4,12 +4,7 @@
     "name": "カンタリス",
     "generic_name": "カンタリス",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "カンタリス",
-        "kana": "ｶﾝﾀﾘｽ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

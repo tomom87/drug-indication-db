@@ -4,12 +4,7 @@
     "name": "コンベッククリーム５％",
     "generic_name": "コンベック",
     "category": "外用薬",
-    "brands": [
-      {
-        "name": "コンベッククリーム５％",
-        "kana": "ｺﾝﾍﾞｯｸｸﾘｰﾑ5%"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

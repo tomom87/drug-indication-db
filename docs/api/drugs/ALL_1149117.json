@@ -4,12 +4,7 @@
     "name": "トラムセット配合錠",
     "generic_name": "トラムセット配合",
     "category": "抗てんかん薬",
-    "brands": [
-      {
-        "name": "トラムセット配合錠",
-        "kana": "ﾄﾗﾑｾｯﾄﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": [
     {

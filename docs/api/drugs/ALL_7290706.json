@@ -4,12 +4,7 @@
     "name": "パッチテスト試薬",
     "generic_name": "パッチテスト試薬",
     "category": "その他",
-    "brands": [
-      {
-        "name": "パッチテスト試薬",
-        "kana": "ﾊﾟｯﾁﾃｽﾄｼﾔｸ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "カシ",
     "generic_name": "カシ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "カシ",
-        "kana": "ｶｼ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

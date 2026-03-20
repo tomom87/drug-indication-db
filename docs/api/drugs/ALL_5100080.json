@@ -4,12 +4,7 @@
     "name": "サンザシ",
     "generic_name": "サンザシ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "サンザシ",
-        "kana": "ｻﾝｻﾞｼ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

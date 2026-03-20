@@ -4,12 +4,7 @@
     "name": "ヤクモソウ",
     "generic_name": "ヤクモソウ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ヤクモソウ",
-        "kana": "ﾔｸﾓｿｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

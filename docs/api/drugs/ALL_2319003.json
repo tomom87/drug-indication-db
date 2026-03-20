@@ -4,12 +4,7 @@
     "name": "薬用炭",
     "generic_name": "薬用炭",
     "category": "消化性潰瘍薬",
-    "brands": [
-      {
-        "name": "薬用炭",
-        "kana": "ﾔｸﾖｳﾀﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": [
     {

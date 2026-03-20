@@ -4,12 +4,7 @@
     "name": "コウイ",
     "generic_name": "コウイ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "コウイ",
-        "kana": "ｺｳｲ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "精製水",
     "generic_name": "精製水",
     "category": "その他",
-    "brands": [
-      {
-        "name": "精製水",
-        "kana": "ｾｲｾｲｽｲ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

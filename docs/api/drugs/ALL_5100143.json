@@ -4,12 +4,7 @@
     "name": "ドベッコウ",
     "generic_name": "ドベッコウ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ドベッコウ",
-        "kana": "ﾄﾞﾍﾞｯｺｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

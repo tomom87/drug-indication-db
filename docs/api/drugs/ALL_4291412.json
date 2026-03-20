@@ -4,12 +4,7 @@
     "name": "ベルケイド注射用３ｍｇ",
     "generic_name": "ベルケイド",
     "category": "抗悪性腫瘍薬",
-    "brands": [
-      {
-        "name": "ベルケイド注射用３ｍｇ",
-        "kana": "ﾍﾞﾙｹｲﾄﾞﾁｭｳｼｬﾖｳ3MG"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

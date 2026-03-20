@@ -4,12 +4,7 @@
     "name": "ヒルドイドクリーム０．３％",
     "generic_name": "ヒルドイド",
     "category": "血液用薬",
-    "brands": [
-      {
-        "name": "ヒルドイドクリーム０．３％",
-        "kana": "ﾋﾙﾄﾞｲﾄﾞｸﾘｰﾑ0.3%"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "シプロキサン錠１００ｍｇ",
     "generic_name": "シプロキサン",
     "category": "抗ウイルス薬",
-    "brands": [
-      {
-        "name": "シプロキサン錠１００ｍｇ",
-        "kana": "ｼﾌﾟﾛｷｻﾝｼﾞｮｳ100MG"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

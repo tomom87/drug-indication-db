@@ -4,12 +4,7 @@
     "name": "シャジン",
     "generic_name": "シャジン",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "シャジン",
-        "kana": "ｼｬｼﾞﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

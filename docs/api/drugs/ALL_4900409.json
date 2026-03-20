@@ -4,12 +4,7 @@
     "name": "アベクマ点滴静注",
     "generic_name": "アベクマ",
     "category": "その他",
-    "brands": [
-      {
-        "name": "アベクマ点滴静注",
-        "kana": "ｱﾍﾞｸﾏﾃﾝﾃｷｼﾞｮｳﾁｭｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

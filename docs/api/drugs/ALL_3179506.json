@@ -4,12 +4,7 @@
     "name": "ビタメジン静注用",
     "generic_name": "ビタメジン静",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "ビタメジン静注用",
-        "kana": "ﾋﾞﾀﾒｼﾞﾝｼﾞｮｳﾁｭｳﾖｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

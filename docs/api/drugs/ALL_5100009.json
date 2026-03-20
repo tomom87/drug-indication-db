@@ -4,12 +4,7 @@
     "name": "ウコン",
     "generic_name": "ウコン",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ウコン",
-        "kana": "ｳｺﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "フェンラーゼ配合カプセル",
     "generic_name": "フェンラーゼ配合",
     "category": "消化器薬",
-    "brands": [
-      {
-        "name": "フェンラーゼ配合カプセル",
-        "kana": "ﾌｪﾝﾗｰｾﾞﾊｲｺﾞｳｶﾌﾟｾﾙ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

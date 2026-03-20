@@ -4,12 +4,7 @@
     "name": "ビオスミン配合散",
     "generic_name": "ビオスミン配合",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ビオスミン配合散",
-        "kana": "ﾋﾞｵｽﾐﾝﾊｲｺﾞｳｻﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

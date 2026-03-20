@@ -4,12 +4,7 @@
     "name": "グルベス配合錠",
     "generic_name": "グルベス配合",
     "category": "糖尿病薬",
-    "brands": [
-      {
-        "name": "グルベス配合錠",
-        "kana": "ｸﾞﾙﾍﾞｽﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": [
     {

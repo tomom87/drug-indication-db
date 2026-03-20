@@ -4,12 +4,7 @@
     "name": "テンマ末",
     "generic_name": "テンマ末",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "テンマ末",
-        "kana": "ﾃﾝﾏﾏﾂ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "キナ",
     "generic_name": "キナ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "キナ",
-        "kana": "ｷﾅ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

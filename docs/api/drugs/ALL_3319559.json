@@ -4,12 +4,7 @@
     "name": "フィジオ７０輸液　５００ｍＬ",
     "generic_name": "フィジオ７０輸",
     "category": "血液凝固阻止薬",
-    "brands": [
-      {
-        "name": "フィジオ７０輸液　５００ｍＬ",
-        "kana": "ﾌｨｼﾞｵ70ﾕｴｷ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

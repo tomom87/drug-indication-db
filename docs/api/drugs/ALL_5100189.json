@@ -4,12 +4,7 @@
     "name": "ワコウホン",
     "generic_name": "ワコウホン",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ワコウホン",
-        "kana": "ﾜｺｳﾎﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

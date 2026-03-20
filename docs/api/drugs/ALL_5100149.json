@@ -4,12 +4,7 @@
     "name": "ツムラの生薬ニンドウ",
     "generic_name": "ツムラの生薬ニンドウ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ツムラの生薬ニンドウ",
-        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾆﾝﾄﾞｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "ミドリンＰ点眼液",
     "generic_name": "ミドリンＰ",
     "category": "眼科用薬",
-    "brands": [
-      {
-        "name": "ミドリンＰ点眼液",
-        "kana": "ﾐﾄﾞﾘﾝPﾃﾝｶﾞﾝｴｷ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

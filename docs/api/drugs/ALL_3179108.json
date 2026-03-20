@@ -4,12 +4,7 @@
     "name": "ビタメジン配合散",
     "generic_name": "ビタメジン配合",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "ビタメジン配合散",
-        "kana": "ﾋﾞﾀﾒｼﾞﾝﾊｲｺﾞｳｻﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

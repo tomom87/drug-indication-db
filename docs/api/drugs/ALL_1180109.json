@@ -4,12 +4,7 @@
     "name": "ピーエイ配合錠",
     "generic_name": "ピーエイ配合",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ピーエイ配合錠",
-        "kana": "ﾋﾟｰｴｲﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "スミスリンローション５％",
     "generic_name": "スミスリンローション",
     "category": "その他",
-    "brands": [
-      {
-        "name": "スミスリンローション５％",
-        "kana": "ｽﾐｽﾘﾝﾛｰｼｮﾝ5%"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

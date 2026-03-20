@@ -4,12 +4,7 @@
     "name": "アリチア配合錠",
     "generic_name": "アリチア配合",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "アリチア配合錠",
-        "kana": "ｱﾘﾁｱﾊｲｺﾞｳｼﾞｮｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

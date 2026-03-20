@@ -4,12 +4,7 @@
     "name": "牛脂",
     "generic_name": "牛脂",
     "category": "その他",
-    "brands": [
-      {
-        "name": "牛脂",
-        "kana": "ｷﾞｭｳｼ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "ゴマ",
     "generic_name": "ゴマ",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ゴマ",
-        "kana": "ｺﾞﾏ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

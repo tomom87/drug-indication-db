@@ -1,7 +1,6 @@
 """医薬品マスターから販売名を抽出し、一般名（generic_name）と紐づける."""
 import csv
 import io
-import json
 import sqlite3
 from pathlib import Path
 
@@ -11,72 +10,79 @@ IYAKUHIN_FILE = DATA_DIR / "iyakuhin" / "y_20260317.csv"
 
 
 def parse_iyakuhin_master() -> list[dict]:
-    """医薬品マスターをパースして販売名リストを返す."""
     with open(IYAKUHIN_FILE, "rb") as f:
         raw = f.read()
     text = raw.decode("cp932", errors="replace")
     reader = csv.reader(io.StringIO(text))
-
     records = []
     for row in reader:
         if len(row) < 35 or row[1] != "Y":
             continue
-        code = row[2]          # 医薬品コード
-        name = row[4]          # 販売名
-        kana = row[6]          # カナ名
-        yj_code = row[31] if len(row) > 31 else ""  # YJコード
+        yj_code = row[31] if len(row) > 31 else ""
+        if not yj_code or len(yj_code) < 7:
+            continue
         records.append({
-            "code": code,
-            "name": name,
-            "kana": kana,
+            "name": row[4],
+            "kana": row[6],
             "yj_code": yj_code,
+            "yj7": yj_code[:7],
         })
     return records
 
 
 def build_brand_mapping():
-    """販売名 → generic_name のマッピングを構築."""
     conn = sqlite3.connect(str(DB_PATH))
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
 
-    # DB内の薬剤一覧を取得
-    c.execute("SELECT yj_code, name, generic_name, category FROM drug")
-    drugs = {row["yj_code"]: dict(row) for row in c.fetchall()}
+    # 手動キュレーション薬剤のみ取得（NAIKA_* と TJ_*）
+    c.execute("SELECT yj_code, name, generic_name FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
+    curated_drugs = [dict(row) for row in c.fetchall()]
+    print(f"手動キュレーション薬剤: {len(curated_drugs)} 件")
 
-    # 一般名リスト（部分一致検索用）
-    generic_names = {}
-    for d in drugs.values():
-        generic_names[d["generic_name"]] = d["yj_code"]
-
-    # 医薬品マスターをパース
+    # 医薬品マスター全件
     iyakuhin = parse_iyakuhin_master()
     print(f"医薬品マスター: {len(iyakuhin)} 件")
 
-    # 販売名→一般名のマッピング
-    brand_to_drug: dict[str, list[dict]] = {}  # yj_code -> [brand_names]
+    # Step 1: 一般名→ 医薬品マスターのYJ7桁を収集
+    # （一般名が販売名に含まれるものからYJ7桁を取得）
+    drug_yj7s: dict[str, set[str]] = {}  # DB yj_code -> set of master YJ7
+    for drug in curated_drugs:
+        gn = drug["generic_name"]
+        yj7_set = set()
+        for item in iyakuhin:
+            if gn in item["name"]:
+                yj7_set.add(item["yj7"])
+        if yj7_set:
+            drug_yj7s[drug["yj_code"]] = yj7_set
+
+    # Step 2: YJ7桁→DB yj_code の逆引き
+    yj7_to_drug: dict[str, str] = {}
+    for db_yj, yj7_set in drug_yj7s.items():
+        for yj7 in yj7_set:
+            yj7_to_drug[yj7] = db_yj
+
+    print(f"YJ7マッピング数: {len(yj7_to_drug)}")
+
+    # Step 3: 全医薬品マスター品目をYJ7桁で紐づけ
+    brand_to_drug: dict[str, list[dict]] = {}
     matched_count = 0
 
     for item in iyakuhin:
-        brand_name = item["name"]
-        brand_kana = item["kana"]
-
-        # 一般名との部分一致マッチング
-        for generic_name, yj_code in generic_names.items():
-            if generic_name in brand_name:
-                if yj_code not in brand_to_drug:
-                    brand_to_drug[yj_code] = []
-                brand_to_drug[yj_code].append({
-                    "brand_name": brand_name,
-                    "brand_kana": brand_kana,
-                })
-                matched_count += 1
-                break
+        db_yj = yj7_to_drug.get(item["yj7"])
+        if db_yj:
+            if db_yj not in brand_to_drug:
+                brand_to_drug[db_yj] = []
+            brand_to_drug[db_yj].append({
+                "brand_name": item["name"],
+                "brand_kana": item["kana"],
+            })
+            matched_count += 1
 
     print(f"販売名マッチ: {matched_count} 件")
     print(f"マッチした薬剤数: {len(brand_to_drug)}")
 
-    # DBにbrand_namesテーブルを作成
+    # DBに保存
     c.execute("""
         CREATE TABLE IF NOT EXISTS brand_name (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -97,14 +103,9 @@ def build_brand_mapping():
             )
 
     conn.commit()
-
-    # 統計
     c.execute("SELECT COUNT(*) FROM brand_name")
-    total = c.fetchone()[0]
-    print(f"DB登録販売名: {total} 件")
-
+    print(f"DB登録販売名: {c.fetchone()[0]} 件")
     conn.close()
-    return brand_to_drug
 
 
 if __name__ == "__main__":

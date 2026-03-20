@@ -4,12 +4,7 @@
     "name": "ニクズク",
     "generic_name": "ニクズク",
     "category": "生薬",
-    "brands": [
-      {
-        "name": "ニクズク",
-        "kana": "ﾆｸｽﾞｸ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

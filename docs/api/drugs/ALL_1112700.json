@@ -4,12 +4,7 @@
     "name": "ハロタン",
     "generic_name": "ハロタン",
     "category": "全身麻酔薬",
-    "brands": [
-      {
-        "name": "ハロタン",
-        "kana": "ﾊﾛﾀﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

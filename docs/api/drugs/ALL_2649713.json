@@ -4,12 +4,7 @@
     "name": "イクタモール",
     "generic_name": "イクタモール",
     "category": "外用薬",
-    "brands": [
-      {
-        "name": "イクタモール",
-        "kana": "ｲｸﾀﾓｰﾙ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

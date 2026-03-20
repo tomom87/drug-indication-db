@@ -4,12 +4,7 @@
     "name": "カンテン",
     "generic_name": "カンテン",
     "category": "その他",
-    "brands": [
-      {
-        "name": "カンテン",
-        "kana": "ｶﾝﾃﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

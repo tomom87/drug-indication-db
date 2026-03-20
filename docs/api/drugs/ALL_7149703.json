@@ -4,12 +4,7 @@
     "name": "ローズ油",
     "generic_name": "ローズ油",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ローズ油",
-        "kana": "ﾛｰｽﾞﾕ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "マルタミン注射用",
     "generic_name": "マルタミン",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "マルタミン注射用",
-        "kana": "ﾏﾙﾀﾐﾝﾁｭｳｼｬﾖｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "白糖",
     "generic_name": "白糖",
     "category": "その他",
-    "brands": [
-      {
-        "name": "白糖",
-        "kana": "ﾊｸﾄｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

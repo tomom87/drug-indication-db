@@ -4,12 +4,7 @@
     "name": "ホミカチンキ",
     "generic_name": "ホミカチンキ",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ホミカチンキ",
-        "kana": "ﾎﾐｶﾁﾝｷ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

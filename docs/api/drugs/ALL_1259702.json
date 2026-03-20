@@ -4,12 +4,7 @@
     "name": "アポハイドローション２０％",
     "generic_name": "アポハイドローション",
     "category": "その他",
-    "brands": [
-      {
-        "name": "アポハイドローション２０％",
-        "kana": "ｱﾎﾟﾊｲﾄﾞﾛｰｼｮﾝ20%"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

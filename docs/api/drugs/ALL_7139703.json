@@ -4,12 +4,7 @@
     "name": "石油ベンジン（金田直）",
     "generic_name": "石油ベンジン",
     "category": "その他",
-    "brands": [
-      {
-        "name": "石油ベンジン（金田直）",
-        "kana": "ｾｷﾕﾍﾞﾝｼﾞﾝｶﾈﾀﾞﾅｵ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

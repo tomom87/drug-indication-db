@@ -4,12 +4,7 @@
     "name": "ヒマシ油",
     "generic_name": "ヒマシ油",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ヒマシ油",
-        "kana": "ﾋﾏｼﾕ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

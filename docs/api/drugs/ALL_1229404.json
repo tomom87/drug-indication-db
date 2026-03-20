@@ -4,12 +4,7 @@
     "name": "ボトックス注用１００単位",
     "generic_name": "ボトックス",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ボトックス注用１００単位",
-        "kana": "ﾎﾞﾄｯｸｽﾁｭｳﾖｳ100ﾀﾝｲ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "シナール配合顆粒",
     "generic_name": "シナール配合",
     "category": "混合ビタミン薬",
-    "brands": [
-      {
-        "name": "シナール配合顆粒",
-        "kana": "ｼﾅｰﾙﾊｲｺﾞｳｶﾘｭｳ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

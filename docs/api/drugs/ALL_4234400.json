@@ -4,12 +4,7 @@
     "name": "ブレオ注射用５ｍｇ",
     "generic_name": "ブレオ",
     "category": "その他",
-    "brands": [
-      {
-        "name": "ブレオ注射用５ｍｇ",
-        "kana": "ﾌﾞﾚｵﾁｭｳｼｬﾖｳ5MG"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

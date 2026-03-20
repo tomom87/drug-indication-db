@@ -4,12 +4,7 @@
     "name": "オイラックスＨクリーム",
     "generic_name": "オイラックスＨ",
     "category": "外用薬",
-    "brands": [
-      {
-        "name": "オイラックスＨクリーム",
-        "kana": "ｵｲﾗｯｸｽHｸﾘｰﾑ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

@@ -4,12 +4,7 @@
     "name": "トリフリード輸液　５００ｍＬ",
     "generic_name": "トリフリード輸",
     "category": "血液凝固阻止薬",
-    "brands": [
-      {
-        "name": "トリフリード輸液　５００ｍＬ",
-        "kana": "ﾄﾘﾌﾘｰﾄﾞﾕｴｷ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }

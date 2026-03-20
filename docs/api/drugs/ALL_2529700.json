@@ -4,12 +4,7 @@
     "name": "プロテイン銀",
     "generic_name": "プロテイン銀",
     "category": "その他",
-    "brands": [
-      {
-        "name": "プロテイン銀",
-        "kana": "ﾌﾟﾛﾃｲﾝｷﾞﾝ"
-      }
-    ]
+    "brands": []
   },
   "indications": []
 }
