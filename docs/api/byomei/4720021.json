@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "4720021",
+    "name": "慢性鼻炎",
+    "icd10": "J310"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_050",
+      "name": "ツムラ荊芥連翹湯エキス顆粒（医療用）",
+      "generic_name": "荊芥連翹湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_002",
+      "name": "ツムラ葛根湯加川芎辛夷エキス顆粒（医療用）",
+      "generic_name": "葛根湯加川芎辛夷",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_104",
+      "name": "ツムラ辛夷清肺湯エキス顆粒（医療用）",
+      "generic_name": "辛夷清肺湯",
+      "category": "漢方"
+    }
+  ]
+}

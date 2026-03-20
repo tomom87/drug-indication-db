@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8844801",
+    "name": "熱中症",
+    "icd10": "T678"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_136",
+      "name": "ツムラ清暑益気湯エキス顆粒（医療用）",
+      "generic_name": "清暑益気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_034",
+      "name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
+      "generic_name": "白虎加人参湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "8848768",
+    "name": "糖尿病性神経障害性疼痛",
+    "icd10": "E144"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0091",
+      "name": "メコバラミン",
+      "generic_name": "メコバラミン",
+      "category": "ビタミン"
+    },
+    {
+      "yj_code": "TJ_107",
+      "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+      "generic_name": "牛車腎気丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0082",
+      "name": "プレガバリン",
+      "generic_name": "プレガバリン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

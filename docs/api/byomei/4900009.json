@@ -1,0 +1,81 @@
+{
+  "byomei": {
+    "code": "4900009",
+    "name": "気管支炎",
+    "icd10": "J40"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_035",
+      "name": "ツムラ四逆散エキス顆粒（医療用）",
+      "generic_name": "四逆散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_009",
+      "name": "ツムラ小柴胡湯エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_019",
+      "name": "ツムラ小青竜湯エキス顆粒（医療用）",
+      "generic_name": "小青竜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_096",
+      "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+      "generic_name": "柴朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_011",
+      "name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝乾姜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_073",
+      "name": "ツムラ柴陥湯エキス顆粒（医療用）",
+      "generic_name": "柴陥湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_090",
+      "name": "ツムラ清肺湯エキス顆粒（医療用）",
+      "generic_name": "清肺湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_085",
+      "name": "ツムラ神秘湯エキス顆粒（医療用）",
+      "generic_name": "神秘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_119",
+      "name": "ツムラ苓甘姜味辛夏仁湯エキス顆粒（医療用）",
+      "generic_name": "苓甘姜味辛夏仁湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_029",
+      "name": "ツムラ麦門冬湯エキス顆粒（医療用）",
+      "generic_name": "麦門冬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_055",
+      "name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
+      "generic_name": "麻杏甘石湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_127",
+      "name": "ツムラ麻黄附子細辛湯エキス顆粒（医療用）",
+      "generic_name": "麻黄附子細辛湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5569003",
+    "name": "潰瘍性大腸炎",
+    "icd10": "K519"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0063",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    }
+  ]
+}

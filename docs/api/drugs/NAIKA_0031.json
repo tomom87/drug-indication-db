@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0031",
+    "name": "ベザフィブラート",
+    "generic_name": "ベザフィブラート",
+    "category": "脂質異常症薬"
+  },
+  "indications": [
+    {
+      "code": "8844446",
+      "name": "脂質異常症",
+      "kana": "10",
+      "icd10": "E785"
+    },
+    {
+      "code": "2724007",
+      "name": "高脂血症",
+      "kana": "8",
+      "icd10": "E785"
+    }
+  ]
+}

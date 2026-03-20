@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "6110007",
+    "name": "乳腺炎",
+    "icd10": "N61"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    }
+  ]
+}

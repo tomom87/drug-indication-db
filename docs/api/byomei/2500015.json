@@ -1,0 +1,75 @@
+{
+  "byomei": {
+    "code": "2500015",
+    "name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0025",
+      "name": "インスリングラルギン",
+      "generic_name": "インスリングラルギン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0017",
+      "name": "エンパグリフロジン",
+      "generic_name": "エンパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0021",
+      "name": "グリメピリド",
+      "generic_name": "グリメピリド",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0019",
+      "name": "シタグリプチン",
+      "generic_name": "シタグリプチン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0023",
+      "name": "セマグルチド",
+      "generic_name": "セマグルチド",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0018",
+      "name": "ダパグリフロジン",
+      "generic_name": "ダパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0024",
+      "name": "デュラグルチド",
+      "generic_name": "デュラグルチド",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0022",
+      "name": "ピオグリタゾン",
+      "generic_name": "ピオグリタゾン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0016",
+      "name": "メトホルミン",
+      "generic_name": "メトホルミン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0020",
+      "name": "リナグリプチン",
+      "generic_name": "リナグリプチン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0007",
+      "name": "ロサルタン",
+      "generic_name": "ロサルタン",
+      "category": "降圧薬"
+    }
+  ]
+}

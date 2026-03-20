@@ -1,0 +1,117 @@
+{
+  "byomei": {
+    "code": "4939008",
+    "name": "気管支喘息",
+    "icd10": "J459"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0063",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    },
+    {
+      "yj_code": "NAIKA_0052",
+      "name": "アンブロキソール",
+      "generic_name": "アンブロキソール",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "NAIKA_0051",
+      "name": "カルボシステイン",
+      "generic_name": "カルボシステイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "NAIKA_0045",
+      "name": "サルメテロール・フルチカゾン",
+      "generic_name": "サルメテロール・フルチカゾン",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0047",
+      "name": "チオトロピウム",
+      "generic_name": "チオトロピウム",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0048",
+      "name": "テオフィリン",
+      "generic_name": "テオフィリン",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0046",
+      "name": "ブデソニド・ホルモテロール",
+      "generic_name": "ブデソニド・ホルモテロール",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0044",
+      "name": "モンテルカスト",
+      "generic_name": "モンテルカスト",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0062",
+      "name": "エピナスチン",
+      "generic_name": "エピナスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "TJ_095",
+      "name": "ツムラ五虎湯エキス顆粒（医療用）",
+      "generic_name": "五虎湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_009",
+      "name": "ツムラ小柴胡湯エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_019",
+      "name": "ツムラ小青竜湯エキス顆粒（医療用）",
+      "generic_name": "小青竜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_096",
+      "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+      "generic_name": "柴朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_085",
+      "name": "ツムラ神秘湯エキス顆粒（医療用）",
+      "generic_name": "神秘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_119",
+      "name": "ツムラ苓甘姜味辛夏仁湯エキス顆粒（医療用）",
+      "generic_name": "苓甘姜味辛夏仁湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_029",
+      "name": "ツムラ麦門冬湯エキス顆粒（医療用）",
+      "generic_name": "麦門冬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_055",
+      "name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
+      "generic_name": "麻杏甘石湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_027",
+      "name": "ツムラ麻黄湯エキス顆粒（医療用）",
+      "generic_name": "麻黄湯",
+      "category": "漢方"
+    }
+  ]
+}

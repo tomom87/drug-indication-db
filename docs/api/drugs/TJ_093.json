@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "TJ_093",
+    "name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
+    "generic_name": "滋陰降火湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "8840325",
+      "name": "慢性咳嗽",
+      "kana": "8",
+      "icd10": "R05"
+    }
+  ]
+}

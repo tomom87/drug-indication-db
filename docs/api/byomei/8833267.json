@@ -1,0 +1,63 @@
+{
+  "byomei": {
+    "code": "8833267",
+    "name": "下痢症",
+    "icd10": "A099"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_017",
+      "name": "ツムラ五苓散エキス顆粒（医療用）",
+      "generic_name": "五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_128",
+      "name": "ツムラ啓脾湯エキス顆粒（医療用）",
+      "generic_name": "啓脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_075",
+      "name": "ツムラ四君子湯エキス顆粒（医療用）",
+      "generic_name": "四君子湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_114",
+      "name": "ツムラ柴苓湯エキス顆粒（医療用）",
+      "generic_name": "柴苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_060",
+      "name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加芍薬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_136",
+      "name": "ツムラ清暑益気湯エキス顆粒（医療用）",
+      "generic_name": "清暑益気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_115",
+      "name": "ツムラ胃苓湯エキス顆粒（医療用）",
+      "generic_name": "胃苓湯",
+      "category": "漢方"
+    }
+  ]
+}

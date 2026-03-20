@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8838926",
+    "name": "白癬",
+    "icd10": "B359"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_006",
+      "name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
+      "generic_name": "十味敗毒湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_022",
+      "name": "ツムラ消風散エキス顆粒（医療用）",
+      "generic_name": "消風散",
+      "category": "漢方"
+    }
+  ]
+}

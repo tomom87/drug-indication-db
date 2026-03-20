@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8842865",
+    "name": "メニエール病",
+    "icd10": "H810"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0095",
+      "name": "ベタヒスチン",
+      "generic_name": "ベタヒスチン",
+      "category": "めまい薬"
+    }
+  ]
+}

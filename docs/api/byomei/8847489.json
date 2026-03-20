@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8847489",
+    "name": "神経障害性疼痛",
+    "icd10": "G98"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0081",
+      "name": "トラマドール",
+      "generic_name": "トラマドール",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0082",
+      "name": "プレガバリン",
+      "generic_name": "プレガバリン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

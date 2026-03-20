@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "4919002",
+    "name": "慢性気管支炎",
+    "icd10": "J42"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0052",
+      "name": "アンブロキソール",
+      "generic_name": "アンブロキソール",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "NAIKA_0051",
+      "name": "カルボシステイン",
+      "generic_name": "カルボシステイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "NAIKA_0047",
+      "name": "チオトロピウム",
+      "generic_name": "チオトロピウム",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0048",
+      "name": "テオフィリン",
+      "generic_name": "テオフィリン",
+      "category": "呼吸器薬"
+    }
+  ]
+}

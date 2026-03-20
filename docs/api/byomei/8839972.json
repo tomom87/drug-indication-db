@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "8839972",
+    "name": "ヘリコバクター・ピロリ感染症",
+    "icd10": "A048"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0053",
+      "name": "アモキシシリン",
+      "generic_name": "アモキシシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0055",
+      "name": "クラリスロマイシン",
+      "generic_name": "クラリスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0034",
+      "name": "エソメプラゾール",
+      "generic_name": "エソメプラゾール",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0035",
+      "name": "ボノプラザン",
+      "generic_name": "ボノプラザン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0033",
+      "name": "ランソプラゾール",
+      "generic_name": "ランソプラゾール",
+      "category": "消化器薬"
+    }
+  ]
+}

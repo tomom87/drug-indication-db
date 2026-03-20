@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "5350004",
+    "name": "急性胃炎",
+    "icd10": "K291"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0036",
+      "name": "ファモチジン",
+      "generic_name": "ファモチジン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0037",
+      "name": "レバミピド",
+      "generic_name": "レバミピド",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "TJ_017",
+      "name": "ツムラ五苓散エキス顆粒（医療用）",
+      "generic_name": "五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_032",
+      "name": "ツムラ人参湯エキス顆粒（医療用）",
+      "generic_name": "人参湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_079",
+      "name": "ツムラ平胃散エキス顆粒（医療用）",
+      "generic_name": "平胃散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_120",
+      "name": "ツムラ黄連湯エキス顆粒（医療用）",
+      "generic_name": "黄連湯",
+      "category": "漢方"
+    }
+  ]
+}

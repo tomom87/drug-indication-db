@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8844106",
+    "name": "慢性腎臓病",
+    "icd10": "N189"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0017",
+      "name": "エンパグリフロジン",
+      "generic_name": "エンパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0018",
+      "name": "ダパグリフロジン",
+      "generic_name": "ダパグリフロジン",
+      "category": "糖尿病薬"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0075",
+    "name": "アレンドロン酸",
+    "generic_name": "アレンドロン酸",
+    "category": "骨粗鬆症薬"
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

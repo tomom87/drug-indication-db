@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2409006",
+    "name": "甲状腺腫",
+    "icd10": "E049"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0073",
+      "name": "レボチロキシン",
+      "generic_name": "レボチロキシン",
+      "category": "甲状腺薬"
+    }
+  ]
+}

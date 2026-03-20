@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0389004",
+    "name": "敗血症",
+    "icd10": "A419"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0058",
+      "name": "セフトリアキソン",
+      "generic_name": "セフトリアキソン",
+      "category": "抗菌薬"
+    }
+  ]
+}

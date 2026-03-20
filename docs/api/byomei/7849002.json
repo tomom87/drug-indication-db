@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "7849002",
+    "name": "咽喉頭異常感症",
+    "icd10": "F453"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_016",
+      "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_096",
+      "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+      "generic_name": "柴朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_116",
+      "name": "ツムラ茯苓飲合半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "茯苓飲合半夏厚朴湯",
+      "category": "漢方"
+    }
+  ]
+}

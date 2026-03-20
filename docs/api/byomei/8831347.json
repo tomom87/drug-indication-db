@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8831347",
+    "name": "肩こり",
+    "icd10": "M6281"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_046",
+      "name": "ツムラ七物降下湯エキス顆粒（医療用）",
+      "generic_name": "七物降下湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    }
+  ]
+}

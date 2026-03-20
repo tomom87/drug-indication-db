@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "5738002",
+    "name": "肝機能障害",
+    "icd10": "K769"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_008",
+      "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+      "generic_name": "大柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_009",
+      "name": "ツムラ小柴胡湯エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_135",
+      "name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
+      "generic_name": "茵蔯蒿湯",
+      "category": "漢方"
+    }
+  ]
+}

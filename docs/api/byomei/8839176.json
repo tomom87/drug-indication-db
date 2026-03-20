@@ -1,0 +1,69 @@
+{
+  "byomei": {
+    "code": "8839176",
+    "name": "冷え症",
+    "icd10": "R688"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_063",
+      "name": "ツムラ五積散エキス顆粒（医療用）",
+      "generic_name": "五積散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_024",
+      "name": "ツムラ加味逍遙散エキス顆粒（医療用）",
+      "generic_name": "加味逍遙散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_071",
+      "name": "ツムラ四物湯エキス顆粒（医療用）",
+      "generic_name": "四物湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_038",
+      "name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
+      "generic_name": "当帰四逆加呉茱萸生姜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_102",
+      "name": "ツムラ当帰湯エキス顆粒（医療用）",
+      "generic_name": "当帰湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_086",
+      "name": "ツムラ当帰飲子エキス顆粒（医療用）",
+      "generic_name": "当帰飲子",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_025",
+      "name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
+      "generic_name": "桂枝茯苓丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_106",
+      "name": "ツムラ温経湯エキス顆粒（医療用）",
+      "generic_name": "温経湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_118",
+      "name": "ツムラ苓姜朮甘湯エキス顆粒（医療用）",
+      "generic_name": "苓姜朮甘湯",
+      "category": "漢方"
+    }
+  ]
+}

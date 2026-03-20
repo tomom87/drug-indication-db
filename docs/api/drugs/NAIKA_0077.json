@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0077",
+    "name": "エルデカルシトール",
+    "generic_name": "エルデカルシトール",
+    "category": "骨粗鬆症薬"
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

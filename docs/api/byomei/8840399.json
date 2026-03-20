@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8840399",
+    "name": "慢性閉塞性肺疾患",
+    "icd10": "J449"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0047",
+      "name": "チオトロピウム",
+      "generic_name": "チオトロピウム",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0046",
+      "name": "ブデソニド・ホルモテロール",
+      "generic_name": "ブデソニド・ホルモテロール",
+      "category": "呼吸器薬"
+    }
+  ]
+}

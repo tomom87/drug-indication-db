@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "5839010",
+    "name": "腎炎",
+    "icd10": "N059"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_007",
+      "name": "ツムラ八味地黄丸エキス顆粒（医療用）",
+      "generic_name": "八味地黄丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_040",
+      "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_028",
+      "name": "ツムラ越婢加朮湯エキス顆粒（医療用）",
+      "generic_name": "越婢加朮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_020",
+      "name": "ツムラ防已黄耆湯エキス顆粒（医療用）",
+      "generic_name": "防已黄耆湯",
+      "category": "漢方"
+    }
+  ]
+}

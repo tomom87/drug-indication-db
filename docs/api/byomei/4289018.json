@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "4289018",
+    "name": "慢性心不全",
+    "icd10": "I509"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0017",
+      "name": "エンパグリフロジン",
+      "generic_name": "エンパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0018",
+      "name": "ダパグリフロジン",
+      "generic_name": "ダパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0008",
+      "name": "エナラプリル",
+      "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0014",
+      "name": "カルベジロール",
+      "generic_name": "カルベジロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0005",
+      "name": "カンデサルタン",
+      "generic_name": "カンデサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0013",
+      "name": "ビソプロロール",
+      "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    }
+  ]
+}

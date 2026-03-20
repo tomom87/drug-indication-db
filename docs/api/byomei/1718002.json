@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "1718002",
+    "name": "褐色細胞腫",
+    "icd10": "D350"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0015",
+      "name": "ドキサゾシン",
+      "generic_name": "ドキサゾシン",
+      "category": "降圧薬"
+    }
+  ]
+}

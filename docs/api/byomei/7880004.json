@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "7880004",
+    "name": "排尿痛",
+    "icd10": "R309"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_056",
+      "name": "ツムラ五淋散エキス顆粒（医療用）",
+      "generic_name": "五淋散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_111",
+      "name": "ツムラ清心蓮子飲エキス顆粒（医療用）",
+      "generic_name": "清心蓮子飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_076",
+      "name": "ツムラ竜胆瀉肝湯エキス顆粒（医療用）",
+      "generic_name": "竜胆瀉肝湯",
+      "category": "漢方"
+    }
+  ]
+}

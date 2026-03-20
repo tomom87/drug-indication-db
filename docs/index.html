@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>薬剤-適応病名マッピング</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, 'Hiragino Sans', 'Meiryo', sans-serif; background: #f5f5f5; color: #333; }
+  .container { max-width: 800px; margin: 0 auto; padding: 16px; }
+  h1 { font-size: 1.3rem; margin-bottom: 12px; color: #1a5276; }
+  .search-box { position: relative; margin-bottom: 16px; }
+  .search-box input {
+    width: 100%; padding: 12px 16px; font-size: 1rem;
+    border: 2px solid #ddd; border-radius: 8px; outline: none;
+    transition: border-color 0.2s;
+  }
+  .search-box input:focus { border-color: #3498db; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 16px; }
+  .tab {
+    padding: 8px 16px; border-radius: 20px; cursor: pointer;
+    background: #e0e0e0; font-size: 0.9rem; border: none;
+    transition: all 0.2s;
+  }
+  .tab.active { background: #3498db; color: white; }
+  .results { min-height: 200px; }
+  .card {
+    background: white; border-radius: 8px; padding: 16px;
+    margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  .card h3 { font-size: 1rem; color: #2c3e50; margin-bottom: 8px; }
+  .card .category { font-size: 0.8rem; color: #7f8c8d; background: #ecf0f1; padding: 2px 8px; border-radius: 10px; display: inline-block; margin-bottom: 8px; }
+  .card .items { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card .item {
+    font-size: 0.85rem; padding: 4px 10px; border-radius: 4px;
+    background: #eaf2f8; color: #2471a3;
+  }
+  .card .item.drug { background: #e8f8f5; color: #1a8870; }
+  .card .icd { font-size: 0.75rem; color: #999; margin-left: 4px; }
+  .stats { font-size: 0.85rem; color: #7f8c8d; margin-bottom: 16px; }
+  .loading { text-align: center; padding: 40px; color: #999; }
+  .empty { text-align: center; padding: 40px; color: #999; }
+  @media (max-width: 600px) {
+    .container { padding: 12px; }
+    h1 { font-size: 1.1rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>薬剤-適応病名マッピング</h1>
+  <div class="stats" id="stats"></div>
+  <div class="tabs">
+    <button class="tab active" data-mode="drug" onclick="setMode('drug')">薬剤 → 病名</button>
+    <button class="tab" data-mode="byomei" onclick="setMode('byomei')">病名 → 薬剤</button>
+  </div>
+  <div class="search-box">
+    <input type="text" id="search" placeholder="薬剤名を入力..." autofocus>
+  </div>
+  <div class="results" id="results">
+    <div class="empty">検索キーワードを入力してください</div>
+  </div>
+</div>
+
+<script>
+let mappings = [];
+let drugs = [];
+let byomeiIndex = [];
+let mode = 'drug';
+
+const BASE = location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
+
+async function init() {
+  const [mappingsResp, drugsResp, byomeiResp, statsResp] = await Promise.all([
+    fetch(`${BASE}/api/mappings.json`),
+    fetch(`${BASE}/api/drugs.json`),
+    fetch(`${BASE}/api/byomei.json`),
+    fetch(`${BASE}/api/stats.json`),
+  ]);
+  mappings = await mappingsResp.json();
+  drugs = await drugsResp.json();
+  byomeiIndex = await byomeiResp.json();
+  const stats = await statsResp.json();
+  document.getElementById('stats').textContent =
+    `${stats.drug_count}薬剤 / ${stats.indication_count}マッピング / ${stats.byomei_with_drugs}病名`;
+}
+
+function setMode(m) {
+  mode = m;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.mode === m));
+  document.getElementById('search').placeholder = m === 'drug' ? '薬剤名を入力...' : '病名を入力...';
+  document.getElementById('search').value = '';
+  document.getElementById('results').innerHTML = '<div class="empty">検索キーワードを入力してください</div>';
+}
+
+function search(query) {
+  if (!query || query.length < 1) {
+    document.getElementById('results').innerHTML = '<div class="empty">検索キーワードを入力してください</div>';
+    return;
+  }
+  const q = query.toLowerCase();
+
+  if (mode === 'drug') {
+    // 薬剤名で検索 → 適応病名を表示
+    const matched = drugs.filter(d =>
+      d.name.toLowerCase().includes(q) || d.generic_name.toLowerCase().includes(q)
+    );
+    if (matched.length === 0) {
+      document.getElementById('results').innerHTML = '<div class="empty">該当なし</div>';
+      return;
+    }
+    const html = matched.slice(0, 20).map(d => {
+      const indications = mappings.filter(m => m.yj_code === d.yj_code);
+      const items = indications.map(i =>
+        `<span class="item">${i.byomei_name}<span class="icd">${i.icd10}</span></span>`
+      ).join('');
+      return `<div class="card">
+        <span class="category">${d.category}</span>
+        <h3>${d.name}</h3>
+        <div class="items">${items || '<span style="color:#999">マッピングなし</span>'}</div>
+      </div>`;
+    }).join('');
+    document.getElementById('results').innerHTML = html;
+  } else {
+    // 病名で検索 → 適応薬剤を表示
+    const matched = byomeiIndex.filter(b => b.name.includes(q));
+    if (matched.length === 0) {
+      document.getElementById('results').innerHTML = '<div class="empty">該当なし</div>';
+      return;
+    }
+    const html = matched.slice(0, 20).map(b => {
+      const drugList = mappings.filter(m => m.byomei_code === b.code);
+      const items = drugList.map(d =>
+        `<span class="item drug">[${d.category}] ${d.drug_name}</span>`
+      ).join('');
+      return `<div class="card">
+        <h3>${b.name} <span class="icd">ICD-10: ${b.icd10}</span></h3>
+        <div class="items">${items}</div>
+      </div>`;
+    }).join('');
+    document.getElementById('results').innerHTML = html;
+  }
+}
+
+document.getElementById('search').addEventListener('input', (e) => search(e.target.value));
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "7823029",
+    "name": "肝性浮腫",
+    "icd10": "R609"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0012",
+      "name": "スピロノラクトン",
+      "generic_name": "スピロノラクトン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0011",
+      "name": "ヒドロクロロチアジド",
+      "generic_name": "ヒドロクロロチアジド",
+      "category": "降圧薬"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8836065",
+    "name": "線維筋痛症",
+    "icd10": "M7979"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0082",
+      "name": "プレガバリン",
+      "generic_name": "プレガバリン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "byomei": {
+    "code": "8835614",
+    "name": "腎性高血圧症",
+    "icd10": "I151"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0009",
+      "name": "アジルサルタン",
+      "generic_name": "アジルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0001",
+      "name": "アムロジピン",
+      "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0008",
+      "name": "エナラプリル",
+      "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0003",
+      "name": "オルメサルタン",
+      "generic_name": "オルメサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0014",
+      "name": "カルベジロール",
+      "generic_name": "カルベジロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0005",
+      "name": "カンデサルタン",
+      "generic_name": "カンデサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0004",
+      "name": "テルミサルタン",
+      "generic_name": "テルミサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0002",
+      "name": "ニフェジピン",
+      "generic_name": "ニフェジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0006",
+      "name": "バルサルタン",
+      "generic_name": "バルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0011",
+      "name": "ヒドロクロロチアジド",
+      "generic_name": "ヒドロクロロチアジド",
+      "category": "降圧薬"
+    }
+  ]
+}

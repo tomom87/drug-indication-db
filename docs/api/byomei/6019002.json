@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "6019002",
+    "name": "前立腺炎",
+    "icd10": "N419"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0057",
+      "name": "レボフロキサシン",
+      "generic_name": "レボフロキサシン",
+      "category": "抗菌薬"
+    }
+  ]
+}

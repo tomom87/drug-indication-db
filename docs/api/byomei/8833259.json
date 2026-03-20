@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "8833259",
+    "name": "月経困難症",
+    "icd10": "N946"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_024",
+      "name": "ツムラ加味逍遙散エキス顆粒（医療用）",
+      "generic_name": "加味逍遙散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_033",
+      "name": "ツムラ大黄牡丹皮湯エキス顆粒（医療用）",
+      "generic_name": "大黄牡丹皮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_023",
+      "name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+      "generic_name": "当帰芍薬散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_025",
+      "name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
+      "generic_name": "桂枝茯苓丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_061",
+      "name": "ツムラ桃核承気湯エキス顆粒（医療用）",
+      "generic_name": "桃核承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_057",
+      "name": "ツムラ温清飲エキス顆粒（医療用）",
+      "generic_name": "温清飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_106",
+      "name": "ツムラ温経湯エキス顆粒（医療用）",
+      "generic_name": "温経湯",
+      "category": "漢方"
+    }
+  ]
+}

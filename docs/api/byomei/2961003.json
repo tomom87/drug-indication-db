@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "2961003",
+    "name": "うつ病",
+    "icd10": "F329"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0083",
+      "name": "エスシタロプラム",
+      "generic_name": "エスシタロプラム",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0084",
+      "name": "セルトラリン",
+      "generic_name": "セルトラリン",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0085",
+      "name": "ミルタザピン",
+      "generic_name": "ミルタザピン",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0086",
+      "name": "エチゾラム",
+      "generic_name": "エチゾラム",
+      "category": "抗不安薬"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "8844446",
+    "name": "脂質異常症",
+    "icd10": "E785"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0027",
+      "name": "アトルバスタチン",
+      "generic_name": "アトルバスタチン",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0032",
+      "name": "イコサペント酸エチル",
+      "generic_name": "イコサペント酸エチル",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0029",
+      "name": "エゼチミブ",
+      "generic_name": "エゼチミブ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0030",
+      "name": "フェノフィブラート",
+      "generic_name": "フェノフィブラート",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0028",
+      "name": "プラバスタチン",
+      "generic_name": "プラバスタチン",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0031",
+      "name": "ベザフィブラート",
+      "generic_name": "ベザフィブラート",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0026",
+      "name": "ロスバスタチン",
+      "generic_name": "ロスバスタチン",
+      "category": "脂質異常症薬"
+    }
+  ]
+}

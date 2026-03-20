@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "TJ_081",
+    "name": "ツムラ二陳湯エキス顆粒（医療用）",
+    "generic_name": "二陳湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "8830971",
+      "name": "嘔吐症",
+      "kana": "6",
+      "icd10": "R11"
+    },
+    {
+      "code": "7870002",
+      "name": "悪心",
+      "kana": "3",
+      "icd10": "R11"
+    }
+  ]
+}

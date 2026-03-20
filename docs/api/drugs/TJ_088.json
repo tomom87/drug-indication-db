@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "TJ_088",
+    "name": "ツムラ二朮湯エキス顆粒（医療用）",
+    "generic_name": "二朮湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "7262008",
+      "name": "肩関節周囲炎",
+      "kana": "12",
+      "icd10": "M750"
+    }
+  ]
+}

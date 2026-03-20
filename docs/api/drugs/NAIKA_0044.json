@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0044",
+    "name": "モンテルカスト",
+    "generic_name": "モンテルカスト",
+    "category": "呼吸器薬"
+  },
+  "indications": [
+    {
+      "code": "4779004",
+      "name": "アレルギー性鼻炎",
+      "kana": "10",
+      "icd10": "J304"
+    },
+    {
+      "code": "4939008",
+      "name": "気管支喘息",
+      "kana": "8",
+      "icd10": "J459"
+    }
+  ]
+}

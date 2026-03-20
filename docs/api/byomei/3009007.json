@@ -1,0 +1,87 @@
+{
+  "byomei": {
+    "code": "3009007",
+    "name": "神経症",
+    "icd10": "F489"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_137",
+      "name": "ツムラ加味帰脾湯エキス顆粒（医療用）",
+      "generic_name": "加味帰脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_035",
+      "name": "ツムラ四逆散エキス顆粒（医療用）",
+      "generic_name": "四逆散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_067",
+      "name": "ツムラ女神散エキス顆粒（医療用）",
+      "generic_name": "女神散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_054",
+      "name": "ツムラ抑肝散エキス顆粒（医療用）",
+      "generic_name": "抑肝散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_083",
+      "name": "ツムラ抑肝散加陳皮半夏エキス顆粒（医療用）",
+      "generic_name": "抑肝散加陳皮半夏",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_012",
+      "name": "ツムラ柴胡加竜骨牡蛎湯エキス顆粒（医療用）",
+      "generic_name": "柴胡加竜骨牡蛎湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_011",
+      "name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝乾姜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_080",
+      "name": "ツムラ柴胡清肝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡清肝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_026",
+      "name": "ツムラ桂枝加竜骨牡蛎湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加竜骨牡蛎湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_057",
+      "name": "ツムラ温清飲エキス顆粒（医療用）",
+      "generic_name": "温清飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_072",
+      "name": "ツムラ甘麦大棗湯エキス顆粒（医療用）",
+      "generic_name": "甘麦大棗湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_039",
+      "name": "ツムラ苓桂朮甘湯エキス顆粒（医療用）",
+      "generic_name": "苓桂朮甘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

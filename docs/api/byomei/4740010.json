@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "4740010",
+    "name": "慢性扁桃炎",
+    "icd10": "J350"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_080",
+      "name": "ツムラ柴胡清肝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡清肝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_050",
+      "name": "ツムラ荊芥連翹湯エキス顆粒（医療用）",
+      "generic_name": "荊芥連翹湯",
+      "category": "漢方"
+    }
+  ]
+}

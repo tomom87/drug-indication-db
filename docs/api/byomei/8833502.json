@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8833502",
+    "name": "甲状腺機能亢進症",
+    "icd10": "E059"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0074",
+      "name": "チアマゾール",
+      "generic_name": "チアマゾール",
+      "category": "甲状腺薬"
+    }
+  ]
+}

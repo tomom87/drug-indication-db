@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "6252001",
+    "name": "月経痛",
+    "icd10": "N946"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_063",
+      "name": "ツムラ五積散エキス顆粒（医療用）",
+      "generic_name": "五積散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_123",
+      "name": "ツムラ当帰建中湯エキス顆粒（医療用）",
+      "generic_name": "当帰建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_105",
+      "name": "ツムラ通導散エキス顆粒（医療用）",
+      "generic_name": "通導散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

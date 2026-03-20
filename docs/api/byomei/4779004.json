@@ -1,0 +1,63 @@
+{
+  "byomei": {
+    "code": "4779004",
+    "name": "アレルギー性鼻炎",
+    "icd10": "J304"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0063",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    },
+    {
+      "yj_code": "NAIKA_0044",
+      "name": "モンテルカスト",
+      "generic_name": "モンテルカスト",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0062",
+      "name": "エピナスチン",
+      "generic_name": "エピナスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0061",
+      "name": "ビラスチン",
+      "generic_name": "ビラスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0059",
+      "name": "フェキソフェナジン",
+      "generic_name": "フェキソフェナジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0060",
+      "name": "ロラタジン",
+      "generic_name": "ロラタジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "TJ_019",
+      "name": "ツムラ小青竜湯エキス顆粒（医療用）",
+      "generic_name": "小青竜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_119",
+      "name": "ツムラ苓甘姜味辛夏仁湯エキス顆粒（医療用）",
+      "generic_name": "苓甘姜味辛夏仁湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_127",
+      "name": "ツムラ麻黄附子細辛湯エキス顆粒（医療用）",
+      "generic_name": "麻黄附子細辛湯",
+      "category": "漢方"
+    }
+  ]
+}

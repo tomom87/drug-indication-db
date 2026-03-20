@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "4139007",
+    "name": "狭心症",
+    "icd10": "I209"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0068",
+      "name": "アスピリン",
+      "generic_name": "アスピリン",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "NAIKA_0001",
+      "name": "アムロジピン",
+      "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0014",
+      "name": "カルベジロール",
+      "generic_name": "カルベジロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0002",
+      "name": "ニフェジピン",
+      "generic_name": "ニフェジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0013",
+      "name": "ビソプロロール",
+      "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    }
+  ]
+}

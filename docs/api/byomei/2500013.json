@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "2500013",
+    "name": "糖尿病",
+    "icd10": "E14"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_007",
+      "name": "ツムラ八味地黄丸エキス顆粒（医療用）",
+      "generic_name": "八味地黄丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_008",
+      "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+      "generic_name": "大柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_034",
+      "name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
+      "generic_name": "白虎加人参湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0025",
+      "name": "インスリングラルギン",
+      "generic_name": "インスリングラルギン",
+      "category": "糖尿病薬"
+    }
+  ]
+}

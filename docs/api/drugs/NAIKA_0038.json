@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0038",
+    "name": "モサプリド",
+    "generic_name": "モサプリド",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "5351003",
+      "name": "慢性胃炎",
+      "kana": "7",
+      "icd10": "K295"
+    }
+  ]
+}

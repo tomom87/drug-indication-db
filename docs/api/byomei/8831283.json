@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8831283",
+    "name": "家族性地中海熱",
+    "icd10": "E850"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0072",
+      "name": "コルヒチン",
+      "generic_name": "コルヒチン",
+      "category": "痛風薬"
+    }
+  ]
+}

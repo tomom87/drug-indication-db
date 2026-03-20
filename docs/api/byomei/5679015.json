@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5679015",
+    "name": "腹膜炎",
+    "icd10": "K659"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0058",
+      "name": "セフトリアキソン",
+      "generic_name": "セフトリアキソン",
+      "category": "抗菌薬"
+    }
+  ]
+}

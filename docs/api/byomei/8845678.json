@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8845678",
+    "name": "心的外傷後ストレス障害",
+    "icd10": "F431"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0084",
+      "name": "セルトラリン",
+      "generic_name": "セルトラリン",
+      "category": "抗うつ薬"
+    }
+  ]
+}

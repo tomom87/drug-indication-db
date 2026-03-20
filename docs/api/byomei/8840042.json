@@ -1,0 +1,111 @@
+{
+  "byomei": {
+    "code": "8840042",
+    "name": "便秘症",
+    "icd10": "K590"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0041",
+      "name": "センノシド",
+      "generic_name": "センノシド",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0043",
+      "name": "ルビプロストン",
+      "generic_name": "ルビプロストン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0042",
+      "name": "酸化マグネシウム",
+      "generic_name": "酸化マグネシウム",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "TJ_113",
+      "name": "ツムラ三黄瀉心湯エキス顆粒（医療用）",
+      "generic_name": "三黄瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_003",
+      "name": "ツムラ乙字湯エキス顆粒（医療用）",
+      "generic_name": "乙字湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_100",
+      "name": "ツムラ大建中湯エキス顆粒（医療用）",
+      "generic_name": "大建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_133",
+      "name": "ツムラ大承気湯エキス顆粒（医療用）",
+      "generic_name": "大承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_033",
+      "name": "ツムラ大黄牡丹皮湯エキス顆粒（医療用）",
+      "generic_name": "大黄牡丹皮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_084",
+      "name": "ツムラ大黄甘草湯エキス顆粒（医療用）",
+      "generic_name": "大黄甘草湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_134",
+      "name": "ツムラ桂枝加芍薬大黄湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加芍薬大黄湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_060",
+      "name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加芍薬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_061",
+      "name": "ツムラ桃核承気湯エキス顆粒（医療用）",
+      "generic_name": "桃核承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_051",
+      "name": "ツムラ潤腸湯エキス顆粒（医療用）",
+      "generic_name": "潤腸湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_074",
+      "name": "ツムラ調胃承気湯エキス顆粒（医療用）",
+      "generic_name": "調胃承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_105",
+      "name": "ツムラ通導散エキス顆粒（医療用）",
+      "generic_name": "通導散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_126",
+      "name": "ツムラ麻子仁丸エキス顆粒（医療用）",
+      "generic_name": "麻子仁丸",
+      "category": "漢方"
+    }
+  ]
+}

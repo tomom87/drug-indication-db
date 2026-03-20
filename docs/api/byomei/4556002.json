@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "4556002",
+    "name": "痔核",
+    "icd10": "K649"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_003",
+      "name": "ツムラ乙字湯エキス顆粒（医療用）",
+      "generic_name": "乙字湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_033",
+      "name": "ツムラ大黄牡丹皮湯エキス顆粒（医療用）",
+      "generic_name": "大黄牡丹皮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_123",
+      "name": "ツムラ当帰建中湯エキス顆粒（医療用）",
+      "generic_name": "当帰建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_025",
+      "name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
+      "generic_name": "桂枝茯苓丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_061",
+      "name": "ツムラ桃核承気湯エキス顆粒（医療用）",
+      "generic_name": "桃核承気湯",
+      "category": "漢方"
+    }
+  ]
+}

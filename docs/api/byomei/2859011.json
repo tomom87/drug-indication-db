@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "2859011",
+    "name": "貧血",
+    "icd10": "D649"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_108",
+      "name": "ツムラ人参養栄湯エキス顆粒（医療用）",
+      "generic_name": "人参養栄湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_137",
+      "name": "ツムラ加味帰脾湯エキス顆粒（医療用）",
+      "generic_name": "加味帰脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_048",
+      "name": "ツムラ十全大補湯エキス顆粒（医療用）",
+      "generic_name": "十全大補湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_071",
+      "name": "ツムラ四物湯エキス顆粒（医療用）",
+      "generic_name": "四物湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_065",
+      "name": "ツムラ帰脾湯エキス顆粒（医療用）",
+      "generic_name": "帰脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_023",
+      "name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+      "generic_name": "当帰芍薬散",
+      "category": "漢方"
+    }
+  ]
+}

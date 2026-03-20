@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8839467",
+    "name": "鼻出血症",
+    "icd10": "R040"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_113",
+      "name": "ツムラ三黄瀉心湯エキス顆粒（医療用）",
+      "generic_name": "三黄瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

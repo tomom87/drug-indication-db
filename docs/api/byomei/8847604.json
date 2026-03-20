@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "8847604",
+    "name": "機能性ディスペプシア",
+    "icd10": "K30"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_043",
+      "name": "ツムラ六君子湯エキス顆粒（医療用）",
+      "generic_name": "六君子湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_005",
+      "name": "ツムラ安中散エキス顆粒（医療用）",
+      "generic_name": "安中散",
+      "category": "漢方"
+    }
+  ]
+}

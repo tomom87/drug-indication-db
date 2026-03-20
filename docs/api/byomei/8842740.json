@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8842740",
+    "name": "社会不安障害",
+    "icd10": "F401"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0083",
+      "name": "エスシタロプラム",
+      "generic_name": "エスシタロプラム",
+      "category": "抗うつ薬"
+    }
+  ]
+}

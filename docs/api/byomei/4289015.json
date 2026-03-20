@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "4289015",
+    "name": "心不全",
+    "icd10": "I509"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_036",
+      "name": "ツムラ木防已湯エキス顆粒（医療用）",
+      "generic_name": "木防已湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    }
+  ]
+}

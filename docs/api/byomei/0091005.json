@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "0091005",
+    "name": "胃腸炎",
+    "icd10": "A099"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_063",
+      "name": "ツムラ五積散エキス顆粒（医療用）",
+      "generic_name": "五積散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_010",
+      "name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝湯",
+      "category": "漢方"
+    }
+  ]
+}

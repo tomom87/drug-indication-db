@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "5742001",
+    "name": "遺残胆石症",
+    "icd10": "K802"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_035",
+      "name": "ツムラ四逆散エキス顆粒（医療用）",
+      "generic_name": "四逆散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_008",
+      "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+      "generic_name": "大柴胡湯",
+      "category": "漢方"
+    }
+  ]
+}

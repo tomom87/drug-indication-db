@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8843768",
+    "name": "非結核性抗酸菌症",
+    "icd10": "A319"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0055",
+      "name": "クラリスロマイシン",
+      "generic_name": "クラリスロマイシン",
+      "category": "抗菌薬"
+    }
+  ]
+}

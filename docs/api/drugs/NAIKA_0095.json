@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0095",
+    "name": "ベタヒスチン",
+    "generic_name": "ベタヒスチン",
+    "category": "めまい薬"
+  },
+  "indications": [
+    {
+      "code": "8840549",
+      "name": "めまい症",
+      "kana": "6",
+      "icd10": "R42"
+    },
+    {
+      "code": "8842865",
+      "name": "メニエール病",
+      "kana": "8",
+      "icd10": "H810"
+    }
+  ]
+}

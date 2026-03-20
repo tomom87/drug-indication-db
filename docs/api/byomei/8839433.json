@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "8839433",
+    "name": "頻尿症",
+    "icd10": "R35"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_056",
+      "name": "ツムラ五淋散エキス顆粒（医療用）",
+      "generic_name": "五淋散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_087",
+      "name": "ツムラ六味丸エキス顆粒（医療用）",
+      "generic_name": "六味丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_111",
+      "name": "ツムラ清心蓮子飲エキス顆粒（医療用）",
+      "generic_name": "清心蓮子飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_107",
+      "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+      "generic_name": "牛車腎気丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_040",
+      "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_112",
+      "name": "ツムラ猪苓湯合四物湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯合四物湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5650010",
+    "name": "裂肛",
+    "icd10": "K602"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_003",
+      "name": "ツムラ乙字湯エキス顆粒（医療用）",
+      "generic_name": "乙字湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "5280017",
+    "name": "口内炎",
+    "icd10": "K121"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_135",
+      "name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
+      "generic_name": "茵蔯蒿湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_120",
+      "name": "ツムラ黄連湯エキス顆粒（医療用）",
+      "generic_name": "黄連湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

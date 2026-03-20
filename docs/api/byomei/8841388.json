@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "8841388",
+    "name": "皮膚そう痒症",
+    "icd10": "L299"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0062",
+      "name": "エピナスチン",
+      "generic_name": "エピナスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0061",
+      "name": "ビラスチン",
+      "generic_name": "ビラスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0059",
+      "name": "フェキソフェナジン",
+      "generic_name": "フェキソフェナジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0060",
+      "name": "ロラタジン",
+      "generic_name": "ロラタジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "TJ_087",
+      "name": "ツムラ六味丸エキス顆粒（医療用）",
+      "generic_name": "六味丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_086",
+      "name": "ツムラ当帰飲子エキス顆粒（医療用）",
+      "generic_name": "当帰飲子",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_034",
+      "name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
+      "generic_name": "白虎加人参湯",
+      "category": "漢方"
+    }
+  ]
+}

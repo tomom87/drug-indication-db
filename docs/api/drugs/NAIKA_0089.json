@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0089",
+    "name": "レンボレキサント",
+    "generic_name": "レンボレキサント",
+    "category": "睡眠薬"
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

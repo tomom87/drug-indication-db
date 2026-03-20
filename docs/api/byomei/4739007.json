@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "4739007",
+    "name": "副鼻腔炎",
+    "icd10": "J329"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0056",
+      "name": "アジスロマイシン",
+      "generic_name": "アジスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0053",
+      "name": "アモキシシリン",
+      "generic_name": "アモキシシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0055",
+      "name": "クラリスロマイシン",
+      "generic_name": "クラリスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0057",
+      "name": "レボフロキサシン",
+      "generic_name": "レボフロキサシン",
+      "category": "抗菌薬"
+    }
+  ]
+}

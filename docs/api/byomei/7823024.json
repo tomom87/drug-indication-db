@@ -1,0 +1,69 @@
+{
+  "byomei": {
+    "code": "7823024",
+    "name": "浮腫",
+    "icd10": "R609"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_017",
+      "name": "ツムラ五苓散エキス顆粒（医療用）",
+      "generic_name": "五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_087",
+      "name": "ツムラ六味丸エキス顆粒（医療用）",
+      "generic_name": "六味丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_023",
+      "name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+      "generic_name": "当帰芍薬散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_036",
+      "name": "ツムラ木防已湯エキス顆粒（医療用）",
+      "generic_name": "木防已湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_114",
+      "name": "ツムラ柴苓湯エキス顆粒（医療用）",
+      "generic_name": "柴苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_107",
+      "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+      "generic_name": "牛車腎気丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_117",
+      "name": "ツムラ茵蔯五苓散エキス顆粒（医療用）",
+      "generic_name": "茵蔯五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_028",
+      "name": "ツムラ越婢加朮湯エキス顆粒（医療用）",
+      "generic_name": "越婢加朮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_020",
+      "name": "ツムラ防已黄耆湯エキス顆粒（医療用）",
+      "generic_name": "防已黄耆湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    }
+  ]
+}

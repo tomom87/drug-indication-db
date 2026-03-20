@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0071",
+    "name": "アロプリノール",
+    "generic_name": "アロプリノール",
+    "category": "高尿酸血症薬"
+  },
+  "indications": [
+    {
+      "code": "2749004",
+      "name": "痛風",
+      "kana": "4",
+      "icd10": "M1009"
+    },
+    {
+      "code": "7906015",
+      "name": "高尿酸血症",
+      "kana": "12",
+      "icd10": "E790"
+    }
+  ]
+}

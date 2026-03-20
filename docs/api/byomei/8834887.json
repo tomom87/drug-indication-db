@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "8834887",
+    "name": "心因性胃アトニー",
+    "icd10": "F453"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_032",
+      "name": "ツムラ人参湯エキス顆粒（医療用）",
+      "generic_name": "人参湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_043",
+      "name": "ツムラ六君子湯エキス顆粒（医療用）",
+      "generic_name": "六君子湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_079",
+      "name": "ツムラ平胃散エキス顆粒（医療用）",
+      "generic_name": "平胃散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_069",
+      "name": "ツムラ茯苓飲エキス顆粒（医療用）",
+      "generic_name": "茯苓飲",
+      "category": "漢方"
+    }
+  ]
+}

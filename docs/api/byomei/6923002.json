@@ -1,0 +1,87 @@
+{
+  "byomei": {
+    "code": "6923002",
+    "name": "湿疹",
+    "icd10": "L309"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0063",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    },
+    {
+      "yj_code": "NAIKA_0062",
+      "name": "エピナスチン",
+      "generic_name": "エピナスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0059",
+      "name": "フェキソフェナジン",
+      "generic_name": "フェキソフェナジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0060",
+      "name": "ロラタジン",
+      "generic_name": "ロラタジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "TJ_006",
+      "name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
+      "generic_name": "十味敗毒湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_080",
+      "name": "ツムラ柴胡清肝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡清肝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_059",
+      "name": "ツムラ治頭瘡一方エキス顆粒（医療用）",
+      "generic_name": "治頭瘡一方",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_022",
+      "name": "ツムラ消風散エキス顆粒（医療用）",
+      "generic_name": "消風散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_057",
+      "name": "ツムラ温清飲エキス顆粒（医療用）",
+      "generic_name": "温清飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_106",
+      "name": "ツムラ温経湯エキス顆粒（医療用）",
+      "generic_name": "温経湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_028",
+      "name": "ツムラ越婢加朮湯エキス顆粒（医療用）",
+      "generic_name": "越婢加朮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

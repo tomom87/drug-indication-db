@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "7906015",
+    "name": "高尿酸血症",
+    "icd10": "E790"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0071",
+      "name": "アロプリノール",
+      "generic_name": "アロプリノール",
+      "category": "高尿酸血症薬"
+    },
+    {
+      "yj_code": "NAIKA_0070",
+      "name": "フェブキソスタット",
+      "generic_name": "フェブキソスタット",
+      "category": "高尿酸血症薬"
+    }
+  ]
+}

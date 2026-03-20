@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "4461003",
+    "name": "川崎病",
+    "icd10": "M303"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0068",
+      "name": "アスピリン",
+      "generic_name": "アスピリン",
+      "category": "抗血小板薬"
+    }
+  ]
+}

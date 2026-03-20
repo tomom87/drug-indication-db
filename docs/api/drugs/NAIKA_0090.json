@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0090",
+    "name": "クエン酸第一鉄ナトリウム",
+    "generic_name": "クエン酸第一鉄ナトリウム",
+    "category": "鉄剤"
+  },
+  "indications": [
+    {
+      "code": "2809009",
+      "name": "鉄欠乏性貧血",
+      "kana": "12",
+      "icd10": "D509"
+    }
+  ]
+}

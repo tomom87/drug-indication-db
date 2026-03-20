@@ -1,0 +1,63 @@
+{
+  "byomei": {
+    "code": "4639033",
+    "name": "扁桃炎",
+    "icd10": "J039"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0056",
+      "name": "アジスロマイシン",
+      "generic_name": "アジスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0053",
+      "name": "アモキシシリン",
+      "generic_name": "アモキシシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0055",
+      "name": "クラリスロマイシン",
+      "generic_name": "クラリスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0054",
+      "name": "セファレキシン",
+      "generic_name": "セファレキシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0057",
+      "name": "レボフロキサシン",
+      "generic_name": "レボフロキサシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "TJ_109",
+      "name": "ツムラ小柴胡湯加桔梗石膏エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯加桔梗石膏",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_122",
+      "name": "ツムラ排膿散及湯エキス顆粒（医療用）",
+      "generic_name": "排膿散及湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_138",
+      "name": "ツムラ桔梗湯エキス顆粒（医療用）",
+      "generic_name": "桔梗湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    }
+  ]
+}

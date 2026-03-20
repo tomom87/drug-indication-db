@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "3069005",
+    "name": "心身症",
+    "icd10": "F459"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0086",
+      "name": "エチゾラム",
+      "generic_name": "エチゾラム",
+      "category": "抗不安薬"
+    }
+  ]
+}

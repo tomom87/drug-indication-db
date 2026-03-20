@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "5978015",
+    "name": "尿道炎",
+    "icd10": "N342"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0056",
+      "name": "アジスロマイシン",
+      "generic_name": "アジスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "TJ_040",
+      "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_076",
+      "name": "ツムラ竜胆瀉肝湯エキス顆粒（医療用）",
+      "generic_name": "竜胆瀉肝湯",
+      "category": "漢方"
+    }
+  ]
+}

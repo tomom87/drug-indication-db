@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5340003",
+    "name": "吻合部潰瘍",
+    "icd10": "K289"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0033",
+      "name": "ランソプラゾール",
+      "generic_name": "ランソプラゾール",
+      "category": "消化器薬"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "2515003",
+    "name": "ゾリンジャー・エリソン症候群",
+    "icd10": "E164"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0034",
+      "name": "エソメプラゾール",
+      "generic_name": "エソメプラゾール",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0036",
+      "name": "ファモチジン",
+      "generic_name": "ファモチジン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0033",
+      "name": "ランソプラゾール",
+      "generic_name": "ランソプラゾール",
+      "category": "消化器薬"
+    }
+  ]
+}

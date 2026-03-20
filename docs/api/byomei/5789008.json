@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5789008",
+    "name": "上部消化管出血",
+    "icd10": "K922"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0036",
+      "name": "ファモチジン",
+      "generic_name": "ファモチジン",
+      "category": "消化器薬"
+    }
+  ]
+}

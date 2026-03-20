@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8841212",
+    "name": "労作性狭心症",
+    "icd10": "I208"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0001",
+      "name": "アムロジピン",
+      "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    }
+  ]
+}

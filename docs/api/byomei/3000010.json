@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "3000010",
+    "name": "不安神経症",
+    "icd10": "F411"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0086",
+      "name": "エチゾラム",
+      "generic_name": "エチゾラム",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "TJ_016",
+      "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_096",
+      "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+      "generic_name": "柴朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_116",
+      "name": "ツムラ茯苓飲合半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "茯苓飲合半夏厚朴湯",
+      "category": "漢方"
+    }
+  ]
+}

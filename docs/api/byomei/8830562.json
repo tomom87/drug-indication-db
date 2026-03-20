@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8830562",
+    "name": "胃痛",
+    "icd10": "R101"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_005",
+      "name": "ツムラ安中散エキス顆粒（医療用）",
+      "generic_name": "安中散",
+      "category": "漢方"
+    }
+  ]
+}

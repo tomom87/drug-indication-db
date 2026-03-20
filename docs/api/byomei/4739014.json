@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "4739014",
+    "name": "慢性副鼻腔炎",
+    "icd10": "J329"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0051",
+      "name": "カルボシステイン",
+      "generic_name": "カルボシステイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "TJ_050",
+      "name": "ツムラ荊芥連翹湯エキス顆粒（医療用）",
+      "generic_name": "荊芥連翹湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_002",
+      "name": "ツムラ葛根湯加川芎辛夷エキス顆粒（医療用）",
+      "generic_name": "葛根湯加川芎辛夷",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_104",
+      "name": "ツムラ辛夷清肺湯エキス顆粒（医療用）",
+      "generic_name": "辛夷清肺湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    }
+  ]
+}

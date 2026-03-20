@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "7808004",
+    "name": "多汗症",
+    "icd10": "R619"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_041",
+      "name": "ツムラ補中益気湯エキス顆粒（医療用）",
+      "generic_name": "補中益気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_020",
+      "name": "ツムラ防已黄耆湯エキス顆粒（医療用）",
+      "generic_name": "防已黄耆湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8839404",
+    "name": "肥満症",
+    "icd10": "E669"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_020",
+      "name": "ツムラ防已黄耆湯エキス顆粒（医療用）",
+      "generic_name": "防已黄耆湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2503005",
+    "name": "糖尿病性腎症",
+    "icd10": "E142"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0007",
+      "name": "ロサルタン",
+      "generic_name": "ロサルタン",
+      "category": "降圧薬"
+    }
+  ]
+}

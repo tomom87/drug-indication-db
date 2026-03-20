@@ -1,0 +1,69 @@
+{
+  "byomei": {
+    "code": "5959015",
+    "name": "膀胱炎",
+    "icd10": "N309"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0053",
+      "name": "アモキシシリン",
+      "generic_name": "アモキシシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0054",
+      "name": "セファレキシン",
+      "generic_name": "セファレキシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0058",
+      "name": "セフトリアキソン",
+      "generic_name": "セフトリアキソン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0057",
+      "name": "レボフロキサシン",
+      "generic_name": "レボフロキサシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "TJ_056",
+      "name": "ツムラ五淋散エキス顆粒（医療用）",
+      "generic_name": "五淋散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_007",
+      "name": "ツムラ八味地黄丸エキス顆粒（医療用）",
+      "generic_name": "八味地黄丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_111",
+      "name": "ツムラ清心蓮子飲エキス顆粒（医療用）",
+      "generic_name": "清心蓮子飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_040",
+      "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_112",
+      "name": "ツムラ猪苓湯合四物湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯合四物湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_076",
+      "name": "ツムラ竜胆瀉肝湯エキス顆粒（医療用）",
+      "generic_name": "竜胆瀉肝湯",
+      "category": "漢方"
+    }
+  ]
+}

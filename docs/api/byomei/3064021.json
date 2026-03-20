@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "3064021",
+    "name": "神経性胃炎",
+    "icd10": "F54"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_016",
+      "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_005",
+      "name": "ツムラ安中散エキス顆粒（医療用）",
+      "generic_name": "安中散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_116",
+      "name": "ツムラ茯苓飲合半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "茯苓飲合半夏厚朴湯",
+      "category": "漢方"
+    }
+  ]
+}

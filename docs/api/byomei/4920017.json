@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "4920017",
+    "name": "肺気腫",
+    "icd10": "J439"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0047",
+      "name": "チオトロピウム",
+      "generic_name": "チオトロピウム",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0048",
+      "name": "テオフィリン",
+      "generic_name": "テオフィリン",
+      "category": "呼吸器薬"
+    }
+  ]
+}

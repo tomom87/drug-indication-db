@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "8834958",
+    "name": "神経痛",
+    "icd10": "M7929"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_063",
+      "name": "ツムラ五積散エキス顆粒（医療用）",
+      "generic_name": "五積散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_018",
+      "name": "ツムラ桂枝加朮附湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加朮附湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_053",
+      "name": "ツムラ疎経活血湯エキス顆粒（医療用）",
+      "generic_name": "疎経活血湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_078",
+      "name": "ツムラ麻杏薏甘湯エキス顆粒（医療用）",
+      "generic_name": "麻杏薏甘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

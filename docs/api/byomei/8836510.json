@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "8836510",
+    "name": "全身倦怠感",
+    "icd10": "R53"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_108",
+      "name": "ツムラ人参養栄湯エキス顆粒（医療用）",
+      "generic_name": "人参養栄湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_048",
+      "name": "ツムラ十全大補湯エキス顆粒（医療用）",
+      "generic_name": "十全大補湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_099",
+      "name": "ツムラ小建中湯エキス顆粒（医療用）",
+      "generic_name": "小建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_136",
+      "name": "ツムラ清暑益気湯エキス顆粒（医療用）",
+      "generic_name": "清暑益気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_041",
+      "name": "ツムラ補中益気湯エキス顆粒（医療用）",
+      "generic_name": "補中益気湯",
+      "category": "漢方"
+    }
+  ]
+}

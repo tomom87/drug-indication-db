@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "8830417",
+    "name": "胃炎",
+    "icd10": "K297"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0040",
+      "name": "メトクロプラミド",
+      "generic_name": "メトクロプラミド",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0042",
+      "name": "酸化マグネシウム",
+      "generic_name": "酸化マグネシウム",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "TJ_043",
+      "name": "ツムラ六君子湯エキス顆粒（医療用）",
+      "generic_name": "六君子湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_035",
+      "name": "ツムラ四逆散エキス顆粒（医療用）",
+      "generic_name": "四逆散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_069",
+      "name": "ツムラ茯苓飲エキス顆粒（医療用）",
+      "generic_name": "茯苓飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_116",
+      "name": "ツムラ茯苓飲合半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "茯苓飲合半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

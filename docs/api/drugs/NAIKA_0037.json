@@ -1,0 +1,28 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0037",
+    "name": "レバミピド",
+    "generic_name": "レバミピド",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "5350004",
+      "name": "急性胃炎",
+      "kana": "8",
+      "icd10": "K291"
+    },
+    {
+      "code": "5351003",
+      "name": "慢性胃炎",
+      "kana": "7",
+      "icd10": "K295"
+    },
+    {
+      "code": "5319009",
+      "name": "胃潰瘍",
+      "kana": "5",
+      "icd10": "K259"
+    }
+  ]
+}

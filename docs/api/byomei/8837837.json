@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8837837",
+    "name": "痛風発作",
+    "icd10": "M1009"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0072",
+      "name": "コルヒチン",
+      "generic_name": "コルヒチン",
+      "category": "痛風薬"
+    }
+  ]
+}

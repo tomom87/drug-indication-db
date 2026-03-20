@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8833504",
+    "name": "甲状腺機能低下症",
+    "icd10": "E039"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0073",
+      "name": "レボチロキシン",
+      "generic_name": "レボチロキシン",
+      "category": "甲状腺薬"
+    }
+  ]
+}

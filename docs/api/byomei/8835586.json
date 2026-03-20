@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8835586",
+    "name": "腎血管性高血圧症",
+    "icd10": "I150"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0008",
+      "name": "エナラプリル",
+      "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    }
+  ]
+}

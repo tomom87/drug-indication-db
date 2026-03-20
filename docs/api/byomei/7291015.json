@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "7291015",
+    "name": "筋肉痛",
+    "icd10": "M7919"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_053",
+      "name": "ツムラ疎経活血湯エキス顆粒（医療用）",
+      "generic_name": "疎経活血湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_068",
+      "name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
+      "generic_name": "芍薬甘草湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_052",
+      "name": "ツムラ薏苡仁湯エキス顆粒（医療用）",
+      "generic_name": "薏苡仁湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_078",
+      "name": "ツムラ麻杏薏甘湯エキス顆粒（医療用）",
+      "generic_name": "麻杏薏甘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

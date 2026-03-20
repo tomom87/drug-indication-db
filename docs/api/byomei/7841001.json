@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "7841001",
+    "name": "咽頭痛",
+    "icd10": "J029"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_109",
+      "name": "ツムラ小柴胡湯加桔梗石膏エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯加桔梗石膏",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_138",
+      "name": "ツムラ桔梗湯エキス顆粒（医療用）",
+      "generic_name": "桔梗湯",
+      "category": "漢方"
+    }
+  ]
+}

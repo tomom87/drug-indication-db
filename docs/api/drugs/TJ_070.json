@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "TJ_070",
+    "name": "ツムラ香蘇散エキス顆粒（医療用）",
+    "generic_name": "香蘇散",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "4609008",
+      "name": "感冒",
+      "kana": "4",
+      "icd10": "J00"
+    }
+  ]
+}

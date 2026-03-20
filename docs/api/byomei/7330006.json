@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "7330006",
+    "name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0075",
+      "name": "アレンドロン酸",
+      "generic_name": "アレンドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0077",
+      "name": "エルデカルシトール",
+      "generic_name": "エルデカルシトール",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0076",
+      "name": "デノスマブ",
+      "generic_name": "デノスマブ",
+      "category": "骨粗鬆症薬"
+    }
+  ]
+}

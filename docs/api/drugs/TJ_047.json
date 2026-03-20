@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "TJ_047",
+    "name": "ツムラ釣藤散エキス顆粒（医療用）",
+    "generic_name": "釣藤散",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "7840024",
+      "name": "頭痛",
+      "kana": "3",
+      "icd10": "R51"
+    },
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

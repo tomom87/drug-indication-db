@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "5301002",
+    "name": "逆流性食道炎",
+    "icd10": "K210"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0034",
+      "name": "エソメプラゾール",
+      "generic_name": "エソメプラゾール",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0036",
+      "name": "ファモチジン",
+      "generic_name": "ファモチジン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0035",
+      "name": "ボノプラザン",
+      "generic_name": "ボノプラザン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0033",
+      "name": "ランソプラゾール",
+      "generic_name": "ランソプラゾール",
+      "category": "消化器薬"
+    }
+  ]
+}

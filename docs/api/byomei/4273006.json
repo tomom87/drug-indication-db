@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "4273006",
+    "name": "心房細動",
+    "icd10": "I489"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0065",
+      "name": "アピキサバン",
+      "generic_name": "アピキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0067",
+      "name": "エドキサバン",
+      "generic_name": "エドキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0066",
+      "name": "リバーロキサバン",
+      "generic_name": "リバーロキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0064",
+      "name": "ワルファリン",
+      "generic_name": "ワルファリン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0014",
+      "name": "カルベジロール",
+      "generic_name": "カルベジロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0013",
+      "name": "ビソプロロール",
+      "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    }
+  ]
+}

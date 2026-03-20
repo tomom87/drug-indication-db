@@ -1,0 +1,57 @@
+{
+  "byomei": {
+    "code": "8842106",
+    "name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0063",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    },
+    {
+      "yj_code": "TJ_097",
+      "name": "ツムラ大防風湯エキス顆粒（医療用）",
+      "generic_name": "大防風湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_052",
+      "name": "ツムラ薏苡仁湯エキス顆粒（医療用）",
+      "generic_name": "薏苡仁湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_028",
+      "name": "ツムラ越婢加朮湯エキス顆粒（医療用）",
+      "generic_name": "越婢加朮湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_027",
+      "name": "ツムラ麻黄湯エキス顆粒（医療用）",
+      "generic_name": "麻黄湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0080",
+      "name": "セレコキシブ",
+      "generic_name": "セレコキシブ",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0079",
+      "name": "ロキソプロフェン",
+      "generic_name": "ロキソプロフェン",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0076",
+      "name": "デノスマブ",
+      "generic_name": "デノスマブ",
+      "category": "骨粗鬆症薬"
+    }
+  ]
+}

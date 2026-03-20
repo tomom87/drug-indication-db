@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "4659007",
+    "name": "急性上気道炎",
+    "icd10": "J069"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0051",
+      "name": "カルボシステイン",
+      "generic_name": "カルボシステイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0049",
+      "name": "コデインリン酸塩",
+      "generic_name": "コデインリン酸塩",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0050",
+      "name": "デキストロメトルファン",
+      "generic_name": "デキストロメトルファン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0079",
+      "name": "ロキソプロフェン",
+      "generic_name": "ロキソプロフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

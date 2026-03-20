@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "4871001",
+    "name": "インフルエンザ",
+    "icd10": "J111"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_091",
+      "name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
+      "generic_name": "竹筎温胆湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_027",
+      "name": "ツムラ麻黄湯エキス顆粒（医療用）",
+      "generic_name": "麻黄湯",
+      "category": "漢方"
+    }
+  ]
+}

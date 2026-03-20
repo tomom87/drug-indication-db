@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0088",
+    "name": "スボレキサント",
+    "generic_name": "スボレキサント",
+    "category": "睡眠薬"
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

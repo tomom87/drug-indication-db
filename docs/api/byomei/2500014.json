@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "2500014",
+    "name": "１型糖尿病",
+    "icd10": "E10"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0025",
+      "name": "インスリングラルギン",
+      "generic_name": "インスリングラルギン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0018",
+      "name": "ダパグリフロジン",
+      "generic_name": "ダパグリフロジン",
+      "category": "糖尿病薬"
+    }
+  ]
+}

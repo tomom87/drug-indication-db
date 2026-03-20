@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2452003",
+    "name": "橋本病",
+    "icd10": "E063"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0073",
+      "name": "レボチロキシン",
+      "generic_name": "レボチロキシン",
+      "category": "甲状腺薬"
+    }
+  ]
+}

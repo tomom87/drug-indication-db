@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8838562",
+    "name": "尿路結石症",
+    "icd10": "N209"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0042",
+      "name": "酸化マグネシウム",
+      "generic_name": "酸化マグネシウム",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "TJ_040",
+      "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+      "generic_name": "猪苓湯",
+      "category": "漢方"
+    }
+  ]
+}

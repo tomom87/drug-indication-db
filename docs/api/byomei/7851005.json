@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "7851005",
+    "name": "動悸",
+    "icd10": "R002"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_011",
+      "name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝乾姜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_082",
+      "name": "ツムラ桂枝人参湯エキス顆粒（医療用）",
+      "generic_name": "桂枝人参湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_064",
+      "name": "ツムラ炙甘草湯エキス顆粒（医療用）",
+      "generic_name": "炙甘草湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_039",
+      "name": "ツムラ苓桂朮甘湯エキス顆粒（医療用）",
+      "generic_name": "苓桂朮甘湯",
+      "category": "漢方"
+    }
+  ]
+}

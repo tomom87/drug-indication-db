@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "3229007",
+    "name": "髄膜炎",
+    "icd10": "G039"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0058",
+      "name": "セフトリアキソン",
+      "generic_name": "セフトリアキソン",
+      "category": "抗菌薬"
+    }
+  ]
+}

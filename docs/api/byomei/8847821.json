@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8847821",
+    "name": "慢性疼痛",
+    "icd10": "R522"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0081",
+      "name": "トラマドール",
+      "generic_name": "トラマドール",
+      "category": "鎮痛薬"
+    }
+  ]
+}

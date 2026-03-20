@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "3468010",
+    "name": "筋収縮性頭痛",
+    "icd10": "G442"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0086",
+      "name": "エチゾラム",
+      "generic_name": "エチゾラム",
+      "category": "抗不安薬"
+    }
+  ]
+}

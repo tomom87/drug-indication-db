@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8846372",
+    "name": "急性冠症候群",
+    "icd10": "I249"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0069",
+      "name": "クロピドグレル",
+      "generic_name": "クロピドグレル",
+      "category": "抗血小板薬"
+    }
+  ]
+}

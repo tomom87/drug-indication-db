@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0074",
+    "name": "チアマゾール",
+    "generic_name": "チアマゾール",
+    "category": "甲状腺薬"
+  },
+  "indications": [
+    {
+      "code": "2420002",
+      "name": "バセドウ病",
+      "kana": "7",
+      "icd10": "E050"
+    },
+    {
+      "code": "8833502",
+      "name": "甲状腺機能亢進症",
+      "kana": "17",
+      "icd10": "E059"
+    }
+  ]
+}

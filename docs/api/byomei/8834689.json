@@ -1,0 +1,39 @@
+{
+  "byomei": {
+    "code": "8834689",
+    "name": "消化不良症",
+    "icd10": "R101"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_043",
+      "name": "ツムラ六君子湯エキス顆粒（医療用）",
+      "generic_name": "六君子湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_014",
+      "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+      "generic_name": "半夏瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_128",
+      "name": "ツムラ啓脾湯エキス顆粒（医療用）",
+      "generic_name": "啓脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_079",
+      "name": "ツムラ平胃散エキス顆粒（医療用）",
+      "generic_name": "平胃散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "8842668",
+    "name": "胃食道逆流症",
+    "icd10": "K219"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0034",
+      "name": "エソメプラゾール",
+      "generic_name": "エソメプラゾール",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0035",
+      "name": "ボノプラザン",
+      "generic_name": "ボノプラザン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0033",
+      "name": "ランソプラゾール",
+      "generic_name": "ランソプラゾール",
+      "category": "消化器薬"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "7061037",
+    "name": "ざ瘡",
+    "icd10": "L709"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_125",
+      "name": "ツムラ桂枝茯苓丸加薏苡仁エキス顆粒（医療用）",
+      "generic_name": "桂枝茯苓丸加薏苡仁",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_058",
+      "name": "ツムラ清上防風湯エキス顆粒（医療用）",
+      "generic_name": "清上防風湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_050",
+      "name": "ツムラ荊芥連翹湯エキス顆粒（医療用）",
+      "generic_name": "荊芥連翹湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    }
+  ]
+}

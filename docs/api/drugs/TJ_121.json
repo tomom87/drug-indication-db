@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "TJ_121",
+    "name": "ツムラ三物黄芩湯エキス顆粒（医療用）",
+    "generic_name": "三物黄芩湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

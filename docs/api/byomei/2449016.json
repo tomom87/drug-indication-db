@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2449016",
+    "name": "粘液水腫",
+    "icd10": "E039"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0073",
+      "name": "レボチロキシン",
+      "generic_name": "レボチロキシン",
+      "category": "甲状腺薬"
+    }
+  ]
+}

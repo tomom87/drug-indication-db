@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0531012",
+    "name": "帯状疱疹後神経痛",
+    "icd10": "B022"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0082",
+      "name": "プレガバリン",
+      "generic_name": "プレガバリン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

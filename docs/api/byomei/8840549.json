@@ -1,0 +1,63 @@
+{
+  "byomei": {
+    "code": "8840549",
+    "name": "めまい症",
+    "icd10": "R42"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0095",
+      "name": "ベタヒスチン",
+      "generic_name": "ベタヒスチン",
+      "category": "めまい薬"
+    },
+    {
+      "yj_code": "TJ_017",
+      "name": "ツムラ五苓散エキス顆粒（医療用）",
+      "generic_name": "五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_016",
+      "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_037",
+      "name": "ツムラ半夏白朮天麻湯エキス顆粒（医療用）",
+      "generic_name": "半夏白朮天麻湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_067",
+      "name": "ツムラ女神散エキス顆粒（医療用）",
+      "generic_name": "女神散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_023",
+      "name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+      "generic_name": "当帰芍薬散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_039",
+      "name": "ツムラ苓桂朮甘湯エキス顆粒（医療用）",
+      "generic_name": "苓桂朮甘湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_015",
+      "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+      "generic_name": "黄連解毒湯",
+      "category": "漢方"
+    }
+  ]
+}

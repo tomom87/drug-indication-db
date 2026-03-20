@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8834919",
+    "name": "心筋梗塞",
+    "icd10": "I219"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0064",
+      "name": "ワルファリン",
+      "generic_name": "ワルファリン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0068",
+      "name": "アスピリン",
+      "generic_name": "アスピリン",
+      "category": "抗血小板薬"
+    }
+  ]
+}

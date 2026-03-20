@@ -1,0 +1,117 @@
+{
+  "byomei": {
+    "code": "4609008",
+    "name": "感冒",
+    "icd10": "J00"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_063",
+      "name": "ツムラ五積散エキス顆粒（医療用）",
+      "generic_name": "五積散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_101",
+      "name": "ツムラ升麻葛根湯エキス顆粒（医療用）",
+      "generic_name": "升麻葛根湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_066",
+      "name": "ツムラ参蘇飲エキス顆粒（医療用）",
+      "generic_name": "参蘇飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_009",
+      "name": "ツムラ小柴胡湯エキス顆粒（医療用）",
+      "generic_name": "小柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_019",
+      "name": "ツムラ小青竜湯エキス顆粒（医療用）",
+      "generic_name": "小青竜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_124",
+      "name": "ツムラ川芎茶調散エキス顆粒（医療用）",
+      "generic_name": "川芎茶調散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_010",
+      "name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_045",
+      "name": "ツムラ桂枝湯エキス顆粒（医療用）",
+      "generic_name": "桂枝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_091",
+      "name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
+      "generic_name": "竹筎温胆湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_041",
+      "name": "ツムラ補中益気湯エキス顆粒（医療用）",
+      "generic_name": "補中益気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_070",
+      "name": "ツムラ香蘇散エキス顆粒（医療用）",
+      "generic_name": "香蘇散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_055",
+      "name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
+      "generic_name": "麻杏甘石湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_027",
+      "name": "ツムラ麻黄湯エキス顆粒（医療用）",
+      "generic_name": "麻黄湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_127",
+      "name": "ツムラ麻黄附子細辛湯エキス顆粒（医療用）",
+      "generic_name": "麻黄附子細辛湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0050",
+      "name": "デキストロメトルファン",
+      "generic_name": "デキストロメトルファン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0079",
+      "name": "ロキソプロフェン",
+      "generic_name": "ロキソプロフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "4939022",
+    "name": "喘息性気管支炎",
+    "icd10": "J459"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0048",
+      "name": "テオフィリン",
+      "generic_name": "テオフィリン",
+      "category": "呼吸器薬"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "7159004",
+    "name": "変形性関節症",
+    "icd10": "M1999"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0080",
+      "name": "セレコキシブ",
+      "generic_name": "セレコキシブ",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0081",
+      "name": "トラマドール",
+      "generic_name": "トラマドール",
+      "category": "鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0079",
+      "name": "ロキソプロフェン",
+      "generic_name": "ロキソプロフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}

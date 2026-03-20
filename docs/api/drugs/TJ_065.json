@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "TJ_065",
+    "name": "ツムラ帰脾湯エキス顆粒（医療用）",
+    "generic_name": "帰脾湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    },
+    {
+      "code": "2859011",
+      "name": "貧血",
+      "kana": "4",
+      "icd10": "D649"
+    }
+  ]
+}

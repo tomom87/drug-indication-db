@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "TJ_074",
+    "name": "ツムラ調胃承気湯エキス顆粒（医療用）",
+    "generic_name": "調胃承気湯",
+    "category": "漢方"
+  },
+  "indications": [
+    {
+      "code": "8840042",
+      "name": "便秘症",
+      "kana": "6",
+      "icd10": "K590"
+    }
+  ]
+}

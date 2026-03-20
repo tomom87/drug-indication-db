@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "5580033",
+    "name": "慢性胃腸炎",
+    "icd10": "K529"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_128",
+      "name": "ツムラ啓脾湯エキス顆粒（医療用）",
+      "generic_name": "啓脾湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_099",
+      "name": "ツムラ小建中湯エキス顆粒（医療用）",
+      "generic_name": "小建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_082",
+      "name": "ツムラ桂枝人参湯エキス顆粒（医療用）",
+      "generic_name": "桂枝人参湯",
+      "category": "漢方"
+    }
+  ]
+}

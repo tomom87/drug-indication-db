@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "3004001",
+    "name": "うつ状態",
+    "icd10": "F329"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0083",
+      "name": "エスシタロプラム",
+      "generic_name": "エスシタロプラム",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0084",
+      "name": "セルトラリン",
+      "generic_name": "セルトラリン",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0085",
+      "name": "ミルタザピン",
+      "generic_name": "ミルタザピン",
+      "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "TJ_137",
+      "name": "ツムラ加味帰脾湯エキス顆粒（医療用）",
+      "generic_name": "加味帰脾湯",
+      "category": "漢方"
+    }
+  ]
+}

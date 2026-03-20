@@ -1,0 +1,1340 @@
+[
+  {
+    "yj_code": "NAIKA_0095",
+    "name": "ベタヒスチン",
+    "generic_name": "ベタヒスチン",
+    "category": "めまい薬"
+  },
+  {
+    "yj_code": "NAIKA_0063",
+    "name": "プレドニゾロン",
+    "generic_name": "プレドニゾロン",
+    "category": "ステロイド"
+  },
+  {
+    "yj_code": "NAIKA_0091",
+    "name": "メコバラミン",
+    "generic_name": "メコバラミン",
+    "category": "ビタミン"
+  },
+  {
+    "yj_code": "NAIKA_0052",
+    "name": "アンブロキソール",
+    "generic_name": "アンブロキソール",
+    "category": "去痰薬"
+  },
+  {
+    "yj_code": "NAIKA_0051",
+    "name": "カルボシステイン",
+    "generic_name": "カルボシステイン",
+    "category": "去痰薬"
+  },
+  {
+    "yj_code": "NAIKA_0045",
+    "name": "サルメテロール・フルチカゾン",
+    "generic_name": "サルメテロール・フルチカゾン",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0047",
+    "name": "チオトロピウム",
+    "generic_name": "チオトロピウム",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0048",
+    "name": "テオフィリン",
+    "generic_name": "テオフィリン",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0046",
+    "name": "ブデソニド・ホルモテロール",
+    "generic_name": "ブデソニド・ホルモテロール",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0044",
+    "name": "モンテルカスト",
+    "generic_name": "モンテルカスト",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0083",
+    "name": "エスシタロプラム",
+    "generic_name": "エスシタロプラム",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0084",
+    "name": "セルトラリン",
+    "generic_name": "セルトラリン",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0085",
+    "name": "ミルタザピン",
+    "generic_name": "ミルタザピン",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0062",
+    "name": "エピナスチン",
+    "generic_name": "エピナスチン",
+    "category": "抗アレルギー薬"
+  },
+  {
+    "yj_code": "NAIKA_0061",
+    "name": "ビラスチン",
+    "generic_name": "ビラスチン",
+    "category": "抗アレルギー薬"
+  },
+  {
+    "yj_code": "NAIKA_0059",
+    "name": "フェキソフェナジン",
+    "generic_name": "フェキソフェナジン",
+    "category": "抗アレルギー薬"
+  },
+  {
+    "yj_code": "NAIKA_0060",
+    "name": "ロラタジン",
+    "generic_name": "ロラタジン",
+    "category": "抗アレルギー薬"
+  },
+  {
+    "yj_code": "NAIKA_0086",
+    "name": "エチゾラム",
+    "generic_name": "エチゾラム",
+    "category": "抗不安薬"
+  },
+  {
+    "yj_code": "NAIKA_0065",
+    "name": "アピキサバン",
+    "generic_name": "アピキサバン",
+    "category": "抗凝固薬"
+  },
+  {
+    "yj_code": "NAIKA_0067",
+    "name": "エドキサバン",
+    "generic_name": "エドキサバン",
+    "category": "抗凝固薬"
+  },
+  {
+    "yj_code": "NAIKA_0066",
+    "name": "リバーロキサバン",
+    "generic_name": "リバーロキサバン",
+    "category": "抗凝固薬"
+  },
+  {
+    "yj_code": "NAIKA_0064",
+    "name": "ワルファリン",
+    "generic_name": "ワルファリン",
+    "category": "抗凝固薬"
+  },
+  {
+    "yj_code": "NAIKA_0056",
+    "name": "アジスロマイシン",
+    "generic_name": "アジスロマイシン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0053",
+    "name": "アモキシシリン",
+    "generic_name": "アモキシシリン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0055",
+    "name": "クラリスロマイシン",
+    "generic_name": "クラリスロマイシン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0054",
+    "name": "セファレキシン",
+    "generic_name": "セファレキシン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0058",
+    "name": "セフトリアキソン",
+    "generic_name": "セフトリアキソン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0057",
+    "name": "レボフロキサシン",
+    "generic_name": "レボフロキサシン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0068",
+    "name": "アスピリン",
+    "generic_name": "アスピリン",
+    "category": "抗血小板薬"
+  },
+  {
+    "yj_code": "NAIKA_0069",
+    "name": "クロピドグレル",
+    "generic_name": "クロピドグレル",
+    "category": "抗血小板薬"
+  },
+  {
+    "yj_code": "NAIKA_0093",
+    "name": "シロドシン",
+    "generic_name": "シロドシン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0092",
+    "name": "タムスロシン",
+    "generic_name": "タムスロシン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0094",
+    "name": "デュタステリド",
+    "generic_name": "デュタステリド",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0034",
+    "name": "エソメプラゾール",
+    "generic_name": "エソメプラゾール",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0041",
+    "name": "センノシド",
+    "generic_name": "センノシド",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0039",
+    "name": "ドンペリドン",
+    "generic_name": "ドンペリドン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0036",
+    "name": "ファモチジン",
+    "generic_name": "ファモチジン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0035",
+    "name": "ボノプラザン",
+    "generic_name": "ボノプラザン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0040",
+    "name": "メトクロプラミド",
+    "generic_name": "メトクロプラミド",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0038",
+    "name": "モサプリド",
+    "generic_name": "モサプリド",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0033",
+    "name": "ランソプラゾール",
+    "generic_name": "ランソプラゾール",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0043",
+    "name": "ルビプロストン",
+    "generic_name": "ルビプロストン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0037",
+    "name": "レバミピド",
+    "generic_name": "レバミピド",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0042",
+    "name": "酸化マグネシウム",
+    "generic_name": "酸化マグネシウム",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "TJ_046",
+    "name": "ツムラ七物降下湯エキス顆粒（医療用）",
+    "generic_name": "七物降下湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_121",
+    "name": "ツムラ三物黄芩湯エキス顆粒（医療用）",
+    "generic_name": "三物黄芩湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_113",
+    "name": "ツムラ三黄瀉心湯エキス顆粒（医療用）",
+    "generic_name": "三黄瀉心湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_003",
+    "name": "ツムラ乙字湯エキス顆粒（医療用）",
+    "generic_name": "乙字湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_088",
+    "name": "ツムラ二朮湯エキス顆粒（医療用）",
+    "generic_name": "二朮湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_081",
+    "name": "ツムラ二陳湯エキス顆粒（医療用）",
+    "generic_name": "二陳湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_056",
+    "name": "ツムラ五淋散エキス顆粒（医療用）",
+    "generic_name": "五淋散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_063",
+    "name": "ツムラ五積散エキス顆粒（医療用）",
+    "generic_name": "五積散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_017",
+    "name": "ツムラ五苓散エキス顆粒（医療用）",
+    "generic_name": "五苓散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_095",
+    "name": "ツムラ五虎湯エキス顆粒（医療用）",
+    "generic_name": "五虎湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_032",
+    "name": "ツムラ人参湯エキス顆粒（医療用）",
+    "generic_name": "人参湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_108",
+    "name": "ツムラ人参養栄湯エキス顆粒（医療用）",
+    "generic_name": "人参養栄湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_007",
+    "name": "ツムラ八味地黄丸エキス顆粒（医療用）",
+    "generic_name": "八味地黄丸",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_043",
+    "name": "ツムラ六君子湯エキス顆粒（医療用）",
+    "generic_name": "六君子湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_087",
+    "name": "ツムラ六味丸エキス顆粒（医療用）",
+    "generic_name": "六味丸",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_137",
+    "name": "ツムラ加味帰脾湯エキス顆粒（医療用）",
+    "generic_name": "加味帰脾湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_024",
+    "name": "ツムラ加味逍遙散エキス顆粒（医療用）",
+    "generic_name": "加味逍遙散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_048",
+    "name": "ツムラ十全大補湯エキス顆粒（医療用）",
+    "generic_name": "十全大補湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_006",
+    "name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
+    "generic_name": "十味敗毒湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_101",
+    "name": "ツムラ升麻葛根湯エキス顆粒（医療用）",
+    "generic_name": "升麻葛根湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_016",
+    "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+    "generic_name": "半夏厚朴湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_014",
+    "name": "ツムラ半夏瀉心湯エキス顆粒（医療用）",
+    "generic_name": "半夏瀉心湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_037",
+    "name": "ツムラ半夏白朮天麻湯エキス顆粒（医療用）",
+    "generic_name": "半夏白朮天麻湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_066",
+    "name": "ツムラ参蘇飲エキス顆粒（医療用）",
+    "generic_name": "参蘇飲",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_031",
+    "name": "ツムラ呉茱萸湯エキス顆粒（医療用）",
+    "generic_name": "呉茱萸湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_128",
+    "name": "ツムラ啓脾湯エキス顆粒（医療用）",
+    "generic_name": "啓脾湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_075",
+    "name": "ツムラ四君子湯エキス顆粒（医療用）",
+    "generic_name": "四君子湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_071",
+    "name": "ツムラ四物湯エキス顆粒（医療用）",
+    "generic_name": "四物湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_035",
+    "name": "ツムラ四逆散エキス顆粒（医療用）",
+    "generic_name": "四逆散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_100",
+    "name": "ツムラ大建中湯エキス顆粒（医療用）",
+    "generic_name": "大建中湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_133",
+    "name": "ツムラ大承気湯エキス顆粒（医療用）",
+    "generic_name": "大承気湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_008",
+    "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+    "generic_name": "大柴胡湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_097",
+    "name": "ツムラ大防風湯エキス顆粒（医療用）",
+    "generic_name": "大防風湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_033",
+    "name": "ツムラ大黄牡丹皮湯エキス顆粒（医療用）",
+    "generic_name": "大黄牡丹皮湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_084",
+    "name": "ツムラ大黄甘草湯エキス顆粒（医療用）",
+    "generic_name": "大黄甘草湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_067",
+    "name": "ツムラ女神散エキス顆粒（医療用）",
+    "generic_name": "女神散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_005",
+    "name": "ツムラ安中散エキス顆粒（医療用）",
+    "generic_name": "安中散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_021",
+    "name": "ツムラ小半夏加茯苓湯エキス顆粒（医療用）",
+    "generic_name": "小半夏加茯苓湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_099",
+    "name": "ツムラ小建中湯エキス顆粒（医療用）",
+    "generic_name": "小建中湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_009",
+    "name": "ツムラ小柴胡湯エキス顆粒（医療用）",
+    "generic_name": "小柴胡湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_109",
+    "name": "ツムラ小柴胡湯加桔梗石膏エキス顆粒（医療用）",
+    "generic_name": "小柴胡湯加桔梗石膏",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_019",
+    "name": "ツムラ小青竜湯エキス顆粒（医療用）",
+    "generic_name": "小青竜湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_124",
+    "name": "ツムラ川芎茶調散エキス顆粒（医療用）",
+    "generic_name": "川芎茶調散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_065",
+    "name": "ツムラ帰脾湯エキス顆粒（医療用）",
+    "generic_name": "帰脾湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_079",
+    "name": "ツムラ平胃散エキス顆粒（医療用）",
+    "generic_name": "平胃散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_038",
+    "name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
+    "generic_name": "当帰四逆加呉茱萸生姜湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_123",
+    "name": "ツムラ当帰建中湯エキス顆粒（医療用）",
+    "generic_name": "当帰建中湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_102",
+    "name": "ツムラ当帰湯エキス顆粒（医療用）",
+    "generic_name": "当帰湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_023",
+    "name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+    "generic_name": "当帰芍薬散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_086",
+    "name": "ツムラ当帰飲子エキス顆粒（医療用）",
+    "generic_name": "当帰飲子",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_054",
+    "name": "ツムラ抑肝散エキス顆粒（医療用）",
+    "generic_name": "抑肝散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_083",
+    "name": "ツムラ抑肝散加陳皮半夏エキス顆粒（医療用）",
+    "generic_name": "抑肝散加陳皮半夏",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_122",
+    "name": "ツムラ排膿散及湯エキス顆粒（医療用）",
+    "generic_name": "排膿散及湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_036",
+    "name": "ツムラ木防已湯エキス顆粒（医療用）",
+    "generic_name": "木防已湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_096",
+    "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+    "generic_name": "柴朴湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_012",
+    "name": "ツムラ柴胡加竜骨牡蛎湯エキス顆粒（医療用）",
+    "generic_name": "柴胡加竜骨牡蛎湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_011",
+    "name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
+    "generic_name": "柴胡桂枝乾姜湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_010",
+    "name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
+    "generic_name": "柴胡桂枝湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_080",
+    "name": "ツムラ柴胡清肝湯エキス顆粒（医療用）",
+    "generic_name": "柴胡清肝湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_114",
+    "name": "ツムラ柴苓湯エキス顆粒（医療用）",
+    "generic_name": "柴苓湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_073",
+    "name": "ツムラ柴陥湯エキス顆粒（医療用）",
+    "generic_name": "柴陥湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_082",
+    "name": "ツムラ桂枝人参湯エキス顆粒（医療用）",
+    "generic_name": "桂枝人参湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_018",
+    "name": "ツムラ桂枝加朮附湯エキス顆粒（医療用）",
+    "generic_name": "桂枝加朮附湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_026",
+    "name": "ツムラ桂枝加竜骨牡蛎湯エキス顆粒（医療用）",
+    "generic_name": "桂枝加竜骨牡蛎湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_134",
+    "name": "ツムラ桂枝加芍薬大黄湯エキス顆粒（医療用）",
+    "generic_name": "桂枝加芍薬大黄湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_060",
+    "name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
+    "generic_name": "桂枝加芍薬湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_045",
+    "name": "ツムラ桂枝湯エキス顆粒（医療用）",
+    "generic_name": "桂枝湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_025",
+    "name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
+    "generic_name": "桂枝茯苓丸",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_125",
+    "name": "ツムラ桂枝茯苓丸加薏苡仁エキス顆粒（医療用）",
+    "generic_name": "桂枝茯苓丸加薏苡仁",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_061",
+    "name": "ツムラ桃核承気湯エキス顆粒（医療用）",
+    "generic_name": "桃核承気湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_138",
+    "name": "ツムラ桔梗湯エキス顆粒（医療用）",
+    "generic_name": "桔梗湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_089",
+    "name": "ツムラ治打撲一方エキス顆粒（医療用）",
+    "generic_name": "治打撲一方",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_059",
+    "name": "ツムラ治頭瘡一方エキス顆粒（医療用）",
+    "generic_name": "治頭瘡一方",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_022",
+    "name": "ツムラ消風散エキス顆粒（医療用）",
+    "generic_name": "消風散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_058",
+    "name": "ツムラ清上防風湯エキス顆粒（医療用）",
+    "generic_name": "清上防風湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_111",
+    "name": "ツムラ清心蓮子飲エキス顆粒（医療用）",
+    "generic_name": "清心蓮子飲",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_136",
+    "name": "ツムラ清暑益気湯エキス顆粒（医療用）",
+    "generic_name": "清暑益気湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_090",
+    "name": "ツムラ清肺湯エキス顆粒（医療用）",
+    "generic_name": "清肺湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_057",
+    "name": "ツムラ温清飲エキス顆粒（医療用）",
+    "generic_name": "温清飲",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_106",
+    "name": "ツムラ温経湯エキス顆粒（医療用）",
+    "generic_name": "温経湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_092",
+    "name": "ツムラ滋陰至宝湯エキス顆粒（医療用）",
+    "generic_name": "滋陰至宝湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_093",
+    "name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
+    "generic_name": "滋陰降火湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_051",
+    "name": "ツムラ潤腸湯エキス顆粒（医療用）",
+    "generic_name": "潤腸湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_064",
+    "name": "ツムラ炙甘草湯エキス顆粒（医療用）",
+    "generic_name": "炙甘草湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_107",
+    "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+    "generic_name": "牛車腎気丸",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_040",
+    "name": "ツムラ猪苓湯エキス顆粒（医療用）",
+    "generic_name": "猪苓湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_112",
+    "name": "ツムラ猪苓湯合四物湯エキス顆粒（医療用）",
+    "generic_name": "猪苓湯合四物湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_072",
+    "name": "ツムラ甘麦大棗湯エキス顆粒（医療用）",
+    "generic_name": "甘麦大棗湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_053",
+    "name": "ツムラ疎経活血湯エキス顆粒（医療用）",
+    "generic_name": "疎経活血湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_034",
+    "name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
+    "generic_name": "白虎加人参湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_030",
+    "name": "ツムラ真武湯エキス顆粒（医療用）",
+    "generic_name": "真武湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_085",
+    "name": "ツムラ神秘湯エキス顆粒（医療用）",
+    "generic_name": "神秘湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_110",
+    "name": "ツムラ立効散エキス顆粒（医療用）",
+    "generic_name": "立効散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_076",
+    "name": "ツムラ竜胆瀉肝湯エキス顆粒（医療用）",
+    "generic_name": "竜胆瀉肝湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_091",
+    "name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
+    "generic_name": "竹筎温胆湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_115",
+    "name": "ツムラ胃苓湯エキス顆粒（医療用）",
+    "generic_name": "胃苓湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_068",
+    "name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
+    "generic_name": "芍薬甘草湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_077",
+    "name": "ツムラ芎帰膠艾湯エキス顆粒（医療用）",
+    "generic_name": "芎帰膠艾湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_118",
+    "name": "ツムラ苓姜朮甘湯エキス顆粒（医療用）",
+    "generic_name": "苓姜朮甘湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_039",
+    "name": "ツムラ苓桂朮甘湯エキス顆粒（医療用）",
+    "generic_name": "苓桂朮甘湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_119",
+    "name": "ツムラ苓甘姜味辛夏仁湯エキス顆粒（医療用）",
+    "generic_name": "苓甘姜味辛夏仁湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_069",
+    "name": "ツムラ茯苓飲エキス顆粒（医療用）",
+    "generic_name": "茯苓飲",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_116",
+    "name": "ツムラ茯苓飲合半夏厚朴湯エキス顆粒（医療用）",
+    "generic_name": "茯苓飲合半夏厚朴湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_117",
+    "name": "ツムラ茵蔯五苓散エキス顆粒（医療用）",
+    "generic_name": "茵蔯五苓散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_135",
+    "name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
+    "generic_name": "茵蔯蒿湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_050",
+    "name": "ツムラ荊芥連翹湯エキス顆粒（医療用）",
+    "generic_name": "荊芥連翹湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_001",
+    "name": "ツムラ葛根湯エキス顆粒（医療用）",
+    "generic_name": "葛根湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_002",
+    "name": "ツムラ葛根湯加川芎辛夷エキス顆粒（医療用）",
+    "generic_name": "葛根湯加川芎辛夷",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_052",
+    "name": "ツムラ薏苡仁湯エキス顆粒（医療用）",
+    "generic_name": "薏苡仁湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_041",
+    "name": "ツムラ補中益気湯エキス顆粒（医療用）",
+    "generic_name": "補中益気湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_074",
+    "name": "ツムラ調胃承気湯エキス顆粒（医療用）",
+    "generic_name": "調胃承気湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_028",
+    "name": "ツムラ越婢加朮湯エキス顆粒（医療用）",
+    "generic_name": "越婢加朮湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_104",
+    "name": "ツムラ辛夷清肺湯エキス顆粒（医療用）",
+    "generic_name": "辛夷清肺湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_105",
+    "name": "ツムラ通導散エキス顆粒（医療用）",
+    "generic_name": "通導散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_103",
+    "name": "ツムラ酸棗仁湯エキス顆粒（医療用）",
+    "generic_name": "酸棗仁湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_047",
+    "name": "ツムラ釣藤散エキス顆粒（医療用）",
+    "generic_name": "釣藤散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_020",
+    "name": "ツムラ防已黄耆湯エキス顆粒（医療用）",
+    "generic_name": "防已黄耆湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_062",
+    "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+    "generic_name": "防風通聖散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_070",
+    "name": "ツムラ香蘇散エキス顆粒（医療用）",
+    "generic_name": "香蘇散",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_029",
+    "name": "ツムラ麦門冬湯エキス顆粒（医療用）",
+    "generic_name": "麦門冬湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_126",
+    "name": "ツムラ麻子仁丸エキス顆粒（医療用）",
+    "generic_name": "麻子仁丸",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_055",
+    "name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
+    "generic_name": "麻杏甘石湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_078",
+    "name": "ツムラ麻杏薏甘湯エキス顆粒（医療用）",
+    "generic_name": "麻杏薏甘湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_027",
+    "name": "ツムラ麻黄湯エキス顆粒（医療用）",
+    "generic_name": "麻黄湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_127",
+    "name": "ツムラ麻黄附子細辛湯エキス顆粒（医療用）",
+    "generic_name": "麻黄附子細辛湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_098",
+    "name": "ツムラ黄耆建中湯エキス顆粒（医療用）",
+    "generic_name": "黄耆建中湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_120",
+    "name": "ツムラ黄連湯エキス顆粒（医療用）",
+    "generic_name": "黄連湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "TJ_015",
+    "name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
+    "generic_name": "黄連解毒湯",
+    "category": "漢方"
+  },
+  {
+    "yj_code": "NAIKA_0074",
+    "name": "チアマゾール",
+    "generic_name": "チアマゾール",
+    "category": "甲状腺薬"
+  },
+  {
+    "yj_code": "NAIKA_0073",
+    "name": "レボチロキシン",
+    "generic_name": "レボチロキシン",
+    "category": "甲状腺薬"
+  },
+  {
+    "yj_code": "NAIKA_0072",
+    "name": "コルヒチン",
+    "generic_name": "コルヒチン",
+    "category": "痛風薬"
+  },
+  {
+    "yj_code": "NAIKA_0088",
+    "name": "スボレキサント",
+    "generic_name": "スボレキサント",
+    "category": "睡眠薬"
+  },
+  {
+    "yj_code": "NAIKA_0087",
+    "name": "ゾルピデム",
+    "generic_name": "ゾルピデム",
+    "category": "睡眠薬"
+  },
+  {
+    "yj_code": "NAIKA_0089",
+    "name": "レンボレキサント",
+    "generic_name": "レンボレキサント",
+    "category": "睡眠薬"
+  },
+  {
+    "yj_code": "NAIKA_0025",
+    "name": "インスリングラルギン",
+    "generic_name": "インスリングラルギン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0017",
+    "name": "エンパグリフロジン",
+    "generic_name": "エンパグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0021",
+    "name": "グリメピリド",
+    "generic_name": "グリメピリド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0019",
+    "name": "シタグリプチン",
+    "generic_name": "シタグリプチン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0023",
+    "name": "セマグルチド",
+    "generic_name": "セマグルチド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0018",
+    "name": "ダパグリフロジン",
+    "generic_name": "ダパグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0024",
+    "name": "デュラグルチド",
+    "generic_name": "デュラグルチド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0022",
+    "name": "ピオグリタゾン",
+    "generic_name": "ピオグリタゾン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0016",
+    "name": "メトホルミン",
+    "generic_name": "メトホルミン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0020",
+    "name": "リナグリプチン",
+    "generic_name": "リナグリプチン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0027",
+    "name": "アトルバスタチン",
+    "generic_name": "アトルバスタチン",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0032",
+    "name": "イコサペント酸エチル",
+    "generic_name": "イコサペント酸エチル",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0029",
+    "name": "エゼチミブ",
+    "generic_name": "エゼチミブ",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0030",
+    "name": "フェノフィブラート",
+    "generic_name": "フェノフィブラート",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0028",
+    "name": "プラバスタチン",
+    "generic_name": "プラバスタチン",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0031",
+    "name": "ベザフィブラート",
+    "generic_name": "ベザフィブラート",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0026",
+    "name": "ロスバスタチン",
+    "generic_name": "ロスバスタチン",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0090",
+    "name": "クエン酸第一鉄ナトリウム",
+    "generic_name": "クエン酸第一鉄ナトリウム",
+    "category": "鉄剤"
+  },
+  {
+    "yj_code": "NAIKA_0049",
+    "name": "コデインリン酸塩",
+    "generic_name": "コデインリン酸塩",
+    "category": "鎮咳薬"
+  },
+  {
+    "yj_code": "NAIKA_0050",
+    "name": "デキストロメトルファン",
+    "generic_name": "デキストロメトルファン",
+    "category": "鎮咳薬"
+  },
+  {
+    "yj_code": "NAIKA_0078",
+    "name": "アセトアミノフェン",
+    "generic_name": "アセトアミノフェン",
+    "category": "鎮痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0080",
+    "name": "セレコキシブ",
+    "generic_name": "セレコキシブ",
+    "category": "鎮痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0081",
+    "name": "トラマドール",
+    "generic_name": "トラマドール",
+    "category": "鎮痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0082",
+    "name": "プレガバリン",
+    "generic_name": "プレガバリン",
+    "category": "鎮痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0079",
+    "name": "ロキソプロフェン",
+    "generic_name": "ロキソプロフェン",
+    "category": "鎮痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0009",
+    "name": "アジルサルタン",
+    "generic_name": "アジルサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0001",
+    "name": "アムロジピン",
+    "generic_name": "アムロジピン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0010",
+    "name": "インダパミド",
+    "generic_name": "インダパミド",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0008",
+    "name": "エナラプリル",
+    "generic_name": "エナラプリル",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0003",
+    "name": "オルメサルタン",
+    "generic_name": "オルメサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0014",
+    "name": "カルベジロール",
+    "generic_name": "カルベジロール",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0005",
+    "name": "カンデサルタン",
+    "generic_name": "カンデサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0012",
+    "name": "スピロノラクトン",
+    "generic_name": "スピロノラクトン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0004",
+    "name": "テルミサルタン",
+    "generic_name": "テルミサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0015",
+    "name": "ドキサゾシン",
+    "generic_name": "ドキサゾシン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0002",
+    "name": "ニフェジピン",
+    "generic_name": "ニフェジピン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0006",
+    "name": "バルサルタン",
+    "generic_name": "バルサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0011",
+    "name": "ヒドロクロロチアジド",
+    "generic_name": "ヒドロクロロチアジド",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0013",
+    "name": "ビソプロロール",
+    "generic_name": "ビソプロロール",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0007",
+    "name": "ロサルタン",
+    "generic_name": "ロサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0075",
+    "name": "アレンドロン酸",
+    "generic_name": "アレンドロン酸",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0077",
+    "name": "エルデカルシトール",
+    "generic_name": "エルデカルシトール",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0076",
+    "name": "デノスマブ",
+    "generic_name": "デノスマブ",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0071",
+    "name": "アロプリノール",
+    "generic_name": "アロプリノール",
+    "category": "高尿酸血症薬"
+  },
+  {
+    "yj_code": "NAIKA_0070",
+    "name": "フェブキソスタット",
+    "generic_name": "フェブキソスタット",
+    "category": "高尿酸血症薬"
+  }
+]

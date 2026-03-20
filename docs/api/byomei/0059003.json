@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "0059003",
+    "name": "食中毒",
+    "icd10": "T629"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_133",
+      "name": "ツムラ大承気湯エキス顆粒（医療用）",
+      "generic_name": "大承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_115",
+      "name": "ツムラ胃苓湯エキス顆粒（医療用）",
+      "generic_name": "胃苓湯",
+      "category": "漢方"
+    }
+  ]
+}

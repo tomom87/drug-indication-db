@@ -1,0 +1,171 @@
+{
+  "byomei": {
+    "code": "8833421",
+    "name": "高血圧症",
+    "icd10": "I10"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_046",
+      "name": "ツムラ七物降下湯エキス顆粒（医療用）",
+      "generic_name": "七物降下湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_113",
+      "name": "ツムラ三黄瀉心湯エキス顆粒（医療用）",
+      "generic_name": "三黄瀉心湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_007",
+      "name": "ツムラ八味地黄丸エキス顆粒（医療用）",
+      "generic_name": "八味地黄丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_133",
+      "name": "ツムラ大承気湯エキス顆粒（医療用）",
+      "generic_name": "大承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_008",
+      "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+      "generic_name": "大柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_012",
+      "name": "ツムラ柴胡加竜骨牡蛎湯エキス顆粒（医療用）",
+      "generic_name": "柴胡加竜骨牡蛎湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_061",
+      "name": "ツムラ桃核承気湯エキス顆粒（医療用）",
+      "generic_name": "桃核承気湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_107",
+      "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+      "generic_name": "牛車腎気丸",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_030",
+      "name": "ツムラ真武湯エキス顆粒（医療用）",
+      "generic_name": "真武湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_105",
+      "name": "ツムラ通導散エキス顆粒（医療用）",
+      "generic_name": "通導散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_047",
+      "name": "ツムラ釣藤散エキス顆粒（医療用）",
+      "generic_name": "釣藤散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_062",
+      "name": "ツムラ防風通聖散エキス顆粒（医療用）",
+      "generic_name": "防風通聖散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0009",
+      "name": "アジルサルタン",
+      "generic_name": "アジルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0001",
+      "name": "アムロジピン",
+      "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0010",
+      "name": "インダパミド",
+      "generic_name": "インダパミド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0008",
+      "name": "エナラプリル",
+      "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0003",
+      "name": "オルメサルタン",
+      "generic_name": "オルメサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0014",
+      "name": "カルベジロール",
+      "generic_name": "カルベジロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0005",
+      "name": "カンデサルタン",
+      "generic_name": "カンデサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0012",
+      "name": "スピロノラクトン",
+      "generic_name": "スピロノラクトン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0004",
+      "name": "テルミサルタン",
+      "generic_name": "テルミサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0015",
+      "name": "ドキサゾシン",
+      "generic_name": "ドキサゾシン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0002",
+      "name": "ニフェジピン",
+      "generic_name": "ニフェジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0006",
+      "name": "バルサルタン",
+      "generic_name": "バルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0011",
+      "name": "ヒドロクロロチアジド",
+      "generic_name": "ヒドロクロロチアジド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0013",
+      "name": "ビソプロロール",
+      "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0007",
+      "name": "ロサルタン",
+      "generic_name": "ロサルタン",
+      "category": "降圧薬"
+    }
+  ]
+}

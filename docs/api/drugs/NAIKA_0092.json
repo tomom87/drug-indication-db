@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0092",
+    "name": "タムスロシン",
+    "generic_name": "タムスロシン",
+    "category": "排尿障害薬"
+  },
+  "indications": [
+    {
+      "code": "8836591",
+      "name": "前立腺肥大症",
+      "kana": "12",
+      "icd10": "N40"
+    },
+    {
+      "code": "7881002",
+      "name": "排尿障害",
+      "kana": "10",
+      "icd10": "R391"
+    }
+  ]
+}

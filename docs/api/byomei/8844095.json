@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8844095",
+    "name": "パニック障害",
+    "icd10": "F410"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0084",
+      "name": "セルトラリン",
+      "generic_name": "セルトラリン",
+      "category": "抗うつ薬"
+    }
+  ]
+}

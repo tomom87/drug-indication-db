@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "8838736",
+    "name": "脳塞栓症",
+    "icd10": "I669"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0065",
+      "name": "アピキサバン",
+      "generic_name": "アピキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0067",
+      "name": "エドキサバン",
+      "generic_name": "エドキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0066",
+      "name": "リバーロキサバン",
+      "generic_name": "リバーロキサバン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0064",
+      "name": "ワルファリン",
+      "generic_name": "ワルファリン",
+      "category": "抗凝固薬"
+    }
+  ]
+}

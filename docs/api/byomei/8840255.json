@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8840255",
+    "name": "末梢神経障害",
+    "icd10": "G629"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0091",
+      "name": "メコバラミン",
+      "generic_name": "メコバラミン",
+      "category": "ビタミン"
+    }
+  ]
+}

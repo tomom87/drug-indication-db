@@ -1,0 +1,51 @@
+{
+  "byomei": {
+    "code": "8830971",
+    "name": "嘔吐症",
+    "icd10": "R11"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0039",
+      "name": "ドンペリドン",
+      "generic_name": "ドンペリドン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0040",
+      "name": "メトクロプラミド",
+      "generic_name": "メトクロプラミド",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "TJ_081",
+      "name": "ツムラ二陳湯エキス顆粒（医療用）",
+      "generic_name": "二陳湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_017",
+      "name": "ツムラ五苓散エキス顆粒（医療用）",
+      "generic_name": "五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_031",
+      "name": "ツムラ呉茱萸湯エキス顆粒（医療用）",
+      "generic_name": "呉茱萸湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_021",
+      "name": "ツムラ小半夏加茯苓湯エキス顆粒（医療用）",
+      "generic_name": "小半夏加茯苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_117",
+      "name": "ツムラ茵蔯五苓散エキス顆粒（医療用）",
+      "generic_name": "茵蔯五苓散",
+      "category": "漢方"
+    }
+  ]
+}

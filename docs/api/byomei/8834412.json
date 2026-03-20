@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8834412",
+    "name": "歯痛",
+    "icd10": "K088"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_110",
+      "name": "ツムラ立効散エキス顆粒（医療用）",
+      "generic_name": "立効散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0078",
+      "name": "アセトアミノフェン",
+      "generic_name": "アセトアミノフェン",
+      "category": "鎮痛薬"
+    }
+  ]
+}
