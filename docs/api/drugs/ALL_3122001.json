@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3122001",
+    "name": "ジセタミン錠２５　２５ｍｇ",
+    "generic_name": "ジセタミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ジセタミン錠２５　２５ｍｇ",
+        "kana": "ｼﾞｾﾀﾐﾝｼﾞｮｳ25"
+      }
+    ]
+  },
+  "indications": []
+}

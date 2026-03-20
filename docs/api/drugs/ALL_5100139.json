@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100139",
+    "name": "ウチダのトウニンＭ",
+    "generic_name": "ウチダのトウニンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのトウニンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾄｳﾆﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

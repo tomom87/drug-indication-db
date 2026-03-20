@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100118",
+    "name": "ウチダのソウハクヒＭ",
+    "generic_name": "ウチダのソウハクヒＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのソウハクヒＭ",
+        "kana": "ｳﾁﾀﾞﾉｿｳﾊｸﾋM"
+      }
+    ]
+  },
+  "indications": []
+}

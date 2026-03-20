@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1314701",
+    "name": "ホウ酸「ケンエー」",
+    "generic_name": "ホウ酸「ケンエー」",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ホウ酸「ケンエー」",
+        "kana": "ﾎｳｻﾝｹﾝｴｰ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190028",
+    "name": "レバチオ錠２０ｍｇ",
+    "generic_name": "レバチオ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "レバチオ錠２０ｍｇ",
+        "kana": "ﾚﾊﾞﾁｵｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

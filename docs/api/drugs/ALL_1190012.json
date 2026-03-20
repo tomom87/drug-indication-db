@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190012",
+    "name": "アリセプト錠３ｍｇ",
+    "generic_name": "アリセプト",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "アリセプト錠３ｍｇ",
+        "kana": "ｱﾘｾﾌﾟﾄｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

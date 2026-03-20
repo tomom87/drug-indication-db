@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7119001",
+    "name": "亜硫酸水素ナトリウム",
+    "generic_name": "亜硫酸水素ナトリウム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "亜硫酸水素ナトリウム",
+        "kana": "ｱﾘｭｳｻﾝｽｲｿﾅﾄﾘｳﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

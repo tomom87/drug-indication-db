@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2139008",
+    "name": "ダイアート錠６０ｍｇ",
+    "generic_name": "ダイアート",
+    "category": "利尿薬",
+    "brands": [
+      {
+        "name": "ダイアート錠６０ｍｇ",
+        "kana": "ﾀﾞｲｱｰﾄｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7823024",
+      "name": "浮腫",
+      "kana": "3",
+      "icd10": "R609"
+    }
+  ]
+}

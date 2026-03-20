@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200128",
+    "name": "オースギ平胃散料エキスＧ",
+    "generic_name": "オースギ平胃",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "オースギ平胃散料エキスＧ",
+        "kana": "ｵｰｽｷﾞﾍｲｲｻﾝﾘｮｳｴｷｽG"
+      }
+    ]
+  },
+  "indications": []
+}

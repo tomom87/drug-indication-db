@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499013",
+    "name": "レルミナ錠４０ｍｇ",
+    "generic_name": "レルミナ",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "レルミナ錠４０ｍｇ",
+        "kana": "ﾚﾙﾐﾅｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

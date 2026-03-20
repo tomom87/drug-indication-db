@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235400",
+    "name": "アクラシノン注射用２０ｍｇ",
+    "generic_name": "アクラシノン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アクラシノン注射用２０ｍｇ",
+        "kana": "ｱｸﾗｼﾉﾝﾁｭｳｼｬﾖｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

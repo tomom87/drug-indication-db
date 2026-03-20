@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179004",
+    "name": "ノリトレン錠２５ｍｇ",
+    "generic_name": "ノリトレン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ノリトレン錠２５ｍｇ",
+        "kana": "ﾉﾘﾄﾚﾝｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

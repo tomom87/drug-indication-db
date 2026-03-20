@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2333005",
+    "name": "ホミカエキス",
+    "generic_name": "ホミカエキス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ホミカエキス",
+        "kana": "ﾎﾐｶｴｷｽ"
+      }
+    ]
+  },
+  "indications": []
+}

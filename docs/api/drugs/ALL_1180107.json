@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1180107",
+    "name": "ＰＬ配合顆粒",
+    "generic_name": "ＰＬ配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ＰＬ配合顆粒",
+        "kana": "PLﾊｲｺﾞｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

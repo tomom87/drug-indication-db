@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200001",
+    "name": "オースギ安中散料エキスＧ",
+    "generic_name": "オースギ安中",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "オースギ安中散料エキスＧ",
+        "kana": "ｵｰｽｷﾞｱﾝﾁｭｳｻﾝﾘｮｳｴｷｽG"
+      }
+    ]
+  },
+  "indications": []
+}

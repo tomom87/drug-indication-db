@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7143002",
+    "name": "カンゾウエキス",
+    "generic_name": "カンゾウエキス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カンゾウエキス",
+        "kana": "ｶﾝｿﾞｳｴｷｽ"
+      }
+    ]
+  },
+  "indications": []
+}

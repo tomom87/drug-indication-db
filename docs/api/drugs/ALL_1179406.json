@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179406",
+    "name": "ハロマンス注５０ｍｇ　１ｍＬ",
+    "generic_name": "ハロマンス",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ハロマンス注５０ｍｇ　１ｍＬ",
+        "kana": "ﾊﾛﾏﾝｽﾁｭｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

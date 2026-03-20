@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2482010",
+    "name": "ウェールナラ配合錠",
+    "generic_name": "ウェールナラ配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ウェールナラ配合錠",
+        "kana": "ｳｪｰﾙﾅﾗﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

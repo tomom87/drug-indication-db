@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291054",
+    "name": "ベージニオ錠５０ｍｇ",
+    "generic_name": "ベージニオ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ベージニオ錠５０ｍｇ",
+        "kana": "ﾍﾞｰｼﾞﾆｵｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2334001",
+    "name": "ケイヒ油",
+    "generic_name": "ケイヒ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ケイヒ油",
+        "kana": "ｹｲﾋﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

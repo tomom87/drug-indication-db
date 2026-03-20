@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100116",
+    "name": "ウチダのセンブリＭ",
+    "generic_name": "ウチダのセンブリＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのセンブリＭ",
+        "kana": "ｳﾁﾀﾞﾉｾﾝﾌﾞﾘM"
+      }
+    ]
+  },
+  "indications": []
+}

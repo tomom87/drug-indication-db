@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100002",
+    "name": "ウチダのアセンヤク末Ｍ",
+    "generic_name": "ウチダのアセンヤク末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのアセンヤク末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｱｾﾝﾔｸﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

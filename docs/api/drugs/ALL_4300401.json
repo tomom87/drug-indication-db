@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300401",
+    "name": "テクネＤＭＳＡキット",
+    "generic_name": "テクネＤＭＳＡキット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＤＭＳＡキット",
+        "kana": "ﾃｸﾈDMSAｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490025",
+    "name": "アレロック錠２．５　２．５ｍｇ",
+    "generic_name": "アレロック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレロック錠２．５　２．５ｍｇ",
+        "kana": "ｱﾚﾛｯｸｼﾞｮｳ2.5"
+      }
+    ]
+  },
+  "indications": []
+}

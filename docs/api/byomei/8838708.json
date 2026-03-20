@@ -12,6 +12,12 @@
       "category": "抗血小板薬"
     },
     {
+      "yj_code": "ALL_3331700",
+      "name": "クエン酸ナトリウム水和物原末「ニッコー」",
+      "generic_name": "クエン酸ナトリウム水和物原末「ニッコー」",
+      "category": "抗血小板薬"
+    },
+    {
       "yj_code": "NAIKA_0069",
       "name": "クロピドグレル",
       "generic_name": "クロピドグレル",
@@ -21,6 +27,18 @@
       "yj_code": "NAIKA_0181",
       "name": "シロスタゾール",
       "generic_name": "シロスタゾール",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "ALL_3331401",
+      "name": "チトラミン液「フソー」－４％　５００ｍＬ",
+      "generic_name": "チトラミン",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "ALL_3331400",
+      "name": "輸血用クエン酸ナトリウム注射液　１０％５ｍＬ",
+      "generic_name": "輸血用クエン酸ナトリウム",
       "category": "抗血小板薬"
     }
   ]

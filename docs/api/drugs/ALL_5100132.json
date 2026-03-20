@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100132",
+    "name": "テンナンショウ",
+    "generic_name": "テンナンショウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "テンナンショウ",
+        "kana": "ﾃﾝﾅﾝｼｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

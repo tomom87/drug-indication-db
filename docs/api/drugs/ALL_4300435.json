@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300435",
+    "name": "アシアロシンチ注",
+    "generic_name": "アシアロシンチ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アシアロシンチ注",
+        "kana": "ｱｼｱﾛｼﾝﾁﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

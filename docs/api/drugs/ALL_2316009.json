@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316009",
+    "name": "ミヤＢＭ細粒",
+    "generic_name": "ミヤＢＭ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミヤＢＭ細粒",
+        "kana": "ﾐﾔBMｻｲﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

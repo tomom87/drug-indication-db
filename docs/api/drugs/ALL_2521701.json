@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2521701",
+    "name": "クロマイ腟錠１００ｍｇ",
+    "generic_name": "クロマイ腟",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "クロマイ腟錠１００ｍｇ",
+        "kana": "ｸﾛﾏｲﾁﾂｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

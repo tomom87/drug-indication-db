@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1324704",
+    "name": "プリビナ液０．０５％",
+    "generic_name": "プリビナ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プリビナ液０．０５％",
+        "kana": "ﾌﾟﾘﾋﾞﾅｴｷ0.05%"
+      }
+    ]
+  },
+  "indications": []
+}

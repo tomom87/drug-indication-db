@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319501",
+    "name": "ＫＮ１号輸液　２００ｍＬ",
+    "generic_name": "ＫＮ１号輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ＫＮ１号輸液　２００ｍＬ",
+        "kana": "KN1ｺﾞｳﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

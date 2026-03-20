@@ -18,6 +18,12 @@
       "category": "脂質異常症薬"
     },
     {
+      "yj_code": "ALL_2183002",
+      "name": "クロフィブラートカプセル　２５０ｍｇ",
+      "generic_name": "クロフィブラート",
+      "category": "脂質異常症薬"
+    },
+    {
       "yj_code": "NAIKA_0131",
       "name": "コレスチミド",
       "generic_name": "コレスチミド",
@@ -30,6 +36,12 @@
       "category": "脂質異常症薬"
     },
     {
+      "yj_code": "ALL_2183007",
+      "name": "パルモディア錠０．１ｍｇ",
+      "generic_name": "パルモディア",
+      "category": "脂質異常症薬"
+    },
+    {
       "yj_code": "NAIKA_0128",
       "name": "ピタバスタチン",
       "generic_name": "ピタバスタチン",
@@ -39,6 +51,18 @@
       "yj_code": "NAIKA_0028",
       "name": "プラバスタチン",
       "generic_name": "プラバスタチン",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2183005",
+      "name": "ベザトールＳＲ錠１００ｍｇ",
+      "generic_name": "ベザトールＳＲ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2183006",
+      "name": "リピディル錠５３．３ｍｇ",
+      "generic_name": "リピディル",
       "category": "脂質異常症薬"
     },
     {

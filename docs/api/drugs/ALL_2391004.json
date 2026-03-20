@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2391004",
+    "name": "ナゼアＯＤ錠０．１ｍｇ",
+    "generic_name": "ナゼアＯＤ",
+    "category": "下剤",
+    "brands": [
+      {
+        "name": "ナゼアＯＤ錠０．１ｍｇ",
+        "kana": "ﾅｾﾞｱODｼﾞｮｳ0.1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8840042",
+      "name": "便秘症",
+      "kana": "6",
+      "icd10": "K590"
+    }
+  ]
+}

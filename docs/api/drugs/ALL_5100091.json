@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100091",
+    "name": "シソシ",
+    "generic_name": "シソシ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "シソシ",
+        "kana": "ｼｿｼ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100039",
+    "name": "ウチダのカンゾウＭ",
+    "generic_name": "ウチダのカンゾウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのカンゾウＭ",
+        "kana": "ｳﾁﾀﾞﾉｶﾝｿﾞｳM"
+      }
+    ]
+  },
+  "indications": []
+}

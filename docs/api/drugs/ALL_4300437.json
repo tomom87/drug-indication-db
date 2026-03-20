@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300437",
+    "name": "ミオＭＩＢＧ－Ｉ１２３注射液",
+    "generic_name": "ミオＭＩＢＧ－Ｉ１２３",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミオＭＩＢＧ－Ｉ１２３注射液",
+        "kana": "ﾐｵMIBG-I123ﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

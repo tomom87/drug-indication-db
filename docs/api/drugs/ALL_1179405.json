@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179405",
+    "name": "トロペロン注４ｍｇ　２ｍＬ",
+    "generic_name": "トロペロン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "トロペロン注４ｍｇ　２ｍＬ",
+        "kana": "ﾄﾛﾍﾟﾛﾝﾁｭｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100004",
+    "name": "ウチダのアロエ末Ｍ",
+    "generic_name": "ウチダのアロエ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのアロエ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｱﾛｴﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

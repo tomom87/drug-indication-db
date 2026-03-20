@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900406",
+    "name": "ブレヤンジ静注",
+    "generic_name": "ブレヤンジ静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ブレヤンジ静注",
+        "kana": "ﾌﾞﾚﾔﾝｼﾞｼﾞｮｳﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

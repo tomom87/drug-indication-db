@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3229001",
+    "name": "塩化カリウム",
+    "generic_name": "塩化カリウム",
+    "category": "鉄剤",
+    "brands": [
+      {
+        "name": "塩化カリウム",
+        "kana": "ｴﾝｶｶﾘｳﾑ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2809009",
+      "name": "鉄欠乏性貧血",
+      "kana": "12",
+      "icd10": "D509"
+    }
+  ]
+}

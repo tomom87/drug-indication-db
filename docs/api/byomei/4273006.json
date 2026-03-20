@@ -6,6 +6,72 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2123011",
+      "name": "アテノロール２５ｍｇ錠",
+      "generic_name": "アテノロール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2121400",
+      "name": "アミサリン注１００ｍｇ　１０％１ｍＬ",
+      "generic_name": "アミサリン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123014",
+      "name": "アロチノロール塩酸塩錠５ｍｇ「ＤＳＰ」",
+      "generic_name": "アロチノロール塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123402",
+      "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
+      "generic_name": "インデラル",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123008",
+      "name": "インデラル錠１０ｍｇ",
+      "generic_name": "インデラル",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123404",
+      "name": "オノアクト点滴静注用５０ｍｇ",
+      "generic_name": "オノアクト",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123015",
+      "name": "ナディック錠３０ｍｇ",
+      "generic_name": "ナディック",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123016",
+      "name": "ビソプロロールフマル酸塩５ｍｇ錠",
+      "generic_name": "ビソプロロールフマル酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123405",
+      "name": "ブレビブロック注　１００ｍｇ　１０ｍＬ",
+      "generic_name": "ブレビブロック",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2121001",
+      "name": "プロカインアミド塩酸塩錠　１２５ｍｇ",
+      "generic_name": "プロカインアミド塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123005",
+      "name": "小児用ミケラン細粒０．２％",
+      "generic_name": "小児用ミケラン",
+      "category": "不整脈用薬"
+    },
+    {
       "yj_code": "NAIKA_0171",
       "name": "ジゴキシン",
       "generic_name": "ジゴキシン",

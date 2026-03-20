@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190026",
+    "name": "トラクリア錠６２．５ｍｇ",
+    "generic_name": "トラクリア",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "トラクリア錠６２．５ｍｇ",
+        "kana": "ﾄﾗｸﾘｱｼﾞｮｳ62.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

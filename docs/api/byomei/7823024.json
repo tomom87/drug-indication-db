@@ -6,6 +6,96 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2134001",
+      "name": "アセタゾラミド",
+      "generic_name": "アセタゾラミド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133001",
+      "name": "アルダクトンＡ錠５０ｍｇ",
+      "generic_name": "アルダクトンＡ",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001",
+      "name": "イソソルビド内服ゼリー７０％分包２０ｇ「日医工」",
+      "generic_name": "イソソルビド内服ゼリー",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139011",
+      "name": "サムスカ顆粒１％",
+      "generic_name": "サムスカ",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139403",
+      "name": "サムタス点滴静注用８ｍｇ",
+      "generic_name": "サムタス",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133400",
+      "name": "ソルダクトン静注用１００ｍｇ",
+      "generic_name": "ソルダクトン静",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2134400",
+      "name": "ダイアモックス注射用５００ｍｇ",
+      "generic_name": "ダイアモックス",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2134002",
+      "name": "ダイアモックス錠２５０ｍｇ",
+      "generic_name": "ダイアモックス",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139008",
+      "name": "ダイアート錠６０ｍｇ",
+      "generic_name": "ダイアート",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133002",
+      "name": "トリテレン・カプセル５０ｍｇ",
+      "generic_name": "トリテレン・",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2132004",
+      "name": "ヒドロクロロチアジド錠２５ｍｇ「トーワ」",
+      "generic_name": "ヒドロクロロチアジド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2132003",
+      "name": "フルイトラン錠２ｍｇ",
+      "generic_name": "フルイトラン",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139005",
+      "name": "フロセミド細粒４％「ＥＭＥＣ」",
+      "generic_name": "フロセミド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139401",
+      "name": "ラシックス注２０ｍｇ",
+      "generic_name": "ラシックス",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139009",
+      "name": "ルプラック錠４ｍｇ",
+      "generic_name": "ルプラック",
+      "category": "利尿薬"
+    },
+    {
       "yj_code": "TJ_017",
       "name": "ツムラ五苓散エキス顆粒（医療用）",
       "generic_name": "五苓散",

@@ -18,9 +18,219 @@
       "category": "ビタミン"
     },
     {
+      "yj_code": "ALL_3150002",
+      "name": "ユベラ錠５０ｍｇ",
+      "generic_name": "ユベラ",
+      "category": "ビタミンD薬"
+    },
+    {
+      "yj_code": "ALL_3999019",
+      "name": "アクトネル錠２．５ｍｇ",
+      "generic_name": "アクトネル",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999005",
+      "name": "アザチオプリン錠　５０ｍｇ",
+      "generic_name": "アザチオプリン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999472",
+      "name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．２ｍＬ「ＣＴＮＫ」",
+      "generic_name": "アダリムマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999463",
+      "name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．２ｍＬ「ＭＡ」",
+      "generic_name": "アダリムマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999459",
+      "name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．４ｍＬ「第一三共」",
+      "generic_name": "アダリムマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999457",
+      "name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．４ｍＬ「ＦＫＢ」",
+      "generic_name": "アダリムマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999020",
+      "name": "アラバ錠１０ｍｇ",
+      "generic_name": "アラバ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999409",
+      "name": "アルギメート点滴静注１０％　２００ｍＬ",
+      "generic_name": "アルギメート",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999421",
+      "name": "アルギＵ点滴静注２０ｇ　１０％２００ｍＬ",
+      "generic_name": "アルギＵ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999100",
+      "name": "アルギＵ配合顆粒",
+      "generic_name": "アルギＵ配合",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999408",
+      "name": "アルツディスポ関節注２５ｍｇ　１％２．５ｍＬ",
+      "generic_name": "アルツディスポ関節",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0075",
       "name": "アレンドロン酸",
       "generic_name": "アレンドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999007",
+      "name": "イソプリノシン錠４００ｍｇ",
+      "generic_name": "イソプリノシン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999449",
+      "name": "イベニティ皮下注１０５ｍｇシリンジ　１．１７ｍＬ",
+      "generic_name": "イベニティ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999029",
+      "name": "イムセラカプセル０．５ｍｇ",
+      "generic_name": "イムセラ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999434",
+      "name": "イラリス皮下注射液１５０ｍｇ　１ｍＬ",
+      "generic_name": "イラリス皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999456",
+      "name": "イルミア皮下注１００ｍｇシリンジ　１ｍＬ",
+      "generic_name": "イルミア皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999475",
+      "name": "ウステキヌマブＢＳ皮下注４５ｍｇシリンジ「ＣＴ」　０．５ｍＬ",
+      "generic_name": "ウステキヌマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999473",
+      "name": "ウステキヌマブＢＳ皮下注４５ｍｇシリンジ「Ｆ」　０．５ｍＬ",
+      "generic_name": "ウステキヌマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999474",
+      "name": "ウステキヌマブＢＳ皮下注４５ｍｇシリンジ「ＹＤ」　０．５ｍＬ",
+      "generic_name": "ウステキヌマブＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999460",
+      "name": "ウパシタ静注透析用２５μｇシリンジ　１ｍＬ",
+      "generic_name": "ウパシタ静",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999412",
+      "name": "エスポー注射液７５０　７５０国際単位０．５ｍＬ",
+      "generic_name": "エスポー",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999448",
+      "name": "エタネルセプトＢＳ皮下注用１０ｍｇ「ＭＡ」",
+      "generic_name": "エタネルセプトＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999451",
+      "name": "エタネルセプトＢＳ皮下注１０ｍｇシリンジ１．０ｍＬＴＹ　１ｍＬ",
+      "generic_name": "エタネルセプトＢＳ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999054",
+      "name": "エドルミズ錠５０ｍｇ",
+      "generic_name": "エドルミズ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999052",
+      "name": "エナロイ錠２ｍｇ",
+      "generic_name": "エナロイ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999013",
+      "name": "エパルレスタット錠５０ｍｇ「ＹＤ」",
+      "generic_name": "エパルレスタット",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999021",
+      "name": "エビスタ錠６０ｍｇ",
+      "generic_name": "エビスタ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999047",
+      "name": "エベレンゾ錠２０ｍｇ",
+      "generic_name": "エベレンゾ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999427",
+      "name": "エポエチンアルファＢＳ７５０シリンジＪＣＲ　７５０ＩＵ０．５ｍＬ",
+      "generic_name": "エポエチンアルファＢＳ７５０シリンジＪＣＲ　７５０ＩＵ０．５ｍＬ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999413",
+      "name": "エポジン皮下注シリンジ２４０００　２４，０００国際単位０．５ｍＬ",
+      "generic_name": "エポジン皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999470",
+      "name": "エムパベリ皮下注１０８０ｍｇ　１，０８０ｍｇ２０ｍＬ",
+      "generic_name": "エムパベリ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999033",
+      "name": "エルカルチンＦＦ内用液１０％",
+      "generic_name": "エルカルチンＦＦ内用",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999436",
+      "name": "エルカルチンＦＦ静注１０００ｍｇシリンジ　１，０００ｍｇ５ｍＬ",
+      "generic_name": "エルカルチンＦＦ静",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999401",
+      "name": "エルシトニン注２０Ｓディスポ　２０エルカトニン単位１ｍＬ",
+      "generic_name": "エルシトニン",
       "category": "骨粗鬆症薬"
     },
     {
@@ -30,9 +240,309 @@
       "category": "骨粗鬆症薬"
     },
     {
+      "yj_code": "ALL_3999424",
+      "name": "エンブレル皮下注用２５ｍｇ",
+      "generic_name": "エンブレル皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999411",
+      "name": "オザグレルナトリウム点滴静注液４０ｍｇ「ＪＤ」　２ｍＬ",
+      "generic_name": "オザグレルナトリウム",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999042",
+      "name": "オテズラ錠１０ｍｇ",
+      "generic_name": "オテズラ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999059",
+      "name": "オファコルカプセル５０ｍｇ",
+      "generic_name": "オファコル",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999039",
+      "name": "オフェブカプセル１００ｍｇ",
+      "generic_name": "オフェブ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999044",
+      "name": "オルケディア錠１ｍｇ",
+      "generic_name": "オルケディア",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999043",
+      "name": "オルミエント錠４ｍｇ",
+      "generic_name": "オルミエント",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999429",
+      "name": "オレンシア点滴静注用２５０ｍｇ",
+      "generic_name": "オレンシア",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999036",
+      "name": "オーファディンカプセル２ｍｇ",
+      "generic_name": "オーファディン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999003",
+      "name": "カモスタットメシル酸塩１００ｍｇ錠",
+      "generic_name": "カモスタットメシル酸塩",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999041",
+      "name": "カーバグル分散錠２００ｍｇ",
+      "generic_name": "カーバグル分",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999045",
+      "name": "ガラフォルドカプセル１２３ｍｇ",
+      "generic_name": "ガラフォルド",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999461",
+      "name": "ギブラーリ皮下注１８９ｍｇ　１ｍＬ",
+      "generic_name": "ギブラーリ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999452",
+      "name": "クリースビータ皮下注１０ｍｇ　１ｍＬ",
+      "generic_name": "クリースビータ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999031",
+      "name": "ケアラム錠２５ｍｇ",
+      "generic_name": "ケアラム",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999444",
+      "name": "ケブザラ皮下注１５０ｍｇシリンジ　１．１４ｍＬ",
+      "generic_name": "ケブザラ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999439",
+      "name": "コセンティクス皮下注１５０ｍｇペン　１ｍＬ",
+      "generic_name": "コセンティクス皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999440",
+      "name": "コパキソン皮下注２０ｍｇシリンジ　１ｍＬ",
+      "generic_name": "コパキソン皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999035",
+      "name": "サイスタダン原末",
+      "generic_name": "サイスタダン原末",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999428",
+      "name": "サイビスクディスポ関節注２ｍＬ　１６ｍｇ",
+      "generic_name": "サイビスクディスポ関節",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999037",
+      "name": "サデルガカプセル１００ｍｇ",
+      "generic_name": "サデルガ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999462",
+      "name": "サフネロー点滴静注３００ｍｇ　２ｍＬ",
+      "generic_name": "サフネロー",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999406",
+      "name": "サンディミュン点滴静注用２５０ｍｇ　５％５ｍＬ",
+      "generic_name": "サンディミュン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999022",
+      "name": "サーティカン錠０．２５ｍｇ",
+      "generic_name": "サーティカン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999422",
+      "name": "シベレスタットＮａ点滴静注用１００ｍｇ「ＶＴＲＳ」",
+      "generic_name": "シベレスタットＮａ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999437",
+      "name": "シムジア皮下注２００ｍｇシリンジ　１ｍＬ",
+      "generic_name": "シムジア皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999433",
+      "name": "シンポニー皮下注５０ｍｇシリンジ　０．５ｍＬ",
+      "generic_name": "シンポニー皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999024",
+      "name": "ジアゾキシドカプセル２５ｍｇ「ＯＰ」",
+      "generic_name": "ジアゾキシド",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999053",
+      "name": "ジセレカ錠１００ｍｇ",
+      "generic_name": "ジセレカ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999458",
+      "name": "ジョイクル関節注３０ｍｇ　３ｍＬ",
+      "generic_name": "ジョイクル関節",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999471",
+      "name": "ジルビスク皮下注１６．６ｍｇシリンジ　０．４１６ｍＬ",
+      "generic_name": "ジルビスク皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999450",
+      "name": "スキリージ皮下注７５ｍｇシリンジ０．８３ｍＬ",
+      "generic_name": "スキリージ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999431",
+      "name": "ステラーラ皮下注４５ｍｇシリンジ　０．５ｍＬ",
+      "generic_name": "ステラーラ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999417",
+      "name": "スパニジン点滴静注用１００ｍｇ",
+      "generic_name": "スパニジン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999466",
+      "name": "スペビゴ点滴静注４５０ｍｇ　７．５ｍＬ",
+      "generic_name": "スペビゴ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999046",
+      "name": "スマイラフ錠１００ｍｇ",
+      "generic_name": "スマイラフ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999067",
+      "name": "セピエンス顆粒分包２５０ｍｇ",
+      "generic_name": "セピエンス",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999017",
+      "name": "セルセプトカプセル２５０　２５０ｍｇ",
+      "generic_name": "セルセプト",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999034",
+      "name": "ゼルヤンツ錠５ｍｇ",
+      "generic_name": "ゼルヤンツ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999057",
+      "name": "ソーティクツ錠６ｍｇ",
+      "generic_name": "ソーティクツ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999061",
+      "name": "ゾキンヴィカプセル５０ｍｇ",
+      "generic_name": "ゾキンヴィ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999423",
+      "name": "ゾメタ点滴静注４ｍｇ／５ｍＬ",
+      "generic_name": "ゾメタ",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0228",
       "name": "ゾレドロン酸",
       "generic_name": "ゾレドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999058",
+      "name": "タバリス錠１００ｍｇ",
+      "generic_name": "タバリス",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999056",
+      "name": "タブネオスカプセル１０ｍｇ",
+      "generic_name": "タブネオス",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999010",
+      "name": "ダイドロネル錠２００　２００ｍｇ",
+      "generic_name": "ダイドロネル",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999454",
+      "name": "ダルベポエチン　アルファＢＳ注５μｇシリンジ「三和」　０．５ｍＬ",
+      "generic_name": "ダルベポエチン　アルファＢＳ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999453",
+      "name": "ダルベポエチン　アルファＢＳ注５μｇシリンジＪＣＲ　０．５ｍＬ",
+      "generic_name": "ダルベポエチン　アルファＢＳ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999455",
+      "name": "ダルベポエチンアルファＢＳ注射液５μｇシリンジＭＹＬ　０．５ｍＬ",
+      "generic_name": "ダルベポエチンアルファＢＳ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999049",
+      "name": "ダーブロック錠１ｍｇ",
+      "generic_name": "ダーブロック",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999415",
+      "name": "チオクト酸注２５ｍｇ「日新」　０．５％５ｍＬ",
+      "generic_name": "チオクト酸",
       "category": "骨粗鬆症薬"
     },
     {
@@ -48,9 +558,219 @@
       "category": "骨粗鬆症薬"
     },
     {
+      "yj_code": "ALL_3999442",
+      "name": "トルツ皮下注８０ｍｇオートインジェクター　１ｍＬ",
+      "generic_name": "トルツ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999446",
+      "name": "トレムフィア皮下注１００ｍｇシリンジ　１ｍＬ",
+      "generic_name": "トレムフィア皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999467",
+      "name": "ナノゾラ皮下注３０ｍｇシリンジ　０．３７５ｍＬ",
+      "generic_name": "ナノゾラ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999407",
+      "name": "ナファモスタットメシル酸塩注射用１０ｍｇ「ＡＹ」",
+      "generic_name": "ナファモスタットメシル酸塩",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999004",
+      "name": "ネオーラル１０ｍｇカプセル",
+      "generic_name": "ネオーラル",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999425",
+      "name": "ネスプ注射液１０μｇプラシリンジ　０．５ｍＬ",
+      "generic_name": "ネスプ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999006",
+      "name": "ハイチオール散３２％",
+      "generic_name": "ハイチオール",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0227",
       "name": "バゼドキシフェン",
       "generic_name": "バゼドキシフェン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999050",
+      "name": "バフセオ錠１５０ｍｇ",
+      "generic_name": "バフセオ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999418",
+      "name": "パミドロン酸二Ｎａ点滴静注用１５ｍｇ「サワイ」",
+      "generic_name": "パミドロン酸二Ｎａ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999469",
+      "name": "パリンジック皮下注２．５ｍｇ　０．５ｍＬ",
+      "generic_name": "パリンジック皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999443",
+      "name": "パーサビブ静注透析用２．５ｍｇ　２ｍＬ",
+      "generic_name": "パーサビブ静",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999426",
+      "name": "ヒュミラ皮下注４０ｍｇシリンジ０．４ｍＬ",
+      "generic_name": "ヒュミラ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999012",
+      "name": "ビオプテン顆粒２．５％　０．４ｇ",
+      "generic_name": "ビオプテン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999027",
+      "name": "ビビアント錠２０ｍｇ",
+      "generic_name": "ビビアント",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999464",
+      "name": "ビンゼレックス皮下注１６０ｍｇシリンジ　１ｍＬ",
+      "generic_name": "ビンゼレックス皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999025",
+      "name": "ピレスパ錠２００ｍｇ",
+      "generic_name": "ピレスパ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999064",
+      "name": "ファビハルタカプセル２００ｍｇ",
+      "generic_name": "ファビハルタ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999066",
+      "name": "フジケノン粒状錠１２５　１２５ｍｇ",
+      "generic_name": "フジケノン粒状",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999032",
+      "name": "ブフェニール顆粒　９４％",
+      "generic_name": "ブフェニール",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999002",
+      "name": "ブレディニン錠２５　２５ｍｇ",
+      "generic_name": "ブレディニン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999030",
+      "name": "ブレーザベスカプセル１００ｍｇ",
+      "generic_name": "ブレーザベス",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999038",
+      "name": "プラケニル錠２００ｍｇ",
+      "generic_name": "プラケニル",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999014",
+      "name": "プログラフカプセル０．５ｍｇ",
+      "generic_name": "プログラフ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999416",
+      "name": "プログラフ注射液２ｍｇ　０．４ｍＬ",
+      "generic_name": "プログラフ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999447",
+      "name": "ヘルニコア椎間板注用１．２５単位",
+      "generic_name": "ヘルニコア椎間板",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999445",
+      "name": "ベンリスタ皮下注２００ｍｇオートインジェクター　１ｍＬ",
+      "generic_name": "ベンリスタ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999062",
+      "name": "ボイデヤ錠５０ｍｇ",
+      "generic_name": "ボイデヤ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999465",
+      "name": "ボックスゾゴ皮下注用０．４ｍｇ　（溶解液付）",
+      "generic_name": "ボックスゾゴ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999419",
+      "name": "ボナロン点滴静注バッグ９００μｇ　１００ｍＬ",
+      "generic_name": "ボナロン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999018",
+      "name": "ボナロン錠５ｍｇ",
+      "generic_name": "ボナロン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999026",
+      "name": "ボノテオ錠１ｍｇ",
+      "generic_name": "ボノテオ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999040",
+      "name": "ボンビバ錠１００ｍｇ",
+      "generic_name": "ボンビバ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999438",
+      "name": "ボンビバ静注１ｍｇシリンジ　１ｍＬ",
+      "generic_name": "ボンビバ静",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999015",
+      "name": "ポルトラック原末",
+      "generic_name": "ポルトラック原末",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999055",
+      "name": "マスーレッド錠５ｍｇ",
+      "generic_name": "マスーレッド",
       "category": "骨粗鬆症薬"
     },
     {
@@ -60,9 +780,51 @@
       "category": "骨粗鬆症薬"
     },
     {
+      "yj_code": "ALL_3999405",
+      "name": "ミラクリッド注射液５万単位　５０，０００単位１ｍＬ",
+      "generic_name": "ミラクリッド",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999432",
+      "name": "ミルセラ注シリンジ２５μｇ　０．３ｍＬ",
+      "generic_name": "ミルセラ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999468",
+      "name": "メトジェクト皮下注７．５ｍｇシリンジ０．１５ｍＬ",
+      "generic_name": "メトジェクト皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999051",
+      "name": "メーゼント錠０．２５ｍｇ",
+      "generic_name": "メーゼント",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999001",
+      "name": "モニラック原末",
+      "generic_name": "モニラック原末",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0226",
       "name": "ラロキシフェン",
       "generic_name": "ラロキシフェン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999435",
+      "name": "ランマーク皮下注１２０ｍｇ　１．７ｍＬ",
+      "generic_name": "ランマーク皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999016",
+      "name": "リウマトレックスカプセル２ｍｇ",
+      "generic_name": "リウマトレックス",
       "category": "骨粗鬆症薬"
     },
     {
@@ -72,9 +834,63 @@
       "category": "骨粗鬆症薬"
     },
     {
+      "yj_code": "ALL_3999060",
+      "name": "リットフーロカプセル５０ｍｇ",
+      "generic_name": "リットフーロ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999048",
+      "name": "リンヴォック錠７．５ｍｇ",
+      "generic_name": "リンヴォック",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999065",
+      "name": "ルプキネスカプセル７．９ｍｇ",
+      "generic_name": "ルプキネス",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999441",
+      "name": "ルミセフ皮下注２１０ｍｇシリンジ　１．５ｍＬ",
+      "generic_name": "ルミセフ皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999023",
+      "name": "レグパラ錠２５ｍｇ",
+      "generic_name": "レグパラ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999063",
+      "name": "レズロック錠２００ｍｇ",
+      "generic_name": "レズロック",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999028",
+      "name": "レボレード錠１２．５ｍｇ",
+      "generic_name": "レボレード",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999430",
+      "name": "ロミプレート皮下注２５０μｇ調製用",
+      "generic_name": "ロミプレート皮下",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0225",
       "name": "ロモソズマブ",
       "generic_name": "ロモソズマブ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "ALL_3999403",
+      "name": "注射用エフオーワイ１００　１００ｍｇ",
+      "generic_name": "",
       "category": "骨粗鬆症薬"
     }
   ]

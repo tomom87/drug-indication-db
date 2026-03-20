@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100133",
+    "name": "テンマ末",
+    "generic_name": "テンマ末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "テンマ末",
+        "kana": "ﾃﾝﾏﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

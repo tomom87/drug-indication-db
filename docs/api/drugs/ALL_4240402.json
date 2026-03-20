@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240402",
+    "name": "注射用フィルデシン１ｍｇ",
+    "generic_name": "",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "注射用フィルデシン１ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳﾌｨﾙﾃﾞｼﾝ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179001",
+    "name": "アモキサンカプセル１０ｍｇ",
+    "generic_name": "アモキサン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "アモキサンカプセル１０ｍｇ",
+        "kana": "ｱﾓｷｻﾝｶﾌﾟｾﾙ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

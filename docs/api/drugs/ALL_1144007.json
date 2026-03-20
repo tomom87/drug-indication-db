@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1144007",
+    "name": "ミグレニン",
+    "generic_name": "ミグレニン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミグレニン",
+        "kana": "ﾐｸﾞﾚﾆﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

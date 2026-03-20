@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399013",
+    "name": "サラジェン錠５ｍｇ",
+    "generic_name": "サラジェン",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "サラジェン錠５ｍｇ",
+        "kana": "ｻﾗｼﾞｪﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

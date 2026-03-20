@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6241010",
+    "name": "オゼックス錠７５　７５ｍｇ",
+    "generic_name": "オゼックス",
+    "category": "抗ウイルス薬",
+    "brands": [
+      {
+        "name": "オゼックス錠７５　７５ｍｇ",
+        "kana": "ｵｾﾞｯｸｽｼﾞｮｳ75"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2619817",
+    "name": "ネオ消アル（山善）",
+    "generic_name": "ネオ消アル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ネオ消アル（山善）",
+        "kana": "ﾈｵｼｮｳｱﾙﾔﾏｾﾞﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

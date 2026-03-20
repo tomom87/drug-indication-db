@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291408",
+    "name": "ロイスタチン注８ｍｇ　８ｍＬ",
+    "generic_name": "ロイスタチン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ロイスタチン注８ｍｇ　８ｍＬ",
+        "kana": "ﾛｲｽﾀﾁﾝﾁｭｳ8MG"
+      }
+    ]
+  },
+  "indications": []
+}

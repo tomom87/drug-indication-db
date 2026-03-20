@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6313402",
+    "name": "ビームゲン注０．２５ｍＬ",
+    "generic_name": "ビームゲン",
+    "category": "ワクチン",
+    "brands": [
+      {
+        "name": "ビームゲン注０．２５ｍＬ",
+        "kana": "ﾋﾞｰﾑｹﾞﾝﾁｭｳ0.25ML"
+      }
+    ]
+  },
+  "indications": []
+}

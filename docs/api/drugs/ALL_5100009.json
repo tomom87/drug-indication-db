@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100009",
+    "name": "ウコン",
+    "generic_name": "ウコン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウコン",
+        "kana": "ｳｺﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

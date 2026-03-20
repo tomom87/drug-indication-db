@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291015",
+    "name": "フェマーラ錠２．５ｍｇ",
+    "generic_name": "フェマーラ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "フェマーラ錠２．５ｍｇ",
+        "kana": "ﾌｪﾏｰﾗｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

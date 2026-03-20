@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2344002",
+    "name": "重カマ「ヨシダ」",
+    "generic_name": "重カマ「ヨシダ」",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "重カマ「ヨシダ」",
+        "kana": "ｼﾞｭｳｶﾏﾖｼﾀﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

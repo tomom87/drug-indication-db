@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2473700",
+    "name": "ディビゲル１ｍｇ",
+    "generic_name": "ディビ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ディビゲル１ｍｇ",
+        "kana": "ﾃﾞｨﾋﾞｹﾞﾙ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

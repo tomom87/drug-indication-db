@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2318001",
+    "name": "ガスコン錠４０ｍｇ",
+    "generic_name": "ガスコン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ガスコン錠４０ｍｇ",
+        "kana": "ｶﾞｽｺﾝｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

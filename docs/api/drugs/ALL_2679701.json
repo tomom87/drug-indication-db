@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2679701",
+    "name": "フロジン外用液５％",
+    "generic_name": "フロジン外用",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "フロジン外用液５％",
+        "kana": "ﾌﾛｼﾞﾝｶﾞｲﾖｳｴｷ5%"
+      }
+    ]
+  },
+  "indications": []
+}

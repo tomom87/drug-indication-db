@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2129007",
+    "name": "シベノール錠５０ｍｇ",
+    "generic_name": "シベノール",
+    "category": "不整脈用薬",
+    "brands": [
+      {
+        "name": "シベノール錠５０ｍｇ",
+        "kana": "ｼﾍﾞﾉｰﾙｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4279016",
+      "name": "不整脈",
+      "kana": "6",
+      "icd10": "I499"
+    }
+  ]
+}

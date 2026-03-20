@@ -22,6 +22,174 @@
       "name": "ロピニロール",
       "generic_name": "ロピニロール",
       "category": "パーキンソン病薬"
+    },
+    {
+      "yj_code": "ALL_1162400",
+      "name": "アキネトン注射液５ｍｇ　０．５％１ｍＬ",
+      "generic_name": "アキネトン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1162001",
+      "name": "アキネトン細粒１％",
+      "generic_name": "アキネトン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169017",
+      "name": "アジレクト錠１ｍｇ",
+      "generic_name": "アジレクト",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169400",
+      "name": "アポカイン皮下注３０ｍｇ　３ｍＬ",
+      "generic_name": "アポカイン皮下",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1161001",
+      "name": "アマンタジン塩酸塩１０％細粒",
+      "generic_name": "アマンタジン塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169002",
+      "name": "アーテン散１％",
+      "generic_name": "アーテン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169100",
+      "name": "イーシー・ドパール配合錠",
+      "generic_name": "イーシー・ドパール配合",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169018",
+      "name": "エクフィナ錠５０ｍｇ",
+      "generic_name": "エクフィナ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169019",
+      "name": "オンジェンティス錠２５ｍｇ",
+      "generic_name": "オンジェンティス",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169011",
+      "name": "カバサール錠０．２５ｍｇ",
+      "generic_name": "カバサール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169014",
+      "name": "コムタン錠１００ｍｇ",
+      "generic_name": "コムタン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169102",
+      "name": "スタレボ配合錠Ｌ５０",
+      "generic_name": "スタレボ配合",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169010",
+      "name": "セレギリン塩酸塩錠２．５ｍｇ「アメル」",
+      "generic_name": "セレギリン塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169001",
+      "name": "トリヘキシフェニジル塩酸塩錠　２ｍｇ",
+      "generic_name": "トリヘキシフェニジル塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169003",
+      "name": "トリモール細粒２％",
+      "generic_name": "トリモール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169015",
+      "name": "トレリーフＯＤ錠２５ｍｇ",
+      "generic_name": "トレリーフＯＤ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1164001",
+      "name": "ドパストンカプセル２５０ｍｇ",
+      "generic_name": "ドパストン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1164400",
+      "name": "ドパストン静注２５ｍｇ　０．２５％１０ｍＬ",
+      "generic_name": "ドパストン静",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169006",
+      "name": "ドロキシドパカプセル１００ｍｇ「アメル」",
+      "generic_name": "ドロキシドパ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169700",
+      "name": "ニュープロパッチ２．２５ｍｇ",
+      "generic_name": "ニュープロパッチ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169101",
+      "name": "ネオドパストン配合錠Ｌ１００",
+      "generic_name": "ネオドパストン配合",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169016",
+      "name": "ノウリアスト錠２０ｍｇ",
+      "generic_name": "ノウリアスト",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169701",
+      "name": "ハルロピテープ８ｍｇ",
+      "generic_name": "ハルロピ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169012",
+      "name": "ビ・シフロール錠０．１２５ｍｇ",
+      "generic_name": "ビ・シフロール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169005",
+      "name": "ブロモクリプチンメシル酸塩２．５ｍｇ錠",
+      "generic_name": "ブロモクリプチンメシル酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169008",
+      "name": "ペルマックス錠５０μｇ",
+      "generic_name": "ペルマックス",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169013",
+      "name": "レキップ錠０．２５ｍｇ",
+      "generic_name": "レキップ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169500",
+      "name": "ヴィアレブ配合持続皮下注　１０ｍＬ",
+      "generic_name": "ヴィアレブ配合持続皮下",
+      "category": "抗パーキンソン薬"
     }
   ]
 }

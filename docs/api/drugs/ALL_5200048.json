@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200048",
+    "name": "本草五苓散顆粒－Ｒ",
+    "generic_name": "本草五苓",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "本草五苓散顆粒－Ｒ",
+        "kana": "ﾎﾝｿﾞｳｺﾞﾚｲｻﾝｶﾘｭｳ-R"
+      }
+    ]
+  },
+  "indications": []
+}

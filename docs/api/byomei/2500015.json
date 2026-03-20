@@ -6,9 +6,33 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_3969003",
+      "name": "アカルボース錠５０ｍｇ「ＮＩＧ」",
+      "generic_name": "アカルボース",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969007",
+      "name": "アクトス錠１５　１５ｍｇ",
+      "generic_name": "アクトス",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3961008",
+      "name": "アマリール１ｍｇ錠",
+      "generic_name": "アマリール",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0114",
       "name": "アログリプチン",
       "generic_name": "アログリプチン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969105",
+      "name": "イニシンク配合錠",
+      "generic_name": "イニシンク配合",
       "category": "糖尿病薬"
     },
     {
@@ -48,9 +72,33 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969011",
+      "name": "エクア錠５０ｍｇ",
+      "generic_name": "エクア",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969104",
+      "name": "エクメット配合錠ＬＤ",
+      "generic_name": "エクメット配合",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0017",
       "name": "エンパグリフロジン",
       "generic_name": "エンパグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3961003",
+      "name": "オイグルコン錠１．２５ｍｇ",
+      "generic_name": "オイグルコン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969017",
+      "name": "オングリザ錠２．５ｍｇ",
+      "generic_name": "オングリザ",
       "category": "糖尿病薬"
     },
     {
@@ -60,9 +108,33 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969022",
+      "name": "カナグル錠１００ｍｇ",
+      "generic_name": "カナグル",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969106",
+      "name": "カナリア配合錠",
+      "generic_name": "カナリア配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3961004",
+      "name": "クロルプロパミド錠　２５０ｍｇ",
+      "generic_name": "クロルプロパミド",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0121",
       "name": "グリクラジド",
       "generic_name": "グリクラジド",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3961007",
+      "name": "グリミクロンＨＡ錠２０ｍｇ",
+      "generic_name": "グリミクロンＨＡ",
       "category": "糖尿病薬"
     },
     {
@@ -72,9 +144,75 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969008",
+      "name": "グルファスト錠５ｍｇ",
+      "generic_name": "グルファスト",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969102",
+      "name": "グルベス配合錠",
+      "generic_name": "グルベス配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969024",
+      "name": "ザファテック錠５０ｍｇ",
+      "generic_name": "ザファテック",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0019",
       "name": "シタグリプチン",
       "generic_name": "シタグリプチン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969013",
+      "name": "シュアポスト錠０．２５ｍｇ",
+      "generic_name": "シュアポスト",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969023",
+      "name": "ジャディアンス錠１０ｍｇ",
+      "generic_name": "ジャディアンス",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969010",
+      "name": "ジャヌビア錠２５ｍｇ",
+      "generic_name": "ジャヌビア",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969016",
+      "name": "スイニー錠１００ｍｇ",
+      "generic_name": "スイニー",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969006",
+      "name": "スターシス錠３０ｍｇ",
+      "generic_name": "スターシス",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969018",
+      "name": "スーグラ錠２５ｍｇ",
+      "generic_name": "スーグラ",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969107",
+      "name": "スージャヌ配合錠",
+      "generic_name": "スージャヌ配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969009",
+      "name": "セイブル錠２５ｍｇ",
+      "generic_name": "セイブル",
       "category": "糖尿病薬"
     },
     {
@@ -84,15 +222,51 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969101",
+      "name": "ソニアス配合錠ＬＤ",
+      "generic_name": "ソニアス配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969501",
+      "name": "ソリクア配合注ソロスター",
+      "generic_name": "ソリクア配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969500",
+      "name": "ゾルトファイ配合注　フレックスタッチ",
+      "generic_name": "ゾルトファイ配合",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0018",
       "name": "ダパグリフロジン",
       "generic_name": "ダパグリフロジン",
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969026",
+      "name": "ツイミーグ錠５００ｍｇ",
+      "generic_name": "ツイミーグ",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969015",
+      "name": "テネリア錠２０ｍｇ",
+      "generic_name": "テネリア",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0112",
       "name": "テネリグリプチン",
       "generic_name": "テネリグリプチン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969021",
+      "name": "デベルザ錠２０ｍｇ",
+      "generic_name": "デベルザ",
       "category": "糖尿病薬"
     },
     {
@@ -108,9 +282,33 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969014",
+      "name": "トラゼンタ錠５ｍｇ",
+      "generic_name": "トラゼンタ",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969108",
+      "name": "トラディアンス配合錠ＡＰ",
+      "generic_name": "トラディアンス配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3961006",
+      "name": "トルブタミド",
+      "generic_name": "トルブタミド",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0122",
       "name": "ナテグリニド",
       "generic_name": "ナテグリニド",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969012",
+      "name": "ネシーナ錠６．２５ｍｇ",
+      "generic_name": "ネシーナ",
       "category": "糖尿病薬"
     },
     {
@@ -126,15 +324,63 @@
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969019",
+      "name": "フォシーガ錠５ｍｇ",
+      "generic_name": "フォシーガ",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_2449003",
+      "name": "プリモボラン錠５ｍｇ",
+      "generic_name": "プリモボラン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969004",
+      "name": "ベイスン錠０．２　０．２ｍｇ",
+      "generic_name": "ベイスン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969025",
+      "name": "マリゼブ錠２５ｍｇ",
+      "generic_name": "マリゼブ",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0123",
       "name": "ミチグリニド",
       "generic_name": "ミチグリニド",
       "category": "糖尿病薬"
     },
     {
+      "yj_code": "ALL_3969100",
+      "name": "メタクト配合錠ＬＤ",
+      "generic_name": "メタクト配合",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_2449403",
+      "name": "メテノロンエナント酸エステル注射液　１００ｍｇ",
+      "generic_name": "メテノロンエナント酸エステル",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969109",
+      "name": "メトアナ配合錠ＨＤ",
+      "generic_name": "メトアナ配合",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0016",
       "name": "メトホルミン",
       "generic_name": "メトホルミン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969103",
+      "name": "リオベル配合錠ＬＤ",
+      "generic_name": "リオベル配合",
       "category": "糖尿病薬"
     },
     {
@@ -153,6 +399,12 @@
       "yj_code": "NAIKA_0116",
       "name": "ルセオグリフロジン",
       "generic_name": "ルセオグリフロジン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "ALL_3969020",
+      "name": "ルセフィ錠２．５ｍｇ",
+      "generic_name": "ルセフィ",
       "category": "糖尿病薬"
     },
     {

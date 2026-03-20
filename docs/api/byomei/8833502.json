@@ -6,6 +6,24 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2432001",
+      "name": "チアマゾール錠　５ｍｇ",
+      "generic_name": "チアマゾール",
+      "category": "抗甲状腺薬"
+    },
+    {
+      "yj_code": "ALL_2432002",
+      "name": "プロピルチオウラシル錠　５０ｍｇ",
+      "generic_name": "プロピルチオウラシル",
+      "category": "抗甲状腺薬"
+    },
+    {
+      "yj_code": "ALL_2432400",
+      "name": "メルカゾール注１０ｍｇ",
+      "generic_name": "メルカゾール",
+      "category": "抗甲状腺薬"
+    },
+    {
       "yj_code": "NAIKA_0074",
       "name": "チアマゾール",
       "generic_name": "チアマゾール",

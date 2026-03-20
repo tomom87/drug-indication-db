@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2452003",
+    "name": "フロリネフ錠０．１ｍｇ",
+    "generic_name": "フロリネフ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フロリネフ錠０．１ｍｇ",
+        "kana": "ﾌﾛﾘﾈﾌｼﾞｮｳ0.1MG"
+      }
+    ]
+  },
+  "indications": []
+}

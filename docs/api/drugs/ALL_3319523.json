@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319523",
+    "name": "ＫＮ４号輸液　５００ｍＬ",
+    "generic_name": "ＫＮ４号輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ＫＮ４号輸液　５００ｍＬ",
+        "kana": "KN4ｺﾞｳﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

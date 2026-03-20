@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319800",
+    "name": "エコリシン眼軟膏",
+    "generic_name": "エコリシン眼",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "エコリシン眼軟膏",
+        "kana": "ｴｺﾘｼﾝｶﾞﾝﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

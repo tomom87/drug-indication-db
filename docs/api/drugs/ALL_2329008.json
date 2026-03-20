@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329008",
+    "name": "アルサルミン細粒９０％",
+    "generic_name": "アルサルミン",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "アルサルミン細粒９０％",
+        "kana": "ｱﾙｻﾙﾐﾝｻｲﾘｭｳ90%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7119701",
+    "name": "カオリン",
+    "generic_name": "カオリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カオリン",
+        "kana": "ｶｵﾘﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -46,6 +46,90 @@
       "name": "酸化マグネシウム",
       "generic_name": "酸化マグネシウム",
       "category": "消化器薬"
+    },
+    {
+      "yj_code": "ALL_2325005",
+      "name": "アシノン錠７５ｍｇ",
+      "generic_name": "アシノン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325004",
+      "name": "アルタットカプセル７５ｍｇ",
+      "generic_name": "アルタット",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325403",
+      "name": "アルタット静注用７５ｍｇ",
+      "generic_name": "アルタット静",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325003",
+      "name": "ガスター散２％",
+      "generic_name": "ガスター",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325401",
+      "name": "ガスター注射液１０ｍｇ　１ｍＬ",
+      "generic_name": "ガスター",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325400",
+      "name": "シメチジン注射液２００ｍｇ「サワイ」　１０％２ｍＬ",
+      "generic_name": "シメチジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325001",
+      "name": "タガメット錠２００ｍｇ",
+      "generic_name": "タガメット",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2312001",
+      "name": "タンニン酸アルブミン「三恵」",
+      "generic_name": "タンニン酸アルブミン「三恵」",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319100",
+      "name": "フェロベリン配合錠",
+      "generic_name": "フェロベリン配合",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325006",
+      "name": "プロテカジン錠５　５ｍｇ",
+      "generic_name": "プロテカジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2314400",
+      "name": "ベルベリン硫酸塩注２ｍｇ「日新」　０．１％２ｍＬ",
+      "generic_name": "ベルベリン硫酸塩",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319001",
+      "name": "ロペラミド塩酸塩１ｍｇカプセル",
+      "generic_name": "ロペラミド塩酸塩",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319002",
+      "name": "乳酸",
+      "generic_name": "乳酸",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319003",
+      "name": "薬用炭",
+      "generic_name": "薬用炭",
+      "category": "消化性潰瘍薬"
     }
   ]
 }

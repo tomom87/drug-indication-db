@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149010",
+    "name": "セロケン錠２０ｍｇ",
+    "generic_name": "セロケン",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "セロケン錠２０ｍｇ",
+        "kana": "ｾﾛｹﾝｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

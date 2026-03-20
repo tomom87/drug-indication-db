@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114401",
+    "name": "アンペック注２００ｍｇ　４％５ｍＬ",
+    "generic_name": "アンペック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アンペック注２００ｍｇ　４％５ｍＬ",
+        "kana": "ｱﾝﾍﾟｯｸﾁｭｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291025",
+    "name": "ゾリンザカプセル１００ｍｇ",
+    "generic_name": "ゾリンザ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ゾリンザカプセル１００ｍｇ",
+        "kana": "ｿﾞﾘﾝｻﾞｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,15 +6,201 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_1139012",
+      "name": "イノベロン錠１００ｍｇ",
+      "generic_name": "イノベロン",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139402",
+      "name": "イーケプラ点滴静注５００ｍｇ　５ｍＬ",
+      "generic_name": "イーケプラ",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139010",
+      "name": "イーケプラ錠２５０ｍｇ",
+      "generic_name": "イーケプラ",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139005",
+      "name": "エクセグラン錠１００ｍｇ",
+      "generic_name": "エクセグラン",
+      "category": "抗不安薬"
+    },
+    {
       "yj_code": "NAIKA_0086",
       "name": "エチゾラム",
       "generic_name": "エチゾラム",
       "category": "抗不安薬"
     },
     {
+      "yj_code": "ALL_1139001",
+      "name": "エピレオプチマル散５０％",
+      "generic_name": "エピレオプチマル",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139002",
+      "name": "カルバマゼピン細粒５０％「アメル」",
+      "generic_name": "カルバマゼピン",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139007",
+      "name": "ガバペン錠２００ｍｇ",
+      "generic_name": "ガバペン",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1131001",
+      "name": "クランポール末",
+      "generic_name": "クランポール末",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139013",
+      "name": "サブリル散分包５００ｍｇ",
+      "generic_name": "サブリル",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139701",
+      "name": "スピジア点鼻液５ｍｇ　０．１ｍＬ",
+      "generic_name": "スピジア点鼻",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139011",
+      "name": "ディアコミットカプセル２５０ｍｇ",
+      "generic_name": "ディアコミット",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139008",
+      "name": "トピナ錠５０ｍｇ",
+      "generic_name": "トピナ",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139400",
+      "name": "ノーベルバール静注用２５０ｍｇ",
+      "generic_name": "ノーベルバール静",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139004",
+      "name": "バルプロ酸ナトリウム細粒２０％「ＥＭＥＣ」",
+      "generic_name": "バルプロ酸ナトリウム",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139103",
+      "name": "ヒダントールＤ配合錠",
+      "generic_name": "ヒダントールＤ配合",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139104",
+      "name": "ヒダントールＥ配合錠",
+      "generic_name": "ヒダントールＥ配合",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139105",
+      "name": "ヒダントールＦ配合錠",
+      "generic_name": "ヒダントールＦ配合",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139404",
+      "name": "ビムパット点滴静注２００ｍｇ　２０ｍＬ",
+      "generic_name": "ビムパット",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139015",
+      "name": "ビムパット錠５０ｍｇ",
+      "generic_name": "ビムパット",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139405",
+      "name": "フィコンパ点滴静注用２ｍｇ",
+      "generic_name": "フィコンパ",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139014",
+      "name": "フィコンパ錠２ｍｇ",
+      "generic_name": "フィコンパ",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139016",
+      "name": "フィンテプラ内用液２．２ｍｇ／ｍＬ　０．２２％",
+      "generic_name": "フィンテプラ内用",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139700",
+      "name": "ブコラム口腔用液２．５ｍｇ　０．５ｍＬ",
+      "generic_name": "ブコラム口腔用",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139017",
+      "name": "ブリィビアクト錠２５ｍｇ",
+      "generic_name": "ブリィビアクト",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139406",
+      "name": "ブリィビアクト静注２５ｍｇ　２．５ｍＬ",
+      "generic_name": "ブリィビアクト静",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139006",
+      "name": "マイスタン錠５ｍｇ",
+      "generic_name": "マイスタン",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139401",
+      "name": "ミダフレッサ静注０．１％　１０ｍｇ１０ｍＬ",
+      "generic_name": "ミダフレッサ静",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139009",
+      "name": "ラミクタール錠小児用２ｍｇ",
+      "generic_name": "ラミクタール",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139003",
+      "name": "リボトリール細粒０．１％",
+      "generic_name": "リボトリール",
+      "category": "抗不安薬"
+    },
+    {
       "yj_code": "NAIKA_0221",
       "name": "ロラゼパム",
       "generic_name": "ロラゼパム",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139403",
+      "name": "ロラピタ静注２ｍｇ　１ｍＬ",
+      "generic_name": "ロラピタ静",
+      "category": "抗不安薬"
+    },
+    {
+      "yj_code": "ALL_1139100",
+      "name": "複合アレビアチン配合錠",
+      "generic_name": "複合アレビアチン配合",
       "category": "抗不安薬"
     }
   ]

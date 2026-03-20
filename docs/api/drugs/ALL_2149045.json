@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149045",
+    "name": "セララ錠２５ｍｇ",
+    "generic_name": "セララ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "セララ錠２５ｍｇ",
+        "kana": "ｾﾗﾗｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291021",
+    "name": "タシグナカプセル２００ｍｇ",
+    "generic_name": "タシグナ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タシグナカプセル２００ｍｇ",
+        "kana": "ﾀｼｸﾞﾅｶﾌﾟｾﾙ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

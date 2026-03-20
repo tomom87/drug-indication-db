@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100160",
+    "name": "ウチダのビンロウジＭ",
+    "generic_name": "ウチダのビンロウジＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのビンロウジＭ",
+        "kana": "ｳﾁﾀﾞﾉﾋﾞﾝﾛｳｼﾞM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3179513",
+    "name": "オーツカＭＶ注　１瓶１管",
+    "generic_name": "オーツカＭＶ",
+    "category": "混合ビタミン薬",
+    "brands": [
+      {
+        "name": "オーツカＭＶ注　１瓶１管",
+        "kana": "ｵｰﾂｶMVﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

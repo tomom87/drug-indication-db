@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100155",
+    "name": "ヒシノミ",
+    "generic_name": "ヒシノミ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ヒシノミ",
+        "kana": "ﾋｼﾉﾐ"
+      }
+    ]
+  },
+  "indications": []
+}

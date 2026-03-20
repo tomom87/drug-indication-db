@@ -6,9 +6,135 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_3229005",
+      "name": "アスパラカリウム散５０％",
+      "generic_name": "アスパラカリウム",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229401",
+      "name": "アスパラカリウム注１０ｍＥｑ　１７．１２％１０ｍＬ",
+      "generic_name": "アスパラカリウム",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229500",
+      "name": "アスパラ注射液　（１０％）１０ｍＬ",
+      "generic_name": "アスパラ",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229102",
+      "name": "アスパラ配合錠　（１５０ｍｇ）",
+      "generic_name": "アスパラ配合",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229402",
+      "name": "アセレンド注１００μｇ　２ｍＬ",
+      "generic_name": "アセレンド",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222012",
+      "name": "インクレミンシロップ５％",
+      "generic_name": "インクレミン",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229501",
+      "name": "エレジェクト注シリンジ　２ｍＬ",
+      "generic_name": "エレジェクト",
+      "category": "鉄剤"
+    },
+    {
       "yj_code": "NAIKA_0090",
       "name": "クエン酸第一鉄ナトリウム",
       "generic_name": "クエン酸第一鉄ナトリウム",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229007",
+      "name": "グルコンサンＫ錠２．５ｍＥｑ　カリウム",
+      "generic_name": "グルコンサンＫ",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229008",
+      "name": "ジンタス錠５０ｍｇ",
+      "generic_name": "ジンタス",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229100",
+      "name": "ソリタ－Ｔ配合顆粒２号　４ｇ",
+      "generic_name": "ソリタ－Ｔ配合",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229101",
+      "name": "ソリタ－Ｔ配合顆粒３号　４ｇ",
+      "generic_name": "ソリタ－Ｔ配合",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222404",
+      "name": "フェインジェクト静注５００ｍｇ　１０ｍＬ",
+      "generic_name": "フェインジェクト静",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222400",
+      "name": "フェジン静注４０ｍｇ　２ｍＬ",
+      "generic_name": "フェジン静",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222013",
+      "name": "フェロミア錠５０ｍｇ　鉄５０ｍｇ",
+      "generic_name": "フェロミア",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222007",
+      "name": "フェロ・グラデュメット錠１０５ｍｇ",
+      "generic_name": "フェロ・グラデュメット",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229103",
+      "name": "ホスリボン配合顆粒　１００ｍｇ（リンとして）",
+      "generic_name": "ホスリボン配合",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3222405",
+      "name": "モノヴァー静注５００ｍｇ　５ｍＬ",
+      "generic_name": "モノヴァー静",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229001",
+      "name": "塩化カリウム",
+      "generic_name": "塩化カリウム",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229003",
+      "name": "酢酸カリウム液「司生堂」",
+      "generic_name": "酢酸カリウム",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229002",
+      "name": "Ｋ．Ｃ．Ｌ．エリキシル（１０ｗ／ｖ％）　１０％",
+      "generic_name": "Ｋ．Ｃ．Ｌ．エリキシル",
+      "category": "鉄剤"
+    },
+    {
+      "yj_code": "ALL_3229400",
+      "name": "Ｋ．Ｃ．Ｌ．点滴液１５％　２０ｍＬ",
+      "generic_name": "Ｋ．Ｃ．Ｌ．",
       "category": "鉄剤"
     }
   ]

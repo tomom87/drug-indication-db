@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490014",
+    "name": "アレジオン錠１０　１０ｍｇ",
+    "generic_name": "アレジオン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレジオン錠１０　１０ｍｇ",
+        "kana": "ｱﾚｼﾞｵﾝｼﾞｮｳ10"
+      }
+    ]
+  },
+  "indications": []
+}

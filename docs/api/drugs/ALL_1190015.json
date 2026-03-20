@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190015",
+    "name": "レミッチＯＤ錠２．５μｇ",
+    "generic_name": "レミッチＯＤ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "レミッチＯＤ錠２．５μｇ",
+        "kana": "ﾚﾐｯﾁODｼﾞｮｳ2.5ﾏｲｸﾛG"
+      }
+    ]
+  },
+  "indications": []
+}

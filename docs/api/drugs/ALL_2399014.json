@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399014",
+    "name": "イリボー錠２．５μｇ",
+    "generic_name": "イリボー",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "イリボー錠２．５μｇ",
+        "kana": "ｲﾘﾎﾞｰｼﾞｮｳ2.5ﾏｲｸﾛG"
+      }
+    ]
+  },
+  "indications": []
+}

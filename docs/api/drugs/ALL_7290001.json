@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290001",
+    "name": "トレーランＧ液５０ｇ　１５０ｍＬ",
+    "generic_name": "トレーランＧ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トレーランＧ液５０ｇ　１５０ｍＬ",
+        "kana": "ﾄﾚｰﾗﾝGｴｷ50G"
+      }
+    ]
+  },
+  "indications": []
+}

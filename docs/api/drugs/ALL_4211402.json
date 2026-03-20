@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4211402",
+    "name": "注射用イホマイド１ｇ",
+    "generic_name": "",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "注射用イホマイド１ｇ",
+        "kana": "ﾁｭｳｼｬﾖｳｲﾎﾏｲﾄﾞ1G"
+      }
+    ]
+  },
+  "indications": []
+}

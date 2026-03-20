@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1125004",
+    "name": "フェノバール錠３０ｍｇ",
+    "generic_name": "フェノバール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フェノバール錠３０ｍｇ",
+        "kana": "ﾌｪﾉﾊﾞｰﾙｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

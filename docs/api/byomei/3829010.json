@@ -18,6 +18,12 @@
       "category": "抗菌薬"
     },
     {
+      "yj_code": "ALL_6131001",
+      "name": "サワシリン錠２５０　２５０ｍｇ",
+      "generic_name": "サワシリン",
+      "category": "抗菌薬"
+    },
+    {
       "yj_code": "NAIKA_0054",
       "name": "セファレキシン",
       "generic_name": "セファレキシン",
@@ -42,9 +48,39 @@
       "category": "抗菌薬"
     },
     {
+      "yj_code": "ALL_6131002",
+      "name": "ビクシリンカプセル２５０ｍｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131400",
+      "name": "ビクシリン注射用０．２５ｇ　２５０ｍｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131403",
+      "name": "ピペラシリンＮａ注射用１ｇ「ＮＩＧ」",
+      "generic_name": "ピペラシリンＮａ",
+      "category": "抗菌薬"
+    },
+    {
       "yj_code": "NAIKA_0156",
       "name": "ファロペネム",
       "generic_name": "ファロペネム",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131004",
+      "name": "ペングッド錠２５０ｍｇ",
+      "generic_name": "ペングッド",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131008",
+      "name": "ユナシン細粒小児用１０％　１００ｍｇ",
+      "generic_name": "ユナシン",
       "category": "抗菌薬"
     },
     {

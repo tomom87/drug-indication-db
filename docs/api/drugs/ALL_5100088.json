@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100088",
+    "name": "シオン",
+    "generic_name": "シオン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "シオン",
+        "kana": "ｼｵﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

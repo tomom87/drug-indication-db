@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3259532",
+    "name": "パレプラス輸液　５００ｍＬ",
+    "generic_name": "パレプラス輸",
+    "category": "代謝用薬",
+    "brands": [
+      {
+        "name": "パレプラス輸液　５００ｍＬ",
+        "kana": "ﾊﾟﾚﾌﾟﾗｽﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

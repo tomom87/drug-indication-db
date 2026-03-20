@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6290005",
+    "name": "ラミシール錠１２５ｍｇ",
+    "generic_name": "ラミシール",
+    "category": "抗感染症薬",
+    "brands": [
+      {
+        "name": "ラミシール錠１２５ｍｇ",
+        "kana": "ﾗﾐｼｰﾙｼﾞｮｳ125MG"
+      }
+    ]
+  },
+  "indications": []
+}

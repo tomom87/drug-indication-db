@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179404",
+    "name": "セレネース注５ｍｇ　０．５％１ｍＬ",
+    "generic_name": "セレネース",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "セレネース注５ｍｇ　０．５％１ｍＬ",
+        "kana": "ｾﾚﾈｰｽﾁｭｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2356001",
+    "name": "ヒマシ油",
+    "generic_name": "ヒマシ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヒマシ油",
+        "kana": "ﾋﾏｼﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

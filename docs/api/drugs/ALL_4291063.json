@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291063",
+    "name": "ニュベクオ錠３００ｍｇ",
+    "generic_name": "ニュベクオ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ニュベクオ錠３００ｍｇ",
+        "kana": "ﾆｭﾍﾞｸｵｼﾞｮｳ300MG"
+      }
+    ]
+  },
+  "indications": []
+}

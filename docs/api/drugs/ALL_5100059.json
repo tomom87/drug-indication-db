@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100059",
+    "name": "花扇ゲンジンＫ",
+    "generic_name": "花扇ゲンジンＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇ゲンジンＫ",
+        "kana": "ﾊﾅｵｳｷﾞｹﾞﾝｼﾞﾝK"
+      }
+    ]
+  },
+  "indications": []
+}

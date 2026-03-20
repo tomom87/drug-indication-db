@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290005",
+    "name": "ピロニック錠１００ｍｇ",
+    "generic_name": "ピロニック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ピロニック錠１００ｍｇ",
+        "kana": "ﾋﾟﾛﾆｯｸｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

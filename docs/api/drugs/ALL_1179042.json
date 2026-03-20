@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179042",
+    "name": "セロクエル２５ｍｇ錠",
+    "generic_name": "セロクエル",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "セロクエル２５ｍｇ錠",
+        "kana": "ｾﾛｸｴﾙ25MGｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

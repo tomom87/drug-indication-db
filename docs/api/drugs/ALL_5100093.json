@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100093",
+    "name": "シテイ",
+    "generic_name": "シテイ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "シテイ",
+        "kana": "ｼﾃｲ"
+      }
+    ]
+  },
+  "indications": []
+}

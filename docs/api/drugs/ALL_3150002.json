@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3150002",
+    "name": "ユベラ錠５０ｍｇ",
+    "generic_name": "ユベラ",
+    "category": "ビタミンD薬",
+    "brands": [
+      {
+        "name": "ユベラ錠５０ｍｇ",
+        "kana": "ﾕﾍﾞﾗｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7451700",
+    "name": "カンテン",
+    "generic_name": "カンテン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カンテン",
+        "kana": "ｶﾝﾃﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

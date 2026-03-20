@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190009",
+    "name": "ケイキサレート散",
+    "generic_name": "ケイキサレート",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ケイキサレート散",
+        "kana": "ｹｲｷｻﾚｰﾄｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

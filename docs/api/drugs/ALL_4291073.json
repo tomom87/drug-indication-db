@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291073",
+    "name": "タズベリク錠２００ｍｇ",
+    "generic_name": "タズベリク",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タズベリク錠２００ｍｇ",
+        "kana": "ﾀｽﾞﾍﾞﾘｸｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

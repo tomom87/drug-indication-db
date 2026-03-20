@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1112700",
+    "name": "ハロタン",
+    "generic_name": "ハロタン",
+    "category": "全身麻酔薬",
+    "brands": [
+      {
+        "name": "ハロタン",
+        "kana": "ﾊﾛﾀﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

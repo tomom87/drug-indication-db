@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100050",
+    "name": "キンギンカ",
+    "generic_name": "キンギンカ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "キンギンカ",
+        "kana": "ｷﾝｷﾞﾝｶ"
+      }
+    ]
+  },
+  "indications": []
+}

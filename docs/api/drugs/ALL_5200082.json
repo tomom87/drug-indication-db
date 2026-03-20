@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200082",
+    "name": "オースギ神秘湯エキスＧ",
+    "generic_name": "オースギ神秘湯エキスＧ",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "オースギ神秘湯エキスＧ",
+        "kana": "ｵｰｽｷﾞｼﾝﾋﾟﾄｳｴｷｽG"
+      }
+    ]
+  },
+  "indications": []
+}

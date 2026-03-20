@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316004",
+    "name": "ビオフェルミンＲ錠",
+    "generic_name": "ビオフェルミンＲ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビオフェルミンＲ錠",
+        "kana": "ﾋﾞｵﾌｪﾙﾐﾝRｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

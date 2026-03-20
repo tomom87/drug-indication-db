@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4231400",
+    "name": "マイトマイシン注用２ｍｇ",
+    "generic_name": "マイトマイシン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "マイトマイシン注用２ｍｇ",
+        "kana": "ﾏｲﾄﾏｲｼﾝﾁｭｳﾖｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490023",
+    "name": "アレグラ錠６０ｍｇ",
+    "generic_name": "アレグラ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレグラ錠６０ｍｇ",
+        "kana": "ｱﾚｸﾞﾗｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

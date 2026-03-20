@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316014",
+    "name": "ラックビー微粒Ｎ　１％",
+    "generic_name": "ラックビー微粒Ｎ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラックビー微粒Ｎ　１％",
+        "kana": "ﾗｯｸﾋﾞｰﾋﾞﾘｭｳN"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300417",
+    "name": "テクネフチン酸キット",
+    "generic_name": "テクネフチン酸キット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネフチン酸キット",
+        "kana": "ﾃｸﾈﾌﾁﾝｻﾝｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

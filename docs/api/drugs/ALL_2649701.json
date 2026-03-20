@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649701",
+    "name": "石灰水（司生堂）",
+    "generic_name": "石灰水",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "石灰水（司生堂）",
+        "kana": "ｾｯｶｲｽｲｼｾｲﾄﾞｳ"
+      }
+    ]
+  },
+  "indications": []
+}

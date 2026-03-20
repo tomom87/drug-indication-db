@@ -6,6 +6,120 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2119405",
+      "name": "アクトシン注射用３００ｍｇ　（溶解液付）",
+      "generic_name": "アクトシン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119409",
+      "name": "アデール点滴静注用５ｍｇ",
+      "generic_name": "アデール",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402",
+      "name": "イノバン注１００ｍｇ　５ｍＬ",
+      "generic_name": "イノバン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119001",
+      "name": "エチレフリン塩酸塩錠　５ｍｇ",
+      "generic_name": "エチレフリン塩酸塩",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119401",
+      "name": "エホチール注１０ｍｇ　１％１ｍＬ",
+      "generic_name": "エホチール",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119004",
+      "name": "カルグート錠５　５ｍｇ",
+      "generic_name": "カルグート",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119407",
+      "name": "コアテック注５ｍｇ　５ｍＬ",
+      "generic_name": "コアテック",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113401",
+      "name": "ジギラノゲン注０．４ｍｇ　０．０２％２ｍＬ",
+      "generic_name": "ジギラノゲン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113004",
+      "name": "ジゴシン散０．１％",
+      "generic_name": "ジゴシン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113400",
+      "name": "ジゴシン注０．２５ｍｇ　０．０２５％１ｍＬ",
+      "generic_name": "ジゴシン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119007",
+      "name": "タナドーパ顆粒７５％",
+      "generic_name": "タナドーパ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404",
+      "name": "ドブタミン点滴静注１００ｍｇ「アイロム」",
+      "generic_name": "ドブタミン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119003",
+      "name": "ノイキノン錠１０ｍｇ",
+      "generic_name": "ノイキノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113003",
+      "name": "ハーフジゴキシンＫＹ錠０．１２５　０．１２５ｍｇ",
+      "generic_name": "ハーフジゴキシンＫＹ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119006",
+      "name": "ピモベンダン錠１．２５ｍｇ「ＴＥ」",
+      "generic_name": "ピモベンダン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119400",
+      "name": "プロタノールＬ注０．２ｍｇ　０．０２％１ｍＬ",
+      "generic_name": "プロタノールＬ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119002",
+      "name": "プロタノールＳ錠１５ｍｇ",
+      "generic_name": "プロタノールＳ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119408",
+      "name": "ミルリノン注射液１０ｍｇ「Ｆ」　１０ｍＬ",
+      "generic_name": "ミルリノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113005",
+      "name": "ラニラピッド錠０．０５ｍｇ",
+      "generic_name": "ラニラピッド",
+      "category": "強心薬"
+    },
+    {
       "yj_code": "TJ_036",
       "name": "ツムラ木防已湯エキス顆粒（医療用）",
       "generic_name": "木防已湯",

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100019",
+    "name": "ウチダのオウゴンＭ",
+    "generic_name": "ウチダのオウゴンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのオウゴンＭ",
+        "kana": "ｳﾁﾀﾞﾉｵｳｺﾞﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

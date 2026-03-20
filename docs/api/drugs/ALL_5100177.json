@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100177",
+    "name": "ウチダのヤクチＭ",
+    "generic_name": "ウチダのヤクチＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのヤクチＭ",
+        "kana": "ｳﾁﾀﾞﾉﾔｸﾁM"
+      }
+    ]
+  },
+  "indications": []
+}

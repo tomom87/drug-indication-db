@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969020",
+    "name": "ルセフィ錠２．５ｍｇ",
+    "generic_name": "ルセフィ",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "ルセフィ錠２．５ｍｇ",
+        "kana": "ﾙｾﾌｨｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

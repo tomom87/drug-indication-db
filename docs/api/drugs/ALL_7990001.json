@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7990001",
+    "name": "Ｄ－ソルビトール",
+    "generic_name": "Ｄ－ソルビトール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "Ｄ－ソルビトール",
+        "kana": "D-ｿﾙﾋﾞﾄｰﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6199105",
+    "name": "ボノピオンパック",
+    "generic_name": "ボノピオンパック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ボノピオンパック",
+        "kana": "ﾎﾞﾉﾋﾟｵﾝﾊﾟｯｸ"
+      }
+    ]
+  },
+  "indications": []
+}

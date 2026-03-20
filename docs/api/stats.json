@@ -1,44 +1,212 @@
 {
-  "drug_count": 369,
-  "indication_count": 1125,
-  "mapped_drug_count": 361,
+  "drug_count": 3647,
+  "indication_count": 2343,
+  "mapped_drug_count": 1216,
   "byomei_with_drugs": 275,
   "categories": [
     {
+      "category": "その他",
+      "count": 1110
+    },
+    {
       "category": "漢方",
-      "count": 128
+      "count": 277
+    },
+    {
+      "category": "抗悪性腫瘍薬",
+      "count": 208
+    },
+    {
+      "category": "生薬",
+      "count": 194
+    },
+    {
+      "category": "骨粗鬆症薬",
+      "count": 145
     },
     {
       "category": "降圧薬",
-      "count": 29
+      "count": 95
     },
     {
-      "category": "糖尿病薬",
-      "count": 28
-    },
-    {
-      "category": "消化器薬",
-      "count": 23
+      "category": "眼科用薬",
+      "count": 88
     },
     {
       "category": "抗菌薬",
-      "count": 16
+      "count": 82
+    },
+    {
+      "category": "精神神経用薬",
+      "count": 75
+    },
+    {
+      "category": "糖尿病薬",
+      "count": 70
+    },
+    {
+      "category": "抗真菌薬",
+      "count": 66
+    },
+    {
+      "category": "消化器薬",
+      "count": 63
+    },
+    {
+      "category": "その他の循環器薬",
+      "count": 53
+    },
+    {
+      "category": "その他のホルモン薬",
+      "count": 50
+    },
+    {
+      "category": "血液凝固阻止薬",
+      "count": 47
+    },
+    {
+      "category": "外用薬",
+      "count": 43
+    },
+    {
+      "category": "抗てんかん薬",
+      "count": 40
+    },
+    {
+      "category": "その他の神経系薬",
+      "count": 40
+    },
+    {
+      "category": "皮膚用薬",
+      "count": 39
+    },
+    {
+      "category": "脂質異常症薬",
+      "count": 38
+    },
+    {
+      "category": "その他の消化器薬",
+      "count": 38
+    },
+    {
+      "category": "代謝用薬",
+      "count": 36
+    },
+    {
+      "category": "催眠鎮静薬",
+      "count": 35
+    },
+    {
+      "category": "血管拡張薬",
+      "count": 34
+    },
+    {
+      "category": "抗不安薬",
+      "count": 34
+    },
+    {
+      "category": "不整脈用薬",
+      "count": 32
+    },
+    {
+      "category": "その他の血液用薬",
+      "count": 32
+    },
+    {
+      "category": "気管支拡張薬",
+      "count": 31
+    },
+    {
+      "category": "外用ステロイド",
+      "count": 29
+    },
+    {
+      "category": "抗パーキンソン薬",
+      "count": 28
+    },
+    {
+      "category": "泌尿器用薬",
+      "count": 25
+    },
+    {
+      "category": "鉄剤",
+      "count": 22
+    },
+    {
+      "category": "抗ウイルス薬",
+      "count": 22
+    },
+    {
+      "category": "酵素製剤",
+      "count": 20
+    },
+    {
+      "category": "呼吸器用薬",
+      "count": 20
+    },
+    {
+      "category": "強心薬",
+      "count": 19
+    },
+    {
+      "category": "混合ビタミン薬",
+      "count": 18
+    },
+    {
+      "category": "抗感染症薬",
+      "count": 15
+    },
+    {
+      "category": "利尿薬",
+      "count": 15
+    },
+    {
+      "category": "消化性潰瘍薬",
+      "count": 14
+    },
+    {
+      "category": "リン吸着薬",
+      "count": 14
+    },
+    {
+      "category": "カリウム製剤",
+      "count": 14
+    },
+    {
+      "category": "肝臓用薬",
+      "count": 13
+    },
+    {
+      "category": "鎮咳薬",
+      "count": 12
     },
     {
       "category": "呼吸器薬",
       "count": 12
     },
     {
-      "category": "脂質異常症薬",
-      "count": 11
-    },
-    {
-      "category": "骨粗鬆症薬",
+      "category": "痛風薬",
       "count": 10
     },
     {
       "category": "循環器薬",
       "count": 10
+    },
+    {
+      "category": "下剤",
+      "count": 10
+    },
+    {
+      "category": "抗アレルギー薬",
+      "count": 9
+    },
+    {
+      "category": "外用抗菌薬",
+      "count": 9
+    },
+    {
+      "category": "去痰薬",
+      "count": 9
     },
     {
       "category": "排尿障害薬",
@@ -49,7 +217,19 @@
       "count": 8
     },
     {
-      "category": "抗ウイルス薬",
+      "category": "副腎ホルモン薬",
+      "count": 8
+    },
+    {
+      "category": "血液用薬",
+      "count": 7
+    },
+    {
+      "category": "抗血小板薬",
+      "count": 7
+    },
+    {
+      "category": "外用抗真菌薬",
       "count": 7
     },
     {
@@ -61,7 +241,31 @@
       "count": 6
     },
     {
+      "category": "性ホルモン薬",
+      "count": 6
+    },
+    {
+      "category": "ワクチン",
+      "count": 6
+    },
+    {
+      "category": "ビタミンA薬",
+      "count": 6
+    },
+    {
       "category": "鎮痛薬",
+      "count": 5
+    },
+    {
+      "category": "葉酸",
+      "count": 5
+    },
+    {
+      "category": "膵臓ホルモン薬",
+      "count": 5
+    },
+    {
+      "category": "甲状腺関連薬",
       "count": 5
     },
     {
@@ -73,6 +277,10 @@
       "count": 4
     },
     {
+      "category": "鎮痛外用薬",
+      "count": 4
+    },
+    {
       "category": "認知症薬",
       "count": 4
     },
@@ -81,15 +289,23 @@
       "count": 4
     },
     {
+      "category": "甲状腺ホルモン薬",
+      "count": 4
+    },
+    {
       "category": "片頭痛薬",
       "count": 4
     },
     {
-      "category": "抗血小板薬",
+      "category": "消化管運動促進薬",
       "count": 4
     },
     {
-      "category": "抗アレルギー薬",
+      "category": "止血薬",
+      "count": 4
+    },
+    {
+      "category": "ビタミンB12薬",
       "count": 4
     },
     {
@@ -97,19 +313,19 @@
       "count": 4
     },
     {
-      "category": "鎮咳薬",
+      "category": "鎮暈薬",
       "count": 3
     },
     {
-      "category": "抗真菌薬",
+      "category": "抗甲状腺薬",
       "count": 3
     },
     {
-      "category": "抗不安薬",
+      "category": "利胆薬",
       "count": 3
     },
     {
-      "category": "去痰薬",
+      "category": "ビタミンE薬",
       "count": 3
     },
     {
@@ -121,7 +337,27 @@
       "count": 2
     },
     {
+      "category": "無機質製剤",
+      "count": 2
+    },
+    {
+      "category": "消化酵素薬",
+      "count": 2
+    },
+    {
       "category": "抗精神病薬",
+      "count": 2
+    },
+    {
+      "category": "抗ヒスタミン薬",
+      "count": 2
+    },
+    {
+      "category": "全身麻酔薬",
+      "count": 2
+    },
+    {
+      "category": "ビタミンB薬",
       "count": 2
     },
     {
@@ -129,7 +365,11 @@
       "count": 2
     },
     {
-      "category": "鉄剤",
+      "category": "その他のビタミン薬",
+      "count": 2
+    },
+    {
+      "category": "解熱鎮痛消炎薬",
       "count": 1
     },
     {
@@ -141,7 +381,7 @@
       "count": 1
     },
     {
-      "category": "痛風薬",
+      "category": "消化機能調整薬",
       "count": 1
     },
     {
@@ -149,11 +389,19 @@
       "count": 1
     },
     {
-      "category": "抗てんかん薬",
+      "category": "制吐薬",
+      "count": 1
+    },
+    {
+      "category": "ビタミンD薬",
       "count": 1
     },
     {
       "category": "ステロイド",
+      "count": 1
+    },
+    {
+      "category": "カルシウム薬",
       "count": 1
     }
   ]

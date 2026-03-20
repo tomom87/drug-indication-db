@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2359008",
+    "name": "グーフィス錠５ｍｇ",
+    "generic_name": "グーフィス",
+    "category": "肝臓用薬",
+    "brands": [
+      {
+        "name": "グーフィス錠５ｍｇ",
+        "kana": "ｸﾞｰﾌｨｽｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "5738002",
+      "name": "肝機能障害",
+      "kana": "10",
+      "icd10": "K769"
+    }
+  ]
+}

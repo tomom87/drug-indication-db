@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100153",
+    "name": "ウチダのハマボウフウＭ",
+    "generic_name": "ウチダのハマボウフウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのハマボウフウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾊﾏﾎﾞｳﾌｳM"
+      }
+    ]
+  },
+  "indications": []
+}

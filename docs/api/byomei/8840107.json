@@ -24,6 +24,18 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2144004",
+      "name": "アデカット７．５ｍｇ錠",
+      "generic_name": "アデカット",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2142400",
+      "name": "アプレゾリン注射用２０ｍｇ",
+      "generic_name": "アプレゾリン",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0001",
       "name": "アムロジピン",
       "generic_name": "アムロジピン",
@@ -48,9 +60,27 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2144009",
+      "name": "エースコール錠１ｍｇ",
+      "generic_name": "エースコール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144011",
+      "name": "オドリック錠０．５ｍｇ",
+      "generic_name": "オドリック",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0003",
       "name": "オルメサルタン",
       "generic_name": "オルメサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144001",
+      "name": "カプトリル錠１２．５ｍｇ",
+      "generic_name": "カプトリル",
       "category": "降圧薬"
     },
     {
@@ -66,9 +96,27 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2144012",
+      "name": "コバシル錠２ｍｇ",
+      "generic_name": "コバシル",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0097",
       "name": "シルニジピン",
       "generic_name": "シルニジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144003",
+      "name": "セタプリル錠２５ｍｇ",
+      "generic_name": "セタプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144008",
+      "name": "タナトリル錠２．５　２．５ｍｇ",
+      "generic_name": "タナトリル",
       "category": "降圧薬"
     },
     {
@@ -93,6 +141,12 @@
       "yj_code": "NAIKA_0006",
       "name": "バルサルタン",
       "generic_name": "バルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2142004",
+      "name": "ヒドララジン塩酸塩散　１０％",
+      "generic_name": "ヒドララジン塩酸塩",
       "category": "降圧薬"
     },
     {
@@ -132,9 +186,33 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2143006",
+      "name": "レセルピン散０．１％",
+      "generic_name": "レセルピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2143400",
+      "name": "レセルピン注射液　０．０３％１ｍＬ",
+      "generic_name": "レセルピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144002",
+      "name": "レニベース錠２．５　２．５ｍｇ",
+      "generic_name": "レニベース",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0007",
       "name": "ロサルタン",
       "generic_name": "ロサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144006",
+      "name": "ロンゲス錠５ｍｇ",
+      "generic_name": "ロンゲス",
       "category": "降圧薬"
     }
   ]

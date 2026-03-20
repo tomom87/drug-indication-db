@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399975",
+    "name": "チョウジ油",
+    "generic_name": "チョウジ油",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "チョウジ油",
+        "kana": "ﾁｮｳｼﾞﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

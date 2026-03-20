@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100014",
+    "name": "ウチダのエイジツＭ",
+    "generic_name": "ウチダのエイジツＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのエイジツＭ",
+        "kana": "ｳﾁﾀﾞﾉｴｲｼﾞﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

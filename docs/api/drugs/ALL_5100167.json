@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100167",
+    "name": "トチモトのボクソク",
+    "generic_name": "トチモトのボクソク",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのボクソク",
+        "kana": "ﾄﾁﾓﾄﾉﾎﾞｸｿｸ"
+      }
+    ]
+  },
+  "indications": []
+}

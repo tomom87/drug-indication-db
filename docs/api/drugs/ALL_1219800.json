@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1219800",
+    "name": "エムラクリーム",
+    "generic_name": "エムラ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エムラクリーム",
+        "kana": "ｴﾑﾗｸﾘｰﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649727",
+    "name": "コンベッククリーム５％",
+    "generic_name": "コンベック",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "コンベッククリーム５％",
+        "kana": "ｺﾝﾍﾞｯｸｸﾘｰﾑ5%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319819",
+    "name": "コソプト配合点眼液",
+    "generic_name": "コソプト配合",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "コソプト配合点眼液",
+        "kana": "ｺｿﾌﾟﾄﾊｲｺﾞｳﾃﾝｶﾞﾝｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

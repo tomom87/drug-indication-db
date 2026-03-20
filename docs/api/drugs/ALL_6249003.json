@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6249003",
+    "name": "シベクトロ錠２００ｍｇ",
+    "generic_name": "シベクトロ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "シベクトロ錠２００ｍｇ",
+        "kana": "ｼﾍﾞｸﾄﾛｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

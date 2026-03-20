@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121717",
+    "name": "ステアリン酸",
+    "generic_name": "ステアリン酸",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ステアリン酸",
+        "kana": "ｽﾃｱﾘﾝｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

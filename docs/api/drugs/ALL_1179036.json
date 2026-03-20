@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179036",
+    "name": "エミレース錠３ｍｇ",
+    "generic_name": "エミレース",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "エミレース錠３ｍｇ",
+        "kana": "ｴﾐﾚｰｽｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

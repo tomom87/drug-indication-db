@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3119001",
+    "name": "チガソンカプセル１０　１０ｍｇ",
+    "generic_name": "チガソン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "チガソンカプセル１０　１０ｍｇ",
+        "kana": "ﾁｶﾞｿﾝｶﾌﾟｾﾙ10"
+      }
+    ]
+  },
+  "indications": []
+}

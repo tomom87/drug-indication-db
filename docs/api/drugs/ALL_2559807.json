@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2559807",
+    "name": "ヘルミチンＳ坐剤",
+    "generic_name": "ヘルミチンＳ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヘルミチンＳ坐剤",
+        "kana": "ﾍﾙﾐﾁﾝSｻﾞｻﾞｲ"
+      }
+    ]
+  },
+  "indications": []
+}

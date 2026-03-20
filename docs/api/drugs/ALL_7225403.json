@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7225403",
+    "name": "イヌリード注　４ｇ４０ｍＬ",
+    "generic_name": "イヌリード",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "イヌリード注　４ｇ４０ｍＬ",
+        "kana": "ｲﾇﾘｰﾄﾞﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

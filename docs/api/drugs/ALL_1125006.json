@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1125006",
+    "name": "ラボナ錠５０ｍｇ",
+    "generic_name": "ラボナ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラボナ錠５０ｍｇ",
+        "kana": "ﾗﾎﾞﾅｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

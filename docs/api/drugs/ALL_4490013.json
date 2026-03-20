@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490013",
+    "name": "レミカットカプセル１ｍｇ",
+    "generic_name": "レミカット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レミカットカプセル１ｍｇ",
+        "kana": "ﾚﾐｶｯﾄｶﾌﾟｾﾙ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

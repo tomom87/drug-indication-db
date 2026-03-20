@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291419",
+    "name": "ビダーザ注射用１００ｍｇ",
+    "generic_name": "ビダーザ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ビダーザ注射用１００ｍｇ",
+        "kana": "ﾋﾞﾀﾞｰｻﾞﾁｭｳｼｬﾖｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

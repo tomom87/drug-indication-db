@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329012",
+    "name": "セルベックスカプセル５０ｍｇ",
+    "generic_name": "セルベックス",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "セルベックスカプセル５０ｍｇ",
+        "kana": "ｾﾙﾍﾞｯｸｽｶﾌﾟｾﾙ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291065",
+    "name": "テプミトコ錠２５０ｍｇ",
+    "generic_name": "テプミトコ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "テプミトコ錠２５０ｍｇ",
+        "kana": "ﾃﾌﾟﾐﾄｺｼﾞｮｳ250MG"
+      }
+    ]
+  },
+  "indications": []
+}

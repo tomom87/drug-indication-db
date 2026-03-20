@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6429006",
+    "name": "ビルトリシド錠６００ｍｇ",
+    "generic_name": "ビルトリシド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビルトリシド錠６００ｍｇ",
+        "kana": "ﾋﾞﾙﾄﾘｼﾄﾞｼﾞｮｳ600MG"
+      }
+    ]
+  },
+  "indications": []
+}

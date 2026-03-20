@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6179003",
+    "name": "クレセンバカプセル１００ｍｇ",
+    "generic_name": "クレセンバ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "クレセンバカプセル１００ｍｇ",
+        "kana": "ｸﾚｾﾝﾊﾞｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

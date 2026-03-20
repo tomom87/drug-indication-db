@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4420002",
+    "name": "リマチル錠５０ｍｇ",
+    "generic_name": "リマチル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リマチル錠５０ｍｇ",
+        "kana": "ﾘﾏﾁﾙｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,6 +6,12 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2321001",
+      "name": "キャベジンＵコーワ錠２５ｍｇ",
+      "generic_name": "キャベジンＵコーワ",
+      "category": "消化機能調整薬"
+    },
+    {
       "yj_code": "TJ_043",
       "name": "ツムラ六君子湯エキス顆粒（医療用）",
       "generic_name": "六君子湯",

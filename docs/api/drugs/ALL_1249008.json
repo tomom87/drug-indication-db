@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249008",
+    "name": "アロフト錠２０ｍｇ",
+    "generic_name": "アロフト",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アロフト錠２０ｍｇ",
+        "kana": "ｱﾛﾌﾄｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

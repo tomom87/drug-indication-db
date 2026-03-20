@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149022",
+    "name": "ニバジール錠２ｍｇ",
+    "generic_name": "ニバジール",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ニバジール錠２ｍｇ",
+        "kana": "ﾆﾊﾞｼﾞｰﾙｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100127",
+    "name": "ウチダのチモＭ",
+    "generic_name": "ウチダのチモＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのチモＭ",
+        "kana": "ｳﾁﾀﾞﾉﾁﾓM"
+      }
+    ]
+  },
+  "indications": []
+}

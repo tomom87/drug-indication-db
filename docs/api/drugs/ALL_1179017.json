@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179017",
+    "name": "リーマス錠１００　１００ｍｇ",
+    "generic_name": "リーマス",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リーマス錠１００　１００ｍｇ",
+        "kana": "ﾘｰﾏｽｼﾞｮｳ100"
+      }
+    ]
+  },
+  "indications": []
+}

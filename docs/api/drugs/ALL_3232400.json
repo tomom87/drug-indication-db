@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3232400",
+    "name": "果糖注射液　５％２００ｍＬ",
+    "generic_name": "果糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "果糖注射液　５％２００ｍＬ",
+        "kana": "ｶﾄｳﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291092",
+    "name": "カルケンス錠１００ｍｇ",
+    "generic_name": "カルケンス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "カルケンス錠１００ｍｇ",
+        "kana": "ｶﾙｹﾝｽｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

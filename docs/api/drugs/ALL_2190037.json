@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190037",
+    "name": "ウプトラビ錠０．２ｍｇ",
+    "generic_name": "ウプトラビ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ウプトラビ錠０．２ｍｇ",
+        "kana": "ｳﾌﾟﾄﾗﾋﾞｼﾞｮｳ0.2MG"
+      }
+    ]
+  },
+  "indications": []
+}

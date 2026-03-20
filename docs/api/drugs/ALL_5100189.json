@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100189",
+    "name": "ワコウホン",
+    "generic_name": "ワコウホン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ワコウホン",
+        "kana": "ﾜｺｳﾎﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

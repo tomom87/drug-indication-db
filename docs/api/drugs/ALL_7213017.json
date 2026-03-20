@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7213017",
+    "name": "バックス発泡顆粒",
+    "generic_name": "バックス発泡",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バックス発泡顆粒",
+        "kana": "ﾊﾞｯｸｽﾊｯﾎﾟｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

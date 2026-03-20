@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454002",
+    "name": "デカドロン錠０．５ｍｇ",
+    "generic_name": "デカドロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "デカドロン錠０．５ｍｇ",
+        "kana": "ﾃﾞｶﾄﾞﾛﾝｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

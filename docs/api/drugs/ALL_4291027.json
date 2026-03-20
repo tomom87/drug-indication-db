@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291027",
+    "name": "インライタ錠１ｍｇ",
+    "generic_name": "インライタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "インライタ錠１ｍｇ",
+        "kana": "ｲﾝﾗｲﾀｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

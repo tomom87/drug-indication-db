@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2529700",
+    "name": "プロテイン銀",
+    "generic_name": "プロテイン銀",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロテイン銀",
+        "kana": "ﾌﾟﾛﾃｲﾝｷﾞﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

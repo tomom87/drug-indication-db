@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1290002",
+    "name": "ファダプス錠１０ｍｇ",
+    "generic_name": "ファダプス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ファダプス錠１０ｍｇ",
+        "kana": "ﾌｧﾀﾞﾌﾟｽｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

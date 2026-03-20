@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3190400",
+    "name": "ビオチン注１ｍｇ「フソー」",
+    "generic_name": "ビオチン",
+    "category": "その他のビタミン薬",
+    "brands": [
+      {
+        "name": "ビオチン注１ｍｇ「フソー」",
+        "kana": "ﾋﾞｵﾁﾝﾁｭｳ1MGﾌｿｰ"
+      }
+    ]
+  },
+  "indications": []
+}

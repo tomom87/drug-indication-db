@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1174005",
+    "name": "スルモンチール散１０％",
+    "generic_name": "スルモンチール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "スルモンチール散１０％",
+        "kana": "ｽﾙﾓﾝﾁｰﾙｻﾝ10%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291047",
+    "name": "メキニスト錠０．５ｍｇ",
+    "generic_name": "メキニスト",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "メキニスト錠０．５ｍｇ",
+        "kana": "ﾒｷﾆｽﾄｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

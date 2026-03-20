@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7213013",
+    "name": "バロス発泡顆粒",
+    "generic_name": "バロス発泡",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バロス発泡顆粒",
+        "kana": "ﾊﾞﾛｽﾊｯﾎﾟｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

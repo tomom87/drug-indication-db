@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100151",
+    "name": "ウチダのバクモンドウＭ",
+    "generic_name": "ウチダのバクモンドウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのバクモンドウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾊﾞｸﾓﾝﾄﾞｳM"
+      }
+    ]
+  },
+  "indications": []
+}

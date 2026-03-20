@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100187",
+    "name": "トチモトのロートコン",
+    "generic_name": "トチモトのロートコン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのロートコン",
+        "kana": "ﾄﾁﾓﾄﾉﾛｰﾄｺﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499016",
+    "name": "イセルティ錠１００ｍｇ",
+    "generic_name": "イセルティ",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "イセルティ錠１００ｍｇ",
+        "kana": "ｲｾﾙﾃｨｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

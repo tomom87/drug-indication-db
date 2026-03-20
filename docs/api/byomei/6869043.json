@@ -12,6 +12,180 @@
       "category": "ステロイド"
     },
     {
+      "yj_code": "ALL_2645701",
+      "name": "「純生」ｄｌ－カンフル",
+      "generic_name": "「純生」ｄｌ－カンフル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646727",
+      "name": "アルクロメタゾンプロピオン酸エステル軟膏０．１％「イワキ」",
+      "generic_name": "アルクロメタゾンプロピオン酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646730",
+      "name": "アンテベートクリーム０．０５％",
+      "generic_name": "アンテベート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2643700",
+      "name": "アンモニア水「ケンエー」",
+      "generic_name": "アンモニア水「ケンエー」",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646729",
+      "name": "エクラークリーム０．３％",
+      "generic_name": "エクラー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646704",
+      "name": "オイラゾンクリーム０．０５％",
+      "generic_name": "オイラゾン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646722",
+      "name": "キンダベート軟膏０．０５％",
+      "generic_name": "キンダベート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2641700",
+      "name": "サリチル酸メチル",
+      "generic_name": "サリチル酸メチル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2642701",
+      "name": "ジフェンヒドラミン　５ｇ",
+      "generic_name": "ジフェンヒドラミン　５ｇ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646720",
+      "name": "スピラゾンクリーム０．３％",
+      "generic_name": "スピラゾン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646723",
+      "name": "ダイアコート軟膏０．０５％",
+      "generic_name": "ダイアコート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646700",
+      "name": "テクスメテン軟膏０．１％",
+      "generic_name": "テクスメテン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646703",
+      "name": "デルモゾールＤＰクリーム０．０６４％",
+      "generic_name": "デルモゾールＤＰ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646713",
+      "name": "デルモベートクリーム０．０５％",
+      "generic_name": "デルモベート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646708",
+      "name": "トプシムＥクリーム０．０５％",
+      "generic_name": "トプシムＥ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646705",
+      "name": "ノギロン軟膏０．１％",
+      "generic_name": "ノギロン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646721",
+      "name": "パンデルクリーム０．１％",
+      "generic_name": "パンデル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646718",
+      "name": "ビスダームクリーム０．１％",
+      "generic_name": "ビスダーム",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646709",
+      "name": "フルコート外用液０．０１％",
+      "generic_name": "フルコート外用",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646712",
+      "name": "プレドニゾロン軟膏０．５％「ＶＴＲＳ」",
+      "generic_name": "プレドニゾロン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646701",
+      "name": "ベタメタゾン吉草酸エステル軟膏０．１２％「イワキ」",
+      "generic_name": "ベタメタゾン吉草酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646724",
+      "name": "ボアラクリーム０．１２％",
+      "generic_name": "ボアラ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646725",
+      "name": "マイザー軟膏０．０５％",
+      "generic_name": "マイザー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646726",
+      "name": "メサデルムクリーム０．１％",
+      "generic_name": "メサデルム",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646731",
+      "name": "モメタゾンフランカルボン酸エステルクリーム０．１％「イワキ」",
+      "generic_name": "モメタゾンフランカルボン酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2642702",
+      "name": "レスタミンコーワクリーム１％",
+      "generic_name": "レスタミンコーワ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646717",
+      "name": "ロコイドクリーム０．１％",
+      "generic_name": "ロコイド",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2645702",
+      "name": "ｄ－カンフル",
+      "generic_name": "ｄ－カンフル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2645700",
+      "name": "ｄｌ－カンフル精１０％「コザカイ」",
+      "generic_name": "ｄｌ－カンフル精",
+      "category": "外用ステロイド"
+    },
+    {
       "yj_code": "NAIKA_0062",
       "name": "エピナスチン",
       "generic_name": "エピナスチン",

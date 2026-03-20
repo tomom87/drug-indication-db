@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100119",
+    "name": "花扇ソボクＫ",
+    "generic_name": "花扇ソボクＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇ソボクＫ",
+        "kana": "ﾊﾅｵｳｷﾞｿﾎﾞｸK"
+      }
+    ]
+  },
+  "indications": []
+}

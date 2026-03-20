@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590011",
+    "name": "ベシケア錠２．５ｍｇ",
+    "generic_name": "ベシケア",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ベシケア錠２．５ｍｇ",
+        "kana": "ﾍﾞｼｹｱｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

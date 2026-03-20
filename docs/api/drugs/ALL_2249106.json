@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2249106",
+    "name": "メジコン配合シロップ",
+    "generic_name": "メジコン配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "メジコン配合シロップ",
+        "kana": "ﾒｼﾞｺﾝﾊｲｺﾞｳｼﾛｯﾌﾟ"
+      }
+    ]
+  },
+  "indications": []
+}

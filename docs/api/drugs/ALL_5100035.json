@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100035",
+    "name": "カマラ",
+    "generic_name": "カマラ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "カマラ",
+        "kana": "ｶﾏﾗ"
+      }
+    ]
+  },
+  "indications": []
+}

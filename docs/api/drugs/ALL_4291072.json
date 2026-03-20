@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291072",
+    "name": "ペマジール錠４．５ｍｇ",
+    "generic_name": "ペマジール",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ペマジール錠４．５ｍｇ",
+        "kana": "ﾍﾟﾏｼﾞｰﾙｼﾞｮｳ4.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

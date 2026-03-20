@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100060",
+    "name": "ウチダのゲンチアナＭ",
+    "generic_name": "ウチダのゲンチアナＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのゲンチアナＭ",
+        "kana": "ｳﾁﾀﾞﾉｹﾞﾝﾁｱﾅM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1242002",
+    "name": "ブスコパン錠１０ｍｇ",
+    "generic_name": "ブスコパン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ブスコパン錠１０ｍｇ",
+        "kana": "ﾌﾞｽｺﾊﾟﾝｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

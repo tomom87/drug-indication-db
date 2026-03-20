@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2451400",
+    "name": "ボスミン注１ｍｇ　０．１％１ｍＬ",
+    "generic_name": "ボスミン",
+    "category": "膵臓ホルモン薬",
+    "brands": [
+      {
+        "name": "ボスミン注１ｍｇ　０．１％１ｍＬ",
+        "kana": "ﾎﾞｽﾐﾝﾁｭｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

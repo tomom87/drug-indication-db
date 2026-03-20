@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190039",
+    "name": "コララン錠２．５ｍｇ",
+    "generic_name": "コララン",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "コララン錠２．５ｍｇ",
+        "kana": "ｺﾗﾗﾝｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

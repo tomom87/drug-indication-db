@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590018",
+    "name": "バイアグラ錠２５ｍｇ",
+    "generic_name": "バイアグラ",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "バイアグラ錠２５ｍｇ",
+        "kana": "ﾊﾞｲｱｸﾞﾗｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

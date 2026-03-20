@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300442",
+    "name": "ニューロライト第一",
+    "generic_name": "ニューロライト第一",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ニューロライト第一",
+        "kana": "ﾆｭｰﾛﾗｲﾄﾀﾞｲｲﾁ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590010",
+    "name": "ユリーフ錠２ｍｇ",
+    "generic_name": "ユリーフ",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ユリーフ錠２ｍｇ",
+        "kana": "ﾕﾘｰﾌｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

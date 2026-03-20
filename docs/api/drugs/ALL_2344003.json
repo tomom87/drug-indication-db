@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2344003",
+    "name": "ミルマグ錠３５０ｍｇ",
+    "generic_name": "ミルマグ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミルマグ錠３５０ｍｇ",
+        "kana": "ﾐﾙﾏｸﾞｼﾞｮｳ350MG"
+      }
+    ]
+  },
+  "indications": []
+}

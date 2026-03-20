@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190019",
+    "name": "レミニール錠４ｍｇ",
+    "generic_name": "レミニール",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "レミニール錠４ｍｇ",
+        "kana": "ﾚﾐﾆｰﾙｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

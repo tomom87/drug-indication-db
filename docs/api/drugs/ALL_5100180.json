@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100180",
+    "name": "ウチダのヨクイニンＭ",
+    "generic_name": "ウチダのヨクイニンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのヨクイニンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾖｸｲﾆﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

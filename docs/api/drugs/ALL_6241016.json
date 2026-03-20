@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6241016",
+    "name": "アベロックス錠４００ｍｇ",
+    "generic_name": "アベロックス",
+    "category": "抗ウイルス薬",
+    "brands": [
+      {
+        "name": "アベロックス錠４００ｍｇ",
+        "kana": "ｱﾍﾞﾛｯｸｽｼﾞｮｳ400MG"
+      }
+    ]
+  },
+  "indications": []
+}

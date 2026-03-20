@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329028",
+    "name": "パリエット錠１０ｍｇ",
+    "generic_name": "パリエット",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "パリエット錠１０ｍｇ",
+        "kana": "ﾊﾟﾘｴｯﾄｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

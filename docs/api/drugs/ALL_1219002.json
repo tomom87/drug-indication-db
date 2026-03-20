@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1219002",
+    "name": "ストロカイン錠５ｍｇ",
+    "generic_name": "ストロカイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ストロカイン錠５ｍｇ",
+        "kana": "ｽﾄﾛｶｲﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

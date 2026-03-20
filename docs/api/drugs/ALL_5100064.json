@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100064",
+    "name": "ウチダのコウジン末Ｍ",
+    "generic_name": "ウチダのコウジン末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのコウジン末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｺｳｼﾞﾝﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

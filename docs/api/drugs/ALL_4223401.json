@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4223401",
+    "name": "５－ＦＵ注１０００ｍｇ　１，０００ｍｇ",
+    "generic_name": "５－ＦＵ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "５－ＦＵ注１０００ｍｇ　１，０００ｍｇ",
+        "kana": "5-FUﾁｭｳ1000MG"
+      }
+    ]
+  },
+  "indications": []
+}

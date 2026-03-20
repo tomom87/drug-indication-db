@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1114700",
+    "name": "麻酔用エーテル",
+    "generic_name": "麻酔用エーテル",
+    "category": "全身麻酔薬",
+    "brands": [
+      {
+        "name": "麻酔用エーテル",
+        "kana": "ﾏｽｲﾖｳｴｰﾃﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

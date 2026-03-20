@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149015",
+    "name": "デタントールＲ錠３ｍｇ",
+    "generic_name": "デタントールＲ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "デタントールＲ錠３ｍｇ",
+        "kana": "ﾃﾞﾀﾝﾄｰﾙRｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

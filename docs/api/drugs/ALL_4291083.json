@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291083",
+    "name": "オムジャラ錠１００ｍｇ",
+    "generic_name": "オムジャラ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "オムジャラ錠１００ｍｇ",
+        "kana": "ｵﾑｼﾞｬﾗｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

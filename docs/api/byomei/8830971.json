@@ -18,6 +18,30 @@
       "category": "消化器薬"
     },
     {
+      "yj_code": "ALL_2331003",
+      "name": "ジアスターゼ",
+      "generic_name": "ジアスターゼ",
+      "category": "消化管運動促進薬"
+    },
+    {
+      "yj_code": "ALL_2331006",
+      "name": "パンクレアチン「三恵」",
+      "generic_name": "パンクレアチン「三恵」",
+      "category": "消化管運動促進薬"
+    },
+    {
+      "yj_code": "ALL_2331007",
+      "name": "リパクレオン顆粒３００ｍｇ分包",
+      "generic_name": "リパクレオン",
+      "category": "消化管運動促進薬"
+    },
+    {
+      "yj_code": "ALL_2331001",
+      "name": "含糖ペプシン",
+      "generic_name": "含糖ペプシン",
+      "category": "消化管運動促進薬"
+    },
+    {
       "yj_code": "TJ_081",
       "name": "ツムラ二陳湯エキス顆粒（医療用）",
       "generic_name": "二陳湯",

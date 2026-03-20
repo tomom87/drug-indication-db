@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2662702",
+    "name": "水酸化カリウム",
+    "generic_name": "水酸化カリウム",
+    "category": "外用抗真菌薬",
+    "brands": [
+      {
+        "name": "水酸化カリウム",
+        "kana": "ｽｲｻﾝｶｶﾘｳﾑ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8838926",
+      "name": "白癬",
+      "kana": "4",
+      "icd10": "B359"
+    }
+  ]
+}

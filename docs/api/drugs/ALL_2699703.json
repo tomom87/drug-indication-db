@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699703",
+    "name": "アクトシン軟膏３％",
+    "generic_name": "アクトシン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "アクトシン軟膏３％",
+        "kana": "ｱｸﾄｼﾝﾅﾝｺｳ3%"
+      }
+    ]
+  },
+  "indications": []
+}

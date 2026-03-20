@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2249001",
+    "name": "レスプレン錠５ｍｇ",
+    "generic_name": "レスプレン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レスプレン錠５ｍｇ",
+        "kana": "ﾚｽﾌﾟﾚﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

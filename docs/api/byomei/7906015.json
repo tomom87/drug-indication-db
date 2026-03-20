@@ -6,6 +6,60 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_3919502",
+      "name": "アミファーゲンＰ注２０ｍＬ",
+      "generic_name": "アミファーゲンＰ",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919100",
+      "name": "グリチロン配合錠",
+      "generic_name": "グリチロン配合",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919007",
+      "name": "セロシオンカプセル１０　１０ｍｇ",
+      "generic_name": "セロシオン",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919006",
+      "name": "タウリン散９８％「大正」",
+      "generic_name": "タウリン",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919003",
+      "name": "チオラ錠１００　１００ｍｇ",
+      "generic_name": "チオラ",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919401",
+      "name": "デファイテリオ静注２００ｍｇ　２．５ｍＬ",
+      "generic_name": "デファイテリオ静",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919009",
+      "name": "ビルベイ顆粒２００μｇ",
+      "generic_name": "ビルベイ",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919002",
+      "name": "リバオール散１０％",
+      "generic_name": "リバオール",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919008",
+      "name": "リブマーリ内用液１０ｍｇ／ｍＬ　１％３０ｍＬ",
+      "generic_name": "リブマーリ内用",
+      "category": "痛風薬"
+    },
+    {
       "yj_code": "NAIKA_0071",
       "name": "アロプリノール",
       "generic_name": "アロプリノール",

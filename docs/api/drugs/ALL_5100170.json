@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100170",
+    "name": "ウチダのマオウＭ",
+    "generic_name": "ウチダのマオウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのマオウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾏｵｳM"
+      }
+    ]
+  },
+  "indications": []
+}

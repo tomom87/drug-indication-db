@@ -12,6 +12,30 @@
       "category": "抗菌薬"
     },
     {
+      "yj_code": "ALL_6141400",
+      "name": "エリスロシン点滴静注用５００ｍｇ",
+      "generic_name": "エリスロシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141004",
+      "name": "エリスロシン錠１００ｍｇ",
+      "generic_name": "エリスロシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141001",
+      "name": "エリスロシンＷ顆粒２０％　２００ｍｇ",
+      "generic_name": "エリスロシンＷ",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141002",
+      "name": "エリスロマイシン錠２００ｍｇ「サワイ」",
+      "generic_name": "エリスロマイシン",
+      "category": "抗菌薬"
+    },
+    {
       "yj_code": "NAIKA_0055",
       "name": "クラリスロマイシン",
       "generic_name": "クラリスロマイシン",

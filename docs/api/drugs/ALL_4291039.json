@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291039",
+    "name": "レンビマカプセル４ｍｇ",
+    "generic_name": "レンビマ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "レンビマカプセル４ｍｇ",
+        "kana": "ﾚﾝﾋﾞﾏｶﾌﾟｾﾙ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

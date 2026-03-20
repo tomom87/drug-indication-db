@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3179514",
+    "name": "マルタミン注射用",
+    "generic_name": "マルタミン",
+    "category": "混合ビタミン薬",
+    "brands": [
+      {
+        "name": "マルタミン注射用",
+        "kana": "ﾏﾙﾀﾐﾝﾁｭｳｼｬﾖｳ"
+      }
+    ]
+  },
+  "indications": []
+}

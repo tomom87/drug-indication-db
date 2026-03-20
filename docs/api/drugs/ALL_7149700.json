@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7149700",
+    "name": "ユーカリ油",
+    "generic_name": "ユーカリ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ユーカリ油",
+        "kana": "ﾕｰｶﾘﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,15 +6,435 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2662700",
+      "name": "カリ石ケン「ニッコー」",
+      "generic_name": "カリ石ケン「ニッコー」",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2662701",
+      "name": "グリセリンカリ液「ケンエー」",
+      "generic_name": "グリセリンカリ",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2661701",
+      "name": "サリチル酸絆創膏　２５ｃｍ２",
+      "generic_name": "サリチル酸絆創膏　２５ｃｍ２",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2662702",
+      "name": "水酸化カリウム",
+      "generic_name": "水酸化カリウム",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2661702",
+      "name": "氷酢酸「ケンエー」",
+      "generic_name": "氷酢酸「ケンエー」",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2663700",
+      "name": "硝酸銀「ＶＴＲＳ」原末",
+      "generic_name": "硝酸銀「ＶＴＲＳ」原末",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_2661700",
+      "name": "酢酸「ケンエー」",
+      "generic_name": "酢酸「ケンエー」",
+      "category": "外用抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250032",
+      "name": "アイセントレス錠４００ｍｇ",
+      "generic_name": "アイセントレス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250054",
+      "name": "アビガン錠２００ｍｇ",
+      "generic_name": "アビガン",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250046",
+      "name": "アメナリーフ錠２００ｍｇ",
+      "generic_name": "アメナリーフ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250400",
+      "name": "アラセナ－Ａ点滴静注用３００ｍｇ",
+      "generic_name": "アラセナ－Ａ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250700",
+      "name": "アラセナ－Ａ軟膏３％",
+      "generic_name": "アラセナ－Ａ",
+      "category": "抗真菌薬"
+    },
+    {
       "yj_code": "NAIKA_0168",
       "name": "イトラコナゾール",
       "generic_name": "イトラコナゾール",
       "category": "抗真菌薬"
     },
     {
+      "yj_code": "ALL_6250703",
+      "name": "イナビル吸入粉末剤２０ｍｇ",
+      "generic_name": "イナビル",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250036",
+      "name": "エジュラント錠２５ｍｇ",
+      "generic_name": "エジュラント",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250006",
+      "name": "エピビル錠１５０　１５０ｍｇ",
+      "generic_name": "エピビル",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250116",
+      "name": "エプクルーサ配合錠",
+      "generic_name": "エプクルーサ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250102",
+      "name": "エプジコム配合錠",
+      "generic_name": "エプジコム配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250114",
+      "name": "オデフシィ配合錠",
+      "generic_name": "オデフシィ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250101",
+      "name": "カレトラ配合内用液",
+      "generic_name": "カレトラ配合内用",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250109",
+      "name": "ゲンボイヤ配合錠",
+      "generic_name": "ゲンボイヤ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250100",
+      "name": "コンビビル配合錠",
+      "generic_name": "コンビビル配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250014",
+      "name": "ザイアジェン錠３００ｍｇ",
+      "generic_name": "ザイアジェン",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250404",
+      "name": "シナジス筋注液５０ｍｇ　０．５ｍＬ",
+      "generic_name": "シナジス筋",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250118",
+      "name": "シムツーザ配合錠",
+      "generic_name": "シムツーザ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250410",
+      "name": "シュンレンカ皮下注４６３．５ｍｇ　１．５ｍＬ２瓶",
+      "generic_name": "シュンレンカ皮下",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250053",
+      "name": "シュンレンカ錠３００ｍｇ",
+      "generic_name": "シュンレンカ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250034",
+      "name": "シーエルセントリ錠１５０ｍｇ",
+      "generic_name": "シーエルセントリ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250115",
+      "name": "ジャルカ配合錠",
+      "generic_name": "ジャルカ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250020",
+      "name": "ゼフィックス錠１００　１００ｍｇ",
+      "generic_name": "ゼフィックス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250052",
+      "name": "ゾコーバ錠１２５ｍｇ",
+      "generic_name": "ゾコーバ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250701",
+      "name": "ゾビラックスクリーム５％",
+      "generic_name": "ゾビラックス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250401",
+      "name": "ゾビラックス点滴静注用２５０　２５０ｍｇ",
+      "generic_name": "ゾビラックス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250002",
+      "name": "ゾビラックス顆粒４０％",
+      "generic_name": "ゾビラックス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250047",
+      "name": "ゾフルーザ錠１０ｍｇ",
+      "generic_name": "ゾフルーザ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250021",
+      "name": "タミフルカプセル７５　７５ｍｇ",
+      "generic_name": "タミフル",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250103",
+      "name": "ツルバダ配合錠",
+      "generic_name": "ツルバダ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250038",
+      "name": "テビケイ錠５０ｍｇ",
+      "generic_name": "テビケイ",
+      "category": "抗真菌薬"
+    },
+    {
       "yj_code": "NAIKA_0170",
       "name": "テルビナフィン",
       "generic_name": "テルビナフィン",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250111",
+      "name": "デシコビ配合錠ＨＴ",
+      "generic_name": "デシコビ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250402",
+      "name": "デノシン点滴静注用５００ｍｇ",
+      "generic_name": "デノシン",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250106",
+      "name": "トリーメク配合錠",
+      "generic_name": "トリーメク配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250119",
+      "name": "ドウベイト配合錠",
+      "generic_name": "ドウベイト配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250011",
+      "name": "ノービア錠１００ｍｇ",
+      "generic_name": "ノービア",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250107",
+      "name": "ハーボニー配合錠",
+      "generic_name": "ハーボニー配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250029",
+      "name": "バラクルード錠０．５ｍｇ",
+      "generic_name": "バラクルード",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250025",
+      "name": "バリキサ錠４５０ｍｇ",
+      "generic_name": "バリキサ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250019",
+      "name": "バルトレックス錠５００　５００ｍｇ",
+      "generic_name": "バルトレックス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250120",
+      "name": "パキロビッドパック３００",
+      "generic_name": "パキロビッドパック３００",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250117",
+      "name": "ビクタルビ配合錠",
+      "generic_name": "ビクタルビ配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250013",
+      "name": "ビラミューン錠２００　２００ｍｇ",
+      "generic_name": "ビラミューン",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250024",
+      "name": "ビリアード錠３００ｍｇ",
+      "generic_name": "ビリアード",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250049",
+      "name": "ピフェルトロ錠１００ｍｇ",
+      "generic_name": "ピフェルトロ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250031",
+      "name": "ファムビル錠２５０ｍｇ",
+      "generic_name": "ファムビル",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250030",
+      "name": "プリジスタ錠６００ｍｇ",
+      "generic_name": "プリジスタ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250110",
+      "name": "プレジコビックス配合錠",
+      "generic_name": "プレジコビックス配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250406",
+      "name": "プレバイミス点滴静注２４０ｍｇ　１２ｍＬ",
+      "generic_name": "プレバイミス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250048",
+      "name": "プレバイミス錠２４０ｍｇ",
+      "generic_name": "プレバイミス",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250411",
+      "name": "ベイフォータス筋注５０ｍｇシリンジ　０．５ｍＬ",
+      "generic_name": "ベイフォータス筋",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250407",
+      "name": "ベクルリー点滴静注用１００ｍｇ",
+      "generic_name": "ベクルリー",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250045",
+      "name": "ベムリディ錠２５ｍｇ",
+      "generic_name": "ベムリディ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250408",
+      "name": "ボカブリア水懸筋注４００ｍｇ　２ｍＬ",
+      "generic_name": "ボカブリア水懸筋",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250050",
+      "name": "ボカブリア錠３０ｍｇ",
+      "generic_name": "ボカブリア",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250113",
+      "name": "マヴィレット配合錠",
+      "generic_name": "マヴィレット配合",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250051",
+      "name": "ラゲブリオ錠４００ｍｇ",
+      "generic_name": "ラゲブリオ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250405",
+      "name": "ラピアクタ点滴静注液バッグ３００ｍｇ　６０ｍＬ",
+      "generic_name": "ラピアクタ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250409",
+      "name": "リカムビス水懸筋注６００ｍｇ　２ｍＬ",
+      "generic_name": "リカムビス水懸筋",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250055",
+      "name": "リブテンシティ錠２００ｍｇ",
+      "generic_name": "リブテンシティ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250702",
+      "name": "リレンザ　５ｍｇ",
+      "generic_name": "リレンザ",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250001",
+      "name": "レトロビルカプセル１００ｍｇ",
+      "generic_name": "レトロビル",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250022",
+      "name": "レベトールカプセル２００ｍｇ",
+      "generic_name": "レベトール",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "ALL_6250403",
+      "name": "点滴静注用ホスカビル注２４ｍｇ／ｍＬ　６ｇ２５０ｍＬ",
+      "generic_name": "",
       "category": "抗真菌薬"
     },
     {

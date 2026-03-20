@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100041",
+    "name": "トチモトのカンテン末",
+    "generic_name": "トチモトのカンテン末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのカンテン末",
+        "kana": "ﾄﾁﾓﾄﾉｶﾝﾃﾝﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

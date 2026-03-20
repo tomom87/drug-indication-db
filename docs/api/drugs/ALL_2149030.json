@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149030",
+    "name": "ヒポカ５ｍｇカプセル",
+    "generic_name": "ヒポカ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ヒポカ５ｍｇカプセル",
+        "kana": "ﾋﾎﾟｶ5MGｶﾌﾟｾﾙ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

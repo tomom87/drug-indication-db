@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300419",
+    "name": "プールシンチ注",
+    "generic_name": "プールシンチ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プールシンチ注",
+        "kana": "ﾌﾟｰﾙｼﾝﾁﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

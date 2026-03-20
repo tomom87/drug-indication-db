@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329029",
+    "name": "ネキシウムカプセル１０ｍｇ",
+    "generic_name": "ネキシウム",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ネキシウムカプセル１０ｍｇ",
+        "kana": "ﾈｷｼｳﾑｶﾌﾟｾﾙ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

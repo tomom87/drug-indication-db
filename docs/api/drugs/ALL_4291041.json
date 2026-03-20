@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291041",
+    "name": "カプレルサ錠１００ｍｇ",
+    "generic_name": "カプレルサ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "カプレルサ錠１００ｍｇ",
+        "kana": "ｶﾌﾟﾚﾙｻｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

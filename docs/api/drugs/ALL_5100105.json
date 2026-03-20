@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100105",
+    "name": "トチモトのショウバク",
+    "generic_name": "トチモトのショウバク",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのショウバク",
+        "kana": "ﾄﾁﾓﾄﾉｼｮｳﾊﾞｸ"
+      }
+    ]
+  },
+  "indications": []
+}

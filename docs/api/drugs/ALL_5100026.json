@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100026",
+    "name": "ウチダのカゴソウＭ",
+    "generic_name": "ウチダのカゴソウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのカゴソウＭ",
+        "kana": "ｳﾁﾀﾞﾉｶｺﾞｿｳM"
+      }
+    ]
+  },
+  "indications": []
+}

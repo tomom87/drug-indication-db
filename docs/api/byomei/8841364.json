@@ -6,6 +6,90 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_3253411",
+      "name": "アミゼットＢ輸液　２００ｍＬ",
+      "generic_name": "アミゼットＢ輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253407",
+      "name": "アミニック輸液　２００ｍＬ",
+      "generic_name": "アミニック輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253003",
+      "name": "アミノバクト配合顆粒　４．７４ｇ",
+      "generic_name": "アミノバクト配合",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253406",
+      "name": "アミパレン輸液　２００ｍＬ",
+      "generic_name": "アミパレン輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253001",
+      "name": "アミユー配合顆粒　２．５ｇ",
+      "generic_name": "アミユー配合",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253414",
+      "name": "キドミン輸液　２００ｍＬ",
+      "generic_name": "キドミン輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253415",
+      "name": "ネオアミユー輸液　２００ｍＬ",
+      "generic_name": "ネオアミユー輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253404",
+      "name": "ヒカリレバン注　２００ｍＬ",
+      "generic_name": "ヒカリレバン",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253412",
+      "name": "プレアミン－Ｐ注射液　２００ｍＬ",
+      "generic_name": "プレアミン－Ｐ",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253401",
+      "name": "モリアミンＳ注　（１０％）２００ｍＬ",
+      "generic_name": "モリアミンＳ",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253403",
+      "name": "モリプロンＦ輸液　２００ｍＬ",
+      "generic_name": "モリプロンＦ輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253410",
+      "name": "モリヘパミン点滴静注　２００ｍＬ",
+      "generic_name": "モリヘパミン",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253416",
+      "name": "ライザケア輸液　１Ｌ",
+      "generic_name": "ライザケア輸",
+      "category": "リン吸着薬"
+    },
+    {
+      "yj_code": "ALL_3253002",
+      "name": "ＥＳポリタミン配合顆粒",
+      "generic_name": "ＥＳポリタミン配合",
+      "category": "リン吸着薬"
+    },
+    {
       "yj_code": "NAIKA_0188",
       "name": "セベラマー",
       "generic_name": "セベラマー",

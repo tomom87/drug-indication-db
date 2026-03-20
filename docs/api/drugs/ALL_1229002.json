@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1229002",
+    "name": "ダントリウムカプセル２５ｍｇ",
+    "generic_name": "ダントリウム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ダントリウムカプセル２５ｍｇ",
+        "kana": "ﾀﾞﾝﾄﾘｳﾑｶﾌﾟｾﾙ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

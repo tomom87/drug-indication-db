@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100158",
+    "name": "ウチダのビャクジュツＭ",
+    "generic_name": "ウチダのビャクジュツＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのビャクジュツＭ",
+        "kana": "ｳﾁﾀﾞﾉﾋﾞｬｸｼﾞｭﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

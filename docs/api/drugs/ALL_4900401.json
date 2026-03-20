@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900401",
+    "name": "ステミラック注",
+    "generic_name": "ステミラック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ステミラック注",
+        "kana": "ｽﾃﾐﾗｯｸﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

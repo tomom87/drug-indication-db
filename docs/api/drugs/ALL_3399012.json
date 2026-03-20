@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3399012",
+    "name": "ドプテレット錠２０ｍｇ",
+    "generic_name": "ドプテレット",
+    "category": "その他の血液用薬",
+    "brands": [
+      {
+        "name": "ドプテレット錠２０ｍｇ",
+        "kana": "ﾄﾞﾌﾟﾃﾚｯﾄｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

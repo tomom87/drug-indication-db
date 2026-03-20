@@ -10,6 +10,36 @@
       "name": "葉酸",
       "generic_name": "葉酸",
       "category": "ビタミン"
+    },
+    {
+      "yj_code": "ALL_3134002",
+      "name": "ビタミンＢ６散１０％「マルイシ」",
+      "generic_name": "ビタミンＢ６",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134003",
+      "name": "ピドキサール錠１０ｍｇ",
+      "generic_name": "ピドキサール",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134402",
+      "name": "ピリドキサール注１０ｍｇ「イセイ」",
+      "generic_name": "ピリドキサール",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134001",
+      "name": "ピリドキシン塩酸塩",
+      "generic_name": "ピリドキシン塩酸塩",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134400",
+      "name": "ピリドキシン塩酸塩注射液　１０ｍｇ",
+      "generic_name": "ピリドキシン塩酸塩",
+      "category": "葉酸"
     }
   ]
 }

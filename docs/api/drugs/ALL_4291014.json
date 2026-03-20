@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291014",
+    "name": "アムノレイク錠２ｍｇ",
+    "generic_name": "アムノレイク",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アムノレイク錠２ｍｇ",
+        "kana": "ｱﾑﾉﾚｲｸｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

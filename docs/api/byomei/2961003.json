@@ -64,6 +64,72 @@
       "name": "アリピプラゾール",
       "generic_name": "アリピプラゾール",
       "category": "抗精神病薬"
+    },
+    {
+      "yj_code": "ALL_1172007",
+      "name": "トリラホン散１％",
+      "generic_name": "トリラホン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172005",
+      "name": "ニューレプチル錠１０ｍｇ",
+      "generic_name": "ニューレプチル",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172404",
+      "name": "ノバミン筋注５ｍｇ　０．５％１ｍＬ",
+      "generic_name": "ノバミン筋",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014",
+      "name": "ヒルナミン錠（２５ｍｇ）",
+      "generic_name": "ヒルナミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172004",
+      "name": "ピーゼットシー散１％",
+      "generic_name": "ピーゼットシー",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172402",
+      "name": "ピーゼットシー筋注２ｍｇ　０．２％１ｍＬ",
+      "generic_name": "ピーゼットシー筋",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172405",
+      "name": "フルデカシン筋注２５ｍｇ　１ｍＬ",
+      "generic_name": "フルデカシン筋",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172009",
+      "name": "フルメジン散０．２％",
+      "generic_name": "フルメジン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172010",
+      "name": "プロクロルペラジンマレイン酸塩錠　５ｍｇ",
+      "generic_name": "プロクロルペラジンマレイン酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172013",
+      "name": "ペルフェナジンマレイン酸塩錠　２ｍｇ",
+      "generic_name": "ペルフェナジンマレイン酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172006",
+      "name": "ペルフェナジン錠　２ｍｇ",
+      "generic_name": "ペルフェナジン",
+      "category": "精神神経用薬"
     }
   ]
 }

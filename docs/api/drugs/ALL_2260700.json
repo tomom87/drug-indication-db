@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2260700",
+    "name": "アズレイうがい液４％",
+    "generic_name": "アズレイうがい",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アズレイうがい液４％",
+        "kana": "ｱｽﾞﾚｲｳｶﾞｲｴｷ4%"
+      }
+    ]
+  },
+  "indications": []
+}

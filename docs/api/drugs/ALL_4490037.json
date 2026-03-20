@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490037",
+    "name": "サイバインコ錠５０ｍｇ",
+    "generic_name": "サイバインコ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サイバインコ錠５０ｍｇ",
+        "kana": "ｻｲﾊﾞｲﾝｺｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

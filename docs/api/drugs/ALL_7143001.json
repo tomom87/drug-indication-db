@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7143001",
+    "name": "ウイキョウ油",
+    "generic_name": "ウイキョウ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ウイキョウ油",
+        "kana": "ｳｲｷｮｳﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

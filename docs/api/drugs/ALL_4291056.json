@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291056",
+    "name": "ビジンプロ錠１５ｍｇ",
+    "generic_name": "ビジンプロ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ビジンプロ錠１５ｍｇ",
+        "kana": "ﾋﾞｼﾞﾝﾌﾟﾛｼﾞｮｳ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

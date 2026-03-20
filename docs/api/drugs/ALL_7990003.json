@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7990003",
+    "name": "チャンピックス錠０．５ｍｇ",
+    "generic_name": "チャンピックス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "チャンピックス錠０．５ｍｇ",
+        "kana": "ﾁｬﾝﾋﾟｯｸｽｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

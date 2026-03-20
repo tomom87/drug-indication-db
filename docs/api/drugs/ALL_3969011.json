@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969011",
+    "name": "エクア錠５０ｍｇ",
+    "generic_name": "エクア",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "エクア錠５０ｍｇ",
+        "kana": "ｴｸｱｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

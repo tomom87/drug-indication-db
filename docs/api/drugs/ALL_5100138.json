@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100138",
+    "name": "トウドクカツ",
+    "generic_name": "トウドクカツ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トウドクカツ",
+        "kana": "ﾄｳﾄﾞｸｶﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

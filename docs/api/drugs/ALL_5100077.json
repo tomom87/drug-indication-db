@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100077",
+    "name": "ザクロヒ",
+    "generic_name": "ザクロヒ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ザクロヒ",
+        "kana": "ｻﾞｸﾛﾋ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -22,6 +22,84 @@
       "name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
       "generic_name": "茵蔯蒿湯",
       "category": "漢方"
+    },
+    {
+      "yj_code": "ALL_2359006",
+      "name": "アミティーザカプセル２４μｇ",
+      "generic_name": "アミティーザ",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359001",
+      "name": "カルメロースナトリウム",
+      "generic_name": "カルメロースナトリウム",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359008",
+      "name": "グーフィス錠５ｍｇ",
+      "generic_name": "グーフィス",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359007",
+      "name": "スインプロイク錠０．２ｍｇ",
+      "generic_name": "スインプロイク",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359103",
+      "name": "セチロ配合錠",
+      "generic_name": "セチロ配合",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359700",
+      "name": "テレミンソフト坐薬１０ｍｇ",
+      "generic_name": "テレミンソフト坐薬",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359108",
+      "name": "ビーマス配合錠",
+      "generic_name": "ビーマス配合",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359005",
+      "name": "ピコスルファートナトリウム顆粒１％「ゼリア」",
+      "generic_name": "ピコスルファートナトリウム",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359102",
+      "name": "ピムロ顆粒",
+      "generic_name": "ピムロ",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359701",
+      "name": "メチルセルロース",
+      "generic_name": "メチルセルロース",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359110",
+      "name": "モビコール配合内用剤ＬＤ　６．８５２３ｇ",
+      "generic_name": "モビコール配合内用剤ＬＤ　６．８５２３ｇ",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359800",
+      "name": "新レシカルボン坐剤",
+      "generic_name": "新レシカルボン",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359106",
+      "name": "複方甘草散「スズ」",
+      "generic_name": "複方甘草",
+      "category": "肝臓用薬"
     }
   ]
 }

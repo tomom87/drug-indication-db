@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100094",
+    "name": "ウチダのシャクヤクＭ",
+    "generic_name": "ウチダのシャクヤクＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのシャクヤクＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｬｸﾔｸM"
+      }
+    ]
+  },
+  "indications": []
+}

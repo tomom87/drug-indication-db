@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499007",
+    "name": "ボンゾール錠１００ｍｇ",
+    "generic_name": "ボンゾール",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "ボンゾール錠１００ｍｇ",
+        "kana": "ﾎﾞﾝｿﾞｰﾙｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

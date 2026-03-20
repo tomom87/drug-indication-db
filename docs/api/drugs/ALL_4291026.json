@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291026",
+    "name": "ザーコリカプセル２００ｍｇ",
+    "generic_name": "ザーコリ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ザーコリカプセル２００ｍｇ",
+        "kana": "ｻﾞｰｺﾘｶﾌﾟｾﾙ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2362001",
+    "name": "ウルソ顆粒５％",
+    "generic_name": "ウルソ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ウルソ顆粒５％",
+        "kana": "ｳﾙｿｶﾘｭｳ5%"
+      }
+    ]
+  },
+  "indications": []
+}

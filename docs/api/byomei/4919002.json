@@ -18,9 +18,39 @@
       "category": "去痰薬"
     },
     {
+      "yj_code": "ALL_2233004",
+      "name": "クリアナール錠２００ｍｇ",
+      "generic_name": "クリアナール",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "ALL_2231001",
+      "name": "セネガシロップ",
+      "generic_name": "セネガ",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "ALL_2233001",
+      "name": "チスタニン糖衣錠１００ｍｇ",
+      "generic_name": "チスタニン糖衣",
+      "category": "去痰薬"
+    },
+    {
       "yj_code": "NAIKA_0151",
       "name": "フドステイン",
       "generic_name": "フドステイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "ALL_2233002",
+      "name": "ムコダイン錠５００ｍｇ",
+      "generic_name": "ムコダイン",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "ALL_2233700",
+      "name": "ムコフィリン吸入液２０％　１７．６２％２ｍＬ",
+      "generic_name": "ムコフィリン",
       "category": "去痰薬"
     },
     {

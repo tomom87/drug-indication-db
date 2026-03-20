@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190021",
+    "name": "コレアジン錠１２．５ｍｇ",
+    "generic_name": "コレアジン",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "コレアジン錠１２．５ｍｇ",
+        "kana": "ｺﾚｱｼﾞﾝｼﾞｮｳ12.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100181",
+    "name": "花扇リュウガンニクＫ",
+    "generic_name": "花扇リュウガンニクＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇リュウガンニクＫ",
+        "kana": "ﾊﾅｵｳｷﾞﾘｭｳｶﾞﾝﾆｸK"
+      }
+    ]
+  },
+  "indications": []
+}

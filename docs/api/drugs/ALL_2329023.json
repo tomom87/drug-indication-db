@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329023",
+    "name": "タケプロンＯＤ錠１５　１５ｍｇ",
+    "generic_name": "タケプロンＯＤ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "タケプロンＯＤ錠１５　１５ｍｇ",
+        "kana": "ﾀｹﾌﾟﾛﾝODｼﾞｮｳ15"
+      }
+    ]
+  },
+  "indications": []
+}

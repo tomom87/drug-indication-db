@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590002",
+    "name": "ブラダロン錠２００ｍｇ",
+    "generic_name": "ブラダロン",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ブラダロン錠２００ｍｇ",
+        "kana": "ﾌﾞﾗﾀﾞﾛﾝｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

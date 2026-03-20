@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649805",
+    "name": "ユベラ軟膏",
+    "generic_name": "ユベラ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ユベラ軟膏",
+        "kana": "ﾕﾍﾞﾗﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

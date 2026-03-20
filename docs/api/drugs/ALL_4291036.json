@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291036",
+    "name": "ボシュリフ錠１００ｍｇ",
+    "generic_name": "ボシュリフ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ボシュリフ錠１００ｍｇ",
+        "kana": "ﾎﾞｼｭﾘﾌｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

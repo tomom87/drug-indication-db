@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2479004",
+    "name": "プレマリン錠０．６２５ｍｇ",
+    "generic_name": "プレマリン",
+    "category": "性ホルモン薬",
+    "brands": [
+      {
+        "name": "プレマリン錠０．６２５ｍｇ",
+        "kana": "ﾌﾟﾚﾏﾘﾝｼﾞｮｳ0.625MG"
+      }
+    ]
+  },
+  "indications": []
+}

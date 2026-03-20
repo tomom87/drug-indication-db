@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190008",
+    "name": "サノレックス錠０．５ｍｇ",
+    "generic_name": "サノレックス",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "サノレックス錠０．５ｍｇ",
+        "kana": "ｻﾉﾚｯｸｽｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

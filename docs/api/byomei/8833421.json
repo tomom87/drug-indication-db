@@ -6,6 +6,36 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2133001",
+      "name": "アルダクトンＡ錠５０ｍｇ",
+      "generic_name": "アルダクトンＡ",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133400",
+      "name": "ソルダクトン静注用１００ｍｇ",
+      "generic_name": "ソルダクトン静",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133002",
+      "name": "トリテレン・カプセル５０ｍｇ",
+      "generic_name": "トリテレン・",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2132004",
+      "name": "ヒドロクロロチアジド錠２５ｍｇ「トーワ」",
+      "generic_name": "ヒドロクロロチアジド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2132003",
+      "name": "フルイトラン錠２ｍｇ",
+      "generic_name": "フルイトラン",
+      "category": "利尿薬"
+    },
+    {
       "yj_code": "NAIKA_0176",
       "name": "ジルチアゼム",
       "generic_name": "ジルチアゼム",
@@ -84,9 +114,159 @@
       "category": "漢方"
     },
     {
+      "yj_code": "ALL_2171023",
+      "name": "アイトロール錠１０ｍｇ",
+      "generic_name": "アイトロール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171014",
+      "name": "アダラートＣＲ錠１０ｍｇ",
+      "generic_name": "アダラートＣＲ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171021",
+      "name": "コニール錠２　２ｍｇ",
+      "generic_name": "コニール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171005",
+      "name": "コメリアンコーワ錠５０　５０ｍｇ",
+      "generic_name": "コメリアンコーワ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171017",
+      "name": "シグマート錠２．５ｍｇ",
+      "generic_name": "シグマート",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171402",
+      "name": "ジピリダモール静注液１０ｍｇ「日医工」　０．５％２ｍＬ",
+      "generic_name": "ジピリダモール静",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171405",
+      "name": "ジルチアゼム塩酸塩注射用２５０ｍｇ「サワイ」",
+      "generic_name": "ジルチアゼム塩酸塩",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171406",
+      "name": "ニコランジル点滴静注用２ｍｇ「サワイ」",
+      "generic_name": "ニコランジル",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171020",
+      "name": "ニトレンジピン５ｍｇ錠",
+      "generic_name": "ニトレンジピン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171013",
+      "name": "ニトログリセリン錠　０．３ｍｇ",
+      "generic_name": "ニトログリセリン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171018",
+      "name": "ニトロペン舌下錠０．３ｍｇ",
+      "generic_name": "ニトロペン舌下",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171404",
+      "name": "ニトロール持続静注２５ｍｇシリンジ　５０ｍＬ",
+      "generic_name": "ニトロール持続静",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171011",
+      "name": "ニトロールＲカプセル２０ｍｇ",
+      "generic_name": "ニトロールＲ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171022",
+      "name": "ノルバスク錠２．５ｍｇ",
+      "generic_name": "ノルバスク",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171007",
+      "name": "バスタレルＦ錠３ｍｇ",
+      "generic_name": "バスタレルＦ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171701",
+      "name": "バソレーターテープ２７ｍｇ　１４ｃｍ２",
+      "generic_name": "バソレーター",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171700",
+      "name": "フランドルテープ４０ｍｇ",
+      "generic_name": "フランドル",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171006",
+      "name": "ヘルベッサー錠６０　６０ｍｇ",
+      "generic_name": "ヘルベッサー",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171010",
+      "name": "ペルサンチン錠１２．５ｍｇ",
+      "generic_name": "ペルサンチン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171403",
+      "name": "ミリスロール注１ｍｇ／２ｍＬ",
+      "generic_name": "ミリスロール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171012",
+      "name": "ロコルナール錠１００ｍｇ",
+      "generic_name": "ロコルナール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171008",
+      "name": "ワソラン錠４０ｍｇ",
+      "generic_name": "ワソラン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171016",
+      "name": "硝酸イソソルビド錠　５ｍｇ",
+      "generic_name": "硝酸イソソルビド",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2149118",
+      "name": "アイミクス配合錠ＬＤ",
+      "generic_name": "アイミクス配合",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0009",
       "name": "アジルサルタン",
       "generic_name": "アジルサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149048",
+      "name": "アジルバ錠２０ｍｇ",
+      "generic_name": "アジルバ",
       "category": "降圧薬"
     },
     {
@@ -96,9 +276,45 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149120",
+      "name": "アテディオ配合錠",
+      "generic_name": "アテディオ配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149037",
+      "name": "アテレック錠５　５ｍｇ",
+      "generic_name": "アテレック",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144004",
+      "name": "アデカット７．５ｍｇ錠",
+      "generic_name": "アデカット",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149046",
+      "name": "アバプロ錠５０ｍｇ",
+      "generic_name": "アバプロ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2142400",
+      "name": "アプレゾリン注射用２０ｍｇ",
+      "generic_name": "アプレゾリン",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0001",
       "name": "アムロジピン",
       "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149032",
+      "name": "アーチスト錠１．２５ｍｇ",
+      "generic_name": "アーチスト",
       "category": "降圧薬"
     },
     {
@@ -108,9 +324,21 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149119",
+      "name": "イルトラ配合錠ＨＤ",
+      "generic_name": "イルトラ配合",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0010",
       "name": "インダパミド",
       "generic_name": "インダパミド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149111",
+      "name": "エカード配合錠ＨＤ",
+      "generic_name": "エカード配合",
       "category": "降圧薬"
     },
     {
@@ -120,9 +348,21 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149114",
+      "name": "エックスフォージ配合錠",
+      "generic_name": "エックスフォージ配合",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0008",
       "name": "エナラプリル",
       "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149020",
+      "name": "エブランチルカプセル１５ｍｇ",
+      "generic_name": "エブランチル",
       "category": "降圧薬"
     },
     {
@@ -132,9 +372,63 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2144009",
+      "name": "エースコール錠１ｍｇ",
+      "generic_name": "エースコール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144011",
+      "name": "オドリック錠０．５ｍｇ",
+      "generic_name": "オドリック",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0003",
       "name": "オルメサルタン",
       "generic_name": "オルメサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149044",
+      "name": "オルメテックＯＤ錠１０ｍｇ",
+      "generic_name": "オルメテックＯＤ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149001",
+      "name": "カタプレス錠７５μｇ　０．０７５ｍｇ",
+      "generic_name": "カタプレス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144001",
+      "name": "カプトリル錠１２．５ｍｇ",
+      "generic_name": "カプトリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149027",
+      "name": "カルスロット錠５　５ｍｇ",
+      "generic_name": "カルスロット",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149026",
+      "name": "カルデナリン錠０．５ｍｇ",
+      "generic_name": "カルデナリン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149036",
+      "name": "カルバン錠２５　２５ｍｇ",
+      "generic_name": "カルバン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149043",
+      "name": "カルブロック錠８ｍｇ",
+      "generic_name": "カルブロック",
       "category": "降圧薬"
     },
     {
@@ -150,6 +444,30 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149031",
+      "name": "ケルロング錠５ｍｇ",
+      "generic_name": "ケルロング",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149112",
+      "name": "コディオ配合錠ＥＸ",
+      "generic_name": "コディオ配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144012",
+      "name": "コバシル錠２ｍｇ",
+      "generic_name": "コバシル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149121",
+      "name": "ザクラス配合錠ＨＤ",
+      "generic_name": "ザクラス配合",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0097",
       "name": "シルニジピン",
       "generic_name": "シルニジピン",
@@ -162,9 +480,63 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149035",
+      "name": "スプレンジール錠２．５ｍｇ",
+      "generic_name": "スプレンジール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144003",
+      "name": "セタプリル錠２５ｍｇ",
+      "generic_name": "セタプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149045",
+      "name": "セララ錠２５ｍｇ",
+      "generic_name": "セララ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149029",
+      "name": "セレクトール錠１００ｍｇ",
+      "generic_name": "セレクトール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149010",
+      "name": "セロケン錠２０ｍｇ",
+      "generic_name": "セロケン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144008",
+      "name": "タナトリル錠２．５　２．５ｍｇ",
+      "generic_name": "タナトリル",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0004",
       "name": "テルミサルタン",
       "generic_name": "テルミサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149041",
+      "name": "ディオバン錠２０ｍｇ",
+      "generic_name": "ディオバン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149015",
+      "name": "デタントールＲ錠３ｍｇ",
+      "generic_name": "デタントールＲ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149009",
+      "name": "トランデート錠１００ｍｇ",
+      "generic_name": "トランデート",
       "category": "降圧薬"
     },
     {
@@ -180,9 +552,51 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149012",
+      "name": "ナトリックス錠１　１ｍｇ",
+      "generic_name": "ナトリックス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149400",
+      "name": "ニカルジピン塩酸塩注射液２ｍｇ「サワイ」　２ｍＬ",
+      "generic_name": "ニカルジピン塩酸塩",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149401",
+      "name": "ニトプロ持続静注液６ｍｇ　２ｍＬ",
+      "generic_name": "ニトプロ持続静",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149022",
+      "name": "ニバジール錠２ｍｇ",
+      "generic_name": "ニバジール",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0002",
       "name": "ニフェジピン",
       "generic_name": "ニフェジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149039",
+      "name": "ニューロタン錠１００ｍｇ",
+      "generic_name": "ニューロタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149021",
+      "name": "ハイパジールコーワ錠３　３ｍｇ",
+      "generic_name": "ハイパジールコーワ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149023",
+      "name": "バソメット錠０．２５ｍｇ",
+      "generic_name": "バソメット",
       "category": "降圧薬"
     },
     {
@@ -192,9 +606,27 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2142004",
+      "name": "ヒドララジン塩酸塩散　１０％",
+      "generic_name": "ヒドララジン塩酸塩",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0011",
       "name": "ヒドロクロロチアジド",
       "generic_name": "ヒドロクロロチアジド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149030",
+      "name": "ヒポカ５ｍｇカプセル",
+      "generic_name": "ヒポカ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149700",
+      "name": "ビソノテープ４ｍｇ",
+      "generic_name": "ビソノ",
       "category": "降圧薬"
     },
     {
@@ -210,6 +642,24 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149040",
+      "name": "ブロプレス錠２　２ｍｇ",
+      "generic_name": "ブロプレス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149110",
+      "name": "プレミネント配合錠ＬＤ",
+      "generic_name": "プレミネント配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149014",
+      "name": "プロプラノロール塩酸塩徐放カプセル６０ｍｇ「サワイ」",
+      "generic_name": "プロプラノロール塩酸塩徐放",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0096",
       "name": "ベニジピン",
       "generic_name": "ベニジピン",
@@ -222,9 +672,123 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "ALL_2149019",
+      "name": "ペルジピン散１０％",
+      "generic_name": "ペルジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149122",
+      "name": "ミカトリオ配合錠",
+      "generic_name": "ミカトリオ配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149117",
+      "name": "ミカムロ配合錠ＡＰ",
+      "generic_name": "ミカムロ配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149042",
+      "name": "ミカルディス錠２０ｍｇ",
+      "generic_name": "ミカルディス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149025",
+      "name": "ミケランＬＡカプセル１５ｍｇ",
+      "generic_name": "ミケランＬＡ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149113",
+      "name": "ミコンビ配合錠ＡＰ",
+      "generic_name": "ミコンビ配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149002",
+      "name": "ミニプレス錠０．５ｍｇ",
+      "generic_name": "ミニプレス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149049",
+      "name": "ミネブロ錠１．２５ｍｇ",
+      "generic_name": "ミネブロ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2145001",
+      "name": "メチルドパ錠　１２５ｍｇ",
+      "generic_name": "メチルドパ",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149116",
+      "name": "ユニシア配合錠ＬＤ",
+      "generic_name": "ユニシア配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149047",
+      "name": "ラジレス錠１５０ｍｇ",
+      "generic_name": "ラジレス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149034",
+      "name": "ランデル錠４０　４０ｍｇ",
+      "generic_name": "ランデル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149115",
+      "name": "レザルタス配合錠ＬＤ",
+      "generic_name": "レザルタス配合",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2143006",
+      "name": "レセルピン散０．１％",
+      "generic_name": "レセルピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2143400",
+      "name": "レセルピン注射液　０．０３％１ｍＬ",
+      "generic_name": "レセルピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144002",
+      "name": "レニベース錠２．５　２．５ｍｇ",
+      "generic_name": "レニベース",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0007",
       "name": "ロサルタン",
       "generic_name": "ロサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2144006",
+      "name": "ロンゲス錠５ｍｇ",
+      "generic_name": "ロンゲス",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149018",
+      "name": "ローガン錠１０ｍｇ",
+      "generic_name": "ローガン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "ALL_2149017",
+      "name": "ワイテンス錠２ｍｇ",
+      "generic_name": "ワイテンス",
       "category": "降圧薬"
     }
   ]

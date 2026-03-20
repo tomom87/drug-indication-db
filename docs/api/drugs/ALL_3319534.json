@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319534",
+    "name": "ソルラクト輸液　２５０ｍＬ",
+    "generic_name": "ソルラクト輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ソルラクト輸液　２５０ｍＬ",
+        "kana": "ｿﾙﾗｸﾄﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

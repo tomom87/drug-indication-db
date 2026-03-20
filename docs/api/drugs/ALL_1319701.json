@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319701",
+    "name": "ミケランＬＡ点眼液１％",
+    "generic_name": "ミケランＬＡ",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "ミケランＬＡ点眼液１％",
+        "kana": "ﾐｹﾗﾝLAﾃﾝｶﾞﾝｴｷ1%"
+      }
+    ]
+  },
+  "indications": []
+}

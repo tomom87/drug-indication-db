@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291076",
+    "name": "ルマケラス錠１２０ｍｇ",
+    "generic_name": "ルマケラス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ルマケラス錠１２０ｍｇ",
+        "kana": "ﾙﾏｹﾗｽｼﾞｮｳ120MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6134407",
+    "name": "ゲンタシン注４０　４０ｍｇ",
+    "generic_name": "ゲンタシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ゲンタシン注４０　４０ｍｇ",
+        "kana": "ｹﾞﾝﾀｼﾝﾁｭｳ40"
+      }
+    ]
+  },
+  "indications": []
+}

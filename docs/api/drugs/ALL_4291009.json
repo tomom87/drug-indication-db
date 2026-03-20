@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291009",
+    "name": "カソデックス錠８０ｍｇ",
+    "generic_name": "カソデックス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "カソデックス錠８０ｍｇ",
+        "kana": "ｶｿﾃﾞｯｸｽｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

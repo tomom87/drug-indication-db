@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179046",
+    "name": "ジェイゾロフト錠２５ｍｇ",
+    "generic_name": "ジェイゾロフト",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ジェイゾロフト錠２５ｍｇ",
+        "kana": "ｼﾞｪｲｿﾞﾛﾌﾄｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

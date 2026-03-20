@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240401",
+    "name": "エクザール注射用１０ｍｇ",
+    "generic_name": "エクザール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エクザール注射用１０ｍｇ",
+        "kana": "ｴｸｻﾞｰﾙﾁｭｳｼｬﾖｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

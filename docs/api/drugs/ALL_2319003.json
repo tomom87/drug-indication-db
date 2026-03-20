@@ -1,0 +1,28 @@
+{
+  "drug": {
+    "yj_code": "ALL_2319003",
+    "name": "薬用炭",
+    "generic_name": "薬用炭",
+    "category": "消化性潰瘍薬",
+    "brands": [
+      {
+        "name": "薬用炭",
+        "kana": "ﾔｸﾖｳﾀﾝ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "5329002",
+      "name": "十二指腸潰瘍",
+      "kana": "12",
+      "icd10": "K269"
+    },
+    {
+      "code": "5319009",
+      "name": "胃潰瘍",
+      "kana": "5",
+      "icd10": "K259"
+    }
+  ]
+}

@@ -6,6 +6,66 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2391406",
+      "name": "アロカリス点滴静注２３５ｍｇ　１０ｍＬ",
+      "generic_name": "アロカリス",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391404",
+      "name": "アロキシ静注０．７５ｍｇ　５ｍＬ",
+      "generic_name": "アロキシ静",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391008",
+      "name": "イメンドカプセル８０ｍｇ",
+      "generic_name": "イメンド",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391401",
+      "name": "オンダンセトロン注射液４ｍｇ「サンド」　２ｍＬ",
+      "generic_name": "オンダンセトロン",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391001",
+      "name": "オンダンセトロンＯＤフィルム２ｍｇ「ＧＦＰ」",
+      "generic_name": "オンダンセトロンＯＤフィルム",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400",
+      "name": "カイトリル注１ｍｇ　１ｍＬ",
+      "generic_name": "カイトリル",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391002",
+      "name": "カイトリル錠１ｍｇ",
+      "generic_name": "カイトリル",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391403",
+      "name": "ナゼア注射液０．３ｍｇ　２ｍＬ",
+      "generic_name": "ナゼア",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391004",
+      "name": "ナゼアＯＤ錠０．１ｍｇ",
+      "generic_name": "ナゼアＯＤ",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391405",
+      "name": "プロイメンド点滴静注用１５０ｍｇ",
+      "generic_name": "プロイメンド",
+      "category": "下剤"
+    },
+    {
       "yj_code": "NAIKA_0041",
       "name": "センノシド",
       "generic_name": "センノシド",

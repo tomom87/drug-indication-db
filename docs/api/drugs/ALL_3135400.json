@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3135400",
+    "name": "葉酸注射液　１５ｍｇ",
+    "generic_name": "葉酸",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "葉酸注射液　１５ｍｇ",
+        "kana": "ﾖｳｻﾝﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

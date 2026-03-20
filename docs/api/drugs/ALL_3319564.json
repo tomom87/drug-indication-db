@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319564",
+    "name": "ビカネイト輸液　５００ｍＬ",
+    "generic_name": "ビカネイト輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ビカネイト輸液　５００ｍＬ",
+        "kana": "ﾋﾞｶﾈｲﾄﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291420",
+    "name": "ハラヴェン静注１ｍｇ　２ｍＬ",
+    "generic_name": "ハラヴェン静",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ハラヴェン静注１ｍｇ　２ｍＬ",
+        "kana": "ﾊﾗｳﾞｪﾝｼﾞｮｳﾁｭｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

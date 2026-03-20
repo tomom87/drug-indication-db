@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1143005",
+    "name": "エテンザミド",
+    "generic_name": "エテンザミド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エテンザミド",
+        "kana": "ｴﾃﾝｻﾞﾐﾄﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2615704",
+    "name": "無水エタノール　シオエ",
+    "generic_name": "無水エタノール　シオエ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "無水エタノール　シオエ",
+        "kana": "ﾑｽｲｴﾀﾉｰﾙｼｵｴ"
+      }
+    ]
+  },
+  "indications": []
+}

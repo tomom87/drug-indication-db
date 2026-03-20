@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179700",
+    "name": "ロナセンテープ２０ｍｇ",
+    "generic_name": "ロナセン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロナセンテープ２０ｍｇ",
+        "kana": "ﾛﾅｾﾝﾃｰﾌﾟ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

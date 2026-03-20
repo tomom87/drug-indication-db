@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100164",
+    "name": "ウチダのボウコンＭ",
+    "generic_name": "ウチダのボウコンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのボウコンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞｳｺﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

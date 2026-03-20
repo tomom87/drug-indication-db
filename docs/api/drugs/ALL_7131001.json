@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7131001",
+    "name": "精製水",
+    "generic_name": "精製水",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "精製水",
+        "kana": "ｾｲｾｲｽｲ"
+      }
+    ]
+  },
+  "indications": []
+}

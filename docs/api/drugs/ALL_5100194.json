@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100194",
+    "name": "コウイ",
+    "generic_name": "コウイ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "コウイ",
+        "kana": "ｺｳｲ"
+      }
+    ]
+  },
+  "indications": []
+}

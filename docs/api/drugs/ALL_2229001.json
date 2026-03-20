@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2229001",
+    "name": "アストミン散１０％",
+    "generic_name": "アストミン",
+    "category": "鎮咳薬",
+    "brands": [
+      {
+        "name": "アストミン散１０％",
+        "kana": "ｱｽﾄﾐﾝｻﾝ10%"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8840325",
+      "name": "慢性咳嗽",
+      "kana": "8",
+      "icd10": "R05"
+    }
+  ]
+}

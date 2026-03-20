@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100131",
+    "name": "ウチダのチンピＭ",
+    "generic_name": "ウチダのチンピＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのチンピＭ",
+        "kana": "ｳﾁﾀﾞﾉﾁﾝﾋﾟM"
+      }
+    ]
+  },
+  "indications": []
+}

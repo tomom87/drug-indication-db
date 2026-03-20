@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190018",
+    "name": "メマリー錠５ｍｇ",
+    "generic_name": "メマリー",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "メマリー錠５ｍｇ",
+        "kana": "ﾒﾏﾘｰｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

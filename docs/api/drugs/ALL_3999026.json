@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999026",
+    "name": "ボノテオ錠１ｍｇ",
+    "generic_name": "ボノテオ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "ボノテオ錠１ｍｇ",
+        "kana": "ﾎﾞﾉﾃｵｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

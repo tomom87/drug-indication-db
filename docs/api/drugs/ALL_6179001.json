@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6179001",
+    "name": "ブイフェンド錠５０ｍｇ",
+    "generic_name": "ブイフェンド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ブイフェンド錠５０ｍｇ",
+        "kana": "ﾌﾞｲﾌｪﾝﾄﾞｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

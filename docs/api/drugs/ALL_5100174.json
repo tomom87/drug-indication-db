@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100174",
+    "name": "花扇モッカＫ",
+    "generic_name": "花扇モッカＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇モッカＫ",
+        "kana": "ﾊﾅｵｳｷﾞﾓｯｶK"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -12,6 +12,36 @@
       "category": "抗うつ薬"
     },
     {
+      "yj_code": "ALL_1151001",
+      "name": "ヒロポン錠　１ｍｇ",
+      "generic_name": "ヒロポン",
+      "category": "解熱鎮痛消炎薬"
+    },
+    {
+      "yj_code": "ALL_2647705",
+      "name": "テラ・コートリル軟膏",
+      "generic_name": "テラ・コートリル",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "ALL_2647709",
+      "name": "デキサンＶＧ軟膏０．１２％",
+      "generic_name": "デキサンＶＧ",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "ALL_2647707",
+      "name": "フルコートＦ軟膏",
+      "generic_name": "フルコートＦ",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "ALL_2647708",
+      "name": "ベトネベートＮクリーム",
+      "generic_name": "ベトネベートＮ",
+      "category": "鎮痛外用薬"
+    },
+    {
       "yj_code": "NAIKA_0078",
       "name": "アセトアミノフェン",
       "generic_name": "アセトアミノフェン",

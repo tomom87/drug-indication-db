@@ -6,6 +6,24 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2354001",
+      "name": "カスカラサグラダ流エキス（司生堂）",
+      "generic_name": "カスカラサグラダ流エキス",
+      "category": "利胆薬"
+    },
+    {
+      "yj_code": "ALL_2354003",
+      "name": "センノシド錠１２ｍｇ「セイコー」",
+      "generic_name": "センノシド",
+      "category": "利胆薬"
+    },
+    {
+      "yj_code": "ALL_2354002",
+      "name": "ヨーデルＳ糖衣錠－８０　８０ｍｇ",
+      "generic_name": "ヨーデルＳ糖衣",
+      "category": "利胆薬"
+    },
+    {
       "yj_code": "TJ_035",
       "name": "ツムラ四逆散エキス顆粒（医療用）",
       "generic_name": "四逆散",

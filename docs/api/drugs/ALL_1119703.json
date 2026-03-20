@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1119703",
+    "name": "スープレン吸入麻酔液",
+    "generic_name": "スープレン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "スープレン吸入麻酔液",
+        "kana": "ｽｰﾌﾟﾚﾝｷｭｳﾆｭｳﾏｽｲｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

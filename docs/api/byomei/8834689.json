@@ -6,6 +6,18 @@
   },
   "drugs": [
     {
+      "yj_code": "ALL_2323001",
+      "name": "アズレン錠２ｍｇ「ツルハラ」",
+      "generic_name": "アズレン",
+      "category": "消化酵素薬"
+    },
+    {
+      "yj_code": "ALL_2323002",
+      "name": "アズロキサ顆粒２．５％",
+      "generic_name": "アズロキサ",
+      "category": "消化酵素薬"
+    },
+    {
       "yj_code": "TJ_043",
       "name": "ツムラ六君子湯エキス顆粒（医療用）",
       "generic_name": "六君子湯",

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100179",
+    "name": "ヨウバイヒ",
+    "generic_name": "ヨウバイヒ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ヨウバイヒ",
+        "kana": "ﾖｳﾊﾞｲﾋ"
+      }
+    ]
+  },
+  "indications": []
+}

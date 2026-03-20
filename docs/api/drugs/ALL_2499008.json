@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499008",
+    "name": "デソパン錠６０ｍｇ",
+    "generic_name": "デソパン",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "デソパン錠６０ｍｇ",
+        "kana": "ﾃﾞｿﾊﾟﾝｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200116",
+    "name": "オースギ人参湯エキスＧ",
+    "generic_name": "オースギ人参湯エキスＧ",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "オースギ人参湯エキスＧ",
+        "kana": "ｵｰｽｷﾞﾆﾝｼﾞﾝﾄｳｴｷｽG"
+      }
+    ]
+  },
+  "indications": []
+}

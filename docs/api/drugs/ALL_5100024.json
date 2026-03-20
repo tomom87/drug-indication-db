@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100024",
+    "name": "トチモトのカイカ",
+    "generic_name": "トチモトのカイカ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのカイカ",
+        "kana": "ﾄﾁﾓﾄﾉｶｲｶ"
+      }
+    ]
+  },
+  "indications": []
+}

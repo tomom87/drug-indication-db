@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319506",
+    "name": "１０％ＥＬ－３号輸液　５００ｍＬ",
+    "generic_name": "",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "１０％ＥＬ－３号輸液　５００ｍＬ",
+        "kana": "10%EL-3ｺﾞｳﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

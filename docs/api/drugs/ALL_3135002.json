@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3135002",
+    "name": "フォリアミン散１００ｍｇ／ｇ　１０％",
+    "generic_name": "フォリアミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フォリアミン散１００ｍｇ／ｇ　１０％",
+        "kana": "ﾌｫﾘｱﾐﾝｻﾝ100MG/G"
+      }
+    ]
+  },
+  "indications": []
+}

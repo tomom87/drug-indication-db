@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100144",
+    "name": "トラガント",
+    "generic_name": "トラガント",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トラガント",
+        "kana": "ﾄﾗｶﾞﾝﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

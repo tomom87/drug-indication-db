@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3962002",
+    "name": "グリコラン錠２５０ｍｇ",
+    "generic_name": "グリコラン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "グリコラン錠２５０ｍｇ",
+        "kana": "ｸﾞﾘｺﾗﾝｼﾞｮｳ250MG"
+      }
+    ]
+  },
+  "indications": []
+}

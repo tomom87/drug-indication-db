@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319807",
+    "name": "ネオメドロールＥＥ軟膏",
+    "generic_name": "ネオメドロールＥＥ",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "ネオメドロールＥＥ軟膏",
+        "kana": "ﾈｵﾒﾄﾞﾛｰﾙEEﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

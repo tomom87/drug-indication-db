@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190030",
+    "name": "レイボー錠５０ｍｇ",
+    "generic_name": "レイボー",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "レイボー錠５０ｍｇ",
+        "kana": "ﾚｲﾎﾞｰｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

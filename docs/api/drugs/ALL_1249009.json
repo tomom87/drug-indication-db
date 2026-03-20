@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249009",
+    "name": "ミオナール錠５０ｍｇ",
+    "generic_name": "ミオナール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミオナール錠５０ｍｇ",
+        "kana": "ﾐｵﾅｰﾙｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

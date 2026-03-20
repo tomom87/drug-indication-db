@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2654700",
+    "name": "モクタール",
+    "generic_name": "モクタール",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "モクタール",
+        "kana": "ﾓｸﾀｰﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -36,6 +36,216 @@
       "category": "抗血小板薬"
     },
     {
+      "yj_code": "ALL_3331700",
+      "name": "クエン酸ナトリウム水和物原末「ニッコー」",
+      "generic_name": "クエン酸ナトリウム水和物原末「ニッコー」",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "ALL_3331401",
+      "name": "チトラミン液「フソー」－４％　５００ｍＬ",
+      "generic_name": "チトラミン",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "ALL_3331400",
+      "name": "輸血用クエン酸ナトリウム注射液　１０％５ｍＬ",
+      "generic_name": "輸血用クエン酸ナトリウム",
+      "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "ALL_2171023",
+      "name": "アイトロール錠１０ｍｇ",
+      "generic_name": "アイトロール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171014",
+      "name": "アダラートＣＲ錠１０ｍｇ",
+      "generic_name": "アダラートＣＲ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160007",
+      "name": "アマージ錠２．５ｍｇ",
+      "generic_name": "アマージ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160402",
+      "name": "イミグランキット皮下注３ｍｇ　０．５ｍＬ",
+      "generic_name": "イミグランキット皮下",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160700",
+      "name": "イミグラン点鼻液２０　２０ｍｇ０．１ｍＬ",
+      "generic_name": "イミグラン点鼻",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160003",
+      "name": "イミグラン錠５０　５０ｍｇ",
+      "generic_name": "イミグラン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171021",
+      "name": "コニール錠２　２ｍｇ",
+      "generic_name": "コニール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171005",
+      "name": "コメリアンコーワ錠５０　５０ｍｇ",
+      "generic_name": "コメリアンコーワ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171017",
+      "name": "シグマート錠２．５ｍｇ",
+      "generic_name": "シグマート",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171402",
+      "name": "ジピリダモール静注液１０ｍｇ「日医工」　０．５％２ｍＬ",
+      "generic_name": "ジピリダモール静",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171405",
+      "name": "ジルチアゼム塩酸塩注射用２５０ｍｇ「サワイ」",
+      "generic_name": "ジルチアゼム塩酸塩",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160004",
+      "name": "ゾーミッグ錠２．５ｍｇ",
+      "generic_name": "ゾーミッグ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171406",
+      "name": "ニコランジル点滴静注用２ｍｇ「サワイ」",
+      "generic_name": "ニコランジル",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171020",
+      "name": "ニトレンジピン５ｍｇ錠",
+      "generic_name": "ニトレンジピン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171013",
+      "name": "ニトログリセリン錠　０．３ｍｇ",
+      "generic_name": "ニトログリセリン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171018",
+      "name": "ニトロペン舌下錠０．３ｍｇ",
+      "generic_name": "ニトロペン舌下",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171404",
+      "name": "ニトロール持続静注２５ｍｇシリンジ　５０ｍＬ",
+      "generic_name": "ニトロール持続静",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171011",
+      "name": "ニトロールＲカプセル２０ｍｇ",
+      "generic_name": "ニトロールＲ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160400",
+      "name": "ネオシネジンコーワ注１ｍｇ　０．１％１ｍＬ",
+      "generic_name": "ネオシネジンコーワ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171022",
+      "name": "ノルバスク錠２．５ｍｇ",
+      "generic_name": "ノルバスク",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171007",
+      "name": "バスタレルＦ錠３ｍｇ",
+      "generic_name": "バスタレルＦ",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171701",
+      "name": "バソレーターテープ２７ｍｇ　１４ｃｍ２",
+      "generic_name": "バソレーター",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171700",
+      "name": "フランドルテープ４０ｍｇ",
+      "generic_name": "フランドル",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171006",
+      "name": "ヘルベッサー錠６０　６０ｍｇ",
+      "generic_name": "ヘルベッサー",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171010",
+      "name": "ペルサンチン錠１２．５ｍｇ",
+      "generic_name": "ペルサンチン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160006",
+      "name": "マクサルト錠１０ｍｇ",
+      "generic_name": "マクサルト",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171403",
+      "name": "ミリスロール注１ｍｇ／２ｍＬ",
+      "generic_name": "ミリスロール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160002",
+      "name": "メトリジン錠２ｍｇ",
+      "generic_name": "メトリジン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2160005",
+      "name": "レルパックス錠２０ｍｇ",
+      "generic_name": "レルパックス",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171012",
+      "name": "ロコルナール錠１００ｍｇ",
+      "generic_name": "ロコルナール",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171008",
+      "name": "ワソラン錠４０ｍｇ",
+      "generic_name": "ワソラン",
+      "category": "血管拡張薬"
+    },
+    {
+      "yj_code": "ALL_2171016",
+      "name": "硝酸イソソルビド錠　５ｍｇ",
+      "generic_name": "硝酸イソソルビド",
+      "category": "血管拡張薬"
+    },
+    {
       "yj_code": "NAIKA_0101",
       "name": "アテノロール",
       "generic_name": "アテノロール",

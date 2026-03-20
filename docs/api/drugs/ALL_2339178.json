@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2339178",
+    "name": "ＨＭ散",
+    "generic_name": "ＨＭ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ＨＭ散",
+        "kana": "HMｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

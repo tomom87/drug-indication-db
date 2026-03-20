@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2259002",
+    "name": "ホクナリン錠１ｍｇ",
+    "generic_name": "ホクナリン",
+    "category": "気管支拡張薬",
+    "brands": [
+      {
+        "name": "ホクナリン錠１ｍｇ",
+        "kana": "ﾎｸﾅﾘﾝｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4939008",
+      "name": "気管支喘息",
+      "kana": "8",
+      "icd10": "J459"
+    }
+  ]
+}

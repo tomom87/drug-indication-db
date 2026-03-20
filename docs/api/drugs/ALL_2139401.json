@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2139401",
+    "name": "ラシックス注２０ｍｇ",
+    "generic_name": "ラシックス",
+    "category": "利尿薬",
+    "brands": [
+      {
+        "name": "ラシックス注２０ｍｇ",
+        "kana": "ﾗｼｯｸｽﾁｭｳ20MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7823024",
+      "name": "浮腫",
+      "kana": "3",
+      "icd10": "R609"
+    }
+  ]
+}

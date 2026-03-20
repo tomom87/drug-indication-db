@@ -10,6 +10,30 @@
       "name": "葉酸",
       "generic_name": "葉酸",
       "category": "ビタミン"
+    },
+    {
+      "yj_code": "ALL_3133400",
+      "name": "パンテチン注２００ｍｇ「ＫＣＣ」",
+      "generic_name": "パンテチン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133401",
+      "name": "パンテノール注１００ｍｇ「ＫＣＣ」",
+      "generic_name": "パンテノール",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001",
+      "name": "パントシン散２０％",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133002",
+      "name": "パントテン酸カルシウム",
+      "generic_name": "パントテン酸カルシウム",
+      "category": "ビタミンB12薬"
     }
   ]
 }

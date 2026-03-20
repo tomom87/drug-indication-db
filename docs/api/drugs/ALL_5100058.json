@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100058",
+    "name": "ウチダのケンゴシＭ",
+    "generic_name": "ウチダのケンゴシＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのケンゴシＭ",
+        "kana": "ｳﾁﾀﾞﾉｹﾝｺﾞｼM"
+      }
+    ]
+  },
+  "indications": []
+}
