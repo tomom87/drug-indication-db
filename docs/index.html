@@ -28,8 +28,10 @@
     background: white; border-radius: 8px; padding: 16px;
     margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   }
-  .card h3 { font-size: 1rem; color: #2c3e50; margin-bottom: 8px; }
+  .card h3 { font-size: 1rem; color: #2c3e50; margin-bottom: 4px; }
   .card .category { font-size: 0.8rem; color: #7f8c8d; background: #ecf0f1; padding: 2px 8px; border-radius: 10px; display: inline-block; margin-bottom: 8px; }
+  .card .brands { font-size: 0.8rem; color: #888; margin-bottom: 8px; line-height: 1.6; }
+  .card .brands span { background: #f8f8f8; padding: 1px 6px; border-radius: 3px; margin-right: 4px; white-space: nowrap; display: inline-block; }
   .card .items { display: flex; flex-wrap: wrap; gap: 6px; }
   .card .item {
     font-size: 0.85rem; padding: 4px 10px; border-radius: 4px;
@@ -37,8 +39,8 @@
   }
   .card .item.drug { background: #e8f8f5; color: #1a8870; }
   .card .icd { font-size: 0.75rem; color: #999; margin-left: 4px; }
+  .card .match-info { font-size: 0.75rem; color: #b0b0b0; margin-top: 6px; }
   .stats { font-size: 0.85rem; color: #7f8c8d; margin-bottom: 16px; }
-  .loading { text-align: center; padding: 40px; color: #999; }
   .empty { text-align: center; padding: 40px; color: #999; }
   @media (max-width: 600px) {
     .container { padding: 12px; }
@@ -55,7 +57,7 @@
     <button class="tab" data-mode="byomei" onclick="setMode('byomei')">病名 → 薬剤</button>
   </div>
   <div class="search-box">
-    <input type="text" id="search" placeholder="薬剤名を入力..." autofocus>
+    <input type="text" id="search" placeholder="薬剤名（一般名・販売名・ひらがな）を入力..." autofocus>
   </div>
   <div class="results" id="results">
     <div class="empty">検索キーワードを入力してください</div>
@@ -70,6 +72,84 @@ let mode = 'drug';
 
 const BASE = location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
 
+// ひらがな → カタカナ変換
+function hiraToKata(str) {
+  return str.replace(/[\u3041-\u3096]/g, ch =>
+    String.fromCharCode(ch.charCodeAt(0) + 0x60)
+  );
+}
+
+// 半角カタカナ → 全角カタカナ変換
+function hanToZenKata(str) {
+  const map = {
+    'ｱ':'ア','ｲ':'イ','ｳ':'ウ','ｴ':'エ','ｵ':'オ',
+    'ｶ':'カ','ｷ':'キ','ｸ':'ク','ｹ':'ケ','ｺ':'コ',
+    'ｻ':'サ','ｼ':'シ','ｽ':'ス','ｾ':'セ','ｿ':'ソ',
+    'ﾀ':'タ','ﾁ':'チ','ﾂ':'ツ','ﾃ':'テ','ﾄ':'ト',
+    'ﾅ':'ナ','ﾆ':'ニ','ﾇ':'ヌ','ﾈ':'ネ','ﾉ':'ノ',
+    'ﾊ':'ハ','ﾋ':'ヒ','ﾌ':'フ','ﾍ':'ヘ','ﾎ':'ホ',
+    'ﾏ':'マ','ﾐ':'ミ','ﾑ':'ム','ﾒ':'メ','ﾓ':'モ',
+    'ﾔ':'ヤ','ﾕ':'ユ','ﾖ':'ヨ',
+    'ﾗ':'ラ','ﾘ':'リ','ﾙ':'ル','ﾚ':'レ','ﾛ':'ロ',
+    'ﾜ':'ワ','ｦ':'ヲ','ﾝ':'ン',
+    'ﾞ':'゛','ﾟ':'゜',
+    'ｧ':'ァ','ｨ':'ィ','ｩ':'ゥ','ｪ':'ェ','ｫ':'ォ',
+    'ｬ':'ャ','ｭ':'ュ','ｮ':'ョ','ｯ':'ッ',
+  };
+  let result = '';
+  for (let i = 0; i < str.length; i++) {
+    const ch = str[i];
+    const next = str[i + 1];
+    if (map[ch]) {
+      let converted = map[ch];
+      if (next === 'ﾞ' && 'カキクケコサシスセソタチツテトハヒフヘホ'.includes(converted)) {
+        converted = String.fromCharCode(converted.charCodeAt(0) + 1);
+        i++;
+      } else if (next === 'ﾟ' && 'ハヒフヘホ'.includes(converted)) {
+        converted = String.fromCharCode(converted.charCodeAt(0) + 2);
+        i++;
+      }
+      result += converted;
+    } else {
+      result += ch;
+    }
+  }
+  return result;
+}
+
+// 検索用の正規化: ひらがな→カタカナ、半角カナ→全角カナ、小文字化
+function normalize(str) {
+  return hanToZenKata(hiraToKata(str)).toLowerCase();
+}
+
+// 薬剤が検索クエリにマッチするか判定（マッチ理由も返す）
+function matchDrug(drug, query) {
+  const q = normalize(query);
+  const qOrig = query.toLowerCase();
+
+  // 一般名マッチ
+  if (normalize(drug.name).includes(q) || drug.name.toLowerCase().includes(qOrig)) {
+    return { match: true, reason: '' };
+  }
+  if (normalize(drug.generic_name).includes(q) || drug.generic_name.toLowerCase().includes(qOrig)) {
+    return { match: true, reason: '' };
+  }
+
+  // 販売名マッチ
+  if (drug.brands) {
+    for (const b of drug.brands) {
+      if (normalize(b.name).includes(q) || b.name.toLowerCase().includes(qOrig)) {
+        return { match: true, reason: `販売名: ${b.name}` };
+      }
+      if (b.kana && normalize(b.kana).includes(q)) {
+        return { match: true, reason: `販売名: ${b.name}` };
+      }
+    }
+  }
+
+  return { match: false };
+}
+
 async function init() {
   const [mappingsResp, drugsResp, byomeiResp, statsResp] = await Promise.all([
     fetch(`${BASE}/api/mappings.json`),
@@ -81,14 +161,18 @@ async function init() {
   drugs = await drugsResp.json();
   byomeiIndex = await byomeiResp.json();
   const stats = await statsResp.json();
+
+  const brandCount = drugs.reduce((sum, d) => sum + (d.brands ? d.brands.length : 0), 0);
   document.getElementById('stats').textContent =
-    `${stats.drug_count}薬剤 / ${stats.indication_count}マッピング / ${stats.byomei_with_drugs}病名`;
+    `${stats.drug_count}薬剤 / ${brandCount}販売名 / ${stats.indication_count}マッピング / ${stats.byomei_with_drugs}病名`;
 }
 
 function setMode(m) {
   mode = m;
   document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.mode === m));
-  document.getElementById('search').placeholder = m === 'drug' ? '薬剤名を入力...' : '病名を入力...';
+  document.getElementById('search').placeholder = m === 'drug'
+    ? '薬剤名（一般名・販売名・ひらがな）を入力...'
+    : '病名を入力...';
   document.getElementById('search').value = '';
   document.getElementById('results').innerHTML = '<div class="empty">検索キーワードを入力してください</div>';
 }
@@ -98,37 +182,61 @@ function search(query) {
     document.getElementById('results').innerHTML = '<div class="empty">検索キーワードを入力してください</div>';
     return;
   }
-  const q = query.toLowerCase();
 
   if (mode === 'drug') {
-    // 薬剤名で検索 → 適応病名を表示
-    const matched = drugs.filter(d =>
-      d.name.toLowerCase().includes(q) || d.generic_name.toLowerCase().includes(q)
-    );
+    const matched = [];
+    for (const d of drugs) {
+      const result = matchDrug(d, query);
+      if (result.match) {
+        matched.push({ drug: d, reason: result.reason });
+      }
+      if (matched.length >= 30) break;
+    }
+
     if (matched.length === 0) {
       document.getElementById('results').innerHTML = '<div class="empty">該当なし</div>';
       return;
     }
-    const html = matched.slice(0, 20).map(d => {
+
+    const html = matched.map(({ drug: d, reason }) => {
       const indications = mappings.filter(m => m.yj_code === d.yj_code);
       const items = indications.map(i =>
         `<span class="item">${i.byomei_name}<span class="icd">${i.icd10}</span></span>`
       ).join('');
+
+      // 販売名を最大5つ表示
+      let brandsHtml = '';
+      if (d.brands && d.brands.length > 0) {
+        const shown = d.brands.slice(0, 5);
+        const more = d.brands.length > 5 ? `<span>...他${d.brands.length - 5}件</span>` : '';
+        brandsHtml = `<div class="brands">${shown.map(b => `<span>${b.name}</span>`).join('')}${more}</div>`;
+      }
+
+      const matchInfo = reason ? `<div class="match-info">${reason} でマッチ</div>` : '';
+
       return `<div class="card">
         <span class="category">${d.category}</span>
         <h3>${d.name}</h3>
+        ${brandsHtml}
         <div class="items">${items || '<span style="color:#999">マッピングなし</span>'}</div>
+        ${matchInfo}
       </div>`;
     }).join('');
     document.getElementById('results').innerHTML = html;
+
   } else {
-    // 病名で検索 → 適応薬剤を表示
-    const matched = byomeiIndex.filter(b => b.name.includes(q));
+    const q = query;
+    const qKata = hiraToKata(query);
+    const matched = byomeiIndex.filter(b =>
+      b.name.includes(q) || b.name.includes(qKata)
+    );
+
     if (matched.length === 0) {
       document.getElementById('results').innerHTML = '<div class="empty">該当なし</div>';
       return;
     }
-    const html = matched.slice(0, 20).map(b => {
+
+    const html = matched.slice(0, 30).map(b => {
       const drugList = mappings.filter(m => m.byomei_code === b.code);
       const items = drugList.map(d =>
         `<span class="item drug">[${d.category}] ${d.drug_name}</span>`

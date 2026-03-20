@@ -19,9 +19,25 @@ def export():
     (API_DIR / "drugs").mkdir(exist_ok=True)
     (API_DIR / "byomei").mkdir(exist_ok=True)
 
-    # --- 1. 薬剤一覧 ---
+    # --- 0. 販売名マップ構築 ---
+    brand_map = {}  # yj_code -> [brand_names]
+    try:
+        c.execute("SELECT yj_code, brand_name, brand_kana FROM brand_name")
+        for row in c.fetchall():
+            yj = row["yj_code"]
+            if yj not in brand_map:
+                brand_map[yj] = []
+            brand_map[yj].append({"name": row["brand_name"], "kana": row["brand_kana"]})
+    except Exception:
+        pass  # brand_nameテーブルがない場合はスキップ
+
+    # --- 1. 薬剤一覧（販売名付き） ---
     c.execute("SELECT yj_code, name, generic_name, category FROM drug ORDER BY category, name")
-    drugs = [dict(row) for row in c.fetchall()]
+    drugs = []
+    for row in c.fetchall():
+        d = dict(row)
+        d["brands"] = brand_map.get(d["yj_code"], [])
+        drugs.append(d)
     write_json(API_DIR / "drugs.json", drugs)
 
     # --- 2. 各薬剤の適応病名 ---

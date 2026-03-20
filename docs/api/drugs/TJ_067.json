@@ -3,7 +3,13 @@
     "yj_code": "TJ_067",
     "name": "ツムラ女神散エキス顆粒（医療用）",
     "generic_name": "女神散",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ女神散エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗﾆｮｼﾝｻﾝｴｷｽｶﾘｭｳｲﾘｮｳ"
+      }
+    ]
   },
   "indications": [
     {

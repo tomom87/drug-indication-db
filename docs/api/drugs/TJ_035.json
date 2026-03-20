@@ -3,7 +3,13 @@
     "yj_code": "TJ_035",
     "name": "ツムラ四逆散エキス顆粒（医療用）",
     "generic_name": "四逆散",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ四逆散エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗｼｷﾞｬｸｻﾝｴｷｽｶﾘｭｳｲﾘｮ"
+      }
+    ]
   },
   "indications": [
     {

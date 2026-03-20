@@ -3,7 +3,13 @@
     "yj_code": "NAIKA_0229",
     "name": "レボドパ・カルビドパ",
     "generic_name": "レボドパ・カルビドパ",
-    "category": "パーキンソン病薬"
+    "category": "パーキンソン病薬",
+    "brands": [
+      {
+        "name": "レボドパ・カルビドパＬ１００錠",
+        "kana": "ﾚﾎﾞﾄﾞﾊﾟｶﾙﾋﾞﾄﾞﾊﾟL100ｼ"
+      }
+    ]
   },
   "indications": [
     {

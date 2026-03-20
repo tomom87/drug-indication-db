@@ -3,7 +3,13 @@
     "yj_code": "NAIKA_0227",
     "name": "バゼドキシフェン",
     "generic_name": "バゼドキシフェン",
-    "category": "骨粗鬆症薬"
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "バゼドキシフェン錠２０ｍｇ「サワイ」",
+        "kana": "ﾊﾞｾﾞﾄﾞｷｼﾌｪﾝｼﾞｮｳ20MGｻ"
+      }
+    ]
   },
   "indications": [
     {

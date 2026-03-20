@@ -3,7 +3,13 @@
     "yj_code": "NAIKA_0074",
     "name": "チアマゾール",
     "generic_name": "チアマゾール",
-    "category": "甲状腺薬"
+    "category": "甲状腺薬",
+    "brands": [
+      {
+        "name": "チアマゾール錠　５ｍｇ",
+        "kana": "ﾁｱﾏｿﾞｰﾙｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

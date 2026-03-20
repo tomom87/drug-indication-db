@@ -3,7 +3,13 @@
     "yj_code": "NAIKA_0193",
     "name": "アザチオプリン",
     "generic_name": "アザチオプリン",
-    "category": "免疫抑制薬"
+    "category": "免疫抑制薬",
+    "brands": [
+      {
+        "name": "アザチオプリン錠　５０ｍｇ",
+        "kana": "ｱｻﾞﾁｵﾌﾟﾘﾝｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

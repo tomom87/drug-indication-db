@@ -3,7 +3,13 @@
     "yj_code": "TJ_093",
     "name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
     "generic_name": "滋陰降火湯",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗｼﾞｲﾝｺｳｶﾄｳｴｷｽｶﾘｭｳｲ"
+      }
+    ]
   },
   "indications": [
     {

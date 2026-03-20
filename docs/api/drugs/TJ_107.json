@@ -3,7 +3,13 @@
     "yj_code": "TJ_107",
     "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
     "generic_name": "牛車腎気丸",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ牛車腎気丸エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗｺﾞｼｬｼﾞﾝｷｶﾞﾝｴｷｽｶﾘｭ"
+      }
+    ]
   },
   "indications": [
     {

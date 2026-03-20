@@ -3,7 +3,13 @@
     "yj_code": "TJ_086",
     "name": "ツムラ当帰飲子エキス顆粒（医療用）",
     "generic_name": "当帰飲子",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ当帰飲子エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗﾄｳｷｲﾝｼｴｷｽｶﾘｭｳｲﾘｮｳ"
+      }
+    ]
   },
   "indications": [
     {

@@ -3,7 +3,13 @@
     "yj_code": "TJ_047",
     "name": "ツムラ釣藤散エキス顆粒（医療用）",
     "generic_name": "釣藤散",
-    "category": "漢方"
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ツムラ釣藤散エキス顆粒（医療用）",
+        "kana": "ﾂﾑﾗﾁｮｳﾄｳｻﾝｴｷｽｶﾘｭｳｲﾘｮ"
+      }
+    ]
   },
   "indications": [
     {
