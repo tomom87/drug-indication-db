@@ -4,7 +4,12 @@
     "name": "タリージェ錠２．５ｍｇ",
     "generic_name": "タリージェ",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タリージェ錠２．５ｍｇ",
+        "kana": "ﾀﾘｰｼﾞｪｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

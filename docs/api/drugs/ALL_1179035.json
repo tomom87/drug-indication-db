@@ -4,7 +4,12 @@
     "name": "クレミン顆粒１０％",
     "generic_name": "クレミン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "クレミン顆粒１０％",
+        "kana": "ｸﾚﾐﾝｶﾘｭｳ10%"
+      }
+    ]
   },
   "indications": []
 }

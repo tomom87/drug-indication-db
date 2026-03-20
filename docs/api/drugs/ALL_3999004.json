@@ -4,7 +4,12 @@
     "name": "ネオーラル１０ｍｇカプセル",
     "generic_name": "ネオーラル",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオーラル１０ｍｇカプセル",
+        "kana": "ﾈｵｰﾗﾙ10MGｶﾌﾟｾﾙ"
+      }
+    ]
   },
   "indications": [
     {

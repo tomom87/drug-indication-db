@@ -4,7 +4,12 @@
     "name": "アルロイドＧ顆粒溶解用６７％",
     "generic_name": "アルロイドＧ",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アルロイドＧ顆粒溶解用６７％",
+        "kana": "ｱﾙﾛｲﾄﾞGｶﾘｭｳﾖｳｶｲﾖｳ67%"
+      }
+    ]
   },
   "indications": []
 }

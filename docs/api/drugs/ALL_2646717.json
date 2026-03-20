@@ -4,7 +4,12 @@
     "name": "ロコイドクリーム０．１％",
     "generic_name": "ロコイド",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロコイドクリーム０．１％",
+        "kana": "ﾛｺｲﾄﾞｸﾘｰﾑ0.1%"
+      }
+    ]
   },
   "indications": [
     {

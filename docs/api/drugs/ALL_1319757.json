@@ -4,7 +4,12 @@
     "name": "ルミガン点眼液０．０３％",
     "generic_name": "ルミガン",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルミガン点眼液０．０３％",
+        "kana": "ﾙﾐｶﾞﾝﾃﾝｶﾞﾝｴｷ0.03%"
+      }
+    ]
   },
   "indications": []
 }

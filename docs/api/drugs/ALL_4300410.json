@@ -4,7 +4,12 @@
     "name": "テクネＭＤＰ注射液　７４０ＭＢｑ",
     "generic_name": "テクネＭＤＰ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "テクネＭＤＰ注射液　７４０ＭＢｑ",
+        "kana": "ﾃｸﾈMDPﾁｭｳｼｬｴｷ"
+      }
+    ]
   },
   "indications": []
 }

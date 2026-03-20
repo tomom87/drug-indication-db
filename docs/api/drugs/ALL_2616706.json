@@ -4,7 +4,12 @@
     "name": "薬用石ケン",
     "generic_name": "薬用石ケン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "薬用石ケン",
+        "kana": "ﾔｸﾖｳｾﾂｹﾝ"
+      }
+    ]
   },
   "indications": []
 }

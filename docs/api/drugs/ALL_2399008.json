@@ -4,7 +4,12 @@
     "name": "ガナトン錠５０ｍｇ",
     "generic_name": "ガナトン",
     "category": "その他の消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ガナトン錠５０ｍｇ",
+        "kana": "ｶﾞﾅﾄﾝｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

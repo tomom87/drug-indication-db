@@ -4,7 +4,12 @@
     "name": "ハイシー顆粒２５％",
     "generic_name": "ハイシー",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハイシー顆粒２５％",
+        "kana": "ﾊｲｼｰｶﾘｭｳ25%"
+      }
+    ]
   },
   "indications": []
 }

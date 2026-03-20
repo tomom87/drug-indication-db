@@ -4,7 +4,12 @@
     "name": "エピデュオゲル",
     "generic_name": "エピデュオ",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エピデュオゲル",
+        "kana": "ｴﾋﾟﾃﾞｭｵｹﾞﾙ"
+      }
+    ]
   },
   "indications": []
 }

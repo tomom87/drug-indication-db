@@ -6,12 +6,6 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2123011",
-      "name": "アテノロール２５ｍｇ錠",
-      "generic_name": "アテノロール",
-      "category": "不整脈用薬"
-    },
-    {
       "yj_code": "ALL_2121400",
       "name": "アミサリン注１００ｍｇ　１０％１ｍＬ",
       "generic_name": "アミサリン",
@@ -30,12 +24,6 @@
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123008",
-      "name": "インデラル錠１０ｍｇ",
-      "generic_name": "インデラル",
-      "category": "不整脈用薬"
-    },
-    {
       "yj_code": "ALL_2123404",
       "name": "オノアクト点滴静注用５０ｍｇ",
       "generic_name": "オノアクト",
@@ -45,12 +33,6 @@
       "yj_code": "ALL_2123015",
       "name": "ナディック錠３０ｍｇ",
       "generic_name": "ナディック",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2123016",
-      "name": "ビソプロロールフマル酸塩５ｍｇ錠",
-      "generic_name": "ビソプロロールフマル酸塩",
       "category": "不整脈用薬"
     },
     {

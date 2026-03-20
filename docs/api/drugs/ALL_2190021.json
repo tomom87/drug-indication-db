@@ -4,7 +4,12 @@
     "name": "サアミオン散１％",
     "generic_name": "サアミオン",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サアミオン散１％",
+        "kana": "ｻｱﾐｵﾝｻﾝ1%"
+      }
+    ]
   },
   "indications": []
 }

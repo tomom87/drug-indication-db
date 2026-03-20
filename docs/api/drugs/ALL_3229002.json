@@ -4,7 +4,12 @@
     "name": "Ｋ．Ｃ．Ｌ．エリキシル（１０ｗ／ｖ％）　１０％",
     "generic_name": "Ｋ．Ｃ．Ｌ．エリキシル",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "Ｋ．Ｃ．Ｌ．エリキシル（１０ｗ／ｖ％）　１０％",
+        "kana": "KCLｴﾘｷｼﾙ10W/V%"
+      }
+    ]
   },
   "indications": [
     {

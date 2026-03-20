@@ -4,7 +4,12 @@
     "name": "リゾビスト注　４４．６ｍｇ１．６ｍＬ",
     "generic_name": "リゾビスト",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "リゾビスト注　４４．６ｍｇ１．６ｍＬ",
+        "kana": "ﾘｿﾞﾋﾞｽﾄﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

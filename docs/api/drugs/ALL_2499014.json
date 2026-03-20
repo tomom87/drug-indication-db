@@ -4,7 +4,12 @@
     "name": "リベルサス錠３ｍｇ",
     "generic_name": "リベルサス",
     "category": "その他のホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リベルサス錠３ｍｇ",
+        "kana": "ﾘﾍﾞﾙｻｽｼﾞｮｳ3MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ロバキシン顆粒９０％",
     "generic_name": "ロバキシン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロバキシン顆粒９０％",
+        "kana": "ﾛﾊﾞｷｼﾝｶﾘｭｳ90%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ユベラＮカプセル１００ｍｇ",
     "generic_name": "ユベラＮ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ユベラＮカプセル１００ｍｇ",
+        "kana": "ﾕﾍﾞﾗNｶﾌﾟｾﾙ100MG"
+      }
+    ]
   },
   "indications": []
 }

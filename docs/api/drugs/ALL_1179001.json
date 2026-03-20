@@ -4,7 +4,12 @@
     "name": "アモキサンカプセル１０ｍｇ",
     "generic_name": "アモキサン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アモキサンカプセル１０ｍｇ",
+        "kana": "ｱﾓｷｻﾝｶﾌﾟｾﾙ10MG"
+      }
+    ]
   },
   "indications": []
 }

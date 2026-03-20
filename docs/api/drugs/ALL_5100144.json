@@ -4,7 +4,12 @@
     "name": "トラガント",
     "generic_name": "トラガント",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トラガント",
+        "kana": "ﾄﾗｶﾞﾝﾄ"
+      }
+    ]
   },
   "indications": []
 }

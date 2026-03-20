@@ -4,7 +4,12 @@
     "name": "ハルシオン０．２５ｍｇ錠",
     "generic_name": "ハルシオン",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハルシオン０．２５ｍｇ錠",
+        "kana": "ﾊﾙｼｵﾝ0.25MGｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "アミゼットＢ輸液　２００ｍＬ",
     "generic_name": "アミゼットＢ輸",
     "category": "リン吸着薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アミゼットＢ輸液　２００ｍＬ",
+        "kana": "ｱﾐｾﾞｯﾄBﾕｴｷ"
+      }
+    ]
   },
   "indications": [
     {

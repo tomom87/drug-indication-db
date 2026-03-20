@@ -4,7 +4,12 @@
     "name": "アンモニア水「ケンエー」",
     "generic_name": "アンモニア水「ケンエー」",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "アンモニア水「ケンエー」",
+        "kana": "ｱﾝﾓﾆｱｽｲｹﾝｴｰ"
+      }
+    ]
   },
   "indications": [
     {

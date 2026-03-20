@@ -4,7 +4,12 @@
     "name": "トチモトのビャクゴウ",
     "generic_name": "トチモトのビャクゴウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのビャクゴウ",
+        "kana": "ﾄﾁﾓﾄﾉﾋﾞｬｸｺﾞｳ"
+      }
+    ]
   },
   "indications": []
 }

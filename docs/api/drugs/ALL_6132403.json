@@ -4,7 +4,12 @@
     "name": "コアキシン注射用１ｇ",
     "generic_name": "コアキシン",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "コアキシン注射用１ｇ",
+        "kana": "ｺｱｷｼﾝﾁｭｳｼｬﾖｳ1G"
+      }
+    ]
   },
   "indications": [
     {

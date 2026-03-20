@@ -4,7 +4,12 @@
     "name": "サーティカン錠０．２５ｍｇ",
     "generic_name": "サーティカン",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サーティカン錠０．２５ｍｇ",
+        "kana": "ｻｰﾃｨｶﾝｼﾞｮｳ0.25MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ロンゲス錠５ｍｇ",
     "generic_name": "ロンゲス",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロンゲス錠５ｍｇ",
+        "kana": "ﾛﾝｹﾞｽｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

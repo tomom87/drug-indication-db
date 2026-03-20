@@ -4,7 +4,12 @@
     "name": "セルニルトン錠",
     "generic_name": "セルニルトン",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セルニルトン錠",
+        "kana": "ｾﾙﾆﾙﾄﾝｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

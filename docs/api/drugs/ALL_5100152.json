@@ -4,7 +4,12 @@
     "name": "ウチダのハッカＭ",
     "generic_name": "ウチダのハッカＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのハッカＭ",
+        "kana": "ｳﾁﾀﾞﾉﾊｯｶM"
+      }
+    ]
   },
   "indications": []
 }

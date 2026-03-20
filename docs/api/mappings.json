@@ -36,33 +36,6 @@
     "icd10": "B359"
   },
   {
-    "yj_code": "ALL_2171023",
-    "drug_name": "アイトロール錠１０ｍｇ",
-    "generic_name": "アイトロール",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171023",
-    "drug_name": "アイトロール錠１０ｍｇ",
-    "generic_name": "アイトロール",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2149118",
-    "drug_name": "アイミクス配合錠ＬＤ",
-    "generic_name": "アイミクス配合",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "NAIKA_0111",
     "drug_name": "アカルボース",
     "generic_name": "アカルボース",
@@ -70,15 +43,6 @@
     "byomei_code": "2500013",
     "byomei_name": "糖尿病",
     "icd10": "E14"
-  },
-  {
-    "yj_code": "ALL_3969003",
-    "drug_name": "アカルボース錠５０ｍｇ「ＮＩＧ」",
-    "generic_name": "アカルボース",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
   },
   {
     "yj_code": "ALL_1162400",
@@ -106,24 +70,6 @@
     "byomei_code": "4289015",
     "byomei_name": "心不全",
     "icd10": "I509"
-  },
-  {
-    "yj_code": "ALL_3969007",
-    "drug_name": "アクトス錠１５　１５ｍｇ",
-    "generic_name": "アクトス",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
-  },
-  {
-    "yj_code": "ALL_3999019",
-    "drug_name": "アクトネル錠２．５ｍｇ",
-    "generic_name": "アクトネル",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_6152002",
@@ -178,15 +124,6 @@
     "byomei_code": "8842106",
     "byomei_name": "関節リウマチ",
     "icd10": "M0690"
-  },
-  {
-    "yj_code": "ALL_3999005",
-    "drug_name": "アザチオプリン錠　５０ｍｇ",
-    "generic_name": "アザチオプリン",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_2325005",
@@ -300,15 +237,6 @@
     "yj_code": "NAIKA_0009",
     "drug_name": "アジルサルタン",
     "generic_name": "アジルサルタン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2149048",
-    "drug_name": "アジルバ錠２０ｍｇ",
-    "generic_name": "アジルバ",
     "category": "降圧薬",
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
@@ -477,15 +405,6 @@
     "icd10": "J189"
   },
   {
-    "yj_code": "ALL_1141001",
-    "drug_name": "アセトアミノフェン",
-    "generic_name": "アセトアミノフェン",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
-  },
-  {
     "yj_code": "NAIKA_0078",
     "drug_name": "アセトアミノフェン",
     "generic_name": "アセトアミノフェン",
@@ -621,24 +540,6 @@
     "icd10": "R609"
   },
   {
-    "yj_code": "ALL_2171014",
-    "drug_name": "アダラートＣＲ錠１０ｍｇ",
-    "generic_name": "アダラートＣＲ",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171014",
-    "drug_name": "アダラートＣＲ錠１０ｍｇ",
-    "generic_name": "アダラートＣＲ",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999472",
     "drug_name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．２ｍＬ「ＣＴＮＫ」",
     "generic_name": "アダリムマブＢＳ皮下",
@@ -709,33 +610,6 @@
     "byomei_code": "8844914",
     "byomei_name": "頻脈性不整脈",
     "icd10": "R000"
-  },
-  {
-    "yj_code": "ALL_2123011",
-    "drug_name": "アテノロール２５ｍｇ錠",
-    "generic_name": "アテノロール",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
-    "yj_code": "ALL_2123011",
-    "drug_name": "アテノロール２５ｍｇ錠",
-    "generic_name": "アテノロール",
-    "category": "不整脈用薬",
-    "byomei_code": "4273006",
-    "byomei_name": "心房細動",
-    "icd10": "I489"
-  },
-  {
-    "yj_code": "ALL_2149037",
-    "drug_name": "アテレック錠５　５ｍｇ",
-    "generic_name": "アテレック",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_2144004",
@@ -934,15 +808,6 @@
     "byomei_code": "3320002",
     "byomei_name": "パーキンソン病",
     "icd10": "G20"
-  },
-  {
-    "yj_code": "ALL_3961008",
-    "drug_name": "アマリール１ｍｇ錠",
-    "generic_name": "アマリール",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
   },
   {
     "yj_code": "ALL_1161001",
@@ -1449,24 +1314,6 @@
     "icd10": "K210"
   },
   {
-    "yj_code": "ALL_2133001",
-    "drug_name": "アルダクトンＡ錠５０ｍｇ",
-    "generic_name": "アルダクトンＡ",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
-    "yj_code": "ALL_2133001",
-    "drug_name": "アルダクトンＡ錠５０ｍｇ",
-    "generic_name": "アルダクトンＡ",
-    "category": "利尿薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999408",
     "drug_name": "アルツディスポ関節注２５ｍｇ　１％２．５ｍＬ",
     "generic_name": "アルツディスポ関節",
@@ -1584,24 +1431,6 @@
     "icd10": "E790"
   },
   {
-    "yj_code": "ALL_2129410",
-    "drug_name": "アンカロン注１５０　１５０ｍｇ３ｍＬ",
-    "generic_name": "アンカロン",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
-    "yj_code": "ALL_2129010",
-    "drug_name": "アンカロン錠１００　１００ｍｇ",
-    "generic_name": "アンカロン",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
     "yj_code": "ALL_2646730",
     "drug_name": "アンテベートクリーム０．０５％",
     "generic_name": "アンテベート",
@@ -1618,15 +1447,6 @@
     "byomei_code": "6869043",
     "byomei_name": "皮膚炎",
     "icd10": "L309"
-  },
-  {
-    "yj_code": "ALL_1141700",
-    "drug_name": "アンヒバ坐剤小児用５０ｍｇ",
-    "generic_name": "アンヒバ",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
   },
   {
     "yj_code": "NAIKA_0052",
@@ -1681,15 +1501,6 @@
     "byomei_code": "6869043",
     "byomei_name": "皮膚炎",
     "icd10": "L309"
-  },
-  {
-    "yj_code": "ALL_2149032",
-    "drug_name": "アーチスト錠１．２５ｍｇ",
-    "generic_name": "アーチスト",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_1169002",
@@ -1893,15 +1704,6 @@
     "yj_code": "ALL_2160700",
     "drug_name": "イミグラン点鼻液２０　２０ｍｇ０．１ｍＬ",
     "generic_name": "イミグラン点鼻",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2160003",
-    "drug_name": "イミグラン錠５０　５０ｍｇ",
-    "generic_name": "イミグラン",
     "category": "血管拡張薬",
     "byomei_code": "4139007",
     "byomei_name": "狭心症",
@@ -2142,24 +1944,6 @@
     "icd10": "I489"
   },
   {
-    "yj_code": "ALL_2123008",
-    "drug_name": "インデラル錠１０ｍｇ",
-    "generic_name": "インデラル",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
-    "yj_code": "ALL_2123008",
-    "drug_name": "インデラル錠１０ｍｇ",
-    "generic_name": "インデラル",
-    "category": "不整脈用薬",
-    "byomei_code": "4273006",
-    "byomei_name": "心房細動",
-    "icd10": "I489"
-  },
-  {
     "yj_code": "ALL_1139402",
     "drug_name": "イーケプラ点滴静注５００ｍｇ　５ｍＬ",
     "generic_name": "イーケプラ",
@@ -2334,15 +2118,6 @@
     "yj_code": "NAIKA_0120",
     "drug_name": "エキセナチド",
     "generic_name": "エキセナチド",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
-  },
-  {
-    "yj_code": "ALL_3969011",
-    "drug_name": "エクア錠５０ｍｇ",
-    "generic_name": "エクア",
     "category": "糖尿病薬",
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
@@ -2811,15 +2586,6 @@
     "yj_code": "ALL_3999013",
     "drug_name": "エパルレスタット錠５０ｍｇ「ＹＤ」",
     "generic_name": "エパルレスタット",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_3999021",
-    "drug_name": "エビスタ錠６０ｍｇ",
-    "generic_name": "エビスタ",
     "category": "骨粗鬆症薬",
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
@@ -3600,15 +3366,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2149044",
-    "drug_name": "オルメテックＯＤ錠１０ｍｇ",
-    "generic_name": "オルメテックＯＤ",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999429",
     "drug_name": "オレンシア点滴静注用２５０ｍｇ",
     "generic_name": "オレンシア",
@@ -3870,15 +3627,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2149026",
-    "drug_name": "カルデナリン錠０．５ｍｇ",
-    "generic_name": "カルデナリン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_1139002",
     "drug_name": "カルバマゼピン細粒５０％「アメル」",
     "generic_name": "カルバマゼピン",
@@ -3891,15 +3639,6 @@
     "yj_code": "ALL_2149036",
     "drug_name": "カルバン錠２５　２５ｍｇ",
     "generic_name": "カルバン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2149043",
-    "drug_name": "カルブロック錠８ｍｇ",
-    "generic_name": "カルブロック",
     "category": "降圧薬",
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
@@ -4068,15 +3807,6 @@
     "icd10": "B359"
   },
   {
-    "yj_code": "ALL_1141007",
-    "drug_name": "カロナール細粒５０％",
-    "generic_name": "カロナール",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
-  },
-  {
     "yj_code": "NAIKA_0005",
     "drug_name": "カンデサルタン",
     "generic_name": "カンデサルタン",
@@ -4120,60 +3850,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_2325003",
-    "drug_name": "ガスター散２％",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5329002",
-    "byomei_name": "十二指腸潰瘍",
-    "icd10": "K269"
-  },
-  {
-    "yj_code": "ALL_2325003",
-    "drug_name": "ガスター散２％",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5319009",
-    "byomei_name": "胃潰瘍",
-    "icd10": "K259"
-  },
-  {
-    "yj_code": "ALL_2325003",
-    "drug_name": "ガスター散２％",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5301002",
-    "byomei_name": "逆流性食道炎",
-    "icd10": "K210"
-  },
-  {
-    "yj_code": "ALL_2325401",
-    "drug_name": "ガスター注射液１０ｍｇ　１ｍＬ",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5329002",
-    "byomei_name": "十二指腸潰瘍",
-    "icd10": "K269"
-  },
-  {
-    "yj_code": "ALL_2325401",
-    "drug_name": "ガスター注射液１０ｍｇ　１ｍＬ",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5319009",
-    "byomei_name": "胃潰瘍",
-    "icd10": "K259"
-  },
-  {
-    "yj_code": "ALL_2325401",
-    "drug_name": "ガスター注射液１０ｍｇ　１ｍＬ",
-    "generic_name": "ガスター",
-    "category": "消化性潰瘍薬",
-    "byomei_code": "5301002",
-    "byomei_name": "逆流性食道炎",
-    "icd10": "K210"
   },
   {
     "yj_code": "ALL_1139007",
@@ -4374,15 +4050,6 @@
     "icd10": "N309"
   },
   {
-    "yj_code": "ALL_6149003",
-    "drug_name": "クラリシッド錠５０ｍｇ小児用",
-    "generic_name": "クラリシッド",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
     "yj_code": "NAIKA_0055",
     "drug_name": "クラリスロマイシン",
     "generic_name": "クラリスロマイシン",
@@ -4525,24 +4192,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_2189017",
-    "drug_name": "クレストール錠２．５ｍｇ",
-    "generic_name": "クレストール",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189017",
-    "drug_name": "クレストール錠２．５ｍｇ",
-    "generic_name": "クレストール",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
   },
   {
     "yj_code": "NAIKA_0220",
@@ -4725,15 +4374,6 @@
     "icd10": "E790"
   },
   {
-    "yj_code": "ALL_3961007",
-    "drug_name": "グリミクロンＨＡ錠２０ｍｇ",
-    "generic_name": "グリミクロンＨＡ",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
-  },
-  {
     "yj_code": "NAIKA_0021",
     "drug_name": "グリメピリド",
     "generic_name": "グリメピリド",
@@ -4752,15 +4392,6 @@
     "icd10": "D509"
   },
   {
-    "yj_code": "ALL_3969008",
-    "drug_name": "グルファスト錠５ｍｇ",
-    "generic_name": "グルファスト",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
-  },
-  {
     "yj_code": "ALL_3969102",
     "drug_name": "グルベス配合錠",
     "generic_name": "グルベス配合",
@@ -4777,15 +4408,6 @@
     "byomei_code": "5738002",
     "byomei_name": "肝機能障害",
     "icd10": "K769"
-  },
-  {
-    "yj_code": "ALL_3999031",
-    "drug_name": "ケアラム錠２５ｍｇ",
-    "generic_name": "ケアラム",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_1149700",
@@ -4827,33 +4449,6 @@
     "yj_code": "ALL_6132005",
     "drug_name": "ケフラールカプセル２５０ｍｇ",
     "generic_name": "ケフラール",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
-  },
-  {
-    "yj_code": "ALL_6132002",
-    "drug_name": "ケフレックスシロップ用細粒１００　１００ｍｇ",
-    "generic_name": "ケフレックス",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6132002",
-    "drug_name": "ケフレックスシロップ用細粒１００　１００ｍｇ",
-    "generic_name": "ケフレックス",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6132002",
-    "drug_name": "ケフレックスシロップ用細粒１００　１００ｍｇ",
-    "generic_name": "ケフレックス",
     "category": "抗菌薬",
     "byomei_code": "5959015",
     "byomei_name": "膀胱炎",
@@ -4977,42 +4572,6 @@
     "icd10": "R05"
   },
   {
-    "yj_code": "ALL_2171021",
-    "drug_name": "コニール錠２　２ｍｇ",
-    "generic_name": "コニール",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171021",
-    "drug_name": "コニール錠２　２ｍｇ",
-    "generic_name": "コニール",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2144012",
-    "drug_name": "コバシル錠２ｍｇ",
-    "generic_name": "コバシル",
-    "category": "降圧薬",
-    "byomei_code": "8840107",
-    "byomei_name": "本態性高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2144012",
-    "drug_name": "コバシル錠２ｍｇ",
-    "generic_name": "コバシル",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999440",
     "drug_name": "コパキソン皮下注２０ｍｇシリンジ　１ｍＬ",
     "generic_name": "コパキソン皮下",
@@ -5083,24 +4642,6 @@
     "byomei_code": "8837837",
     "byomei_name": "痛風発作",
     "icd10": "M1009"
-  },
-  {
-    "yj_code": "ALL_3941001",
-    "drug_name": "コルヒチン錠０．５ｍｇ「タカタ」",
-    "generic_name": "コルヒチン",
-    "category": "抗ヒスタミン薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
-  },
-  {
-    "yj_code": "ALL_3941001",
-    "drug_name": "コルヒチン錠０．５ｍｇ「タカタ」",
-    "generic_name": "コルヒチン",
-    "category": "抗ヒスタミン薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
   },
   {
     "yj_code": "NAIKA_0131",
@@ -5238,15 +4779,6 @@
     "icd10": "F419"
   },
   {
-    "yj_code": "ALL_2139011",
-    "drug_name": "サムスカ顆粒１％",
-    "generic_name": "サムスカ",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
     "yj_code": "ALL_2139403",
     "drug_name": "サムタス点滴静注用８ｍｇ",
     "generic_name": "サムタス",
@@ -5319,42 +4851,6 @@
     "icd10": "J459"
   },
   {
-    "yj_code": "ALL_6131001",
-    "drug_name": "サワシリン錠２５０　２５０ｍｇ",
-    "generic_name": "サワシリン",
-    "category": "抗菌薬",
-    "byomei_code": "3829010",
-    "byomei_name": "中耳炎",
-    "icd10": "H669"
-  },
-  {
-    "yj_code": "ALL_6131001",
-    "drug_name": "サワシリン錠２５０　２５０ｍｇ",
-    "generic_name": "サワシリン",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6131001",
-    "drug_name": "サワシリン錠２５０　２５０ｍｇ",
-    "generic_name": "サワシリン",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6131001",
-    "drug_name": "サワシリン錠２５０　２５０ｍｇ",
-    "generic_name": "サワシリン",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
-  },
-  {
     "yj_code": "ALL_3999406",
     "drug_name": "サンディミュン点滴静注用２５０ｍｇ　５％５ｍＬ",
     "generic_name": "サンディミュン",
@@ -5362,15 +4858,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_2129008",
-    "drug_name": "サンリズムカプセル２５ｍｇ",
-    "generic_name": "サンリズム",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
   },
   {
     "yj_code": "ALL_2129408",
@@ -5407,24 +4894,6 @@
     "byomei_code": "8838926",
     "byomei_name": "白癬",
     "icd10": "B359"
-  },
-  {
-    "yj_code": "ALL_3943001",
-    "drug_name": "ザイロリック錠５０　５０ｍｇ",
-    "generic_name": "ザイロリック",
-    "category": "抗ヒスタミン薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
-  },
-  {
-    "yj_code": "ALL_3943001",
-    "drug_name": "ザイロリック錠５０　５０ｍｇ",
-    "generic_name": "ザイロリック",
-    "category": "抗ヒスタミン薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
   },
   {
     "yj_code": "ALL_2149121",
@@ -5506,24 +4975,6 @@
     "byomei_code": "5959015",
     "byomei_name": "膀胱炎",
     "icd10": "N309"
-  },
-  {
-    "yj_code": "ALL_2171017",
-    "drug_name": "シグマート錠２．５ｍｇ",
-    "generic_name": "シグマート",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171017",
-    "drug_name": "シグマート錠２．５ｍｇ",
-    "generic_name": "シグマート",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "NAIKA_0019",
@@ -5632,15 +5083,6 @@
     "byomei_code": "5301002",
     "byomei_name": "逆流性食道炎",
     "icd10": "K210"
-  },
-  {
-    "yj_code": "ALL_3969013",
-    "drug_name": "シュアポスト錠０．２５ｍｇ",
-    "generic_name": "シュアポスト",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
   },
   {
     "yj_code": "ALL_6250410",
@@ -5895,24 +5337,6 @@
     "icd10": "I509"
   },
   {
-    "yj_code": "ALL_2113400",
-    "drug_name": "ジゴシン注０．２５ｍｇ　０．０２５％１ｍＬ",
-    "generic_name": "ジゴシン",
-    "category": "強心薬",
-    "byomei_code": "4289015",
-    "byomei_name": "心不全",
-    "icd10": "I509"
-  },
-  {
-    "yj_code": "ALL_6149004",
-    "drug_name": "ジスロマックカプセル小児用１００ｍｇ",
-    "generic_name": "ジスロマック",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
     "yj_code": "ALL_6149400",
     "drug_name": "ジスロマック点滴静注用５００ｍｇ",
     "generic_name": "ジスロマック",
@@ -6066,24 +5490,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2171405",
-    "drug_name": "ジルチアゼム塩酸塩注射用２５０ｍｇ「サワイ」",
-    "generic_name": "ジルチアゼム塩酸塩",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171405",
-    "drug_name": "ジルチアゼム塩酸塩注射用２５０ｍｇ「サワイ」",
-    "generic_name": "ジルチアゼム塩酸塩",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999471",
     "drug_name": "ジルビスク皮下注１６．６ｍｇシリンジ　０．４１６ｍＬ",
     "generic_name": "ジルビスク皮下",
@@ -6156,15 +5562,6 @@
     "icd10": "G20"
   },
   {
-    "yj_code": "ALL_3969006",
-    "drug_name": "スターシス錠３０ｍｇ",
-    "generic_name": "スターシス",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
-  },
-  {
     "yj_code": "ALL_3999431",
     "drug_name": "ステラーラ皮下注４５ｍｇシリンジ　０．５ｍＬ",
     "generic_name": "ステラーラ皮下",
@@ -6226,24 +5623,6 @@
     "byomei_code": "8839596",
     "byomei_name": "不安障害",
     "icd10": "F419"
-  },
-  {
-    "yj_code": "ALL_2646720",
-    "drug_name": "スピラゾンクリーム０．３％",
-    "generic_name": "スピラゾン",
-    "category": "外用ステロイド",
-    "byomei_code": "6923002",
-    "byomei_name": "湿疹",
-    "icd10": "L309"
-  },
-  {
-    "yj_code": "ALL_2646720",
-    "drug_name": "スピラゾンクリーム０．３％",
-    "generic_name": "スピラゾン",
-    "category": "外用ステロイド",
-    "byomei_code": "6869043",
-    "byomei_name": "皮膚炎",
-    "icd10": "L309"
   },
   {
     "yj_code": "ALL_2259709",
@@ -6804,33 +6183,6 @@
     "icd10": "N309"
   },
   {
-    "yj_code": "ALL_6132013",
-    "drug_name": "セフゾンカプセル５０ｍｇ",
-    "generic_name": "セフゾン",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6132013",
-    "drug_name": "セフゾンカプセル５０ｍｇ",
-    "generic_name": "セフゾン",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6132013",
-    "drug_name": "セフゾンカプセル５０ｍｇ",
-    "generic_name": "セフゾン",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
-  },
-  {
     "yj_code": "ALL_6132418",
     "drug_name": "セフタジジム静注用１ｇ「ＮＰ」",
     "generic_name": "セフタジジム静",
@@ -6921,33 +6273,6 @@
     "icd10": "G039"
   },
   {
-    "yj_code": "ALL_6132419",
-    "drug_name": "セフトリアキソンナトリウム点滴用１ｇバッグＮＰ　生食１００ｍＬ付",
-    "generic_name": "セフトリアキソンナトリウム",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6132419",
-    "drug_name": "セフトリアキソンナトリウム点滴用１ｇバッグＮＰ　生食１００ｍＬ付",
-    "generic_name": "セフトリアキソンナトリウム",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6132419",
-    "drug_name": "セフトリアキソンナトリウム点滴用１ｇバッグＮＰ　生食１００ｍＬ付",
-    "generic_name": "セフトリアキソンナトリウム",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
-  },
-  {
     "yj_code": "ALL_6132408",
     "drug_name": "セフメタゾールナトリウム点滴静注バッグ１ｇＮＰ　生食１００ｍＬ付",
     "generic_name": "セフメタゾールナトリウム",
@@ -7000,15 +6325,6 @@
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
     "icd10": "E11"
-  },
-  {
-    "yj_code": "ALL_2149045",
-    "drug_name": "セララ錠２５ｍｇ",
-    "generic_name": "セララ",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_1124017",
@@ -7119,15 +6435,6 @@
     "icd10": "M0690"
   },
   {
-    "yj_code": "ALL_1149037",
-    "drug_name": "セレコックス錠１００ｍｇ",
-    "generic_name": "セレコックス",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
-  },
-  {
     "yj_code": "ALL_1124013",
     "drug_name": "セレナール散１０％",
     "generic_name": "セレナール",
@@ -7144,15 +6451,6 @@
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
     "icd10": "J459"
-  },
-  {
-    "yj_code": "ALL_2149010",
-    "drug_name": "セロケン錠２０ｍｇ",
-    "generic_name": "セロケン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_3919007",
@@ -7180,33 +6478,6 @@
     "byomei_code": "8840042",
     "byomei_name": "便秘症",
     "icd10": "K590"
-  },
-  {
-    "yj_code": "ALL_2354003",
-    "drug_name": "センノシド錠１２ｍｇ「セイコー」",
-    "generic_name": "センノシド",
-    "category": "利胆薬",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
-  },
-  {
-    "yj_code": "ALL_2189018",
-    "drug_name": "ゼチーア錠１０ｍｇ",
-    "generic_name": "ゼチーア",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189018",
-    "drug_name": "ゼチーア錠１０ｍｇ",
-    "generic_name": "ゼチーア",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
   },
   {
     "yj_code": "ALL_6250020",
@@ -7470,15 +6741,6 @@
     "icd10": "B359"
   },
   {
-    "yj_code": "ALL_3999423",
-    "drug_name": "ゾメタ点滴静注４ｍｇ／５ｍＬ",
-    "generic_name": "ゾメタ",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
     "yj_code": "ALL_3969500",
     "drug_name": "ゾルトファイ配合注　フレックスタッチ",
     "generic_name": "ゾルトファイ配合",
@@ -7587,24 +6849,6 @@
     "icd10": "M0690"
   },
   {
-    "yj_code": "ALL_2144008",
-    "drug_name": "タナトリル錠２．５　２．５ｍｇ",
-    "generic_name": "タナトリル",
-    "category": "降圧薬",
-    "byomei_code": "8840107",
-    "byomei_name": "本態性高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2144008",
-    "drug_name": "タナトリル錠２．５　２．５ｍｇ",
-    "generic_name": "タナトリル",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_2119007",
     "drug_name": "タナドーパ顆粒７５％",
     "generic_name": "タナドーパ",
@@ -7630,24 +6874,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_6250021",
-    "drug_name": "タミフルカプセル７５　７５ｍｇ",
-    "generic_name": "タミフル",
-    "category": "抗真菌薬",
-    "byomei_code": "1129002",
-    "byomei_name": "カンジダ症",
-    "icd10": "B379"
-  },
-  {
-    "yj_code": "ALL_6250021",
-    "drug_name": "タミフルカプセル７５　７５ｍｇ",
-    "generic_name": "タミフル",
-    "category": "抗真菌薬",
-    "byomei_code": "8838926",
-    "byomei_name": "白癬",
-    "icd10": "B359"
   },
   {
     "yj_code": "NAIKA_0092",
@@ -7684,15 +6910,6 @@
     "byomei_code": "5319009",
     "byomei_name": "胃潰瘍",
     "icd10": "K259"
-  },
-  {
-    "yj_code": "ALL_2129009",
-    "drug_name": "タンボコール錠５０ｍｇ",
-    "generic_name": "タンボコール",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
   },
   {
     "yj_code": "ALL_2129406",
@@ -7743,15 +6960,6 @@
     "yj_code": "ALL_2134002",
     "drug_name": "ダイアモックス錠２５０ｍｇ",
     "generic_name": "ダイアモックス",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
-    "yj_code": "ALL_2139008",
-    "drug_name": "ダイアート錠６０ｍｇ",
-    "generic_name": "ダイアート",
     "category": "利尿薬",
     "byomei_code": "7823024",
     "byomei_name": "浮腫",
@@ -7857,15 +7065,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_3999453",
-    "drug_name": "ダルベポエチン　アルファＢＳ注５μｇシリンジＪＣＲ　０．５ｍＬ",
-    "generic_name": "ダルベポエチン　アルファＢＳ",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
     "yj_code": "NAIKA_0190",
     "drug_name": "ダルベポエチンアルファ",
     "generic_name": "ダルベポエチンアルファ",
@@ -7873,15 +7072,6 @@
     "byomei_code": "2858001",
     "byomei_name": "腎性貧血",
     "icd10": "N19"
-  },
-  {
-    "yj_code": "ALL_3999455",
-    "drug_name": "ダルベポエチンアルファＢＳ注射液５μｇシリンジＭＹＬ　０．５ｍＬ",
-    "generic_name": "ダルベポエチンアルファＢＳ",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_1124002",
@@ -7915,15 +7105,6 @@
     "drug_name": "チアマゾール",
     "generic_name": "チアマゾール",
     "category": "甲状腺薬",
-    "byomei_code": "8833502",
-    "byomei_name": "甲状腺機能亢進症",
-    "icd10": "E059"
-  },
-  {
-    "yj_code": "ALL_2432001",
-    "drug_name": "チアマゾール錠　５ｍｇ",
-    "generic_name": "チアマゾール",
-    "category": "抗甲状腺薬",
     "byomei_code": "8833502",
     "byomei_name": "甲状腺機能亢進症",
     "icd10": "E059"
@@ -12501,15 +11682,6 @@
     "icd10": "J439"
   },
   {
-    "yj_code": "ALL_2259707",
-    "drug_name": "ツロブテロールテープ０．５ｍｇ「ＱＱ」",
-    "generic_name": "ツロブテロール",
-    "category": "気管支拡張薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
     "yj_code": "NAIKA_0048",
     "drug_name": "テオフィリン",
     "generic_name": "テオフィリン",
@@ -12742,15 +11914,6 @@
     "byomei_code": "8839596",
     "byomei_name": "不安障害",
     "icd10": "F419"
-  },
-  {
-    "yj_code": "ALL_2149041",
-    "drug_name": "ディオバン錠２０ｍｇ",
-    "generic_name": "ディオバン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_2647709",
@@ -13125,24 +12288,6 @@
     "yj_code": "ALL_1149400",
     "drug_name": "トラマール注１００　１００ｍｇ",
     "generic_name": "トラマール",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
-  },
-  {
-    "yj_code": "ALL_1149038",
-    "drug_name": "トラマールＯＤ錠２５ｍｇ",
-    "generic_name": "トラマールＯＤ",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
-  },
-  {
-    "yj_code": "ALL_1149117",
-    "drug_name": "トラムセット配合錠",
-    "generic_name": "トラムセット配合",
     "category": "抗てんかん薬",
     "byomei_code": "3459001",
     "byomei_name": "てんかん",
@@ -13698,24 +12843,6 @@
     "icd10": "I209"
   },
   {
-    "yj_code": "ALL_2171406",
-    "drug_name": "ニコランジル点滴静注用２ｍｇ「サワイ」",
-    "generic_name": "ニコランジル",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171406",
-    "drug_name": "ニコランジル点滴静注用２ｍｇ「サワイ」",
-    "generic_name": "ニコランジル",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_2149401",
     "drug_name": "ニトプロ持続静注液６ｍｇ　２ｍＬ",
     "generic_name": "ニトプロ持続静",
@@ -13773,42 +12900,6 @@
     "yj_code": "ALL_2171018",
     "drug_name": "ニトロペン舌下錠０．３ｍｇ",
     "generic_name": "ニトロペン舌下",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2171404",
-    "drug_name": "ニトロール持続静注２５ｍｇシリンジ　５０ｍＬ",
-    "generic_name": "ニトロール持続静",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171404",
-    "drug_name": "ニトロール持続静注２５ｍｇシリンジ　５０ｍＬ",
-    "generic_name": "ニトロール持続静",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2171011",
-    "drug_name": "ニトロールＲカプセル２０ｍｇ",
-    "generic_name": "ニトロールＲ",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171011",
-    "drug_name": "ニトロールＲカプセル２０ｍｇ",
-    "generic_name": "ニトロールＲ",
     "category": "血管拡張薬",
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
@@ -13896,15 +12987,6 @@
     "icd10": "F329"
   },
   {
-    "yj_code": "ALL_2149039",
-    "drug_name": "ニューロタン錠１００ｍｇ",
-    "generic_name": "ニューロタン",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3253415",
     "drug_name": "ネオアミユー輸液　２００ｍＬ",
     "generic_name": "ネオアミユー輸",
@@ -13921,15 +13003,6 @@
     "byomei_code": "4139007",
     "byomei_name": "狭心症",
     "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_1169101",
-    "drug_name": "ネオドパストン配合錠Ｌ１００",
-    "generic_name": "ネオドパストン配合",
-    "category": "抗パーキンソン薬",
-    "byomei_code": "3320002",
-    "byomei_name": "パーキンソン病",
-    "icd10": "G20"
   },
   {
     "yj_code": "ALL_1149502",
@@ -14094,24 +13167,6 @@
     "icd10": "G409"
   },
   {
-    "yj_code": "ALL_2171022",
-    "drug_name": "ノルバスク錠２．５ｍｇ",
-    "generic_name": "ノルバスク",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171022",
-    "drug_name": "ノルバスク錠２．５ｍｇ",
-    "generic_name": "ノルバスク",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_6250011",
     "drug_name": "ノービア錠１００ｍｇ",
     "generic_name": "ノービア",
@@ -14191,15 +13246,6 @@
     "byomei_code": "3320002",
     "byomei_name": "パーキンソン病",
     "icd10": "G20"
-  },
-  {
-    "yj_code": "ALL_2113003",
-    "drug_name": "ハーフジゴキシンＫＹ錠０．１２５　０．１２５ｍｇ",
-    "generic_name": "ハーフジゴキシンＫＹ",
-    "category": "強心薬",
-    "byomei_code": "4289015",
-    "byomei_name": "心不全",
-    "icd10": "I509"
   },
   {
     "yj_code": "ALL_6250107",
@@ -14328,24 +13374,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_6250029",
-    "drug_name": "バラクルード錠０．５ｍｇ",
-    "generic_name": "バラクルード",
-    "category": "抗真菌薬",
-    "byomei_code": "1129002",
-    "byomei_name": "カンジダ症",
-    "icd10": "B379"
-  },
-  {
-    "yj_code": "ALL_6250029",
-    "drug_name": "バラクルード錠０．５ｍｇ",
-    "generic_name": "バラクルード",
-    "category": "抗真菌薬",
-    "byomei_code": "8838926",
-    "byomei_name": "白癬",
-    "icd10": "B359"
-  },
-  {
     "yj_code": "NAIKA_0163",
     "drug_name": "バラシクロビル",
     "generic_name": "バラシクロビル",
@@ -14418,24 +13446,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_6250019",
-    "drug_name": "バルトレックス錠５００　５００ｍｇ",
-    "generic_name": "バルトレックス",
-    "category": "抗真菌薬",
-    "byomei_code": "1129002",
-    "byomei_name": "カンジダ症",
-    "icd10": "B379"
-  },
-  {
-    "yj_code": "ALL_6250019",
-    "drug_name": "バルトレックス錠５００　５００ｍｇ",
-    "generic_name": "バルトレックス",
-    "category": "抗真菌薬",
-    "byomei_code": "8838926",
-    "byomei_name": "白癬",
-    "icd10": "B359"
-  },
-  {
     "yj_code": "NAIKA_0218",
     "drug_name": "バルプロ酸",
     "generic_name": "バルプロ酸",
@@ -14461,15 +13471,6 @@
     "byomei_code": "8832941",
     "byomei_name": "軽躁病",
     "icd10": "F300"
-  },
-  {
-    "yj_code": "ALL_1139004",
-    "drug_name": "バルプロ酸ナトリウム細粒２０％「ＥＭＥＣ」",
-    "generic_name": "バルプロ酸ナトリウム",
-    "category": "抗不安薬",
-    "byomei_code": "8839596",
-    "byomei_name": "不安障害",
-    "icd10": "F419"
   },
   {
     "yj_code": "NAIKA_0240",
@@ -14913,24 +13914,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2132004",
-    "drug_name": "ヒドロクロロチアジド錠２５ｍｇ「トーワ」",
-    "generic_name": "ヒドロクロロチアジド",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
-    "yj_code": "ALL_2132004",
-    "drug_name": "ヒドロクロロチアジド錠２５ｍｇ「トーワ」",
-    "generic_name": "ヒドロクロロチアジド",
-    "category": "利尿薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_2149030",
     "drug_name": "ヒポカ５ｍｇカプセル",
     "generic_name": "ヒポカ",
@@ -15183,24 +14166,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2123016",
-    "drug_name": "ビソプロロールフマル酸塩５ｍｇ錠",
-    "generic_name": "ビソプロロールフマル酸塩",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
-    "yj_code": "ALL_2123016",
-    "drug_name": "ビソプロロールフマル酸塩５ｍｇ錠",
-    "generic_name": "ビソプロロールフマル酸塩",
-    "category": "不整脈用薬",
-    "byomei_code": "4273006",
-    "byomei_name": "心房細動",
-    "icd10": "I489"
-  },
-  {
     "yj_code": "ALL_3134002",
     "drug_name": "ビタミンＢ６散１０％「マルイシ」",
     "generic_name": "ビタミンＢ６",
@@ -15208,15 +14173,6 @@
     "byomei_code": "8840786",
     "byomei_name": "葉酸欠乏症",
     "icd10": "E538"
-  },
-  {
-    "yj_code": "ALL_3999027",
-    "drug_name": "ビビアント錠２０ｍｇ",
-    "generic_name": "ビビアント",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_6152004",
@@ -15372,15 +14328,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_1169012",
-    "drug_name": "ビ・シフロール錠０．１２５ｍｇ",
-    "generic_name": "ビ・シフロール",
-    "category": "抗パーキンソン薬",
-    "byomei_code": "3320002",
-    "byomei_name": "パーキンソン病",
-    "icd10": "G20"
-  },
-  {
     "yj_code": "ALL_2359108",
     "drug_name": "ビーマス配合錠",
     "generic_name": "ビーマス配合",
@@ -15406,15 +14353,6 @@
     "byomei_code": "8840042",
     "byomei_name": "便秘症",
     "icd10": "K590"
-  },
-  {
-    "yj_code": "ALL_2359005",
-    "drug_name": "ピコスルファートナトリウム顆粒１％「ゼリア」",
-    "generic_name": "ピコスルファートナトリウム",
-    "category": "肝臓用薬",
-    "byomei_code": "5738002",
-    "byomei_name": "肝機能障害",
-    "icd10": "K769"
   },
   {
     "yj_code": "ALL_6139504",
@@ -15993,33 +14931,6 @@
     "icd10": "E790"
   },
   {
-    "yj_code": "ALL_3949003",
-    "drug_name": "フェブリク錠１０ｍｇ",
-    "generic_name": "フェブリク",
-    "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
-  },
-  {
-    "yj_code": "ALL_3949003",
-    "drug_name": "フェブリク錠１０ｍｇ",
-    "generic_name": "フェブリク",
-    "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
-  },
-  {
-    "yj_code": "ALL_3949003",
-    "drug_name": "フェブリク錠１０ｍｇ",
-    "generic_name": "フェブリク",
-    "category": "抗アレルギー薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
     "yj_code": "ALL_2319100",
     "drug_name": "フェロベリン配合錠",
     "generic_name": "フェロベリン配合",
@@ -16038,15 +14949,6 @@
     "icd10": "K259"
   },
   {
-    "yj_code": "ALL_3222013",
-    "drug_name": "フェロミア錠５０ｍｇ　鉄５０ｍｇ",
-    "generic_name": "フェロミア",
-    "category": "鉄剤",
-    "byomei_code": "2809009",
-    "byomei_name": "鉄欠乏性貧血",
-    "icd10": "D509"
-  },
-  {
     "yj_code": "ALL_3222007",
     "drug_name": "フェロ・グラデュメット錠１０５ｍｇ",
     "generic_name": "フェロ・グラデュメット",
@@ -16054,15 +14956,6 @@
     "byomei_code": "2809009",
     "byomei_name": "鉄欠乏性貧血",
     "icd10": "D509"
-  },
-  {
-    "yj_code": "ALL_3969019",
-    "drug_name": "フォシーガ錠５ｍｇ",
-    "generic_name": "フォシーガ",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
   },
   {
     "yj_code": "ALL_3999066",
@@ -16117,42 +15010,6 @@
     "byomei_code": "8838810",
     "byomei_name": "肺結核",
     "icd10": "A162"
-  },
-  {
-    "yj_code": "ALL_2171700",
-    "drug_name": "フランドルテープ４０ｍｇ",
-    "generic_name": "フランドル",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171700",
-    "drug_name": "フランドルテープ４０ｍｇ",
-    "generic_name": "フランドル",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2132003",
-    "drug_name": "フルイトラン錠２ｍｇ",
-    "generic_name": "フルイトラン",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
-    "yj_code": "ALL_2132003",
-    "drug_name": "フルイトラン錠２ｍｇ",
-    "generic_name": "フルイトラン",
-    "category": "利尿薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "NAIKA_0169",
@@ -16371,15 +15228,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2139005",
-    "drug_name": "フロセミド細粒４％「ＥＭＥＣ」",
-    "generic_name": "フロセミド",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
     "yj_code": "ALL_1149011",
     "drug_name": "フロベン錠４０　４０ｍｇ",
     "generic_name": "フロベン",
@@ -16387,33 +15235,6 @@
     "byomei_code": "3459001",
     "byomei_name": "てんかん",
     "icd10": "G409"
-  },
-  {
-    "yj_code": "ALL_6132016",
-    "drug_name": "フロモックス錠７５ｍｇ",
-    "generic_name": "フロモックス",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6132016",
-    "drug_name": "フロモックス錠７５ｍｇ",
-    "generic_name": "フロモックス",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6132016",
-    "drug_name": "フロモックス錠７５ｍｇ",
-    "generic_name": "フロモックス",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
   },
   {
     "yj_code": "ALL_1139700",
@@ -16560,15 +15381,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_2149040",
-    "drug_name": "ブロプレス錠２　２ｍｇ",
-    "generic_name": "ブロプレス",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_1124700",
     "drug_name": "ブロマゼパム坐剤３ｍｇ「サンド」",
     "generic_name": "ブロマゼパム",
@@ -16594,15 +15406,6 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
-  },
-  {
-    "yj_code": "ALL_3999038",
-    "drug_name": "プラケニル錠２００ｍｇ",
-    "generic_name": "プラケニル",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "NAIKA_0182",
@@ -16866,24 +15669,6 @@
     "icd10": "M0690"
   },
   {
-    "yj_code": "ALL_2646712",
-    "drug_name": "プレドニゾロン軟膏０．５％「ＶＴＲＳ」",
-    "generic_name": "プレドニゾロン",
-    "category": "外用ステロイド",
-    "byomei_code": "6923002",
-    "byomei_name": "湿疹",
-    "icd10": "L309"
-  },
-  {
-    "yj_code": "ALL_2646712",
-    "drug_name": "プレドニゾロン軟膏０．５％「ＶＴＲＳ」",
-    "generic_name": "プレドニゾロン",
-    "category": "外用ステロイド",
-    "byomei_code": "6869043",
-    "byomei_name": "皮膚炎",
-    "icd10": "L309"
-  },
-  {
     "yj_code": "ALL_6250406",
     "drug_name": "プレバイミス点滴静注２４０ｍｇ　１２ｍＬ",
     "generic_name": "プレバイミス",
@@ -16918,15 +15703,6 @@
     "byomei_code": "8838926",
     "byomei_name": "白癬",
     "icd10": "B359"
-  },
-  {
-    "yj_code": "ALL_2149110",
-    "drug_name": "プレミネント配合錠ＬＤ",
-    "generic_name": "プレミネント配合",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_2391405",
@@ -16999,15 +15775,6 @@
     "byomei_code": "2961003",
     "byomei_name": "うつ病",
     "icd10": "F329"
-  },
-  {
-    "yj_code": "ALL_3999014",
-    "drug_name": "プログラフカプセル０．５ｍｇ",
-    "generic_name": "プログラフ",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_3999416",
@@ -17154,15 +15921,6 @@
     "icd10": "D350"
   },
   {
-    "yj_code": "ALL_2149014",
-    "drug_name": "プロプラノロール塩酸塩徐放カプセル６０ｍｇ「サワイ」",
-    "generic_name": "プロプラノロール塩酸塩徐放",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_3999447",
     "drug_name": "ヘルニコア椎間板注用１．２５単位",
     "generic_name": "ヘルニコア椎間板",
@@ -17170,33 +15928,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_2171006",
-    "drug_name": "ヘルベッサー錠６０　６０ｍｇ",
-    "generic_name": "ヘルベッサー",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171006",
-    "drug_name": "ヘルベッサー錠６０　６０ｍｇ",
-    "generic_name": "ヘルベッサー",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_3969004",
-    "drug_name": "ベイスン錠０．２　０．２ｍｇ",
-    "generic_name": "ベイスン",
-    "category": "糖尿病薬",
-    "byomei_code": "2500015",
-    "byomei_name": "２型糖尿病",
-    "icd10": "E11"
   },
   {
     "yj_code": "ALL_6250411",
@@ -17242,33 +15973,6 @@
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
     "icd10": "J459"
-  },
-  {
-    "yj_code": "ALL_2183005",
-    "drug_name": "ベザトールＳＲ錠１００ｍｇ",
-    "generic_name": "ベザトールＳＲ",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2183005",
-    "drug_name": "ベザトールＳＲ錠１００ｍｇ",
-    "generic_name": "ベザトールＳＲ",
-    "category": "脂質異常症薬",
-    "byomei_code": "2720004",
-    "byomei_name": "高コレステロール血症",
-    "icd10": "E780"
-  },
-  {
-    "yj_code": "ALL_2183005",
-    "drug_name": "ベザトールＳＲ錠１００ｍｇ",
-    "generic_name": "ベザトールＳＲ",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
   },
   {
     "yj_code": "NAIKA_0031",
@@ -17649,15 +16353,6 @@
     "icd10": "N309"
   },
   {
-    "yj_code": "ALL_2259002",
-    "drug_name": "ホクナリン錠１ｍｇ",
-    "generic_name": "ホクナリン",
-    "category": "気管支拡張薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
     "yj_code": "NAIKA_0162",
     "drug_name": "ホスホマイシン",
     "generic_name": "ホスホマイシン",
@@ -17784,33 +16479,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_3999419",
-    "drug_name": "ボナロン点滴静注バッグ９００μｇ　１００ｍＬ",
-    "generic_name": "ボナロン",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_3999018",
-    "drug_name": "ボナロン錠５ｍｇ",
-    "generic_name": "ボナロン",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_3999026",
-    "drug_name": "ボノテオ錠１ｍｇ",
-    "generic_name": "ボノテオ",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
     "yj_code": "NAIKA_0035",
     "drug_name": "ボノプラザン",
     "generic_name": "ボノプラザン",
@@ -17928,24 +16596,6 @@
     "icd10": "F419"
   },
   {
-    "yj_code": "ALL_1129009",
-    "drug_name": "マイスリー錠５ｍｇ",
-    "generic_name": "マイスリー",
-    "category": "催眠鎮静薬",
-    "byomei_code": "8839792",
-    "byomei_name": "不眠症",
-    "icd10": "G470"
-  },
-  {
-    "yj_code": "ALL_2160006",
-    "drug_name": "マクサルト錠１０ｍｇ",
-    "generic_name": "マクサルト",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
     "yj_code": "ALL_3999055",
     "drug_name": "マスーレッド錠５ｍｇ",
     "generic_name": "マスーレッド",
@@ -17991,24 +16641,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_2149117",
-    "drug_name": "ミカムロ配合錠ＡＰ",
-    "generic_name": "ミカムロ配合",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2149042",
-    "drug_name": "ミカルディス錠２０ｍｇ",
-    "generic_name": "ミカルディス",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "ALL_1149013",
     "drug_name": "ミグリステン錠２０　２０ｍｇ",
     "generic_name": "ミグリステン",
@@ -18021,15 +16653,6 @@
     "yj_code": "ALL_2149025",
     "drug_name": "ミケランＬＡカプセル１５ｍｇ",
     "generic_name": "ミケランＬＡ",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2149113",
-    "drug_name": "ミコンビ配合錠ＡＰ",
-    "generic_name": "ミコンビ配合",
     "category": "降圧薬",
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
@@ -18117,24 +16740,6 @@
     "icd10": "N309"
   },
   {
-    "yj_code": "ALL_6152401",
-    "drug_name": "ミノサイクリン塩酸塩点滴静注用１００ｍｇ「日医工」",
-    "generic_name": "ミノサイクリン塩酸塩",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6152401",
-    "drug_name": "ミノサイクリン塩酸塩点滴静注用１００ｍｇ「日医工」",
-    "generic_name": "ミノサイクリン塩酸塩",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
-  },
-  {
     "yj_code": "NAIKA_0223",
     "drug_name": "ミノドロン酸",
     "generic_name": "ミノドロン酸",
@@ -18142,24 +16747,6 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
-  },
-  {
-    "yj_code": "ALL_6152005",
-    "drug_name": "ミノマイシンカプセル１００ｍｇ",
-    "generic_name": "ミノマイシン",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6152005",
-    "drug_name": "ミノマイシンカプセル１００ｍｇ",
-    "generic_name": "ミノマイシン",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
   },
   {
     "yj_code": "ALL_3999405",
@@ -18234,24 +16821,6 @@
     "icd10": "I509"
   },
   {
-    "yj_code": "ALL_2233002",
-    "drug_name": "ムコダイン錠５００ｍｇ",
-    "generic_name": "ムコダイン",
-    "category": "去痰薬",
-    "byomei_code": "4660009",
-    "byomei_name": "急性気管支炎",
-    "icd10": "J209"
-  },
-  {
-    "yj_code": "ALL_2233002",
-    "drug_name": "ムコダイン錠５００ｍｇ",
-    "generic_name": "ムコダイン",
-    "category": "去痰薬",
-    "byomei_code": "4919002",
-    "byomei_name": "慢性気管支炎",
-    "icd10": "J42"
-  },
-  {
     "yj_code": "ALL_2233700",
     "drug_name": "ムコフィリン吸入液２０％　１７．６２％２ｍＬ",
     "generic_name": "ムコフィリン",
@@ -18268,33 +16837,6 @@
     "byomei_code": "4919002",
     "byomei_name": "慢性気管支炎",
     "icd10": "J42"
-  },
-  {
-    "yj_code": "ALL_6132015",
-    "drug_name": "メイアクトＭＳ錠１００ｍｇ",
-    "generic_name": "メイアクトＭＳ",
-    "category": "抗菌薬",
-    "byomei_code": "4629008",
-    "byomei_name": "咽頭炎",
-    "icd10": "J029"
-  },
-  {
-    "yj_code": "ALL_6132015",
-    "drug_name": "メイアクトＭＳ錠１００ｍｇ",
-    "generic_name": "メイアクトＭＳ",
-    "category": "抗菌薬",
-    "byomei_code": "4860030",
-    "byomei_name": "肺炎",
-    "icd10": "J189"
-  },
-  {
-    "yj_code": "ALL_6132015",
-    "drug_name": "メイアクトＭＳ錠１００ｍｇ",
-    "generic_name": "メイアクトＭＳ",
-    "category": "抗菌薬",
-    "byomei_code": "5959015",
-    "byomei_name": "膀胱炎",
-    "icd10": "N309"
   },
   {
     "yj_code": "ALL_6132422",
@@ -18403,15 +16945,6 @@
     "byomei_code": "5569003",
     "byomei_name": "潰瘍性大腸炎",
     "icd10": "K519"
-  },
-  {
-    "yj_code": "ALL_2223001",
-    "drug_name": "メジコン錠１５ｍｇ",
-    "generic_name": "メジコン",
-    "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
   },
   {
     "yj_code": "ALL_3969100",
@@ -18594,33 +17127,6 @@
     "icd10": "A048"
   },
   {
-    "yj_code": "ALL_2189010",
-    "drug_name": "メバロチン細粒０．５％",
-    "generic_name": "メバロチン",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189010",
-    "drug_name": "メバロチン細粒０．５％",
-    "generic_name": "メバロチン",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2259004",
-    "drug_name": "メプチンドライシロップ０．００５％",
-    "generic_name": "メプチン",
-    "category": "気管支拡張薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
     "yj_code": "ALL_2259704",
     "drug_name": "メプチン吸入液０．０１％",
     "generic_name": "メプチン",
@@ -18700,15 +17206,6 @@
     "byomei_code": "5351003",
     "byomei_name": "慢性胃炎",
     "icd10": "K295"
-  },
-  {
-    "yj_code": "ALL_3999001",
-    "drug_name": "モニラック原末",
-    "generic_name": "モニラック原末",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
   },
   {
     "yj_code": "ALL_3222405",
@@ -18846,24 +17343,6 @@
     "icd10": "N309"
   },
   {
-    "yj_code": "ALL_2251001",
-    "drug_name": "ユニコン錠２００　２００ｍｇ",
-    "generic_name": "ユニコン",
-    "category": "気管支拡張薬",
-    "byomei_code": "8840399",
-    "byomei_name": "慢性閉塞性肺疾患",
-    "icd10": "J449"
-  },
-  {
-    "yj_code": "ALL_2251001",
-    "drug_name": "ユニコン錠２００　２００ｍｇ",
-    "generic_name": "ユニコン",
-    "category": "気管支拡張薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
     "yj_code": "ALL_2149116",
     "drug_name": "ユニシア配合錠ＬＤ",
     "generic_name": "ユニシア配合",
@@ -18903,33 +17382,6 @@
     "yj_code": "ALL_3949005",
     "drug_name": "ユリス錠０．５ｍｇ",
     "generic_name": "ユリス",
-    "category": "抗アレルギー薬",
-    "byomei_code": "4939008",
-    "byomei_name": "気管支喘息",
-    "icd10": "J459"
-  },
-  {
-    "yj_code": "ALL_3949002",
-    "drug_name": "ユリノーム錠２５ｍｇ",
-    "generic_name": "ユリノーム",
-    "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
-  },
-  {
-    "yj_code": "ALL_3949002",
-    "drug_name": "ユリノーム錠２５ｍｇ",
-    "generic_name": "ユリノーム",
-    "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
-  },
-  {
-    "yj_code": "ALL_3949002",
-    "drug_name": "ユリノーム錠２５ｍｇ",
-    "generic_name": "ユリノーム",
     "category": "抗アレルギー薬",
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
@@ -18981,15 +17433,6 @@
     "icd10": "B359"
   },
   {
-    "yj_code": "ALL_2139401",
-    "drug_name": "ラシックス注２０ｍｇ",
-    "generic_name": "ラシックス",
-    "category": "利尿薬",
-    "byomei_code": "7823024",
-    "byomei_name": "浮腫",
-    "icd10": "R609"
-  },
-  {
     "yj_code": "ALL_2149047",
     "drug_name": "ラジレス錠１５０ｍｇ",
     "generic_name": "ラジレス",
@@ -18997,15 +17440,6 @@
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
     "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2113005",
-    "drug_name": "ラニラピッド錠０．０５ｍｇ",
-    "generic_name": "ラニラピッド",
-    "category": "強心薬",
-    "byomei_code": "4289015",
-    "byomei_name": "心不全",
-    "icd10": "I509"
   },
   {
     "yj_code": "ALL_6250405",
@@ -19188,15 +17622,6 @@
     "icd10": "M8199"
   },
   {
-    "yj_code": "ALL_3999016",
-    "drug_name": "リウマトレックスカプセル２ｍｇ",
-    "generic_name": "リウマトレックス",
-    "category": "骨粗鬆症薬",
-    "byomei_code": "7330006",
-    "byomei_name": "骨粗鬆症",
-    "icd10": "M8199"
-  },
-  {
     "yj_code": "ALL_2431003",
     "drug_name": "リオチロニンナトリウム錠　５μｇ",
     "generic_name": "リオチロニンナトリウム",
@@ -19368,24 +17793,6 @@
     "icd10": "E785"
   },
   {
-    "yj_code": "ALL_2189016",
-    "drug_name": "リバロ錠１ｍｇ",
-    "generic_name": "リバロ",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189016",
-    "drug_name": "リバロ錠１ｍｇ",
-    "generic_name": "リバロ",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
-  },
-  {
     "yj_code": "NAIKA_0066",
     "drug_name": "リバーロキサバン",
     "generic_name": "リバーロキサバン",
@@ -19440,51 +17847,6 @@
     "icd10": "R11"
   },
   {
-    "yj_code": "ALL_2183006",
-    "drug_name": "リピディル錠５３．３ｍｇ",
-    "generic_name": "リピディル",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2183006",
-    "drug_name": "リピディル錠５３．３ｍｇ",
-    "generic_name": "リピディル",
-    "category": "脂質異常症薬",
-    "byomei_code": "2720004",
-    "byomei_name": "高コレステロール血症",
-    "icd10": "E780"
-  },
-  {
-    "yj_code": "ALL_2183006",
-    "drug_name": "リピディル錠５３．３ｍｇ",
-    "generic_name": "リピディル",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189015",
-    "drug_name": "リピトール錠５ｍｇ",
-    "generic_name": "リピトール",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189015",
-    "drug_name": "リピトール錠５ｍｇ",
-    "generic_name": "リピトール",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
-  },
-  {
     "yj_code": "ALL_6250055",
     "drug_name": "リブテンシティ錠２００ｍｇ",
     "generic_name": "リブテンシティ",
@@ -19528,24 +17890,6 @@
     "byomei_code": "8839596",
     "byomei_name": "不安障害",
     "icd10": "F419"
-  },
-  {
-    "yj_code": "ALL_2189011",
-    "drug_name": "リポバス錠１０　１０ｍｇ",
-    "generic_name": "リポバス",
-    "category": "脂質異常症薬",
-    "byomei_code": "8844446",
-    "byomei_name": "脂質異常症",
-    "icd10": "E785"
-  },
-  {
-    "yj_code": "ALL_2189011",
-    "drug_name": "リポバス錠１０　１０ｍｇ",
-    "generic_name": "リポバス",
-    "category": "脂質異常症薬",
-    "byomei_code": "2724007",
-    "byomei_name": "高脂血症",
-    "icd10": "E785"
   },
   {
     "yj_code": "NAIKA_0119",
@@ -19663,15 +18007,6 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
-  },
-  {
-    "yj_code": "ALL_1169013",
-    "drug_name": "レキップ錠０．２５ｍｇ",
-    "generic_name": "レキップ",
-    "category": "抗パーキンソン薬",
-    "byomei_code": "3320002",
-    "byomei_name": "パーキンソン病",
-    "icd10": "G20"
   },
   {
     "yj_code": "ALL_2189403",
@@ -19818,24 +18153,6 @@
     "icd10": "B359"
   },
   {
-    "yj_code": "ALL_2144002",
-    "drug_name": "レニベース錠２．５　２．５ｍｇ",
-    "generic_name": "レニベース",
-    "category": "降圧薬",
-    "byomei_code": "8840107",
-    "byomei_name": "本態性高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2144002",
-    "drug_name": "レニベース錠２．５　２．５ｍｇ",
-    "generic_name": "レニベース",
-    "category": "降圧薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
     "yj_code": "NAIKA_0037",
     "drug_name": "レバミピド",
     "generic_name": "レバミピド",
@@ -19959,15 +18276,6 @@
     "category": "甲状腺薬",
     "byomei_code": "2449016",
     "byomei_name": "粘液水腫",
-    "icd10": "E039"
-  },
-  {
-    "yj_code": "ALL_2431004",
-    "drug_name": "レボチロキシンナトリウム２５μｇ錠",
-    "generic_name": "レボチロキシンナトリウム２５μｇ",
-    "category": "甲状腺ホルモン薬",
-    "byomei_code": "8833504",
-    "byomei_name": "甲状腺機能低下症",
     "icd10": "E039"
   },
   {
@@ -20167,15 +18475,6 @@
     "byomei_code": "8842106",
     "byomei_name": "関節リウマチ",
     "icd10": "M0690"
-  },
-  {
-    "yj_code": "ALL_1149019",
-    "drug_name": "ロキソプロフェン錠６０ｍｇ「ＥＭＥＣ」",
-    "generic_name": "ロキソプロフェン",
-    "category": "抗てんかん薬",
-    "byomei_code": "3459001",
-    "byomei_name": "てんかん",
-    "icd10": "G409"
   },
   {
     "yj_code": "ALL_2646717",
@@ -20520,42 +18819,6 @@
     "icd10": "I10"
   },
   {
-    "yj_code": "ALL_1124022",
-    "drug_name": "ワイパックス錠０．５　０．５ｍｇ",
-    "generic_name": "ワイパックス",
-    "category": "催眠鎮静薬",
-    "byomei_code": "8839792",
-    "byomei_name": "不眠症",
-    "icd10": "G470"
-  },
-  {
-    "yj_code": "ALL_2171008",
-    "drug_name": "ワソラン錠４０ｍｇ",
-    "generic_name": "ワソラン",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171008",
-    "drug_name": "ワソラン錠４０ｍｇ",
-    "generic_name": "ワソラン",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
-  },
-  {
-    "yj_code": "ALL_2129402",
-    "drug_name": "ワソラン静注５ｍｇ　０．２５％２ｍＬ",
-    "generic_name": "ワソラン静",
-    "category": "不整脈用薬",
-    "byomei_code": "4279016",
-    "byomei_name": "不整脈",
-    "icd10": "I499"
-  },
-  {
     "yj_code": "NAIKA_0064",
     "drug_name": "ワルファリン",
     "generic_name": "ワルファリン",
@@ -20833,24 +19096,6 @@
     "byomei_code": "4139007",
     "byomei_name": "狭心症",
     "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171016",
-    "drug_name": "硝酸イソソルビド錠　５ｍｇ",
-    "generic_name": "硝酸イソソルビド",
-    "category": "血管拡張薬",
-    "byomei_code": "4139007",
-    "byomei_name": "狭心症",
-    "icd10": "I209"
-  },
-  {
-    "yj_code": "ALL_2171016",
-    "drug_name": "硝酸イソソルビド錠　５ｍｇ",
-    "generic_name": "硝酸イソソルビド",
-    "category": "血管拡張薬",
-    "byomei_code": "8833421",
-    "byomei_name": "高血圧症",
-    "icd10": "I10"
   },
   {
     "yj_code": "ALL_2663700",

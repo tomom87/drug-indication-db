@@ -4,7 +4,12 @@
     "name": "ウチダのセッコウＭ",
     "generic_name": "ウチダのセッコウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのセッコウＭ",
+        "kana": "ｳﾁﾀﾞﾉｾｯｺｳM"
+      }
+    ]
   },
   "indications": []
 }

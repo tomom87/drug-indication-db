@@ -4,7 +4,12 @@
     "name": "ミケランＬＡ点眼液１％",
     "generic_name": "ミケランＬＡ",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミケランＬＡ点眼液１％",
+        "kana": "ﾐｹﾗﾝLAﾃﾝｶﾞﾝｴｷ1%"
+      }
+    ]
   },
   "indications": []
 }

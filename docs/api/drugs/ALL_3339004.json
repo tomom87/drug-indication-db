@@ -4,7 +4,12 @@
     "name": "エリキュース錠２．５ｍｇ",
     "generic_name": "エリキュース",
     "category": "血液用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エリキュース錠２．５ｍｇ",
+        "kana": "ｴﾘｷｭｰｽｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

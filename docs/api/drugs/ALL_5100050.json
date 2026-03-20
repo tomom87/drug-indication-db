@@ -4,7 +4,12 @@
     "name": "キンギンカ",
     "generic_name": "キンギンカ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "キンギンカ",
+        "kana": "ｷﾝｷﾞﾝｶ"
+      }
+    ]
   },
   "indications": []
 }

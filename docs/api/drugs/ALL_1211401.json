@@ -4,7 +4,12 @@
     "name": "ロカイン注１％　１ｍＬ",
     "generic_name": "ロカイン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロカイン注１％　１ｍＬ",
+        "kana": "ﾛｶｲﾝﾁｭｳ1%"
+      }
+    ]
   },
   "indications": []
 }

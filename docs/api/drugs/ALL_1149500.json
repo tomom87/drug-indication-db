@@ -4,7 +4,12 @@
     "name": "カシワドール静注　２０ｍＬ",
     "generic_name": "カシワドール静",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カシワドール静注　２０ｍＬ",
+        "kana": "ｶｼﾜﾄﾞｰﾙｼﾞｮｳﾁｭｳ"
+      }
+    ]
   },
   "indications": [
     {

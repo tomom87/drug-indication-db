@@ -4,7 +4,12 @@
     "name": "ベサノイドカプセル１０ｍｇ",
     "generic_name": "ベサノイド",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベサノイドカプセル１０ｍｇ",
+        "kana": "ﾍﾞｻﾉｲﾄﾞｶﾌﾟｾﾙ10MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "リュウアト１％眼軟膏",
     "generic_name": "リュウアト",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リュウアト１％眼軟膏",
+        "kana": "ﾘｭｳｱﾄ1%ｶﾞﾝﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

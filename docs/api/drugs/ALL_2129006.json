@@ -4,7 +4,12 @@
     "name": "プロノン錠１５０ｍｇ",
     "generic_name": "プロノン",
     "category": "不整脈用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "プロノン錠１５０ｍｇ",
+        "kana": "ﾌﾟﾛﾉﾝｼﾞｮｳ150MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ウチダのソヨウＭ",
     "generic_name": "ウチダのソヨウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのソヨウＭ",
+        "kana": "ｳﾁﾀﾞﾉｿﾖｳM"
+      }
+    ]
   },
   "indications": []
 }

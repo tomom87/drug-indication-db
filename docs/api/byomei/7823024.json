@@ -12,21 +12,9 @@
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2133001",
-      "name": "アルダクトンＡ錠５０ｍｇ",
-      "generic_name": "アルダクトンＡ",
-      "category": "利尿薬"
-    },
-    {
       "yj_code": "ALL_2139001",
       "name": "イソソルビド内服ゼリー７０％分包２０ｇ「日医工」",
       "generic_name": "イソソルビド内服ゼリー",
-      "category": "利尿薬"
-    },
-    {
-      "yj_code": "ALL_2139011",
-      "name": "サムスカ顆粒１％",
-      "generic_name": "サムスカ",
       "category": "利尿薬"
     },
     {
@@ -54,39 +42,9 @@
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2139008",
-      "name": "ダイアート錠６０ｍｇ",
-      "generic_name": "ダイアート",
-      "category": "利尿薬"
-    },
-    {
       "yj_code": "ALL_2133002",
       "name": "トリテレン・カプセル５０ｍｇ",
       "generic_name": "トリテレン・",
-      "category": "利尿薬"
-    },
-    {
-      "yj_code": "ALL_2132004",
-      "name": "ヒドロクロロチアジド錠２５ｍｇ「トーワ」",
-      "generic_name": "ヒドロクロロチアジド",
-      "category": "利尿薬"
-    },
-    {
-      "yj_code": "ALL_2132003",
-      "name": "フルイトラン錠２ｍｇ",
-      "generic_name": "フルイトラン",
-      "category": "利尿薬"
-    },
-    {
-      "yj_code": "ALL_2139005",
-      "name": "フロセミド細粒４％「ＥＭＥＣ」",
-      "generic_name": "フロセミド",
-      "category": "利尿薬"
-    },
-    {
-      "yj_code": "ALL_2139401",
-      "name": "ラシックス注２０ｍｇ",
-      "generic_name": "ラシックス",
       "category": "利尿薬"
     },
     {

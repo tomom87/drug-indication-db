@@ -4,7 +4,12 @@
     "name": "消毒用エタノール液ＩＰ",
     "generic_name": "消毒用エタノール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "消毒用エタノール液ＩＰ",
+        "kana": "ｼｮｳﾄﾞｸﾖｳｴﾀﾉｰﾙｴｷIP"
+      }
+    ]
   },
   "indications": []
 }

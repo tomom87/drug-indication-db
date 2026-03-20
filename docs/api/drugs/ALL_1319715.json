@@ -4,7 +4,12 @@
     "name": "ＰＡ・ヨード点眼・洗眼液　０．２％",
     "generic_name": "ＰＡ・ヨード",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ＰＡ・ヨード点眼・洗眼液　０．２％",
+        "kana": "PAﾖｰﾄﾞﾃﾝｶﾞﾝｾﾝｶﾞﾝｴｷ"
+      }
+    ]
   },
   "indications": []
 }

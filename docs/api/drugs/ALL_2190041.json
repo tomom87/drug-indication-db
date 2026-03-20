@@ -4,7 +4,12 @@
     "name": "エンレスト錠５０ｍｇ",
     "generic_name": "エンレスト",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エンレスト錠５０ｍｇ",
+        "kana": "ｴﾝﾚｽﾄｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

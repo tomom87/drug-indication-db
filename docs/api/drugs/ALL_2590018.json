@@ -4,7 +4,12 @@
     "name": "バイアグラ錠２５ｍｇ",
     "generic_name": "バイアグラ",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バイアグラ錠２５ｍｇ",
+        "kana": "ﾊﾞｲｱｸﾞﾗｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

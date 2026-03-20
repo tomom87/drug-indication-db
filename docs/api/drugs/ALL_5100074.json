@@ -4,7 +4,12 @@
     "name": "トチモトのコンズランゴ",
     "generic_name": "トチモトのコンズランゴ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのコンズランゴ",
+        "kana": "ﾄﾁﾓﾄﾉｺﾝｽﾞﾗﾝｺﾞ"
+      }
+    ]
   },
   "indications": []
 }

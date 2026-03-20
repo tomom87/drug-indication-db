@@ -4,7 +4,12 @@
     "name": "エパデールＥＭカプセル２ｇ",
     "generic_name": "エパデールＥＭ",
     "category": "脂質異常症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エパデールＥＭカプセル２ｇ",
+        "kana": "ｴﾊﾟﾃﾞｰﾙEMｶﾌﾟｾﾙ2G"
+      }
+    ]
   },
   "indications": [
     {

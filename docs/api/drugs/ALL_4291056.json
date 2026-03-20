@@ -4,7 +4,12 @@
     "name": "ビジンプロ錠１５ｍｇ",
     "generic_name": "ビジンプロ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビジンプロ錠１５ｍｇ",
+        "kana": "ﾋﾞｼﾞﾝﾌﾟﾛｼﾞｮｳ15MG"
+      }
+    ]
   },
   "indications": []
 }

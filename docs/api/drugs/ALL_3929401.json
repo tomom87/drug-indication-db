@@ -4,7 +4,12 @@
     "name": "パム静注５００ｍｇ　２．５％２０ｍＬ",
     "generic_name": "パム静",
     "category": "酵素製剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "パム静注５００ｍｇ　２．５％２０ｍＬ",
+        "kana": "ﾊﾟﾑｼﾞｮｳﾁｭｳ500MG"
+      }
+    ]
   },
   "indications": []
 }

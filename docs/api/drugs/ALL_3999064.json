@@ -4,7 +4,12 @@
     "name": "ファビハルタカプセル２００ｍｇ",
     "generic_name": "ファビハルタ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ファビハルタカプセル２００ｍｇ",
+        "kana": "ﾌｧﾋﾞﾊﾙﾀｶﾌﾟｾﾙ200MG"
+      }
+    ]
   },
   "indications": [
     {

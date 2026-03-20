@@ -4,7 +4,12 @@
     "name": "コレステロール",
     "generic_name": "コレステロール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "コレステロール",
+        "kana": "ｺﾚｽﾃﾛｰﾙ"
+      }
+    ]
   },
   "indications": []
 }

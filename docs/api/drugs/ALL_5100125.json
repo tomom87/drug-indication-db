@@ -4,7 +4,12 @@
     "name": "花扇チクジョＫ",
     "generic_name": "花扇チクジョＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇チクジョＫ",
+        "kana": "ﾊﾅｵｳｷﾞﾁｸｼﾞｮK"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ナンテンジツ",
     "generic_name": "ナンテンジツ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ナンテンジツ",
+        "kana": "ﾅﾝﾃﾝｼﾞﾂ"
+      }
+    ]
   },
   "indications": []
 }

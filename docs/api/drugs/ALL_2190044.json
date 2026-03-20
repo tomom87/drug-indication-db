@@ -4,7 +4,12 @@
     "name": "ケレンディア錠１０ｍｇ",
     "generic_name": "ケレンディア",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ケレンディア錠１０ｍｇ",
+        "kana": "ｹﾚﾝﾃﾞｨｱｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

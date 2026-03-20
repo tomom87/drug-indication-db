@@ -4,7 +4,12 @@
     "name": "ビムパット錠５０ｍｇ",
     "generic_name": "ビムパット",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビムパット錠５０ｍｇ",
+        "kana": "ﾋﾞﾑﾊﾟｯﾄｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

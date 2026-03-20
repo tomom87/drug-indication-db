@@ -4,7 +4,12 @@
     "name": "ジンタス錠５０ｍｇ",
     "generic_name": "ジンタス",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジンタス錠５０ｍｇ",
+        "kana": "ｼﾞﾝﾀｽｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

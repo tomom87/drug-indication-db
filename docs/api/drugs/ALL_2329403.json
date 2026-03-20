@@ -4,7 +4,12 @@
     "name": "オメプラゾール注用２０ｍｇ「ＴＹＫ」",
     "generic_name": "オメプラゾール",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オメプラゾール注用２０ｍｇ「ＴＹＫ」",
+        "kana": "ｵﾒﾌﾟﾗｿﾞｰﾙﾁｭｳﾖｳ20MGTY"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アリミデックス錠１ｍｇ",
     "generic_name": "アリミデックス",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アリミデックス錠１ｍｇ",
+        "kana": "ｱﾘﾐﾃﾞｯｸｽｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

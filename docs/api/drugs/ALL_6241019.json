@@ -4,7 +4,12 @@
     "name": "ラスビック錠７５ｍｇ",
     "generic_name": "ラスビック",
     "category": "抗ウイルス薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ラスビック錠７５ｍｇ",
+        "kana": "ﾗｽﾋﾞｯｸｼﾞｮｳ75MG"
+      }
+    ]
   },
   "indications": []
 }

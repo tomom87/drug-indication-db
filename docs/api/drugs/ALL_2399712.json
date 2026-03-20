@@ -4,7 +4,12 @@
     "name": "オラドールＳトローチ０．５ｍｇ",
     "generic_name": "オラドールＳトローチ",
     "category": "その他の消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オラドールＳトローチ０．５ｍｇ",
+        "kana": "ｵﾗﾄﾞｰﾙSﾄﾛｰﾁ0.5MG"
+      }
+    ]
   },
   "indications": []
 }

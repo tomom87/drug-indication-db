@@ -4,7 +4,12 @@
     "name": "ルネスタ錠１ｍｇ",
     "generic_name": "ルネスタ",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルネスタ錠１ｍｇ",
+        "kana": "ﾙﾈｽﾀｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": [
     {

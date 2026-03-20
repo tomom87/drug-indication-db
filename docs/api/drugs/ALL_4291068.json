@@ -4,7 +4,12 @@
     "name": "ゼジューラ錠１００ｍｇ",
     "generic_name": "ゼジューラ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゼジューラ錠１００ｍｇ",
+        "kana": "ｾﾞｼﾞｭｰﾗｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

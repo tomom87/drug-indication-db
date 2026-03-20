@@ -4,7 +4,12 @@
     "name": "レバチオ錠２０ｍｇ",
     "generic_name": "レバチオ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レバチオ錠２０ｍｇ",
+        "kana": "ﾚﾊﾞﾁｵｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

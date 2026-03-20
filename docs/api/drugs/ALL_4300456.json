@@ -4,7 +4,12 @@
     "name": "テクネピロリン酸静注",
     "generic_name": "テクネピロリン酸静",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "テクネピロリン酸静注",
+        "kana": "ﾃｸﾈﾋﾟﾛﾘﾝｻﾝｼﾞｮｳﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

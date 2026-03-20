@@ -4,7 +4,12 @@
     "name": "ニトログリセリン錠　０．３ｍｇ",
     "generic_name": "ニトログリセリン",
     "category": "血管拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ニトログリセリン錠　０．３ｍｇ",
+        "kana": "ﾆﾄﾛｸﾞﾘｾﾘﾝｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

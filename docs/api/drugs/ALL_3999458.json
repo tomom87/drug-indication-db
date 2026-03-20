@@ -4,7 +4,12 @@
     "name": "ジョイクル関節注３０ｍｇ　３ｍＬ",
     "generic_name": "ジョイクル関節",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジョイクル関節注３０ｍｇ　３ｍＬ",
+        "kana": "ｼﾞｮｲｸﾙｶﾝｾﾂﾁｭｳ30MG"
+      }
+    ]
   },
   "indications": [
     {

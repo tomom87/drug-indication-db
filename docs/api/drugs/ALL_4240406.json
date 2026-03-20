@@ -4,7 +4,12 @@
     "name": "タキソール注射液３０ｍｇ　５ｍＬ",
     "generic_name": "タキソール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "タキソール注射液３０ｍｇ　５ｍＬ",
+        "kana": "ﾀｷｿｰﾙﾁｭｳｼｬｴｷ30MG"
+      }
+    ]
   },
   "indications": []
 }

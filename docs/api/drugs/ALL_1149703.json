@@ -4,7 +4,12 @@
     "name": "レペタン坐剤０．２ｍｇ",
     "generic_name": "レペタン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レペタン坐剤０．２ｍｇ",
+        "kana": "ﾚﾍﾟﾀﾝｻﾞｻﾞｲ0.2MG"
+      }
+    ]
   },
   "indications": [
     {

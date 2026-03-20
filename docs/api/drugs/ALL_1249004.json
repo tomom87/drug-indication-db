@@ -4,7 +4,12 @@
     "name": "ダクチル錠５０ｍｇ",
     "generic_name": "ダクチル",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ダクチル錠５０ｍｇ",
+        "kana": "ﾀﾞｸﾁﾙｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

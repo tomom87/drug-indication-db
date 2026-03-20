@@ -4,7 +4,12 @@
     "name": "ヤーズ配合錠",
     "generic_name": "ヤーズ配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヤーズ配合錠",
+        "kana": "ﾔｰｽﾞﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

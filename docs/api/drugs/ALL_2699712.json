@@ -4,7 +4,12 @@
     "name": "ベピオゲル２．５％",
     "generic_name": "ベピオ",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベピオゲル２．５％",
+        "kana": "ﾍﾞﾋﾟｵｹﾞﾙ2.5%"
+      }
+    ]
   },
   "indications": []
 }

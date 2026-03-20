@@ -4,7 +4,12 @@
     "name": "アシノン錠７５ｍｇ",
     "generic_name": "アシノン",
     "category": "消化性潰瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アシノン錠７５ｍｇ",
+        "kana": "ｱｼﾉﾝｼﾞｮｳ75MG"
+      }
+    ]
   },
   "indications": [
     {

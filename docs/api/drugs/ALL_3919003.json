@@ -4,7 +4,12 @@
     "name": "チオラ錠１００　１００ｍｇ",
     "generic_name": "チオラ",
     "category": "痛風薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "チオラ錠１００　１００ｍｇ",
+        "kana": "ﾁｵﾗｼﾞｮｳ100"
+      }
+    ]
   },
   "indications": [
     {

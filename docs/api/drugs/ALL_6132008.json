@@ -4,7 +4,12 @@
     "name": "セフスパン細粒５０ｍｇ",
     "generic_name": "セフスパン",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セフスパン細粒５０ｍｇ",
+        "kana": "ｾﾌｽﾊﾟﾝｻｲﾘｭｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

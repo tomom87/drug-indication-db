@@ -4,7 +4,12 @@
     "name": "ザーネ軟膏０．５％　５，０００単位",
     "generic_name": "ザーネ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ザーネ軟膏０．５％　５，０００単位",
+        "kana": "ｻﾞｰﾈﾅﾝｺｳ0.5%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アスパラ注射液　（１０％）１０ｍＬ",
     "generic_name": "アスパラ",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "アスパラ注射液　（１０％）１０ｍＬ",
+        "kana": "ｱｽﾊﾟﾗﾁｭｳｼｬｴｷ"
+      }
+    ]
   },
   "indications": [
     {

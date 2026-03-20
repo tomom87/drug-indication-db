@@ -4,7 +4,12 @@
     "name": "ドボベット軟膏",
     "generic_name": "ドボベット",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ドボベット軟膏",
+        "kana": "ﾄﾞﾎﾞﾍﾞｯﾄﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

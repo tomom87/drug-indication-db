@@ -4,7 +4,12 @@
     "name": "エブランチルカプセル１５ｍｇ",
     "generic_name": "エブランチル",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エブランチルカプセル１５ｍｇ",
+        "kana": "ｴﾌﾞﾗﾝﾁﾙｶﾌﾟｾﾙ15MG"
+      }
+    ]
   },
   "indications": [
     {

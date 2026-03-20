@@ -4,7 +4,12 @@
     "name": "サイバインコ錠５０ｍｇ",
     "generic_name": "サイバインコ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "サイバインコ錠５０ｍｇ",
+        "kana": "ｻｲﾊﾞｲﾝｺｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

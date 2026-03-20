@@ -4,7 +4,12 @@
     "name": "ジフェンヒドラミン　５ｇ",
     "generic_name": "ジフェンヒドラミン　５ｇ",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジフェンヒドラミン　５ｇ",
+        "kana": "ｼﾞﾌｪﾝﾋﾄﾞﾗﾐﾝ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "エベレンゾ錠２０ｍｇ",
     "generic_name": "エベレンゾ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エベレンゾ錠２０ｍｇ",
+        "kana": "ｴﾍﾞﾚﾝｿﾞｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": [
     {

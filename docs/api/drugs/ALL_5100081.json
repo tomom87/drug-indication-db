@@ -4,7 +4,12 @@
     "name": "ウチダのサンシシＭ",
     "generic_name": "ウチダのサンシシＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのサンシシＭ",
+        "kana": "ｳﾁﾀﾞﾉｻﾝｼｼM"
+      }
+    ]
   },
   "indications": []
 }

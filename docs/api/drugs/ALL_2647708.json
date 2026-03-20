@@ -4,7 +4,12 @@
     "name": "ベトネベートＮクリーム",
     "generic_name": "ベトネベートＮ",
     "category": "鎮痛外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベトネベートＮクリーム",
+        "kana": "ﾍﾞﾄﾈﾍﾞｰﾄNｸﾘｰﾑ"
+      }
+    ]
   },
   "indications": [
     {

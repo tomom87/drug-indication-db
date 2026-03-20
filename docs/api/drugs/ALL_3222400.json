@@ -4,7 +4,12 @@
     "name": "フェジン静注４０ｍｇ　２ｍＬ",
     "generic_name": "フェジン静",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "フェジン静注４０ｍｇ　２ｍＬ",
+        "kana": "ﾌｪｼﾞﾝｼﾞｮｳﾁｭｳ40MG"
+      }
+    ]
   },
   "indications": [
     {

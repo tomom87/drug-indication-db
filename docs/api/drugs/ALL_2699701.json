@@ -4,7 +4,12 @@
     "name": "オクソラレンローション１％",
     "generic_name": "オクソラレンローション",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オクソラレンローション１％",
+        "kana": "ｵｸｿﾗﾚﾝﾛｰｼｮﾝ1%"
+      }
+    ]
   },
   "indications": []
 }

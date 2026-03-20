@@ -4,7 +4,12 @@
     "name": "ウチダのゲンチアナＭ",
     "generic_name": "ウチダのゲンチアナＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのゲンチアナＭ",
+        "kana": "ｳﾁﾀﾞﾉｹﾞﾝﾁｱﾅM"
+      }
+    ]
   },
   "indications": []
 }

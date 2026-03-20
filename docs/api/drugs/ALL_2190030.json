@@ -4,7 +4,12 @@
     "name": "アドシルカ錠２０ｍｇ",
     "generic_name": "アドシルカ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アドシルカ錠２０ｍｇ",
+        "kana": "ｱﾄﾞｼﾙｶｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

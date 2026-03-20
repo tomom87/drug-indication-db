@@ -4,7 +4,12 @@
     "name": "ボルズィ錠２．５ｍｇ",
     "generic_name": "ボルズィ",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボルズィ錠２．５ｍｇ",
+        "kana": "ﾎﾞﾙｽﾞｨｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

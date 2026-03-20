@@ -4,7 +4,12 @@
     "name": "メノエイドコンビパッチ",
     "generic_name": "メノエイドコンビパッチ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "メノエイドコンビパッチ",
+        "kana": "ﾒﾉｴｲﾄﾞｺﾝﾋﾞﾊﾟｯﾁ"
+      }
+    ]
   },
   "indications": []
 }

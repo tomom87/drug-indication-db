@@ -4,7 +4,12 @@
     "name": "ボノピオンパック",
     "generic_name": "ボノピオンパック",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボノピオンパック",
+        "kana": "ﾎﾞﾉﾋﾟｵﾝﾊﾟｯｸ"
+      }
+    ]
   },
   "indications": []
 }

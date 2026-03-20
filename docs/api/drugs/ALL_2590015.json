@@ -4,7 +4,12 @@
     "name": "トビエース錠４ｍｇ",
     "generic_name": "トビエース",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トビエース錠４ｍｇ",
+        "kana": "ﾄﾋﾞｴｰｽｼﾞｮｳ4MG"
+      }
+    ]
   },
   "indications": []
 }

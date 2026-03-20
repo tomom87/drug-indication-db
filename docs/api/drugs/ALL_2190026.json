@@ -4,7 +4,12 @@
     "name": "トラクリア錠６２．５ｍｇ",
     "generic_name": "トラクリア",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トラクリア錠６２．５ｍｇ",
+        "kana": "ﾄﾗｸﾘｱｼﾞｮｳ62.5MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ヴォトリエント錠２００ｍｇ",
     "generic_name": "ヴォトリエント",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヴォトリエント錠２００ｍｇ",
+        "kana": "ｳﾞｫﾄﾘｴﾝﾄｼﾞｮｳ200MG"
+      }
+    ]
   },
   "indications": []
 }

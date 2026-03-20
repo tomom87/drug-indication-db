@@ -4,7 +4,12 @@
     "name": "コルドリン顆粒４．１７％",
     "generic_name": "コルドリン",
     "category": "鎮咳薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "コルドリン顆粒４．１７％",
+        "kana": "ｺﾙﾄﾞﾘﾝｶﾘｭｳ4.17%"
+      }
+    ]
   },
   "indications": [
     {

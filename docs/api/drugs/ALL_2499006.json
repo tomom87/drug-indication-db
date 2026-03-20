@@ -4,7 +4,12 @@
     "name": "オペプリム　５００ｍｇ",
     "generic_name": "オペプリム",
     "category": "その他のホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オペプリム　５００ｍｇ",
+        "kana": "ｵﾍﾟﾌﾟﾘﾑ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ドルミカム注射液１０ｍｇ　２ｍＬ",
     "generic_name": "ドルミカム",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ドルミカム注射液１０ｍｇ　２ｍＬ",
+        "kana": "ﾄﾞﾙﾐｶﾑﾁｭｳｼｬｴｷ10MG"
+      }
+    ]
   },
   "indications": [
     {

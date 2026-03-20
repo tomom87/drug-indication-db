@@ -4,7 +4,12 @@
     "name": "アリナミン注射液１０ｍｇ",
     "generic_name": "アリナミン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アリナミン注射液１０ｍｇ",
+        "kana": "ｱﾘﾅﾐﾝﾁｭｳｼｬｴｷ10MG"
+      }
+    ]
   },
   "indications": []
 }

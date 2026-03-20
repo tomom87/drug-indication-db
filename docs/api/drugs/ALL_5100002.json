@@ -4,7 +4,12 @@
     "name": "ウチダのアセンヤク末Ｍ",
     "generic_name": "ウチダのアセンヤク末Ｍ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのアセンヤク末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｱｾﾝﾔｸﾏﾂM"
+      }
+    ]
   },
   "indications": []
 }

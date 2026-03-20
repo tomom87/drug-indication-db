@@ -4,7 +4,12 @@
     "name": "プレドニン眼軟膏　０．２５％",
     "generic_name": "プレドニン眼",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "プレドニン眼軟膏　０．２５％",
+        "kana": "ﾌﾟﾚﾄﾞﾆﾝｶﾞﾝﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

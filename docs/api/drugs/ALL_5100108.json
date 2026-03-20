@@ -4,7 +4,12 @@
     "name": "セキショウシ",
     "generic_name": "セキショウシ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セキショウシ",
+        "kana": "ｾｷｼｮｳｼ"
+      }
+    ]
   },
   "indications": []
 }

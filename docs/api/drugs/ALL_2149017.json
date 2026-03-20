@@ -4,7 +4,12 @@
     "name": "ワイテンス錠２ｍｇ",
     "generic_name": "ワイテンス",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ワイテンス錠２ｍｇ",
+        "kana": "ﾜｲﾃﾝｽｼﾞｮｳ2MG"
+      }
+    ]
   },
   "indications": [
     {

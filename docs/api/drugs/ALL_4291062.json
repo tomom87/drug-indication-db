@@ -4,7 +4,12 @@
     "name": "ベネクレクスタ錠１０ｍｇ",
     "generic_name": "ベネクレクスタ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベネクレクスタ錠１０ｍｇ",
+        "kana": "ﾍﾞﾈｸﾚｸｽﾀｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

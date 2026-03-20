@@ -4,7 +4,12 @@
     "name": "アクロマイシン軟膏３％　３０ｍｇ",
     "generic_name": "アクロマイシン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アクロマイシン軟膏３％　３０ｍｇ",
+        "kana": "ｱｸﾛﾏｲｼﾝﾅﾝｺｳ3%"
+      }
+    ]
   },
   "indications": []
 }

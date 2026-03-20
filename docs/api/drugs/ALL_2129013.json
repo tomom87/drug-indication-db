@@ -4,7 +4,12 @@
     "name": "ソタコール錠４０ｍｇ",
     "generic_name": "ソタコール",
     "category": "不整脈用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソタコール錠４０ｍｇ",
+        "kana": "ｿﾀｺｰﾙｼﾞｮｳ40MG"
+      }
+    ]
   },
   "indications": [
     {

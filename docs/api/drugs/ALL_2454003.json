@@ -4,7 +4,12 @@
     "name": "レダコート錠４ｍｇ",
     "generic_name": "レダコート",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "レダコート錠４ｍｇ",
+        "kana": "ﾚﾀﾞｺｰﾄｼﾞｮｳ4MG"
+      }
+    ]
   },
   "indications": []
 }

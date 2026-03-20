@@ -4,7 +4,12 @@
     "name": "リスパダール細粒１％",
     "generic_name": "リスパダール",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リスパダール細粒１％",
+        "kana": "ﾘｽﾊﾟﾀﾞｰﾙｻｲﾘｭｳ1%"
+      }
+    ]
   },
   "indications": []
 }

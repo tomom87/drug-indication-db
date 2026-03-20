@@ -4,7 +4,12 @@
     "name": "ソセゴン注射液１５ｍｇ",
     "generic_name": "ソセゴン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソセゴン注射液１５ｍｇ",
+        "kana": "ｿｾｺﾞﾝﾁｭｳｼｬｴｷ15MG"
+      }
+    ]
   },
   "indications": [
     {

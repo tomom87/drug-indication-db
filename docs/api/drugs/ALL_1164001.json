@@ -4,7 +4,12 @@
     "name": "ドパストンカプセル２５０ｍｇ",
     "generic_name": "ドパストン",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ドパストンカプセル２５０ｍｇ",
+        "kana": "ﾄﾞﾊﾟｽﾄﾝｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ストラテラカプセル５ｍｇ",
     "generic_name": "ストラテラ",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ストラテラカプセル５ｍｇ",
+        "kana": "ｽﾄﾗﾃﾗｶﾌﾟｾﾙ5MG"
+      }
+    ]
   },
   "indications": []
 }

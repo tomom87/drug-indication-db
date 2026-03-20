@@ -4,7 +4,12 @@
     "name": "ダイアモックス注射用５００ｍｇ",
     "generic_name": "ダイアモックス",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ダイアモックス注射用５００ｍｇ",
+        "kana": "ﾀﾞｲｱﾓｯｸｽﾁｭｳｼｬﾖｳ500MG"
+      }
+    ]
   },
   "indications": [
     {

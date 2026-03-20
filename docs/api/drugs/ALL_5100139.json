@@ -4,7 +4,12 @@
     "name": "ウチダのトウニンＭ",
     "generic_name": "ウチダのトウニンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのトウニンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾄｳﾆﾝM"
+      }
+    ]
   },
   "indications": []
 }

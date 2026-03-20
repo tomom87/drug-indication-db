@@ -4,7 +4,12 @@
     "name": "チアトンカプセル５ｍｇ",
     "generic_name": "チアトン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "チアトンカプセル５ｍｇ",
+        "kana": "ﾁｱﾄﾝｶﾌﾟｾﾙ5MG"
+      }
+    ]
   },
   "indications": []
 }

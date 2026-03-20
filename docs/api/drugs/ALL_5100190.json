@@ -4,7 +4,12 @@
     "name": "トチモトのトチュウ",
     "generic_name": "トチモトのトチュウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのトチュウ",
+        "kana": "ﾄﾁﾓﾄﾉﾄﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

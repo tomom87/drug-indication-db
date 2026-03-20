@@ -4,7 +4,12 @@
     "name": "シーパラ注　２ｍＬ",
     "generic_name": "シーパラ",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "シーパラ注　２ｍＬ",
+        "kana": "ｼｰﾊﾟﾗﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

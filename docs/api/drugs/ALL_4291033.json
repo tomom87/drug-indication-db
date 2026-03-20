@@ -4,7 +4,12 @@
     "name": "ザイティガ錠２５０ｍｇ",
     "generic_name": "ザイティガ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ザイティガ錠２５０ｍｇ",
+        "kana": "ｻﾞｲﾃｨｶﾞｼﾞｮｳ250MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "メサデルムクリーム０．１％",
     "generic_name": "メサデルム",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "メサデルムクリーム０．１％",
+        "kana": "ﾒｻﾃﾞﾙﾑｸﾘｰﾑ0.1%"
+      }
+    ]
   },
   "indications": [
     {

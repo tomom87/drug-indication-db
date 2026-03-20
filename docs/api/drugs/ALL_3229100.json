@@ -4,7 +4,12 @@
     "name": "ソリタ－Ｔ配合顆粒２号　４ｇ",
     "generic_name": "ソリタ－Ｔ配合",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソリタ－Ｔ配合顆粒２号　４ｇ",
+        "kana": "ｿﾘﾀ-Tﾊｲｺﾞｳｶﾘｭｳ2ｺﾞｳ"
+      }
+    ]
   },
   "indications": [
     {

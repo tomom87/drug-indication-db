@@ -4,7 +4,12 @@
     "name": "プロ・バンサイン錠１５ｍｇ",
     "generic_name": "プロ・バンサイン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "プロ・バンサイン錠１５ｍｇ",
+        "kana": "ﾌﾟﾛﾊﾞﾝｻｲﾝｼﾞｮｳ15MG"
+      }
+    ]
   },
   "indications": []
 }

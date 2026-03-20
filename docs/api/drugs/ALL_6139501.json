@@ -4,7 +4,12 @@
     "name": "チエクール点滴用０．５ｇ　５００ｍｇ",
     "generic_name": "チエクール",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "チエクール点滴用０．５ｇ　５００ｍｇ",
+        "kana": "ﾁｴｸｰﾙﾃﾝﾃｷﾖｳ0.5G"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ツムラの生薬マシニン",
     "generic_name": "ツムラの生薬マシニン",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラの生薬マシニン",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾏｼﾆﾝ"
+      }
+    ]
   },
   "indications": []
 }

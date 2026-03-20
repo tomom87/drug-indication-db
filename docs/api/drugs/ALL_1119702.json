@@ -4,7 +4,12 @@
     "name": "セボフレン吸入麻酔液",
     "generic_name": "セボフレン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "セボフレン吸入麻酔液",
+        "kana": "ｾﾎﾞﾌﾚﾝｷｭｳﾆｭｳﾏｽｲｴｷ"
+      }
+    ]
   },
   "indications": []
 }

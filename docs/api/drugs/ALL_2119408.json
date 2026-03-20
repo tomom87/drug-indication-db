@@ -4,7 +4,12 @@
     "name": "ミルリノン注射液１０ｍｇ「Ｆ」　１０ｍＬ",
     "generic_name": "ミルリノン",
     "category": "強心薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミルリノン注射液１０ｍｇ「Ｆ」　１０ｍＬ",
+        "kana": "ﾐﾙﾘﾉﾝﾁｭｳｼｬｴｷ10MGF"
+      }
+    ]
   },
   "indications": [
     {

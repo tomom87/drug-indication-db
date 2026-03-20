@@ -4,7 +4,12 @@
     "name": "エリスロシンＷ顆粒２０％　２００ｍｇ",
     "generic_name": "エリスロシンＷ",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エリスロシンＷ顆粒２０％　２００ｍｇ",
+        "kana": "ｴﾘｽﾛｼﾝWｶﾘｭｳ20%"
+      }
+    ]
   },
   "indications": [
     {

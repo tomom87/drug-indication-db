@@ -4,7 +4,12 @@
     "name": "ピラジナミド",
     "generic_name": "ピラジナミド",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピラジナミド",
+        "kana": "ﾋﾟﾗｼﾞﾅﾐﾄﾞ"
+      }
+    ]
   },
   "indications": []
 }

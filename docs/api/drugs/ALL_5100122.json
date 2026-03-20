@@ -4,7 +4,12 @@
     "name": "ウチダのタイソウＭ",
     "generic_name": "ウチダのタイソウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのタイソウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾀｲｿｳM"
+      }
+    ]
   },
   "indications": []
 }

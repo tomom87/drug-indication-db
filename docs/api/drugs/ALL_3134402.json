@@ -4,7 +4,12 @@
     "name": "ピリドキサール注１０ｍｇ「イセイ」",
     "generic_name": "ピリドキサール",
     "category": "葉酸",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピリドキサール注１０ｍｇ「イセイ」",
+        "kana": "ﾋﾟﾘﾄﾞｷｻｰﾙﾁｭｳ10MGｲｾｲ"
+      }
+    ]
   },
   "indications": [
     {

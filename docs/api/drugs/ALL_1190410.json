@@ -4,7 +4,12 @@
     "name": "ロゼバラミン筋注用２５ｍｇ",
     "generic_name": "ロゼバラミン筋",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロゼバラミン筋注用２５ｍｇ",
+        "kana": "ﾛｾﾞﾊﾞﾗﾐﾝｷﾝﾁｭｳﾖｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

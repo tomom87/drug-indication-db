@@ -4,7 +4,12 @@
     "name": "ケフラールカプセル２５０ｍｇ",
     "generic_name": "ケフラール",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ケフラールカプセル２５０ｍｇ",
+        "kana": "ｹﾌﾗｰﾙｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": [
     {

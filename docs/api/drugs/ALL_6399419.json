@@ -4,7 +4,12 @@
     "name": "ペガシス皮下注９０μｇ　１ｍＬ",
     "generic_name": "ペガシス皮下",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ペガシス皮下注９０μｇ　１ｍＬ",
+        "kana": "ﾍﾟｶﾞｼｽﾋｶﾁｭｳ90ﾏｲｸﾛG"
+      }
+    ]
   },
   "indications": []
 }

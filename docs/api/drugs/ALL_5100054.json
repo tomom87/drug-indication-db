@@ -4,7 +4,12 @@
     "name": "ウチダのクジンＭ",
     "generic_name": "ウチダのクジンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのクジンＭ",
+        "kana": "ｳﾁﾀﾞﾉｸｼﾞﾝM"
+      }
+    ]
   },
   "indications": []
 }

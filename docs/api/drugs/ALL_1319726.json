@@ -4,7 +4,12 @@
     "name": "ジクロード点眼液０．１％",
     "generic_name": "ジクロード",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジクロード点眼液０．１％",
+        "kana": "ｼﾞｸﾛｰﾄﾞﾃﾝｶﾞﾝｴｷ0.1%"
+      }
+    ]
   },
   "indications": []
 }

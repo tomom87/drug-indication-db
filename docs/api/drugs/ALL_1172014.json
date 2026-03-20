@@ -4,7 +4,12 @@
     "name": "ヒルナミン錠（２５ｍｇ）",
     "generic_name": "ヒルナミン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒルナミン錠（２５ｍｇ）",
+        "kana": "ﾋﾙﾅﾐﾝｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": [
     {

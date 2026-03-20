@@ -4,7 +4,12 @@
     "name": "尿素「コザカイ・Ｍ」",
     "generic_name": "尿素「コザカイ・Ｍ」",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "尿素「コザカイ・Ｍ」",
+        "kana": "ﾆｮｳｿｺｻﾞｶｲM"
+      }
+    ]
   },
   "indications": []
 }

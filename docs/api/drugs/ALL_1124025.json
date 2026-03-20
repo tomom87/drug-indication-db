@@ -4,7 +4,12 @@
     "name": "メレックス錠０．５ｍｇ",
     "generic_name": "メレックス",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メレックス錠０．５ｍｇ",
+        "kana": "ﾒﾚｯｸｽｼﾞｮｳ0.5MG"
+      }
+    ]
   },
   "indications": [
     {

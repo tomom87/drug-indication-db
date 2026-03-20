@@ -4,7 +4,12 @@
     "name": "オメプラゾン錠１０ｍｇ",
     "generic_name": "オメプラゾン",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オメプラゾン錠１０ｍｇ",
+        "kana": "ｵﾒﾌﾟﾗｿﾞﾝｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

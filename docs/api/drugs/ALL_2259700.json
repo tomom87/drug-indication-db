@@ -4,7 +4,12 @@
     "name": "イノリン吸入液０．５％",
     "generic_name": "イノリン",
     "category": "気管支拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "イノリン吸入液０．５％",
+        "kana": "ｲﾉﾘﾝｷｭｳﾆｭｳｴｷ0.5%"
+      }
+    ]
   },
   "indications": [
     {

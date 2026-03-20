@@ -4,7 +4,12 @@
     "name": "オーファディンカプセル２ｍｇ",
     "generic_name": "オーファディン",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オーファディンカプセル２ｍｇ",
+        "kana": "ｵｰﾌｧﾃﾞｨﾝｶﾌﾟｾﾙ2MG"
+      }
+    ]
   },
   "indications": [
     {

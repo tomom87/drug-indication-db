@@ -4,7 +4,12 @@
     "name": "マラロン配合錠",
     "generic_name": "マラロン配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "マラロン配合錠",
+        "kana": "ﾏﾗﾛﾝﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

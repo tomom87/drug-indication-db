@@ -4,7 +4,12 @@
     "name": "ウチダのケイヒＭ",
     "generic_name": "ウチダのケイヒＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのケイヒＭ",
+        "kana": "ｳﾁﾀﾞﾉｹｲﾋM"
+      }
+    ]
   },
   "indications": []
 }

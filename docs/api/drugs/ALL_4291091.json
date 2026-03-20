@@ -4,7 +4,12 @@
     "name": "ラズクルーズ錠８０ｍｇ",
     "generic_name": "ラズクルーズ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ラズクルーズ錠８０ｍｇ",
+        "kana": "ﾗｽﾞｸﾙｰｽﾞｼﾞｮｳ80MG"
+      }
+    ]
   },
   "indications": []
 }

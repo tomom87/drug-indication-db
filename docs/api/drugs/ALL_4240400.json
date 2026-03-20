@@ -4,7 +4,12 @@
     "name": "オンコビン注射用１ｍｇ",
     "generic_name": "オンコビン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "オンコビン注射用１ｍｇ",
+        "kana": "ｵﾝｺﾋﾞﾝﾁｭｳｼｬﾖｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

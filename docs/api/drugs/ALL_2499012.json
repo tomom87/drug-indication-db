@@ -4,7 +4,12 @@
     "name": "サムスカＯＤ錠３０ｍｇ",
     "generic_name": "サムスカＯＤ",
     "category": "その他のホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サムスカＯＤ錠３０ｍｇ",
+        "kana": "ｻﾑｽｶODｼﾞｮｳ30MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ケルロング錠５ｍｇ",
     "generic_name": "ケルロング",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ケルロング錠５ｍｇ",
+        "kana": "ｹﾙﾛﾝｸﾞｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ノックビン原末",
     "generic_name": "ノックビン原末",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ノックビン原末",
+        "kana": "ﾉｯｸﾋﾞﾝｹﾞﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

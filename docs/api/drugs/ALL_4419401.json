@@ -4,7 +4,12 @@
     "name": "ビスミラー注５ｍｇ　０．５％１ｍＬ",
     "generic_name": "ビスミラー",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビスミラー注５ｍｇ　０．５％１ｍＬ",
+        "kana": "ﾋﾞｽﾐﾗｰﾁｭｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "花扇ソボクＫ",
     "generic_name": "花扇ソボクＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇ソボクＫ",
+        "kana": "ﾊﾅｵｳｷﾞｿﾎﾞｸK"
+      }
+    ]
   },
   "indications": []
 }

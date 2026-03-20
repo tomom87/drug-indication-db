@@ -4,7 +4,12 @@
     "name": "カンタリスチンキ（司生堂）",
     "generic_name": "カンタリスチンキ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カンタリスチンキ（司生堂）",
+        "kana": "ｶﾝﾀﾘｽﾁﾝｷｼｾｲﾄﾞｳ"
+      }
+    ]
   },
   "indications": []
 }

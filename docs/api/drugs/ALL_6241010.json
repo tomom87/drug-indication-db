@@ -4,7 +4,12 @@
     "name": "オゼックス錠７５　７５ｍｇ",
     "generic_name": "オゼックス",
     "category": "抗ウイルス薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オゼックス錠７５　７５ｍｇ",
+        "kana": "ｵｾﾞｯｸｽｼﾞｮｳ75"
+      }
+    ]
   },
   "indications": []
 }

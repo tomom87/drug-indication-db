@@ -4,7 +4,12 @@
     "name": "ウチダのケンゴシＭ",
     "generic_name": "ウチダのケンゴシＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのケンゴシＭ",
+        "kana": "ｳﾁﾀﾞﾉｹﾝｺﾞｼM"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "キックリンカプセル２５０ｍｇ",
     "generic_name": "キックリン",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "キックリンカプセル２５０ｍｇ",
+        "kana": "ｷｯｸﾘﾝｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": []
 }

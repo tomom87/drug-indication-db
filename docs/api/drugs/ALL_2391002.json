@@ -4,7 +4,12 @@
     "name": "カイトリル錠１ｍｇ",
     "generic_name": "カイトリル",
     "category": "下剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "カイトリル錠１ｍｇ",
+        "kana": "ｶｲﾄﾘﾙｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": [
     {

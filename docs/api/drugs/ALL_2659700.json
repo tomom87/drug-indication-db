@@ -4,7 +4,12 @@
     "name": "イオウ",
     "generic_name": "イオウ",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "イオウ",
+        "kana": "ｲｵｳ"
+      }
+    ]
   },
   "indications": []
 }

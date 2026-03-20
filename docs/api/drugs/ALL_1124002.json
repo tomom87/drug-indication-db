@@ -4,7 +4,12 @@
     "name": "ダルメートカプセル１５　１５ｍｇ",
     "generic_name": "ダルメート",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ダルメートカプセル１５　１５ｍｇ",
+        "kana": "ﾀﾞﾙﾒｰﾄｶﾌﾟｾﾙ15"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "カルチコール注射液８．５％５ｍＬ",
     "generic_name": "カルチコール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "カルチコール注射液８．５％５ｍＬ",
+        "kana": "ｶﾙﾁｺｰﾙﾁｭｳｼｬｴｷ8.5%5ML"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "注射用タゴシッド２００ｍｇ",
     "generic_name": "",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "注射用タゴシッド２００ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳﾀｺﾞｼｯﾄﾞ200MG"
+      }
+    ]
   },
   "indications": [
     {

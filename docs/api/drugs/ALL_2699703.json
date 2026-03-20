@@ -4,7 +4,12 @@
     "name": "アクトシン軟膏３％",
     "generic_name": "アクトシン",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アクトシン軟膏３％",
+        "kana": "ｱｸﾄｼﾝﾅﾝｺｳ3%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "クリストファン注　２０ｍＬ",
     "generic_name": "クリストファン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "クリストファン注　２０ｍＬ",
+        "kana": "ｸﾘｽﾄﾌｧﾝﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

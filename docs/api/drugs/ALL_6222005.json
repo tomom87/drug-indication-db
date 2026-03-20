@@ -4,7 +4,12 @@
     "name": "ネオイスコチン原末",
     "generic_name": "ネオイスコチン原末",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオイスコチン原末",
+        "kana": "ﾈｵｲｽｺﾁﾝｹﾞﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アーテン散１％",
     "generic_name": "アーテン",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アーテン散１％",
+        "kana": "ｱｰﾃﾝｻﾝ1%"
+      }
+    ]
   },
   "indications": [
     {

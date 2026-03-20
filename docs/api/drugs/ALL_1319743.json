@@ -4,7 +4,12 @@
     "name": "ブロナック点眼液０．１％",
     "generic_name": "ブロナック",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブロナック点眼液０．１％",
+        "kana": "ﾌﾞﾛﾅｯｸﾃﾝｶﾞﾝｴｷ0.1%"
+      }
+    ]
   },
   "indications": []
 }

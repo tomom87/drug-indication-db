@@ -4,7 +4,12 @@
     "name": "ウチダのヨクイニンＭ",
     "generic_name": "ウチダのヨクイニンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのヨクイニンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾖｸｲﾆﾝM"
+      }
+    ]
   },
   "indications": []
 }

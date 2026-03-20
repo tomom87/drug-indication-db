@@ -4,7 +4,12 @@
     "name": "ジアスターゼ",
     "generic_name": "ジアスターゼ",
     "category": "消化管運動促進薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジアスターゼ",
+        "kana": "ｼﾞｱｽﾀｰｾﾞ"
+      }
+    ]
   },
   "indications": [
     {

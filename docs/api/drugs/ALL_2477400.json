@@ -4,7 +4,12 @@
     "name": "プロゲデポー筋注１２５ｍｇ",
     "generic_name": "プロゲデポー筋",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "プロゲデポー筋注１２５ｍｇ",
+        "kana": "ﾌﾟﾛｹﾞﾃﾞﾎﾟｰｷﾝﾁｭｳ125MG"
+      }
+    ]
   },
   "indications": []
 }

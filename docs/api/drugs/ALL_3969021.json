@@ -4,7 +4,12 @@
     "name": "デベルザ錠２０ｍｇ",
     "generic_name": "デベルザ",
     "category": "糖尿病薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "デベルザ錠２０ｍｇ",
+        "kana": "ﾃﾞﾍﾞﾙｻﾞｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": [
     {

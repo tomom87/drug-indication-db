@@ -4,7 +4,12 @@
     "name": "ベシカムクリーム５％",
     "generic_name": "ベシカム",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベシカムクリーム５％",
+        "kana": "ﾍﾞｼｶﾑｸﾘｰﾑ5%"
+      }
+    ]
   },
   "indications": []
 }

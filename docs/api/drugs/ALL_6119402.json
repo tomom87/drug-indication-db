@@ -4,7 +4,12 @@
     "name": "キュビシン静注用３５０ｍｇ",
     "generic_name": "キュビシン静",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "キュビシン静注用３５０ｍｇ",
+        "kana": "ｷｭﾋﾞｼﾝｼﾞｮｳﾁｭｳﾖｳ350MG"
+      }
+    ]
   },
   "indications": [
     {

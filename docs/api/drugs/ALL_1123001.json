@@ -4,7 +4,12 @@
     "name": "抱水クロラール",
     "generic_name": "抱水クロラール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "抱水クロラール",
+        "kana": "ﾎｳｽｲｸﾛﾗｰﾙ"
+      }
+    ]
   },
   "indications": []
 }

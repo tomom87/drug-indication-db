@@ -4,7 +4,12 @@
     "name": "サムタス点滴静注用８ｍｇ",
     "generic_name": "サムタス",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サムタス点滴静注用８ｍｇ",
+        "kana": "ｻﾑﾀｽﾃﾝﾃｷｼﾞｮｳﾁｭｳﾖｳ8MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ヒベルナ糖衣錠５ｍｇ",
     "generic_name": "ヒベルナ糖衣",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒベルナ糖衣錠５ｍｇ",
+        "kana": "ﾋﾍﾞﾙﾅﾄｳｲｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

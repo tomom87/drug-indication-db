@@ -4,7 +4,12 @@
     "name": "レルミナ錠４０ｍｇ",
     "generic_name": "レルミナ",
     "category": "その他のホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レルミナ錠４０ｍｇ",
+        "kana": "ﾚﾙﾐﾅｼﾞｮｳ40MG"
+      }
+    ]
   },
   "indications": []
 }

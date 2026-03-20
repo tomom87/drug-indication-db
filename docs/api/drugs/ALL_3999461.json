@@ -4,7 +4,12 @@
     "name": "ギブラーリ皮下注１８９ｍｇ　１ｍＬ",
     "generic_name": "ギブラーリ皮下",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ギブラーリ皮下注１８９ｍｇ　１ｍＬ",
+        "kana": "ｷﾞﾌﾞﾗｰﾘﾋｶﾁｭｳ189MG"
+      }
+    ]
   },
   "indications": [
     {

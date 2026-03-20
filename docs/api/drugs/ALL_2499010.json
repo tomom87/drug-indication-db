@@ -4,7 +4,12 @@
     "name": "ディナゲスト錠１ｍｇ",
     "generic_name": "ディナゲスト",
     "category": "その他のホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ディナゲスト錠１ｍｇ",
+        "kana": "ﾃﾞｨﾅｹﾞｽﾄｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

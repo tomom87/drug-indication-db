@@ -4,7 +4,12 @@
     "name": "歯科用ＴＤゼット液",
     "generic_name": "歯科用ＴＤゼット",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "歯科用ＴＤゼット液",
+        "kana": "ｼｶﾖｳTDｾﾞｯﾄｴｷ"
+      }
+    ]
   },
   "indications": []
 }

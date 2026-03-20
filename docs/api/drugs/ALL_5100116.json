@@ -4,7 +4,12 @@
     "name": "ウチダのセンブリＭ",
     "generic_name": "ウチダのセンブリＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのセンブリＭ",
+        "kana": "ｳﾁﾀﾞﾉｾﾝﾌﾞﾘM"
+      }
+    ]
   },
   "indications": []
 }

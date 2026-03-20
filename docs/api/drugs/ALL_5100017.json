@@ -4,7 +4,12 @@
     "name": "ウチダのオウギＭ",
     "generic_name": "ウチダのオウギＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのオウギＭ",
+        "kana": "ｳﾁﾀﾞﾉｵｳｷﾞM"
+      }
+    ]
   },
   "indications": []
 }

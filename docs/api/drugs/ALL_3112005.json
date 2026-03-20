@@ -4,7 +4,12 @@
     "name": "フルスタン錠０．１５　０．１５μｇ",
     "generic_name": "フルスタン",
     "category": "ビタミンA薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "フルスタン錠０．１５　０．１５μｇ",
+        "kana": "ﾌﾙｽﾀﾝｼﾞｮｳ0.15"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ジカディア錠１５０ｍｇ",
     "generic_name": "ジカディア",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジカディア錠１５０ｍｇ",
+        "kana": "ｼﾞｶﾃﾞｨｱｼﾞｮｳ150MG"
+      }
+    ]
   },
   "indications": []
 }

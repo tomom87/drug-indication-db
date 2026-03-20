@@ -4,7 +4,12 @@
     "name": "レグナイト錠３００ｍｇ",
     "generic_name": "レグナイト",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レグナイト錠３００ｍｇ",
+        "kana": "ﾚｸﾞﾅｲﾄｼﾞｮｳ300MG"
+      }
+    ]
   },
   "indications": []
 }

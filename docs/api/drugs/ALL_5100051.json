@@ -4,7 +4,12 @@
     "name": "グアヤク脂",
     "generic_name": "グアヤク脂",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グアヤク脂",
+        "kana": "ｸﾞｱﾔｸｼ"
+      }
+    ]
   },
   "indications": []
 }

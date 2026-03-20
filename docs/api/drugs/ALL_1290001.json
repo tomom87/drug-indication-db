@@ -4,7 +4,12 @@
     "name": "ビンダケルカプセル２０ｍｇ",
     "generic_name": "ビンダケル",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビンダケルカプセル２０ｍｇ",
+        "kana": "ﾋﾞﾝﾀﾞｹﾙｶﾌﾟｾﾙ20MG"
+      }
+    ]
   },
   "indications": []
 }

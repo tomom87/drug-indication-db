@@ -4,7 +4,12 @@
     "name": "イレッサ錠２５０　２５０ｍｇ",
     "generic_name": "イレッサ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "イレッサ錠２５０　２５０ｍｇ",
+        "kana": "ｲﾚｯｻｼﾞｮｳ250"
+      }
+    ]
   },
   "indications": []
 }

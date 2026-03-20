@@ -4,7 +4,12 @@
     "name": "ウチダのカロコンＭ",
     "generic_name": "ウチダのカロコンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのカロコンＭ",
+        "kana": "ｳﾁﾀﾞﾉｶﾛｺﾝM"
+      }
+    ]
   },
   "indications": []
 }

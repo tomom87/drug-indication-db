@@ -4,7 +4,12 @@
     "name": "イブトロジーカプセル２００ｍｇ",
     "generic_name": "イブトロジー",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "イブトロジーカプセル２００ｍｇ",
+        "kana": "ｲﾌﾞﾄﾛｼﾞｰｶﾌﾟｾﾙ200MG"
+      }
+    ]
   },
   "indications": []
 }

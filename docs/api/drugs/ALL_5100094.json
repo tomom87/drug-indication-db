@@ -4,7 +4,12 @@
     "name": "ウチダのシャクヤクＭ",
     "generic_name": "ウチダのシャクヤクＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのシャクヤクＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｬｸﾔｸM"
+      }
+    ]
   },
   "indications": []
 }

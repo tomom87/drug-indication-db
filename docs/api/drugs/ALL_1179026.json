@@ -4,7 +4,12 @@
     "name": "トロペロン細粒１％",
     "generic_name": "トロペロン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トロペロン細粒１％",
+        "kana": "ﾄﾛﾍﾟﾛﾝｻｲﾘｭｳ1%"
+      }
+    ]
   },
   "indications": []
 }

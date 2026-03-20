@@ -4,7 +4,12 @@
     "name": "ネオ兼一消アルＡ",
     "generic_name": "ネオ兼一消アルＡ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオ兼一消アルＡ",
+        "kana": "ﾈｵｶﾈｲﾁｼｮｳｱﾙA"
+      }
+    ]
   },
   "indications": []
 }

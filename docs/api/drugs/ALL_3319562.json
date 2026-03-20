@@ -4,7 +4,12 @@
     "name": "アセトキープ３Ｇ注　５００ｍＬ",
     "generic_name": "アセトキープ３Ｇ",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アセトキープ３Ｇ注　５００ｍＬ",
+        "kana": "ｱｾﾄｷｰﾌﾟ3Gﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

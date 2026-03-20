@@ -4,7 +4,12 @@
     "name": "ウバイ",
     "generic_name": "ウバイ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウバイ",
+        "kana": "ｳﾊﾞｲ"
+      }
+    ]
   },
   "indications": []
 }

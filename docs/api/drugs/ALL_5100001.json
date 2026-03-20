@@ -4,7 +4,12 @@
     "name": "トチモトのアキョウ",
     "generic_name": "トチモトのアキョウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのアキョウ",
+        "kana": "ﾄﾁﾓﾄﾉｱｷｮｳ"
+      }
+    ]
   },
   "indications": []
 }

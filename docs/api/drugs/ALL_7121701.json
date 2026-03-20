@@ -4,7 +4,12 @@
     "name": "黄色ワセリン（日興製薬）",
     "generic_name": "黄色ワセリン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "黄色ワセリン（日興製薬）",
+        "kana": "ｵｳｼｮｸﾜｾﾘﾝﾆｯｺｳｾｲﾔｸ"
+      }
+    ]
   },
   "indications": []
 }

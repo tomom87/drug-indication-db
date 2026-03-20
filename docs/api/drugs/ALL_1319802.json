@@ -4,7 +4,12 @@
     "name": "オフサロン点眼液　５ｍＬ",
     "generic_name": "オフサロン",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オフサロン点眼液　５ｍＬ",
+        "kana": "ｵﾌｻﾛﾝﾃﾝｶﾞﾝｴｷ"
+      }
+    ]
   },
   "indications": []
 }

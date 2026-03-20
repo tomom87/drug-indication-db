@@ -4,7 +4,12 @@
     "name": "ツムラの生薬ビワヨウ",
     "generic_name": "ツムラの生薬ビワヨウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラの生薬ビワヨウ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾋﾞﾜﾖｳ"
+      }
+    ]
   },
   "indications": []
 }

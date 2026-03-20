@@ -4,7 +4,12 @@
     "name": "ユバンシ配合錠",
     "generic_name": "ユバンシ配合",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ユバンシ配合錠",
+        "kana": "ﾕﾊﾞﾝｼﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

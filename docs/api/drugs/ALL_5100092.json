@@ -4,7 +4,12 @@
     "name": "ツムラの生薬シツリシ",
     "generic_name": "ツムラの生薬シツリシ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラの生薬シツリシ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸｼﾂﾘｼ"
+      }
+    ]
   },
   "indications": []
 }

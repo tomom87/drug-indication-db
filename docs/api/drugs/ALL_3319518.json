@@ -4,7 +4,12 @@
     "name": "ＥＬ－３号輸液　５００ｍＬ",
     "generic_name": "ＥＬ－３号輸",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ＥＬ－３号輸液　５００ｍＬ",
+        "kana": "EL-3ｺﾞｳﾕｴｷ"
+      }
+    ]
   },
   "indications": []
 }

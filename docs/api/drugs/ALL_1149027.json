@@ -4,7 +4,12 @@
     "name": "レリフェン錠４００ｍｇ",
     "generic_name": "レリフェン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レリフェン錠４００ｍｇ",
+        "kana": "ﾚﾘﾌｪﾝｼﾞｮｳ400MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "コールタイジン点鼻液",
     "generic_name": "コールタイジン点鼻",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "コールタイジン点鼻液",
+        "kana": "ｺｰﾙﾀｲｼﾞﾝﾃﾝﾋﾞｴｷ"
+      }
+    ]
   },
   "indications": []
 }

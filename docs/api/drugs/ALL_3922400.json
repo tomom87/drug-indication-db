@@ -4,7 +4,12 @@
     "name": "タチオン注射用１００ｍｇ",
     "generic_name": "タチオン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "タチオン注射用１００ｍｇ",
+        "kana": "ﾀﾁｵﾝﾁｭｳｼｬﾖｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

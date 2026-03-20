@@ -4,7 +4,12 @@
     "name": "ガチフロ点眼液０．３％",
     "generic_name": "ガチフロ",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ガチフロ点眼液０．３％",
+        "kana": "ｶﾞﾁﾌﾛﾃﾝｶﾞﾝｴｷ0.3%"
+      }
+    ]
   },
   "indications": []
 }

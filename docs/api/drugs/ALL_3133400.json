@@ -4,7 +4,12 @@
     "name": "パンテチン注２００ｍｇ「ＫＣＣ」",
     "generic_name": "パンテチン",
     "category": "ビタミンB12薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "パンテチン注２００ｍｇ「ＫＣＣ」",
+        "kana": "ﾊﾟﾝﾃﾁﾝﾁｭｳ200MGKCC"
+      }
+    ]
   },
   "indications": [
     {

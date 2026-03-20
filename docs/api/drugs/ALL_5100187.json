@@ -4,7 +4,12 @@
     "name": "トチモトのロートコン",
     "generic_name": "トチモトのロートコン",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのロートコン",
+        "kana": "ﾄﾁﾓﾄﾉﾛｰﾄｺﾝ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "白色軟膏「ヨシダ」",
     "generic_name": "白色",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "白色軟膏「ヨシダ」",
+        "kana": "ﾊｸｼｮｸﾅﾝｺｳﾖｼﾀﾞ"
+      }
+    ]
   },
   "indications": []
 }

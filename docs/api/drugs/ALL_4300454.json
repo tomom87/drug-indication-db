@@ -4,7 +4,12 @@
     "name": "ビザミル静注　１８５ＭＢｑ",
     "generic_name": "ビザミル静",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビザミル静注　１８５ＭＢｑ",
+        "kana": "ﾋﾞｻﾞﾐﾙｼﾞｮｳﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

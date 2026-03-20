@@ -4,7 +4,12 @@
     "name": "プロピタン錠５０ｍｇ",
     "generic_name": "プロピタン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "プロピタン錠５０ｍｇ",
+        "kana": "ﾌﾟﾛﾋﾟﾀﾝｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

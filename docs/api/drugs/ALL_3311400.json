@@ -4,7 +4,12 @@
     "name": "大塚食塩注１０％　２０ｍＬ",
     "generic_name": "大塚食塩",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "大塚食塩注１０％　２０ｍＬ",
+        "kana": "ｵｵﾂｶｼｮｸｴﾝﾁｭｳ10%"
+      }
+    ]
   },
   "indications": []
 }

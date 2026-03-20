@@ -4,7 +4,12 @@
     "name": "ブルフェン錠２００　２００ｍｇ",
     "generic_name": "ブルフェン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブルフェン錠２００　２００ｍｇ",
+        "kana": "ﾌﾞﾙﾌｪﾝｼﾞｮｳ200"
+      }
+    ]
   },
   "indications": [
     {

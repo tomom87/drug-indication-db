@@ -4,7 +4,12 @@
     "name": "ヨウレチン錠「１００」　１００μｇ",
     "generic_name": "ヨウレチン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヨウレチン錠「１００」　１００μｇ",
+        "kana": "ﾖｳﾚﾁﾝｼﾞｮｳ100"
+      }
+    ]
   },
   "indications": []
 }

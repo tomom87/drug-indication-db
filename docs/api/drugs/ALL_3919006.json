@@ -4,7 +4,12 @@
     "name": "タウリン散９８％「大正」",
     "generic_name": "タウリン",
     "category": "痛風薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タウリン散９８％「大正」",
+        "kana": "ﾀｳﾘﾝｻﾝ98%ﾀｲｼｮｳ"
+      }
+    ]
   },
   "indications": [
     {

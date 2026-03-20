@@ -4,7 +4,12 @@
     "name": "シムレクト静注用２０ｍｇ",
     "generic_name": "シムレクト静",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "シムレクト静注用２０ｍｇ",
+        "kana": "ｼﾑﾚｸﾄｼﾞｮｳﾁｭｳﾖｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

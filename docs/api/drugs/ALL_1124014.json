@@ -4,7 +4,12 @@
     "name": "セパゾン散１％",
     "generic_name": "セパゾン",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セパゾン散１％",
+        "kana": "ｾﾊﾟｿﾞﾝｻﾝ1%"
+      }
+    ]
   },
   "indications": [
     {

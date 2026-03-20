@@ -4,7 +4,12 @@
     "name": "カヌマ点滴静注液２０ｍｇ　１０ｍＬ",
     "generic_name": "カヌマ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "カヌマ点滴静注液２０ｍｇ　１０ｍＬ",
+        "kana": "ｶﾇﾏﾃﾝﾃｷｼﾞｮｳﾁｭｳｴｷ20MG"
+      }
+    ]
   },
   "indications": []
 }

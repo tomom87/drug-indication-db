@@ -4,7 +4,12 @@
     "name": "カルバン錠２５　２５ｍｇ",
     "generic_name": "カルバン",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カルバン錠２５　２５ｍｇ",
+        "kana": "ｶﾙﾊﾞﾝｼﾞｮｳ25"
+      }
+    ]
   },
   "indications": [
     {

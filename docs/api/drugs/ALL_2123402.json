@@ -4,7 +4,12 @@
     "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
     "generic_name": "インデラル",
     "category": "不整脈用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
+        "kana": "ｲﾝﾃﾞﾗﾙﾁｭｳｼｬｴｷ2MG"
+      }
+    ]
   },
   "indications": [
     {

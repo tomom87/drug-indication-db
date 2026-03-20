@@ -4,7 +4,12 @@
     "name": "花扇オウヒＫ",
     "generic_name": "花扇オウヒＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇オウヒＫ",
+        "kana": "ﾊﾅｵｳｷﾞｵｳﾋK"
+      }
+    ]
   },
   "indications": []
 }

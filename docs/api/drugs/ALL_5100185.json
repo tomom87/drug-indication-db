@@ -4,7 +4,12 @@
     "name": "ウチダのレンギョウＭ",
     "generic_name": "ウチダのレンギョウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのレンギョウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾚﾝｷﾞｮｳM"
+      }
+    ]
   },
   "indications": []
 }

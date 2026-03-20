@@ -4,7 +4,12 @@
     "name": "ウチダのシャゼンシＭ",
     "generic_name": "ウチダのシャゼンシＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのシャゼンシＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｬｾﾞﾝｼM"
+      }
+    ]
   },
   "indications": []
 }

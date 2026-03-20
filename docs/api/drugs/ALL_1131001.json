@@ -4,7 +4,12 @@
     "name": "クランポール末",
     "generic_name": "クランポール末",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "クランポール末",
+        "kana": "ｸﾗﾝﾎﾟｰﾙﾏﾂ"
+      }
+    ]
   },
   "indications": [
     {

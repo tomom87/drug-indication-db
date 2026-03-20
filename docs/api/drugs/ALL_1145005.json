@@ -4,7 +4,12 @@
     "name": "インフリーＳカプセル２００ｍｇ",
     "generic_name": "インフリーＳ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "インフリーＳカプセル２００ｍｇ",
+        "kana": "ｲﾝﾌﾘｰSｶﾌﾟｾﾙ200MG"
+      }
+    ]
   },
   "indications": []
 }

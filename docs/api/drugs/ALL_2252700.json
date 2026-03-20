@@ -4,7 +4,12 @@
     "name": "アスプール液（０．５％）",
     "generic_name": "アスプール",
     "category": "気管支拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アスプール液（０．５％）",
+        "kana": "ｱｽﾌﾟｰﾙｴｷ0.5%"
+      }
+    ]
   },
   "indications": [
     {

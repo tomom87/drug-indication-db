@@ -4,7 +4,12 @@
     "name": "リメタゾン静注２．５ｍｇ　１ｍＬ",
     "generic_name": "リメタゾン静",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "リメタゾン静注２．５ｍｇ　１ｍＬ",
+        "kana": "ﾘﾒﾀｿﾞﾝｼﾞｮｳﾁｭｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

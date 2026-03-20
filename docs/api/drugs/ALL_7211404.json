@@ -4,7 +4,12 @@
     "name": "リピオドール４８０注１０ｍＬ",
     "generic_name": "リピオドール４８０",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "リピオドール４８０注１０ｍＬ",
+        "kana": "ﾘﾋﾟｵﾄﾞｰﾙ480ﾁｭｳ10ML"
+      }
+    ]
   },
   "indications": []
 }

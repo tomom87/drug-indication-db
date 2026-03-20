@@ -4,7 +4,12 @@
     "name": "エプキンリ皮下注４ｍｇ　０．８ｍＬ",
     "generic_name": "エプキンリ皮下",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エプキンリ皮下注４ｍｇ　０．８ｍＬ",
+        "kana": "ｴﾌﾟｷﾝﾘﾋｶﾁｭｳ4MG"
+      }
+    ]
   },
   "indications": []
 }

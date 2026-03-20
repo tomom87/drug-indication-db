@@ -4,7 +4,12 @@
     "name": "オーツカＭＶ注　１瓶１管",
     "generic_name": "オーツカＭＶ",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オーツカＭＶ注　１瓶１管",
+        "kana": "ｵｰﾂｶMVﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

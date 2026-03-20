@@ -4,7 +4,12 @@
     "name": "ケイツーＮ静注１０ｍｇ",
     "generic_name": "ケイツーＮ静",
     "category": "ビタミンE薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ケイツーＮ静注１０ｍｇ",
+        "kana": "ｹｲﾂｰNｼﾞｮｳﾁｭｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "オゼックス点眼液０．３％",
     "generic_name": "オゼックス",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オゼックス点眼液０．３％",
+        "kana": "ｵｾﾞｯｸｽﾃﾝｶﾞﾝｴｷ0.3%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "バソメット錠０．２５ｍｇ",
     "generic_name": "バソメット",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バソメット錠０．２５ｍｇ",
+        "kana": "ﾊﾞｿﾒｯﾄｼﾞｮｳ0.25MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "エクロックゲル５％",
     "generic_name": "エクロック",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "エクロックゲル５％",
+        "kana": "ｴｸﾛｯｸｹﾞﾙ5%"
+      }
+    ]
   },
   "indications": []
 }

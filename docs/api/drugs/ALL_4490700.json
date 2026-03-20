@@ -4,7 +4,12 @@
     "name": "アレサガテープ４ｍｇ",
     "generic_name": "アレサガ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アレサガテープ４ｍｇ",
+        "kana": "ｱﾚｻｶﾞﾃｰﾌﾟ4MG"
+      }
+    ]
   },
   "indications": []
 }

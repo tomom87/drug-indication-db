@@ -4,7 +4,12 @@
     "name": "ピーゼットシー散１％",
     "generic_name": "ピーゼットシー",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピーゼットシー散１％",
+        "kana": "ﾋﾟｰｾﾞｯﾄｼｰｻﾝ1%"
+      }
+    ]
   },
   "indications": [
     {

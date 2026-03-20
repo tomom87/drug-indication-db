@@ -4,7 +4,12 @@
     "name": "タナドーパ顆粒７５％",
     "generic_name": "タナドーパ",
     "category": "強心薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タナドーパ顆粒７５％",
+        "kana": "ﾀﾅﾄﾞｰﾊﾟｶﾘｭｳ75%"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "フィコンパ錠２ｍｇ",
     "generic_name": "フィコンパ",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "フィコンパ錠２ｍｇ",
+        "kana": "ﾌｨｺﾝﾊﾟｼﾞｮｳ2MG"
+      }
+    ]
   },
   "indications": [
     {

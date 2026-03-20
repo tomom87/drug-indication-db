@@ -4,7 +4,12 @@
     "name": "ラマトロバン錠５０ｍｇ「ＫＯ」",
     "generic_name": "ラマトロバン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ラマトロバン錠５０ｍｇ「ＫＯ」",
+        "kana": "ﾗﾏﾄﾛﾊﾞﾝｼﾞｮｳ50MGKO"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ノギロン軟膏０．１％",
     "generic_name": "ノギロン",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "ノギロン軟膏０．１％",
+        "kana": "ﾉｷﾞﾛﾝﾅﾝｺｳ0.1%"
+      }
+    ]
   },
   "indications": [
     {

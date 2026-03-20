@@ -4,7 +4,12 @@
     "name": "ホミカエキス",
     "generic_name": "ホミカエキス",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ホミカエキス",
+        "kana": "ﾎﾐｶｴｷｽ"
+      }
+    ]
   },
   "indications": []
 }

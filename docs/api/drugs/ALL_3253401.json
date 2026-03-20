@@ -4,7 +4,12 @@
     "name": "モリアミンＳ注　（１０％）２００ｍＬ",
     "generic_name": "モリアミンＳ",
     "category": "リン吸着薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "モリアミンＳ注　（１０％）２００ｍＬ",
+        "kana": "ﾓﾘｱﾐﾝSﾁｭｳ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ニュープロパッチ２．２５ｍｇ",
     "generic_name": "ニュープロパッチ",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ニュープロパッチ２．２５ｍｇ",
+        "kana": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ2.25MG"
+      }
+    ]
   },
   "indications": [
     {

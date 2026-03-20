@@ -4,7 +4,12 @@
     "name": "プレドネマ注腸２０ｍｇ",
     "generic_name": "プレドネマ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "プレドネマ注腸２０ｍｇ",
+        "kana": "ﾌﾟﾚﾄﾞﾈﾏﾁｭｳﾁｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

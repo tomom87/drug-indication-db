@@ -4,7 +4,12 @@
     "name": "ヘモポリゾン軟膏",
     "generic_name": "ヘモポリゾン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヘモポリゾン軟膏",
+        "kana": "ﾍﾓﾎﾟﾘｿﾞﾝﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "トラベルミン配合錠",
     "generic_name": "トラベルミン配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "トラベルミン配合錠",
+        "kana": "ﾄﾗﾍﾞﾙﾐﾝﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

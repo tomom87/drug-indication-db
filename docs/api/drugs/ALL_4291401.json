@@ -4,7 +4,12 @@
     "name": "動注用アイエーコール１００ｍｇ",
     "generic_name": "動",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "動注用アイエーコール１００ｍｇ",
+        "kana": "ﾄﾞｳﾁｭｳﾖｳｱｲｴｰｺｰﾙ100MG"
+      }
+    ]
   },
   "indications": []
 }

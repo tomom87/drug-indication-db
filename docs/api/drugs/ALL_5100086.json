@@ -4,7 +4,12 @@
     "name": "ウチダのサンヤクＭ",
     "generic_name": "ウチダのサンヤクＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのサンヤクＭ",
+        "kana": "ｳﾁﾀﾞﾉｻﾝﾔｸM"
+      }
+    ]
   },
   "indications": []
 }

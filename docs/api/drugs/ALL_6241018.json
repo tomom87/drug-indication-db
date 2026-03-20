@@ -4,7 +4,12 @@
     "name": "グレースビット錠５０ｍｇ",
     "generic_name": "グレースビット",
     "category": "抗ウイルス薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グレースビット錠５０ｍｇ",
+        "kana": "ｸﾞﾚｰｽﾋﾞｯﾄｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

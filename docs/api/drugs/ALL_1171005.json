@@ -4,7 +4,12 @@
     "name": "ウインタミン細粒（１０％）",
     "generic_name": "ウインタミン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウインタミン細粒（１０％）",
+        "kana": "ｳｲﾝﾀﾐﾝｻｲﾘｭｳ10%"
+      }
+    ]
   },
   "indications": [
     {

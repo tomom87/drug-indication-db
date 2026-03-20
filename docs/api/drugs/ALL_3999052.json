@@ -4,7 +4,12 @@
     "name": "エナロイ錠２ｍｇ",
     "generic_name": "エナロイ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エナロイ錠２ｍｇ",
+        "kana": "ｴﾅﾛｲｼﾞｮｳ2MG"
+      }
+    ]
   },
   "indications": [
     {

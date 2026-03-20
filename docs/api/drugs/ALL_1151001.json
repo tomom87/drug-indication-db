@@ -4,7 +4,12 @@
     "name": "ヒロポン錠　１ｍｇ",
     "generic_name": "ヒロポン",
     "category": "解熱鎮痛消炎薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒロポン錠　１ｍｇ",
+        "kana": "ﾋﾛﾎﾟﾝｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

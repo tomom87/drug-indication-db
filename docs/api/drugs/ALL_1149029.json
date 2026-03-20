@@ -4,7 +4,12 @@
     "name": "ソレトン錠８０　８０ｍｇ",
     "generic_name": "ソレトン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソレトン錠８０　８０ｍｇ",
+        "kana": "ｿﾚﾄﾝｼﾞｮｳ80"
+      }
+    ]
   },
   "indications": [
     {

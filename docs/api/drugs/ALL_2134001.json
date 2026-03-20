@@ -4,7 +4,12 @@
     "name": "アセタゾラミド",
     "generic_name": "アセタゾラミド",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アセタゾラミド",
+        "kana": "ｱｾﾀｿﾞﾗﾐﾄﾞ"
+      }
+    ]
   },
   "indications": [
     {

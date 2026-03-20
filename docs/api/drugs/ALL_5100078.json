@@ -4,7 +4,12 @@
     "name": "ウチダのサフランＭ",
     "generic_name": "ウチダのサフランＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのサフランＭ",
+        "kana": "ｳﾁﾀﾞﾉｻﾌﾗﾝM"
+      }
+    ]
   },
   "indications": []
 }

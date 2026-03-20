@@ -78,21 +78,9 @@
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132002",
-      "name": "ケフレックスシロップ用細粒１００　１００ｍｇ",
-      "generic_name": "ケフレックス",
-      "category": "抗菌薬"
-    },
-    {
       "yj_code": "ALL_6132403",
       "name": "コアキシン注射用１ｇ",
       "generic_name": "コアキシン",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6131001",
-      "name": "サワシリン錠２５０　２５０ｍｇ",
-      "generic_name": "サワシリン",
       "category": "抗菌薬"
     },
     {
@@ -168,12 +156,6 @@
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132013",
-      "name": "セフゾンカプセル５０ｍｇ",
-      "generic_name": "セフゾン",
-      "category": "抗菌薬"
-    },
-    {
       "yj_code": "ALL_6132418",
       "name": "セフタジジム静注用１ｇ「ＮＰ」",
       "generic_name": "セフタジジム静",
@@ -183,12 +165,6 @@
       "yj_code": "NAIKA_0058",
       "name": "セフトリアキソン",
       "generic_name": "セフトリアキソン",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6132419",
-      "name": "セフトリアキソンナトリウム点滴用１ｇバッグＮＰ　生食１００ｍＬ付",
-      "generic_name": "セフトリアキソンナトリウム",
       "category": "抗菌薬"
     },
     {
@@ -324,12 +300,6 @@
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132016",
-      "name": "フロモックス錠７５ｍｇ",
-      "generic_name": "フロモックス",
-      "category": "抗菌薬"
-    },
-    {
       "yj_code": "ALL_6131004",
       "name": "ペングッド錠２５０ｍｇ",
       "generic_name": "ペングッド",
@@ -345,24 +315,6 @@
       "yj_code": "NAIKA_0157",
       "name": "ミノサイクリン",
       "generic_name": "ミノサイクリン",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6152401",
-      "name": "ミノサイクリン塩酸塩点滴静注用１００ｍｇ「日医工」",
-      "generic_name": "ミノサイクリン塩酸塩",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6152005",
-      "name": "ミノマイシンカプセル１００ｍｇ",
-      "generic_name": "ミノマイシン",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6132015",
-      "name": "メイアクトＭＳ錠１００ｍｇ",
-      "generic_name": "メイアクトＭＳ",
       "category": "抗菌薬"
     },
     {

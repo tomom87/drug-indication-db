@@ -4,7 +4,12 @@
     "name": "ビスダイン静注用１５ｍｇ",
     "generic_name": "ビスダイン静",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビスダイン静注用１５ｍｇ",
+        "kana": "ﾋﾞｽﾀﾞｲﾝｼﾞｮｳﾁｭｳﾖｳ15MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ビフロキシン配合錠",
     "generic_name": "ビフロキシン配合",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビフロキシン配合錠",
+        "kana": "ﾋﾞﾌﾛｷｼﾝﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -6,12 +6,6 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_1141001",
-      "name": "アセトアミノフェン",
-      "generic_name": "アセトアミノフェン",
-      "category": "抗てんかん薬"
-    },
-    {
       "yj_code": "ALL_1141400",
       "name": "アセリオ静注液１０００ｍｇバッグ　１，０００ｍｇ１００ｍＬ",
       "generic_name": "アセリオ静",
@@ -21,12 +15,6 @@
       "yj_code": "ALL_1149026",
       "name": "アルボ錠１００ｍｇ",
       "generic_name": "アルボ",
-      "category": "抗てんかん薬"
-    },
-    {
-      "yj_code": "ALL_1141700",
-      "name": "アンヒバ坐剤小児用５０ｍｇ",
-      "generic_name": "アンヒバ",
       "category": "抗てんかん薬"
     },
     {
@@ -45,12 +33,6 @@
       "yj_code": "ALL_1149500",
       "name": "カシワドール静注　２０ｍＬ",
       "generic_name": "カシワドール静",
-      "category": "抗てんかん薬"
-    },
-    {
-      "yj_code": "ALL_1141007",
-      "name": "カロナール細粒５０％",
-      "generic_name": "カロナール",
       "category": "抗てんかん薬"
     },
     {
@@ -78,12 +60,6 @@
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149037",
-      "name": "セレコックス錠１００ｍｇ",
-      "generic_name": "セレコックス",
-      "category": "抗てんかん薬"
-    },
-    {
       "yj_code": "ALL_1149401",
       "name": "ソセゴン注射液１５ｍｇ",
       "generic_name": "ソセゴン",
@@ -105,18 +81,6 @@
       "yj_code": "ALL_1149400",
       "name": "トラマール注１００　１００ｍｇ",
       "generic_name": "トラマール",
-      "category": "抗てんかん薬"
-    },
-    {
-      "yj_code": "ALL_1149038",
-      "name": "トラマールＯＤ錠２５ｍｇ",
-      "generic_name": "トラマールＯＤ",
-      "category": "抗てんかん薬"
-    },
-    {
-      "yj_code": "ALL_1149117",
-      "name": "トラムセット配合錠",
-      "generic_name": "トラムセット配合",
       "category": "抗てんかん薬"
     },
     {
@@ -219,12 +183,6 @@
       "yj_code": "ALL_1149027",
       "name": "レリフェン錠４００ｍｇ",
       "generic_name": "レリフェン",
-      "category": "抗てんかん薬"
-    },
-    {
-      "yj_code": "ALL_1149019",
-      "name": "ロキソプロフェン錠６０ｍｇ「ＥＭＥＣ」",
-      "generic_name": "ロキソプロフェン",
       "category": "抗てんかん薬"
     },
     {

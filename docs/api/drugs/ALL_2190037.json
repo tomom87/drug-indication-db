@@ -4,7 +4,12 @@
     "name": "ウプトラビ錠０．２ｍｇ",
     "generic_name": "ウプトラビ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウプトラビ錠０．２ｍｇ",
+        "kana": "ｳﾌﾟﾄﾗﾋﾞｼﾞｮｳ0.2MG"
+      }
+    ]
   },
   "indications": []
 }

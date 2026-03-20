@@ -4,7 +4,12 @@
     "name": "ユベラ軟膏",
     "generic_name": "ユベラ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ユベラ軟膏",
+        "kana": "ﾕﾍﾞﾗﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

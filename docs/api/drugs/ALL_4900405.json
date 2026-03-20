@@ -4,7 +4,12 @@
     "name": "イエスカルタ点滴静注",
     "generic_name": "イエスカルタ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "イエスカルタ点滴静注",
+        "kana": "ｲｴｽｶﾙﾀﾃﾝﾃｷｼﾞｮｳﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

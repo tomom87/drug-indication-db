@@ -4,7 +4,12 @@
     "name": "トチモトのショウバク",
     "generic_name": "トチモトのショウバク",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのショウバク",
+        "kana": "ﾄﾁﾓﾄﾉｼｮｳﾊﾞｸ"
+      }
+    ]
   },
   "indications": []
 }

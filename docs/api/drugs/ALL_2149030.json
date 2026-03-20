@@ -4,7 +4,12 @@
     "name": "ヒポカ５ｍｇカプセル",
     "generic_name": "ヒポカ",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒポカ５ｍｇカプセル",
+        "kana": "ﾋﾎﾟｶ5MGｶﾌﾟｾﾙ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "リクシアナ錠１５ｍｇ",
     "generic_name": "リクシアナ",
     "category": "血液用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リクシアナ錠１５ｍｇ",
+        "kana": "ﾘｸｼｱﾅｼﾞｮｳ15MG"
+      }
+    ]
   },
   "indications": []
 }

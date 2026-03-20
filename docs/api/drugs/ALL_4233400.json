@@ -4,7 +4,12 @@
     "name": "コスメゲン静注用０．５ｍｇ",
     "generic_name": "コスメゲン静",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "コスメゲン静注用０．５ｍｇ",
+        "kana": "ｺｽﾒｹﾞﾝｼﾞｮｳﾁｭｳﾖｳ0.5MG"
+      }
+    ]
   },
   "indications": []
 }

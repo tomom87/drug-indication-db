@@ -4,7 +4,12 @@
     "name": "白色ワセリン「ケンエー」",
     "generic_name": "白色ワセリン「ケンエー」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "白色ワセリン「ケンエー」",
+        "kana": "ﾊｸｼｮｸﾜｾﾘﾝｹﾝｴｰ"
+      }
+    ]
   },
   "indications": []
 }

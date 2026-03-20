@@ -4,7 +4,12 @@
     "name": "レットヴィモカプセル４０ｍｇ",
     "generic_name": "レットヴィモ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レットヴィモカプセル４０ｍｇ",
+        "kana": "ﾚｯﾄｳﾞｨﾓｶﾌﾟｾﾙ40MG"
+      }
+    ]
   },
   "indications": []
 }

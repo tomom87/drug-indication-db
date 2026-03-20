@@ -4,7 +4,12 @@
     "name": "メチルドパ錠　１２５ｍｇ",
     "generic_name": "メチルドパ",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メチルドパ錠　１２５ｍｇ",
+        "kana": "ﾒﾁﾙﾄﾞﾊﾟｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

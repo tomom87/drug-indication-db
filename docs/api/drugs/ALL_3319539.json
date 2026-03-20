@@ -4,7 +4,12 @@
     "name": "リンゲル液「オーツカ」　５００ｍＬ",
     "generic_name": "リン",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リンゲル液「オーツカ」　５００ｍＬ",
+        "kana": "ﾘﾝｹﾞﾙｴｷｵｰﾂｶ"
+      }
+    ]
   },
   "indications": []
 }

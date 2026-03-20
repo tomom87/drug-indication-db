@@ -4,7 +4,12 @@
     "name": "アリドネパッチ２７．５ｍｇ",
     "generic_name": "アリドネパッチ",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アリドネパッチ２７．５ｍｇ",
+        "kana": "ｱﾘﾄﾞﾈﾊﾟｯﾁ27.5MG"
+      }
+    ]
   },
   "indications": []
 }

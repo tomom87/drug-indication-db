@@ -4,7 +4,12 @@
     "name": "ゼスタッククリーム",
     "generic_name": "ゼスタック",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゼスタッククリーム",
+        "kana": "ｾﾞｽﾀｯｸｸﾘｰﾑ"
+      }
+    ]
   },
   "indications": []
 }

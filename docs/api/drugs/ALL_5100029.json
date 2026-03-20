@@ -4,7 +4,12 @@
     "name": "ウチダのガジュツＭ",
     "generic_name": "ウチダのガジュツＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのガジュツＭ",
+        "kana": "ｳﾁﾀﾞﾉｶﾞｼﾞｭﾂM"
+      }
+    ]
   },
   "indications": []
 }

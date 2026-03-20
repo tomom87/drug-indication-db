@@ -4,7 +4,12 @@
     "name": "ジゴシン散０．１％",
     "generic_name": "ジゴシン",
     "category": "強心薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジゴシン散０．１％",
+        "kana": "ｼﾞｺﾞｼﾝｻﾝ0.1%"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "リンコシン注射液３００ｍｇ　１ｍＬ",
     "generic_name": "リンコシン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "リンコシン注射液３００ｍｇ　１ｍＬ",
+        "kana": "ﾘﾝｺｼﾝﾁｭｳｼｬｴｷ300MG"
+      }
+    ]
   },
   "indications": []
 }

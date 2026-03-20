@@ -4,7 +4,12 @@
     "name": "ショウズク末",
     "generic_name": "ショウズク末",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ショウズク末",
+        "kana": "ｼｮｳｽﾞｸﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

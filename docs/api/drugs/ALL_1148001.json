@@ -4,7 +4,12 @@
     "name": "ソランタール錠１００ｍｇ",
     "generic_name": "ソランタール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソランタール錠１００ｍｇ",
+        "kana": "ｿﾗﾝﾀｰﾙｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

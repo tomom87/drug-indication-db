@@ -4,7 +4,12 @@
     "name": "トウモロコシデンプン",
     "generic_name": "トウモロコシデンプン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "トウモロコシデンプン",
+        "kana": "ﾄｳﾓﾛｺｼﾃﾞﾝﾌﾟﾝ"
+      }
+    ]
   },
   "indications": []
 }

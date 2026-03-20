@@ -4,7 +4,12 @@
     "name": "オイラックスクリーム１０％",
     "generic_name": "オイラックス",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オイラックスクリーム１０％",
+        "kana": "ｵｲﾗｯｸｽｸﾘｰﾑ10%"
+      }
+    ]
   },
   "indications": []
 }

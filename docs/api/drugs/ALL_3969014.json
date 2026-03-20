@@ -4,7 +4,12 @@
     "name": "トラゼンタ錠５ｍｇ",
     "generic_name": "トラゼンタ",
     "category": "糖尿病薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トラゼンタ錠５ｍｇ",
+        "kana": "ﾄﾗｾﾞﾝﾀｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

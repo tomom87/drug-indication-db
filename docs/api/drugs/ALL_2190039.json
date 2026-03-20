@@ -4,7 +4,12 @@
     "name": "コララン錠２．５ｍｇ",
     "generic_name": "コララン",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "コララン錠２．５ｍｇ",
+        "kana": "ｺﾗﾗﾝｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

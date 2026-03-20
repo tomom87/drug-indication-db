@@ -4,7 +4,12 @@
     "name": "塩酸「司生堂」",
     "generic_name": "塩酸「司生堂」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "塩酸「司生堂」",
+        "kana": "ｴﾝｻﾝｼｾｲﾄﾞｳ"
+      }
+    ]
   },
   "indications": []
 }

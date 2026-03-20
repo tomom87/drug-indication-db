@@ -4,7 +4,12 @@
     "name": "プラスチベース",
     "generic_name": "プラスチベース",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "プラスチベース",
+        "kana": "ﾌﾟﾗｽﾁﾍﾞｰｽ"
+      }
+    ]
   },
   "indications": []
 }

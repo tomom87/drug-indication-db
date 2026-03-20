@@ -4,7 +4,12 @@
     "name": "パンオピン皮下注２０ｍｇ　２％１ｍＬ",
     "generic_name": "パンオピン皮下",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "パンオピン皮下注２０ｍｇ　２％１ｍＬ",
+        "kana": "ﾊﾟﾝｵﾋﾟﾝﾋｶﾁｭｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

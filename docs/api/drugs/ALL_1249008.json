@@ -4,7 +4,12 @@
     "name": "アロフト錠２０ｍｇ",
     "generic_name": "アロフト",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アロフト錠２０ｍｇ",
+        "kana": "ｱﾛﾌﾄｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

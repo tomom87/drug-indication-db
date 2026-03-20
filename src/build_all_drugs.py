@@ -265,20 +265,33 @@ def build_all():
     c = conn.cursor()
 
     # 既存薬剤のYJコードを取得（手動キュレーション済み）
-    c.execute("SELECT yj_code FROM drug")
-    existing_yj = {row[0] for row in c.fetchall()}
+    c.execute("SELECT yj_code FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
+    curated_yj = {row[0] for row in c.fetchall()}
 
-    # 既存のindication yj_codesも取得
-    c.execute("SELECT DISTINCT yj_code FROM indication")
-    existing_indication_yj = {row[0] for row in c.fetchall()}
-
-    # 医薬品マスター全件パース
+    # キュレーション済み薬剤がカバーするYJ7桁を収集
+    curated_yj7 = set()
     iyakuhin = parse_iyakuhin()
     print(f"医薬品マスター: {len(iyakuhin)} 件")
 
+    # キュレーション済み薬剤の一般名でマスターを検索し、YJ7桁を収集
+    c.execute("SELECT yj_code, generic_name FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
+    curated_generics = {row[1]: row[0] for row in c.fetchall()}
+    for item in iyakuhin:
+        for gn in curated_generics:
+            if gn in item["name"]:
+                curated_yj7.add(item["yj_code"][:7])
+                break
+
+    print(f"キュレーション済みYJ7: {len(curated_yj7)}")
+
+    # 既存ALL_エントリを削除（重複分をクリーンアップ）
+    c.execute("DELETE FROM drug WHERE yj_code LIKE 'ALL_%'")
+    c.execute("DELETE FROM indication WHERE yj_code LIKE 'ALL_%'")
+    c.execute("DELETE FROM brand_name WHERE yj_code LIKE 'ALL_%'")
+    conn.commit()
+
     # YJコードの先頭7桁でグルーピング（同一成分の規格違いをまとめる）
     seen_yj7 = set()
-    new_drugs = []
     new_drug_count = 0
     new_indication_count = 0
 
@@ -288,10 +301,13 @@ def build_all():
             continue
         seen_yj7.add(yj7)
 
+        # キュレーション済み薬剤と同じYJ7桁ならスキップ
+        if yj7 in curated_yj7:
+            continue
+
         yakkou4 = item["yakkou4"]
         category_info = YAKKOU_MAP.get(yakkou4)
         if not category_info:
-            # 3桁でも試す
             category_info = YAKKOU_MAP.get(yakkou4[:3] + "0")
         if not category_info:
             category = "その他"
@@ -299,13 +315,8 @@ def build_all():
         else:
             category, byomei_names = category_info
 
-        # この薬剤の代表名
         generic = extract_generic_name(item["name"])
         yj_code = f"ALL_{yj7}"
-
-        # 既存の手動キュレーションデータと重複チェック
-        if yj_code in existing_yj:
-            continue
 
         # drug登録
         c.execute(

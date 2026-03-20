@@ -4,7 +4,12 @@
     "name": "オクソラレン錠１０ｍｇ",
     "generic_name": "オクソラレン",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オクソラレン錠１０ｍｇ",
+        "kana": "ｵｸｿﾗﾚﾝｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

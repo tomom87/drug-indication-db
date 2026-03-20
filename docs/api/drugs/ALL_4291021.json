@@ -4,7 +4,12 @@
     "name": "タシグナカプセル２００ｍｇ",
     "generic_name": "タシグナ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タシグナカプセル２００ｍｇ",
+        "kana": "ﾀｼｸﾞﾅｶﾌﾟｾﾙ200MG"
+      }
+    ]
   },
   "indications": []
 }

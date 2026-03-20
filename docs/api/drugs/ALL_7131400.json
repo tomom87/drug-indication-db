@@ -4,7 +4,12 @@
     "name": "注射用水　５００ｍＬ",
     "generic_name": "",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "注射用水　５００ｍＬ",
+        "kana": "ﾁｭｳｼｬﾖｳｽｲ"
+      }
+    ]
   },
   "indications": []
 }

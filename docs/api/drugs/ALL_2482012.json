@@ -4,7 +4,12 @@
     "name": "ジェミーナ配合錠",
     "generic_name": "ジェミーナ配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジェミーナ配合錠",
+        "kana": "ｼﾞｪﾐｰﾅﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

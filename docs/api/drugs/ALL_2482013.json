@@ -4,7 +4,12 @@
     "name": "アリッサ配合錠",
     "generic_name": "アリッサ配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アリッサ配合錠",
+        "kana": "ｱﾘｯｻﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

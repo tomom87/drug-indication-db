@@ -12,12 +12,6 @@
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123011",
-      "name": "アテノロール２５ｍｇ錠",
-      "generic_name": "アテノロール",
-      "category": "不整脈用薬"
-    },
-    {
       "yj_code": "ALL_2121400",
       "name": "アミサリン注１００ｍｇ　１０％１ｍＬ",
       "generic_name": "アミサリン",
@@ -30,26 +24,8 @@
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129410",
-      "name": "アンカロン注１５０　１５０ｍｇ３ｍＬ",
-      "generic_name": "アンカロン",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2129010",
-      "name": "アンカロン錠１００　１００ｍｇ",
-      "generic_name": "アンカロン",
-      "category": "不整脈用薬"
-    },
-    {
       "yj_code": "ALL_2123402",
       "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
-      "generic_name": "インデラル",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2123008",
-      "name": "インデラル錠１０ｍｇ",
       "generic_name": "インデラル",
       "category": "不整脈用薬"
     },
@@ -57,12 +33,6 @@
       "yj_code": "ALL_2123404",
       "name": "オノアクト点滴静注用５０ｍｇ",
       "generic_name": "オノアクト",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2129008",
-      "name": "サンリズムカプセル２５ｍｇ",
-      "generic_name": "サンリズム",
       "category": "不整脈用薬"
     },
     {
@@ -96,12 +66,6 @@
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129009",
-      "name": "タンボコール錠５０ｍｇ",
-      "generic_name": "タンボコール",
-      "category": "不整脈用薬"
-    },
-    {
       "yj_code": "ALL_2129406",
       "name": "タンボコール静注５０ｍｇ　５ｍＬ",
       "generic_name": "タンボコール静",
@@ -111,12 +75,6 @@
       "yj_code": "ALL_2123015",
       "name": "ナディック錠３０ｍｇ",
       "generic_name": "ナディック",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2123016",
-      "name": "ビソプロロールフマル酸塩５ｍｇ錠",
-      "generic_name": "ビソプロロールフマル酸塩",
       "category": "不整脈用薬"
     },
     {
@@ -183,12 +141,6 @@
       "yj_code": "ALL_2129409",
       "name": "リドカイン静注用２％シリンジ「テルモ」　５ｍＬ",
       "generic_name": "リドカイン静",
-      "category": "不整脈用薬"
-    },
-    {
-      "yj_code": "ALL_2129402",
-      "name": "ワソラン静注５ｍｇ　０．２５％２ｍＬ",
-      "generic_name": "ワソラン静",
       "category": "不整脈用薬"
     },
     {

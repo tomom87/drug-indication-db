@@ -4,7 +4,12 @@
     "name": "ノベルジン錠２５ｍｇ",
     "generic_name": "ノベルジン",
     "category": "酵素製剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ノベルジン錠２５ｍｇ",
+        "kana": "ﾉﾍﾞﾙｼﾞﾝｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

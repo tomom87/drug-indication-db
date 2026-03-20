@@ -4,7 +4,12 @@
     "name": "オークル錠１００ｍｇ",
     "generic_name": "オークル",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オークル錠１００ｍｇ",
+        "kana": "ｵｰｸﾙｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ウロカルン錠２２５ｍｇ",
     "generic_name": "ウロカルン",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウロカルン錠２２５ｍｇ",
+        "kana": "ｳﾛｶﾙﾝｼﾞｮｳ225MG"
+      }
+    ]
   },
   "indications": []
 }

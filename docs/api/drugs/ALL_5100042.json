@@ -4,7 +4,12 @@
     "name": "ウチダのキキョウＭ",
     "generic_name": "ウチダのキキョウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのキキョウＭ",
+        "kana": "ｳﾁﾀﾞﾉｷｷｮｳM"
+      }
+    ]
   },
   "indications": []
 }

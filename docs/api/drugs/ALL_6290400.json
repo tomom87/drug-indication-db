@@ -4,7 +4,12 @@
     "name": "フロリードＦ注２００ｍｇ　１％２０ｍＬ",
     "generic_name": "フロリードＦ",
     "category": "抗感染症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "フロリードＦ注２００ｍｇ　１％２０ｍＬ",
+        "kana": "ﾌﾛﾘｰﾄﾞFﾁｭｳ200MG"
+      }
+    ]
   },
   "indications": []
 }

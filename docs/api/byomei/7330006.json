@@ -24,18 +24,6 @@
       "category": "ビタミンD薬"
     },
     {
-      "yj_code": "ALL_3999019",
-      "name": "アクトネル錠２．５ｍｇ",
-      "generic_name": "アクトネル",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999005",
-      "name": "アザチオプリン錠　５０ｍｇ",
-      "generic_name": "アザチオプリン",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "ALL_3999472",
       "name": "アダリムマブＢＳ皮下注２０ｍｇシリンジ０．２ｍＬ「ＣＴＮＫ」",
       "generic_name": "アダリムマブＢＳ皮下",
@@ -186,12 +174,6 @@
       "category": "骨粗鬆症薬"
     },
     {
-      "yj_code": "ALL_3999021",
-      "name": "エビスタ錠６０ｍｇ",
-      "generic_name": "エビスタ",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "ALL_3999047",
       "name": "エベレンゾ錠２０ｍｇ",
       "generic_name": "エベレンゾ",
@@ -321,12 +303,6 @@
       "yj_code": "ALL_3999452",
       "name": "クリースビータ皮下注１０ｍｇ　１ｍＬ",
       "generic_name": "クリースビータ皮下",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999031",
-      "name": "ケアラム錠２５ｍｇ",
-      "generic_name": "ケアラム",
       "category": "骨粗鬆症薬"
     },
     {
@@ -486,12 +462,6 @@
       "category": "骨粗鬆症薬"
     },
     {
-      "yj_code": "ALL_3999423",
-      "name": "ゾメタ点滴静注４ｍｇ／５ｍＬ",
-      "generic_name": "ゾメタ",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "NAIKA_0228",
       "name": "ゾレドロン酸",
       "generic_name": "ゾレドロン酸",
@@ -519,18 +489,6 @@
       "yj_code": "ALL_3999454",
       "name": "ダルベポエチン　アルファＢＳ注５μｇシリンジ「三和」　０．５ｍＬ",
       "generic_name": "ダルベポエチン　アルファＢＳ",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999453",
-      "name": "ダルベポエチン　アルファＢＳ注５μｇシリンジＪＣＲ　０．５ｍＬ",
-      "generic_name": "ダルベポエチン　アルファＢＳ",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999455",
-      "name": "ダルベポエチンアルファＢＳ注射液５μｇシリンジＭＹＬ　０．５ｍＬ",
-      "generic_name": "ダルベポエチンアルファＢＳ",
       "category": "骨粗鬆症薬"
     },
     {
@@ -642,12 +600,6 @@
       "category": "骨粗鬆症薬"
     },
     {
-      "yj_code": "ALL_3999027",
-      "name": "ビビアント錠２０ｍｇ",
-      "generic_name": "ビビアント",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "ALL_3999464",
       "name": "ビンゼレックス皮下注１６０ｍｇシリンジ　１ｍＬ",
       "generic_name": "ビンゼレックス皮下",
@@ -690,18 +642,6 @@
       "category": "骨粗鬆症薬"
     },
     {
-      "yj_code": "ALL_3999038",
-      "name": "プラケニル錠２００ｍｇ",
-      "generic_name": "プラケニル",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999014",
-      "name": "プログラフカプセル０．５ｍｇ",
-      "generic_name": "プログラフ",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "ALL_3999416",
       "name": "プログラフ注射液２ｍｇ　０．４ｍＬ",
       "generic_name": "プログラフ",
@@ -729,24 +669,6 @@
       "yj_code": "ALL_3999465",
       "name": "ボックスゾゴ皮下注用０．４ｍｇ　（溶解液付）",
       "generic_name": "ボックスゾゴ皮下",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999419",
-      "name": "ボナロン点滴静注バッグ９００μｇ　１００ｍＬ",
-      "generic_name": "ボナロン",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999018",
-      "name": "ボナロン錠５ｍｇ",
-      "generic_name": "ボナロン",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999026",
-      "name": "ボノテオ錠１ｍｇ",
-      "generic_name": "ボノテオ",
       "category": "骨粗鬆症薬"
     },
     {
@@ -804,12 +726,6 @@
       "category": "骨粗鬆症薬"
     },
     {
-      "yj_code": "ALL_3999001",
-      "name": "モニラック原末",
-      "generic_name": "モニラック原末",
-      "category": "骨粗鬆症薬"
-    },
-    {
       "yj_code": "NAIKA_0226",
       "name": "ラロキシフェン",
       "generic_name": "ラロキシフェン",
@@ -819,12 +735,6 @@
       "yj_code": "ALL_3999435",
       "name": "ランマーク皮下注１２０ｍｇ　１．７ｍＬ",
       "generic_name": "ランマーク皮下",
-      "category": "骨粗鬆症薬"
-    },
-    {
-      "yj_code": "ALL_3999016",
-      "name": "リウマトレックスカプセル２ｍｇ",
-      "generic_name": "リウマトレックス",
       "category": "骨粗鬆症薬"
     },
     {

@@ -4,7 +4,12 @@
     "name": "ミチーガ皮下注用６０ｍｇシリンジ",
     "generic_name": "ミチーガ皮下",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミチーガ皮下注用６０ｍｇシリンジ",
+        "kana": "ﾐﾁｰｶﾞﾋｶﾁｭｳﾖｳ60MGｼﾘﾝｼ"
+      }
+    ]
   },
   "indications": []
 }

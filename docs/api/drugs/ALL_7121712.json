@@ -4,7 +4,12 @@
     "name": "ラッカセイ油",
     "generic_name": "ラッカセイ油",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ラッカセイ油",
+        "kana": "ﾗｯｶｾｲﾕ"
+      }
+    ]
   },
   "indications": []
 }

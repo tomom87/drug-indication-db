@@ -4,7 +4,12 @@
     "name": "グランダキシン錠５０　５０ｍｇ",
     "generic_name": "グランダキシン",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グランダキシン錠５０　５０ｍｇ",
+        "kana": "ｸﾞﾗﾝﾀﾞｷｼﾝｼﾞｮｳ50"
+      }
+    ]
   },
   "indications": [
     {

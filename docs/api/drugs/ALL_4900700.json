@@ -4,7 +4,12 @@
     "name": "バイジュベックゲル　２瓶",
     "generic_name": "バイジュベック",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バイジュベックゲル　２瓶",
+        "kana": "ﾊﾞｲｼﾞｭﾍﾞｯｸｹﾞﾙ"
+      }
+    ]
   },
   "indications": []
 }

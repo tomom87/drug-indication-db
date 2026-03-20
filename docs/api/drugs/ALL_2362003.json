@@ -4,7 +4,12 @@
     "name": "チノカプセル１２５　１２５ｍｇ",
     "generic_name": "チノ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "チノカプセル１２５　１２５ｍｇ",
+        "kana": "ﾁﾉｶﾌﾟｾﾙ125"
+      }
+    ]
   },
   "indications": []
 }

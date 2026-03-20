@@ -4,7 +4,12 @@
     "name": "三和黄ごん湯エキス細粒",
     "generic_name": "三和黄ごん湯エキス",
     "category": "漢方",
-    "brands": []
+    "brands": [
+      {
+        "name": "三和黄ごん湯エキス細粒",
+        "kana": "ｻﾝﾜｵｳｺﾞﾝﾄｳｴｷｽｻｲﾘｭｳ"
+      }
+    ]
   },
   "indications": []
 }

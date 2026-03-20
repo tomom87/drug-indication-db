@@ -4,7 +4,12 @@
     "name": "アレビアチン散１０％",
     "generic_name": "アレビアチン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アレビアチン散１０％",
+        "kana": "ｱﾚﾋﾞｱﾁﾝｻﾝ10%"
+      }
+    ]
   },
   "indications": []
 }

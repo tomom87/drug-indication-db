@@ -4,7 +4,12 @@
     "name": "バリトップＰ　９４．６％",
     "generic_name": "バリトップＰ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バリトップＰ　９４．６％",
+        "kana": "ﾊﾞﾘﾄｯﾌﾟP"
+      }
+    ]
   },
   "indications": []
 }

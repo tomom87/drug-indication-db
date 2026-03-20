@@ -4,7 +4,12 @@
     "name": "フロリードゲル経口用２％",
     "generic_name": "フロリード",
     "category": "抗感染症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "フロリードゲル経口用２％",
+        "kana": "ﾌﾛﾘｰﾄﾞｹﾞﾙｹｲｺｳﾖｳ2%"
+      }
+    ]
   },
   "indications": []
 }

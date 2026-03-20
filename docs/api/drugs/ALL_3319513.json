@@ -4,7 +4,12 @@
     "name": "ＫＮ３号輸液　２００ｍＬ",
     "generic_name": "ＫＮ３号輸",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ＫＮ３号輸液　２００ｍＬ",
+        "kana": "KN3ｺﾞｳﾕｴｷ"
+      }
+    ]
   },
   "indications": []
 }

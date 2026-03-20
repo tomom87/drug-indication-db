@@ -4,7 +4,12 @@
     "name": "セネガシロップ",
     "generic_name": "セネガ",
     "category": "去痰薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セネガシロップ",
+        "kana": "ｾﾈｶﾞｼﾛｯﾌﾟ"
+      }
+    ]
   },
   "indications": [
     {

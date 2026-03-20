@@ -4,7 +4,12 @@
     "name": "ビタミンＢ６散１０％「マルイシ」",
     "generic_name": "ビタミンＢ６",
     "category": "葉酸",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビタミンＢ６散１０％「マルイシ」",
+        "kana": "ﾋﾞﾀﾐﾝB6ｻﾝ10%ﾏﾙｲｼ"
+      }
+    ]
   },
   "indications": [
     {

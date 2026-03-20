@@ -4,7 +4,12 @@
     "name": "ウチダのリュウタンＭ",
     "generic_name": "ウチダのリュウタンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのリュウタンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾘｭｳﾀﾝM"
+      }
+    ]
   },
   "indications": []
 }

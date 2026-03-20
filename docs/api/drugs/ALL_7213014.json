@@ -4,7 +4,12 @@
     "name": "バロス発泡顆粒－Ｓ",
     "generic_name": "バロス発泡",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バロス発泡顆粒－Ｓ",
+        "kana": "ﾊﾞﾛｽﾊｯﾎﾟｳｶﾘｭｳ-S"
+      }
+    ]
   },
   "indications": []
 }

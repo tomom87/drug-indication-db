@@ -4,7 +4,12 @@
     "name": "ハロマンス注５０ｍｇ　１ｍＬ",
     "generic_name": "ハロマンス",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハロマンス注５０ｍｇ　１ｍＬ",
+        "kana": "ﾊﾛﾏﾝｽﾁｭｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

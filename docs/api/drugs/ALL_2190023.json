@@ -4,7 +4,12 @@
     "name": "ミグシス錠５ｍｇ",
     "generic_name": "ミグシス",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミグシス錠５ｍｇ",
+        "kana": "ﾐｸﾞｼｽｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

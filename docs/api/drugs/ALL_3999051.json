@@ -4,7 +4,12 @@
     "name": "メーゼント錠０．２５ｍｇ",
     "generic_name": "メーゼント",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メーゼント錠０．２５ｍｇ",
+        "kana": "ﾒｰｾﾞﾝﾄｼﾞｮｳ0.25MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "芳香散（鈴粉末）",
     "generic_name": "芳香",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "芳香散（鈴粉末）",
+        "kana": "ﾎｳｺｳｻﾝｽｽﾞﾌﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

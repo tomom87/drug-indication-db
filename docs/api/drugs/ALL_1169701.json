@@ -4,7 +4,12 @@
     "name": "ハルロピテープ８ｍｇ",
     "generic_name": "ハルロピ",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハルロピテープ８ｍｇ",
+        "kana": "ﾊﾙﾛﾋﾟﾃｰﾌﾟ8MG"
+      }
+    ]
   },
   "indications": [
     {

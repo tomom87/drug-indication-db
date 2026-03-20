@@ -4,7 +4,12 @@
     "name": "バリキサ錠４５０ｍｇ",
     "generic_name": "バリキサ",
     "category": "抗真菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バリキサ錠４５０ｍｇ",
+        "kana": "ﾊﾞﾘｷｻｼﾞｮｳ450MG"
+      }
+    ]
   },
   "indications": [
     {

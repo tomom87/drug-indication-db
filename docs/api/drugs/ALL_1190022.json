@@ -4,7 +4,12 @@
     "name": "レグテクト錠３３３ｍｇ",
     "generic_name": "レグテクト",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レグテクト錠３３３ｍｇ",
+        "kana": "ﾚｸﾞﾃｸﾄｼﾞｮｳ333MG"
+      }
+    ]
   },
   "indications": []
 }

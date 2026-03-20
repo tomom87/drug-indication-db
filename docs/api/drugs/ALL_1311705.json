@@ -4,7 +4,12 @@
     "name": "ミドリンＭ点眼液０．４％",
     "generic_name": "ミドリンＭ",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミドリンＭ点眼液０．４％",
+        "kana": "ﾐﾄﾞﾘﾝMﾃﾝｶﾞﾝｴｷ0.4%"
+      }
+    ]
   },
   "indications": []
 }

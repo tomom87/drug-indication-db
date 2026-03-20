@@ -4,7 +4,12 @@
     "name": "ウレパールクリーム１０％",
     "generic_name": "ウレパール",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウレパールクリーム１０％",
+        "kana": "ｳﾚﾊﾟｰﾙｸﾘｰﾑ10%"
+      }
+    ]
   },
   "indications": []
 }

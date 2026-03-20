@@ -4,7 +4,12 @@
     "name": "アモバルビタール",
     "generic_name": "アモバルビタール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アモバルビタール",
+        "kana": "ｱﾓﾊﾞﾙﾋﾞﾀｰﾙ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ソルダクトン静注用１００ｍｇ",
     "generic_name": "ソルダクトン静",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソルダクトン静注用１００ｍｇ",
+        "kana": "ｿﾙﾀﾞｸﾄﾝｼﾞｮｳﾁｭｳﾖｳ100M"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ボルタレンローション１％",
     "generic_name": "ボルタレンローション",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボルタレンローション１％",
+        "kana": "ﾎﾞﾙﾀﾚﾝﾛｰｼｮﾝ1%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "消毒用昭和アルコール",
     "generic_name": "消毒用昭和アルコール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "消毒用昭和アルコール",
+        "kana": "ｼｮｳﾄﾞｸﾖｳｼｮｳﾜｱﾙｺｰﾙ"
+      }
+    ]
   },
   "indications": []
 }

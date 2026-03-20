@@ -4,7 +4,12 @@
     "name": "サリチル酸「ケンエー」",
     "generic_name": "サリチル酸「ケンエー」",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サリチル酸「ケンエー」",
+        "kana": "ｻﾘﾁﾙｻﾝｹﾝｴｰ"
+      }
+    ]
   },
   "indications": []
 }

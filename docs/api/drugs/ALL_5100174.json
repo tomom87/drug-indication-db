@@ -4,7 +4,12 @@
     "name": "花扇モッカＫ",
     "generic_name": "花扇モッカＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇モッカＫ",
+        "kana": "ﾊﾅｵｳｷﾞﾓｯｶK"
+      }
+    ]
   },
   "indications": []
 }

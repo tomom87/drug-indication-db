@@ -4,7 +4,12 @@
     "name": "バレオン錠２００ｍｇ",
     "generic_name": "バレオン",
     "category": "抗ウイルス薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バレオン錠２００ｍｇ",
+        "kana": "ﾊﾞﾚｵﾝｼﾞｮｳ200MG"
+      }
+    ]
   },
   "indications": []
 }

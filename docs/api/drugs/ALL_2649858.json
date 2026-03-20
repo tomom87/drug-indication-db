@@ -4,7 +4,12 @@
     "name": "スチックゼノールＡ",
     "generic_name": "スチックゼノールＡ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "スチックゼノールＡ",
+        "kana": "ｽﾁｯｸｾﾞﾉｰﾙA"
+      }
+    ]
   },
   "indications": []
 }

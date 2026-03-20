@@ -4,7 +4,12 @@
     "name": "ウチダのブクリョウＭ",
     "generic_name": "ウチダのブクリョウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのブクリョウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾌﾞｸﾘｮｳM"
+      }
+    ]
   },
   "indications": []
 }

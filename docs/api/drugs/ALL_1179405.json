@@ -4,7 +4,12 @@
     "name": "トロペロン注４ｍｇ　２ｍＬ",
     "generic_name": "トロペロン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トロペロン注４ｍｇ　２ｍＬ",
+        "kana": "ﾄﾛﾍﾟﾛﾝﾁｭｳ4MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アヘン散　１０％",
     "generic_name": "アヘン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アヘン散　１０％",
+        "kana": "ｱﾍﾝｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アスパラカリウム散５０％",
     "generic_name": "アスパラカリウム",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "アスパラカリウム散５０％",
+        "kana": "ｱｽﾊﾟﾗｶﾘｳﾑｻﾝ50%"
+      }
+    ]
   },
   "indications": [
     {

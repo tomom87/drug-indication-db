@@ -4,7 +4,12 @@
     "name": "センブリ・重曹散",
     "generic_name": "センブリ・重曹",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "センブリ・重曹散",
+        "kana": "ｾﾝﾌﾞﾘｼﾞｭｳｿｳｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

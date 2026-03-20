@@ -4,7 +4,12 @@
     "name": "ツムラの生薬シンイ",
     "generic_name": "ツムラの生薬シンイ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラの生薬シンイ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸｼﾝｲ"
+      }
+    ]
   },
   "indications": []
 }

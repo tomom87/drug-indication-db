@@ -4,7 +4,12 @@
     "name": "花扇ジコッピＫ",
     "generic_name": "花扇ジコッピＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇ジコッピＫ",
+        "kana": "ﾊﾅｵｳｷﾞｼﾞｺｯﾋﾟK"
+      }
+    ]
   },
   "indications": []
 }

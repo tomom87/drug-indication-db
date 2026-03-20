@@ -4,7 +4,12 @@
     "name": "ミノアレ散６６．７％",
     "generic_name": "ミノアレ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミノアレ散６６．７％",
+        "kana": "ﾐﾉｱﾚｻﾝ66.7%"
+      }
+    ]
   },
   "indications": []
 }

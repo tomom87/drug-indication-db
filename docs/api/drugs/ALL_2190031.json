@@ -4,7 +4,12 @@
     "name": "ヴォリブリス錠２．５ｍｇ",
     "generic_name": "ヴォリブリス",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヴォリブリス錠２．５ｍｇ",
+        "kana": "ｳﾞｫﾘﾌﾞﾘｽｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

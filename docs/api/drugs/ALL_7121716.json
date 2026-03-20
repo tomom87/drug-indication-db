@@ -4,7 +4,12 @@
     "name": "パラフィン",
     "generic_name": "パラフィン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "パラフィン",
+        "kana": "ﾊﾟﾗﾌｨﾝ"
+      }
+    ]
   },
   "indications": []
 }

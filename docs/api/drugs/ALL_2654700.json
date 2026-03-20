@@ -4,7 +4,12 @@
     "name": "モクタール",
     "generic_name": "モクタール",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "モクタール",
+        "kana": "ﾓｸﾀｰﾙ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アミノレバンＥＮ配合散",
     "generic_name": "アミノレバンＥＮ配合",
     "category": "代謝用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アミノレバンＥＮ配合散",
+        "kana": "ｱﾐﾉﾚﾊﾞﾝENﾊｲｺﾞｳｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

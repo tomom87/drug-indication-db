@@ -4,7 +4,12 @@
     "name": "ランデル錠４０　４０ｍｇ",
     "generic_name": "ランデル",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ランデル錠４０　４０ｍｇ",
+        "kana": "ﾗﾝﾃﾞﾙｼﾞｮｳ40"
+      }
+    ]
   },
   "indications": [
     {

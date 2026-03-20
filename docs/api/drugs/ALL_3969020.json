@@ -4,7 +4,12 @@
     "name": "ルセフィ錠２．５ｍｇ",
     "generic_name": "ルセフィ",
     "category": "糖尿病薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルセフィ錠２．５ｍｇ",
+        "kana": "ﾙｾﾌｨｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ハイボン錠２０ｍｇ",
     "generic_name": "ハイボン",
     "category": "ビタミンB薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハイボン錠２０ｍｇ",
+        "kana": "ﾊｲﾎﾞﾝｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

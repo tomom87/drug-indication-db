@@ -4,7 +4,12 @@
     "name": "ポララミン注５ｍｇ　０．５％１ｍＬ",
     "generic_name": "ポララミン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ポララミン注５ｍｇ　０．５％１ｍＬ",
+        "kana": "ﾎﾟﾗﾗﾐﾝﾁｭｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

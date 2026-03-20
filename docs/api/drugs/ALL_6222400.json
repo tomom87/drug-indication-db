@@ -4,7 +4,12 @@
     "name": "イスコチン注１００ｍｇ",
     "generic_name": "イスコチン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "イスコチン注１００ｍｇ",
+        "kana": "ｲｽｺﾁﾝﾁｭｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

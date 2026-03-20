@@ -4,7 +4,12 @@
     "name": "デムサーカプセル２５０ｍｇ",
     "generic_name": "デムサー",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "デムサーカプセル２５０ｍｇ",
+        "kana": "ﾃﾞﾑｻｰｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": []
 }

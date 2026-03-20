@@ -4,7 +4,12 @@
     "name": "パンデルクリーム０．１％",
     "generic_name": "パンデル",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "パンデルクリーム０．１％",
+        "kana": "ﾊﾟﾝﾃﾞﾙｸﾘｰﾑ0.1%"
+      }
+    ]
   },
   "indications": [
     {

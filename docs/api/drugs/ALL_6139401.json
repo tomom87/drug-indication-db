@@ -4,7 +4,12 @@
     "name": "オメガシン点滴用０．３ｇ　３００ｍｇ",
     "generic_name": "オメガシン",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オメガシン点滴用０．３ｇ　３００ｍｇ",
+        "kana": "ｵﾒｶﾞｼﾝﾃﾝﾃｷﾖｳ0.3G"
+      }
+    ]
   },
   "indications": [
     {

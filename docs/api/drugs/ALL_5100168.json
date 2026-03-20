@@ -4,7 +4,12 @@
     "name": "ウチダのボタンピＭ",
     "generic_name": "ウチダのボタンピＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのボタンピＭ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞﾀﾝﾋﾟM"
+      }
+    ]
   },
   "indications": []
 }

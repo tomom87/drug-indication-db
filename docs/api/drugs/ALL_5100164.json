@@ -4,7 +4,12 @@
     "name": "ウチダのボウコンＭ",
     "generic_name": "ウチダのボウコンＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのボウコンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞｳｺﾝM"
+      }
+    ]
   },
   "indications": []
 }

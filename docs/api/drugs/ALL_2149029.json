@@ -4,7 +4,12 @@
     "name": "セレクトール錠１００ｍｇ",
     "generic_name": "セレクトール",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セレクトール錠１００ｍｇ",
+        "kana": "ｾﾚｸﾄｰﾙｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "レズロック錠２００ｍｇ",
     "generic_name": "レズロック",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レズロック錠２００ｍｇ",
+        "kana": "ﾚｽﾞﾛｯｸｼﾞｮｳ200MG"
+      }
+    ]
   },
   "indications": [
     {

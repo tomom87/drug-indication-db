@@ -4,7 +4,12 @@
     "name": "ソルラクトＳ輸液　２５０ｍＬ",
     "generic_name": "ソルラクトＳ輸",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソルラクトＳ輸液　２５０ｍＬ",
+        "kana": "ｿﾙﾗｸﾄSﾕｴｷ"
+      }
+    ]
   },
   "indications": []
 }

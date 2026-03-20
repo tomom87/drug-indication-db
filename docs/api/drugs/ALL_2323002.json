@@ -4,7 +4,12 @@
     "name": "アズロキサ顆粒２．５％",
     "generic_name": "アズロキサ",
     "category": "消化酵素薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アズロキサ顆粒２．５％",
+        "kana": "ｱｽﾞﾛｷｻｶﾘｭｳ2.5%"
+      }
+    ]
   },
   "indications": [
     {

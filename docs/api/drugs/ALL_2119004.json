@@ -4,7 +4,12 @@
     "name": "カルグート錠５　５ｍｇ",
     "generic_name": "カルグート",
     "category": "強心薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カルグート錠５　５ｍｇ",
+        "kana": "ｶﾙｸﾞｰﾄｼﾞｮｳ5"
+      }
+    ]
   },
   "indications": [
     {

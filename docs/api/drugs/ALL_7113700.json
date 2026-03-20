@@ -4,7 +4,12 @@
     "name": "タルク「ケンエー」",
     "generic_name": "タルク「ケンエー」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "タルク「ケンエー」",
+        "kana": "ﾀﾙｸｹﾝｴｰ"
+      }
+    ]
   },
   "indications": []
 }

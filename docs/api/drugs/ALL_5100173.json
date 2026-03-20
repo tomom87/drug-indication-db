@@ -4,7 +4,12 @@
     "name": "ウチダのモクツウＭ",
     "generic_name": "ウチダのモクツウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのモクツウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾓｸﾂｳM"
+      }
+    ]
   },
   "indications": []
 }

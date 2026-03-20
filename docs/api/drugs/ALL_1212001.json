@@ -4,7 +4,12 @@
     "name": "アミノ安息香酸エチル",
     "generic_name": "アミノ安息香酸エチル",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アミノ安息香酸エチル",
+        "kana": "ｱﾐﾉｱﾝｿｸｺｳｻﾝｴﾁﾙ"
+      }
+    ]
   },
   "indications": []
 }

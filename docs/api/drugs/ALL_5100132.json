@@ -4,7 +4,12 @@
     "name": "テンナンショウ",
     "generic_name": "テンナンショウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "テンナンショウ",
+        "kana": "ﾃﾝﾅﾝｼｮｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ロナセンテープ２０ｍｇ",
     "generic_name": "ロナセン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロナセンテープ２０ｍｇ",
+        "kana": "ﾛﾅｾﾝﾃｰﾌﾟ20MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "オルケディア錠１ｍｇ",
     "generic_name": "オルケディア",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オルケディア錠１ｍｇ",
+        "kana": "ｵﾙｹﾃﾞｨｱｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ツムラ紫雲膏",
     "generic_name": "ツムラ紫雲膏",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラ紫雲膏",
+        "kana": "ﾂﾑﾗｼｳﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -54,12 +54,6 @@
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189017",
-      "name": "クレストール錠２．５ｍｇ",
-      "generic_name": "クレストール",
-      "category": "脂質異常症薬"
-    },
-    {
       "yj_code": "ALL_2183002",
       "name": "クロフィブラートカプセル　２５０ｍｇ",
       "generic_name": "クロフィブラート",
@@ -81,12 +75,6 @@
       "yj_code": "ALL_2189020",
       "name": "ジャクスタピッドカプセル５ｍｇ",
       "generic_name": "ジャクスタピッド",
-      "category": "脂質異常症薬"
-    },
-    {
-      "yj_code": "ALL_2189018",
-      "name": "ゼチーア錠１０ｍｇ",
-      "generic_name": "ゼチーア",
       "category": "脂質異常症薬"
     },
     {
@@ -120,12 +108,6 @@
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2183005",
-      "name": "ベザトールＳＲ錠１００ｍｇ",
-      "generic_name": "ベザトールＳＲ",
-      "category": "脂質異常症薬"
-    },
-    {
       "yj_code": "NAIKA_0031",
       "name": "ベザフィブラート",
       "generic_name": "ベザフィブラート",
@@ -138,39 +120,9 @@
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189010",
-      "name": "メバロチン細粒０．５％",
-      "generic_name": "メバロチン",
-      "category": "脂質異常症薬"
-    },
-    {
       "yj_code": "ALL_2189103",
       "name": "リバゼブ配合錠ＬＤ",
       "generic_name": "リバゼブ配合",
-      "category": "脂質異常症薬"
-    },
-    {
-      "yj_code": "ALL_2189016",
-      "name": "リバロ錠１ｍｇ",
-      "generic_name": "リバロ",
-      "category": "脂質異常症薬"
-    },
-    {
-      "yj_code": "ALL_2183006",
-      "name": "リピディル錠５３．３ｍｇ",
-      "generic_name": "リピディル",
-      "category": "脂質異常症薬"
-    },
-    {
-      "yj_code": "ALL_2189015",
-      "name": "リピトール錠５ｍｇ",
-      "generic_name": "リピトール",
-      "category": "脂質異常症薬"
-    },
-    {
-      "yj_code": "ALL_2189011",
-      "name": "リポバス錠１０　１０ｍｇ",
-      "generic_name": "リポバス",
       "category": "脂質異常症薬"
     },
     {

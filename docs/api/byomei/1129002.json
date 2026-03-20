@@ -174,12 +174,6 @@
       "category": "抗真菌薬"
     },
     {
-      "yj_code": "ALL_6250021",
-      "name": "タミフルカプセル７５　７５ｍｇ",
-      "generic_name": "タミフル",
-      "category": "抗真菌薬"
-    },
-    {
       "yj_code": "ALL_6250103",
       "name": "ツルバダ配合錠",
       "generic_name": "ツルバダ配合",
@@ -234,21 +228,9 @@
       "category": "抗真菌薬"
     },
     {
-      "yj_code": "ALL_6250029",
-      "name": "バラクルード錠０．５ｍｇ",
-      "generic_name": "バラクルード",
-      "category": "抗真菌薬"
-    },
-    {
       "yj_code": "ALL_6250025",
       "name": "バリキサ錠４５０ｍｇ",
       "generic_name": "バリキサ",
-      "category": "抗真菌薬"
-    },
-    {
-      "yj_code": "ALL_6250019",
-      "name": "バルトレックス錠５００　５００ｍｇ",
-      "generic_name": "バルトレックス",
       "category": "抗真菌薬"
     },
     {

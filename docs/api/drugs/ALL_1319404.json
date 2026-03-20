@@ -4,7 +4,12 @@
     "name": "マキュエイド眼注用４０ｍｇ",
     "generic_name": "マキュエイド眼",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "マキュエイド眼注用４０ｍｇ",
+        "kana": "ﾏｷｭｴｲﾄﾞｶﾞﾝﾁｭｳﾖｳ40MG"
+      }
+    ]
   },
   "indications": []
 }

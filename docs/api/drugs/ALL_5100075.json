@@ -4,7 +4,12 @@
     "name": "ウチダのサイコＭ",
     "generic_name": "ウチダのサイコＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのサイコＭ",
+        "kana": "ｳﾁﾀﾞﾉｻｲｺM"
+      }
+    ]
   },
   "indications": []
 }

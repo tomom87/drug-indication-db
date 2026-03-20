@@ -4,7 +4,12 @@
     "name": "セタネオ点眼液０．００２％",
     "generic_name": "セタネオ",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セタネオ点眼液０．００２％",
+        "kana": "ｾﾀﾈｵﾃﾝｶﾞﾝｴｷ0.002%"
+      }
+    ]
   },
   "indications": []
 }

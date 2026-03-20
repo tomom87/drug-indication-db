@@ -4,7 +4,12 @@
     "name": "ケタラール筋注用５００ｍｇ　１０ｍＬ",
     "generic_name": "ケタラール筋",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ケタラール筋注用５００ｍｇ　１０ｍＬ",
+        "kana": "ｹﾀﾗｰﾙｷﾝﾁｭｳﾖｳ500MG"
+      }
+    ]
   },
   "indications": []
 }

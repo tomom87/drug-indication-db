@@ -4,7 +4,12 @@
     "name": "エネマスター注腸散　９８．１％",
     "generic_name": "エネマスター",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "エネマスター注腸散　９８．１％",
+        "kana": "ｴﾈﾏｽﾀｰﾁｭｳﾁｮｳｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

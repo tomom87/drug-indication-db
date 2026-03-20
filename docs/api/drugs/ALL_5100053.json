@@ -4,7 +4,12 @@
     "name": "トチモトのクコヨウ",
     "generic_name": "トチモトのクコヨウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのクコヨウ",
+        "kana": "ﾄﾁﾓﾄﾉｸｺﾖｳ"
+      }
+    ]
   },
   "indications": []
 }

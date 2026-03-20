@@ -4,7 +4,12 @@
     "name": "ポンタールカプセル２５０ｍｇ",
     "generic_name": "ポンタール",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ポンタールカプセル２５０ｍｇ",
+        "kana": "ﾎﾟﾝﾀｰﾙｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": [
     {

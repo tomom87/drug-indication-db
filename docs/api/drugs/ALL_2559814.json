@@ -4,7 +4,12 @@
     "name": "ネイサート坐剤",
     "generic_name": "ネイサート",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネイサート坐剤",
+        "kana": "ﾈｲｻｰﾄｻﾞｻﾞｲ"
+      }
+    ]
   },
   "indications": []
 }

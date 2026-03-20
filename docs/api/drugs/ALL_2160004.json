@@ -4,7 +4,12 @@
     "name": "ゾーミッグ錠２．５ｍｇ",
     "generic_name": "ゾーミッグ",
     "category": "血管拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゾーミッグ錠２．５ｍｇ",
+        "kana": "ｿﾞｰﾐｯｸﾞｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": [
     {

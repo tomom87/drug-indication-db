@@ -4,7 +4,12 @@
     "name": "アベロックス錠４００ｍｇ",
     "generic_name": "アベロックス",
     "category": "抗ウイルス薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アベロックス錠４００ｍｇ",
+        "kana": "ｱﾍﾞﾛｯｸｽｼﾞｮｳ400MG"
+      }
+    ]
   },
   "indications": []
 }

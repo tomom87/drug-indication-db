@@ -4,7 +4,12 @@
     "name": "アトニン－Ｏ注１単位",
     "generic_name": "アトニン－Ｏ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アトニン－Ｏ注１単位",
+        "kana": "ｱﾄﾆﾝ-Oﾁｭｳ1ﾀﾝｲ"
+      }
+    ]
   },
   "indications": []
 }

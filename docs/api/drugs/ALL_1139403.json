@@ -4,7 +4,12 @@
     "name": "ロラピタ静注２ｍｇ　１ｍＬ",
     "generic_name": "ロラピタ静",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロラピタ静注２ｍｇ　１ｍＬ",
+        "kana": "ﾛﾗﾋﾟﾀｼﾞｮｳﾁｭｳ2MG"
+      }
+    ]
   },
   "indications": [
     {

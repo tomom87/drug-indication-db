@@ -4,7 +4,12 @@
     "name": "ダイビタミックス注　２ｍＬ",
     "generic_name": "ダイビタミックス",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ダイビタミックス注　２ｍＬ",
+        "kana": "ﾀﾞｲﾋﾞﾀﾐｯｸｽﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

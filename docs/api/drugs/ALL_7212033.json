@@ -4,7 +4,12 @@
     "name": "バリコンクＭＸ　９９．４％",
     "generic_name": "バリコンクＭＸ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バリコンクＭＸ　９９．４％",
+        "kana": "ﾊﾞﾘｺﾝｸMX"
+      }
+    ]
   },
   "indications": []
 }

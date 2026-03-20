@@ -4,7 +4,12 @@
     "name": "エンブレル皮下注用２５ｍｇ",
     "generic_name": "エンブレル皮下",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エンブレル皮下注用２５ｍｇ",
+        "kana": "ｴﾝﾌﾞﾚﾙﾋｶﾁｭｳﾖｳ25MG"
+      }
+    ]
   },
   "indications": [
     {

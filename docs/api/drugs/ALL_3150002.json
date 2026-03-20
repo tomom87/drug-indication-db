@@ -4,7 +4,12 @@
     "name": "ユベラ錠５０ｍｇ",
     "generic_name": "ユベラ",
     "category": "ビタミンD薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ユベラ錠５０ｍｇ",
+        "kana": "ﾕﾍﾞﾗｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

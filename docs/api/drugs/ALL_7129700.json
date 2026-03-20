@@ -4,7 +4,12 @@
     "name": "ベントナイト",
     "generic_name": "ベントナイト",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベントナイト",
+        "kana": "ﾍﾞﾝﾄﾅｲﾄ"
+      }
+    ]
   },
   "indications": []
 }

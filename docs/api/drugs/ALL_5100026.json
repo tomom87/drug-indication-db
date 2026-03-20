@@ -4,7 +4,12 @@
     "name": "ウチダのカゴソウＭ",
     "generic_name": "ウチダのカゴソウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのカゴソウＭ",
+        "kana": "ｳﾁﾀﾞﾉｶｺﾞｿｳM"
+      }
+    ]
   },
   "indications": []
 }

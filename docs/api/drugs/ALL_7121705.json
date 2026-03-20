@@ -4,7 +4,12 @@
     "name": "カカオ脂",
     "generic_name": "カカオ脂",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "カカオ脂",
+        "kana": "ｶｶｵｼ"
+      }
+    ]
   },
   "indications": []
 }

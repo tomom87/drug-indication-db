@@ -4,7 +4,12 @@
     "name": "ベタナミン錠２５ｍｇ",
     "generic_name": "ベタナミン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベタナミン錠２５ｍｇ",
+        "kana": "ﾍﾞﾀﾅﾐﾝｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

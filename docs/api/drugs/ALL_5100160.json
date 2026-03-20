@@ -4,7 +4,12 @@
     "name": "ウチダのビンロウジＭ",
     "generic_name": "ウチダのビンロウジＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのビンロウジＭ",
+        "kana": "ｳﾁﾀﾞﾉﾋﾞﾝﾛｳｼﾞM"
+      }
+    ]
   },
   "indications": []
 }

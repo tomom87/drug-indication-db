@@ -4,7 +4,12 @@
     "name": "タグリッソ錠４０ｍｇ",
     "generic_name": "タグリッソ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タグリッソ錠４０ｍｇ",
+        "kana": "ﾀｸﾞﾘｯｿｼﾞｮｳ40MG"
+      }
+    ]
   },
   "indications": []
 }

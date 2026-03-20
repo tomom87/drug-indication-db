@@ -4,7 +4,12 @@
     "name": "ハイドレアカプセル５００ｍｇ",
     "generic_name": "ハイドレア",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハイドレアカプセル５００ｍｇ",
+        "kana": "ﾊｲﾄﾞﾚｱｶﾌﾟｾﾙ500MG"
+      }
+    ]
   },
   "indications": []
 }

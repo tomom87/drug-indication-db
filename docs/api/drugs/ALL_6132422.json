@@ -4,7 +4,12 @@
     "name": "メイセリン静注用１ｇ",
     "generic_name": "メイセリン静",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メイセリン静注用１ｇ",
+        "kana": "ﾒｲｾﾘﾝｼﾞｮｳﾁｭｳﾖｳ1G"
+      }
+    ]
   },
   "indications": [
     {

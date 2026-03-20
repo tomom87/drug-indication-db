@@ -4,7 +4,12 @@
     "name": "メンドンカプセル７．５ｍｇ",
     "generic_name": "メンドン",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メンドンカプセル７．５ｍｇ",
+        "kana": "ﾒﾝﾄﾞﾝｶﾌﾟｾﾙ7.5MG"
+      }
+    ]
   },
   "indications": [
     {

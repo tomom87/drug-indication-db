@@ -4,7 +4,12 @@
     "name": "ウチダの炮附子",
     "generic_name": "ウチダの炮附子",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダの炮附子",
+        "kana": "ｳﾁﾀﾞﾉﾎｳﾌﾞｼ"
+      }
+    ]
   },
   "indications": []
 }

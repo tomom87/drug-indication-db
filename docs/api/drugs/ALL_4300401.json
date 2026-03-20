@@ -4,7 +4,12 @@
     "name": "テクネＤＭＳＡキット",
     "generic_name": "テクネＤＭＳＡキット",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "テクネＤＭＳＡキット",
+        "kana": "ﾃｸﾈDMSAｷｯﾄ"
+      }
+    ]
   },
   "indications": []
 }

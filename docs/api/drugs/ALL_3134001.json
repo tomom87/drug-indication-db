@@ -4,7 +4,12 @@
     "name": "ピリドキシン塩酸塩",
     "generic_name": "ピリドキシン塩酸塩",
     "category": "葉酸",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピリドキシン塩酸塩",
+        "kana": "ﾋﾟﾘﾄﾞｷｼﾝｴﾝｻﾝｴﾝ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ベストン糖衣錠（２５ｍｇ）",
     "generic_name": "ベストン糖衣",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベストン糖衣錠（２５ｍｇ）",
+        "kana": "ﾍﾞｽﾄﾝﾄｳｲｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

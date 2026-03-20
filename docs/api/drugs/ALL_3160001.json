@@ -4,7 +4,12 @@
     "name": "カチーフＮ散１０ｍｇ／ｇ　１％",
     "generic_name": "カチーフＮ",
     "category": "ビタミンE薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カチーフＮ散１０ｍｇ／ｇ　１％",
+        "kana": "ｶﾁｰﾌNｻﾝ10MG/G"
+      }
+    ]
   },
   "indications": []
 }

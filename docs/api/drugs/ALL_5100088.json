@@ -4,7 +4,12 @@
     "name": "シオン",
     "generic_name": "シオン",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "シオン",
+        "kana": "ｼｵﾝ"
+      }
+    ]
   },
   "indications": []
 }

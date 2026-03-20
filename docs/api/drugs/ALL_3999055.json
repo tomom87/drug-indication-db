@@ -4,7 +4,12 @@
     "name": "マスーレッド錠５ｍｇ",
     "generic_name": "マスーレッド",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "マスーレッド錠５ｍｇ",
+        "kana": "ﾏｽｰﾚｯﾄﾞｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

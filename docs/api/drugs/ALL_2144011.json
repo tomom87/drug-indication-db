@@ -4,7 +4,12 @@
     "name": "オドリック錠０．５ｍｇ",
     "generic_name": "オドリック",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オドリック錠０．５ｍｇ",
+        "kana": "ｵﾄﾞﾘｯｸｼﾞｮｳ0.5MG"
+      }
+    ]
   },
   "indications": [
     {

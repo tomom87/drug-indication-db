@@ -4,7 +4,12 @@
     "name": "ビタノイリンカプセル２５",
     "generic_name": "ビタノイリン",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビタノイリンカプセル２５",
+        "kana": "ﾋﾞﾀﾉｲﾘﾝｶﾌﾟｾﾙ25"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アセレンド注１００μｇ　２ｍＬ",
     "generic_name": "アセレンド",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "アセレンド注１００μｇ　２ｍＬ",
+        "kana": "ｱｾﾚﾝﾄﾞﾁｭｳ100ﾏｲｸﾛG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "マイスタン錠５ｍｇ",
     "generic_name": "マイスタン",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "マイスタン錠５ｍｇ",
+        "kana": "ﾏｲｽﾀﾝｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

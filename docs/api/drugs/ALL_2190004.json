@@ -4,7 +4,12 @@
     "name": "ガンマロン錠２５０ｍｇ",
     "generic_name": "ガンマロン",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ガンマロン錠２５０ｍｇ",
+        "kana": "ｶﾞﾝﾏﾛﾝｼﾞｮｳ250MG"
+      }
+    ]
   },
   "indications": []
 }

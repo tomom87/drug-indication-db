@@ -4,7 +4,12 @@
     "name": "ボチシート２０％",
     "generic_name": "ボチシート",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボチシート２０％",
+        "kana": "ﾎﾞﾁｼｰﾄ20%"
+      }
+    ]
   },
   "indications": []
 }

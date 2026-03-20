@@ -4,7 +4,12 @@
     "name": "ミケランＬＡカプセル１５ｍｇ",
     "generic_name": "ミケランＬＡ",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミケランＬＡカプセル１５ｍｇ",
+        "kana": "ﾐｹﾗﾝLAｶﾌﾟｾﾙ15MG"
+      }
+    ]
   },
   "indications": [
     {

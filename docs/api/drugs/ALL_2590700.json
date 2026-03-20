@@ -4,7 +4,12 @@
     "name": "ネオキシテープ７３．５ｍｇ",
     "generic_name": "ネオキシ",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオキシテープ７３．５ｍｇ",
+        "kana": "ﾈｵｷｼﾃｰﾌﾟ73.5MG"
+      }
+    ]
   },
   "indications": []
 }

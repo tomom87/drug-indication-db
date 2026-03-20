@@ -4,7 +4,12 @@
     "name": "スロンノンＨＩ注１０ｍｇ／２ｍＬ",
     "generic_name": "スロンノンＨＩ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "スロンノンＨＩ注１０ｍｇ／２ｍＬ",
+        "kana": "ｽﾛﾝﾉﾝHIﾁｭｳ10MG/2ML"
+      }
+    ]
   },
   "indications": []
 }

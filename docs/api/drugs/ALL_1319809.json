@@ -4,7 +4,12 @@
     "name": "ミオピン点眼液　５ｍＬ",
     "generic_name": "ミオピン",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミオピン点眼液　５ｍＬ",
+        "kana": "ﾐｵﾋﾟﾝﾃﾝｶﾞﾝｴｷ"
+      }
+    ]
   },
   "indications": []
 }

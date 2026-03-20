@@ -4,7 +4,12 @@
     "name": "エンドキサン錠５０ｍｇ",
     "generic_name": "エンドキサン",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エンドキサン錠５０ｍｇ",
+        "kana": "ｴﾝﾄﾞｷｻﾝｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": []
 }

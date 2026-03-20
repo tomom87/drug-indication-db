@@ -4,7 +4,12 @@
     "name": "マグセント注１００ｍＬ",
     "generic_name": "マグセント",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "マグセント注１００ｍＬ",
+        "kana": "ﾏｸﾞｾﾝﾄﾁｭｳ100ML"
+      }
+    ]
   },
   "indications": []
 }

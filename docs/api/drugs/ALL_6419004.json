@@ -4,7 +4,12 @@
     "name": "アメパロモカプセル２５０ｍｇ",
     "generic_name": "アメパロモ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アメパロモカプセル２５０ｍｇ",
+        "kana": "ｱﾒﾊﾟﾛﾓｶﾌﾟｾﾙ250MG"
+      }
+    ]
   },
   "indications": []
 }

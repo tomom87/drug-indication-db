@@ -4,7 +4,12 @@
     "name": "ネオザロカインパスタ",
     "generic_name": "ネオザロカインパスタ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオザロカインパスタ",
+        "kana": "ﾈｵｻﾞﾛｶｲﾝﾊﾟｽﾀ"
+      }
+    ]
   },
   "indications": []
 }

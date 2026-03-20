@@ -4,7 +4,12 @@
     "name": "アンモニア・ウイキョウ精",
     "generic_name": "アンモニア・ウイキョウ精",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アンモニア・ウイキョウ精",
+        "kana": "ｱﾝﾓﾆｱｳｲｷｮｳｾｲ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "メテバニール錠２ｍｇ",
     "generic_name": "メテバニール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "メテバニール錠２ｍｇ",
+        "kana": "ﾒﾃﾊﾞﾆｰﾙｼﾞｮｳ2MG"
+      }
+    ]
   },
   "indications": []
 }

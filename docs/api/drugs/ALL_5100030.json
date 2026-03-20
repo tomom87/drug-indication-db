@@ -4,7 +4,12 @@
     "name": "トチモトのガジュツ末",
     "generic_name": "トチモトのガジュツ末",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのガジュツ末",
+        "kana": "ﾄﾁﾓﾄﾉｶﾞｼﾞｭﾂﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

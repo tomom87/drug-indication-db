@@ -4,7 +4,12 @@
     "name": "ゾビラックス眼軟膏３％",
     "generic_name": "ゾビラックス眼",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゾビラックス眼軟膏３％",
+        "kana": "ｿﾞﾋﾞﾗｯｸｽｶﾞﾝﾅﾝｺｳ3%"
+      }
+    ]
   },
   "indications": []
 }

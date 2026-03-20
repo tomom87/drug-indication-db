@@ -4,7 +4,12 @@
     "name": "テクベイリ皮下注３０ｍｇ　３ｍＬ",
     "generic_name": "テクベイリ皮下",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "テクベイリ皮下注３０ｍｇ　３ｍＬ",
+        "kana": "ﾃｸﾍﾞｲﾘﾋｶﾁｭｳ30MG"
+      }
+    ]
   },
   "indications": []
 }

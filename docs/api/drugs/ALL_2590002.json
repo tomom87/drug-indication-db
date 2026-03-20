@@ -4,7 +4,12 @@
     "name": "ブラダロン錠２００ｍｇ",
     "generic_name": "ブラダロン",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブラダロン錠２００ｍｇ",
+        "kana": "ﾌﾞﾗﾀﾞﾛﾝｼﾞｮｳ200MG"
+      }
+    ]
   },
   "indications": []
 }

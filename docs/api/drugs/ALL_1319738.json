@@ -4,7 +4,12 @@
     "name": "トルソプト点眼液０．５％",
     "generic_name": "トルソプト",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トルソプト点眼液０．５％",
+        "kana": "ﾄﾙｿﾌﾟﾄﾃﾝｶﾞﾝｴｷ0.5%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "カバサール錠０．２５ｍｇ",
     "generic_name": "カバサール",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カバサール錠０．２５ｍｇ",
+        "kana": "ｶﾊﾞｻｰﾙｼﾞｮｳ0.25MG"
+      }
+    ]
   },
   "indications": [
     {

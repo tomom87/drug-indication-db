@@ -4,7 +4,12 @@
     "name": "ステアリン酸",
     "generic_name": "ステアリン酸",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ステアリン酸",
+        "kana": "ｽﾃｱﾘﾝｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "エンシュア・Ｈ",
     "generic_name": "エンシュア・Ｈ",
     "category": "代謝用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エンシュア・Ｈ",
+        "kana": "ｴﾝｼｭｱH"
+      }
+    ]
   },
   "indications": []
 }

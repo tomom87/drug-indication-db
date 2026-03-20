@@ -4,7 +4,12 @@
     "name": "オルミエント錠４ｍｇ",
     "generic_name": "オルミエント",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "オルミエント錠４ｍｇ",
+        "kana": "ｵﾙﾐｴﾝﾄｼﾞｮｳ4MG"
+      }
+    ]
   },
   "indications": [
     {

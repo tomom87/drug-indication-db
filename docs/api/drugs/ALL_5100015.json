@@ -4,7 +4,12 @@
     "name": "ウチダのエンゴサクＭ",
     "generic_name": "ウチダのエンゴサクＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのエンゴサクＭ",
+        "kana": "ｳﾁﾀﾞﾉｴﾝｺﾞｻｸM"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ソファルコン錠５０ｍｇ「ＴＣＫ」",
     "generic_name": "ソファルコン",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソファルコン錠５０ｍｇ「ＴＣＫ」",
+        "kana": "ｿﾌｧﾙｺﾝｼﾞｮｳ50MGTCK"
+      }
+    ]
   },
   "indications": []
 }

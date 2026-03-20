@@ -4,7 +4,12 @@
     "name": "コートン錠２５ｍｇ",
     "generic_name": "コートン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "コートン錠２５ｍｇ",
+        "kana": "ｺｰﾄﾝｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

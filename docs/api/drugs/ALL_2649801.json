@@ -4,7 +4,12 @@
     "name": "グリメサゾン軟膏",
     "generic_name": "グリメサゾン",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グリメサゾン軟膏",
+        "kana": "ｸﾞﾘﾒｻｿﾞﾝﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

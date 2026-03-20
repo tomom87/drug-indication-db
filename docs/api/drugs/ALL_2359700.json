@@ -4,7 +4,12 @@
     "name": "テレミンソフト坐薬１０ｍｇ",
     "generic_name": "テレミンソフト坐薬",
     "category": "肝臓用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "テレミンソフト坐薬１０ｍｇ",
+        "kana": "ﾃﾚﾐﾝｿﾌﾄｻﾞﾔｸ10MG"
+      }
+    ]
   },
   "indications": [
     {

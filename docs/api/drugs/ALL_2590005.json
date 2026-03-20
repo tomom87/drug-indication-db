@@ -4,7 +4,12 @@
     "name": "ポラキス錠２　２ｍｇ",
     "generic_name": "ポラキス",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ポラキス錠２　２ｍｇ",
+        "kana": "ﾎﾟﾗｷｽｼﾞｮｳ2"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "トチモトのカンテン末",
     "generic_name": "トチモトのカンテン末",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのカンテン末",
+        "kana": "ﾄﾁﾓﾄﾉｶﾝﾃﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "レゾルシン「純生」",
     "generic_name": "レゾルシン「純生」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "レゾルシン「純生」",
+        "kana": "ﾚｿﾞﾙｼﾝｼﾞｭﾝｾｲ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "スプレンジール錠２．５ｍｇ",
     "generic_name": "スプレンジール",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "スプレンジール錠２．５ｍｇ",
+        "kana": "ｽﾌﾟﾚﾝｼﾞｰﾙｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "サブリル散分包５００ｍｇ",
     "generic_name": "サブリル",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サブリル散分包５００ｍｇ",
+        "kana": "ｻﾌﾞﾘﾙｻﾝﾌﾞﾝﾎﾟｳ500MG"
+      }
+    ]
   },
   "indications": [
     {

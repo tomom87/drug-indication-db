@@ -4,7 +4,12 @@
     "name": "グラマリール細粒１０％",
     "generic_name": "グラマリール",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グラマリール細粒１０％",
+        "kana": "ｸﾞﾗﾏﾘｰﾙｻｲﾘｭｳ10%"
+      }
+    ]
   },
   "indications": []
 }

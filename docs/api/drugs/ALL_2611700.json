@@ -4,7 +4,12 @@
     "name": "ヤクラックスＤ液１％",
     "generic_name": "ヤクラックスＤ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヤクラックスＤ液１％",
+        "kana": "ﾔｸﾗｯｸｽDｴｷ1%"
+      }
+    ]
   },
   "indications": []
 }

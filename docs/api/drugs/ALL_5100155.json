@@ -4,7 +4,12 @@
     "name": "ヒシノミ",
     "generic_name": "ヒシノミ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒシノミ",
+        "kana": "ﾋｼﾉﾐ"
+      }
+    ]
   },
   "indications": []
 }

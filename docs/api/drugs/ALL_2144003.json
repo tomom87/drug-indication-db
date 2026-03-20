@@ -4,7 +4,12 @@
     "name": "セタプリル錠２５ｍｇ",
     "generic_name": "セタプリル",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セタプリル錠２５ｍｇ",
+        "kana": "ｾﾀﾌﾟﾘﾙｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": [
     {

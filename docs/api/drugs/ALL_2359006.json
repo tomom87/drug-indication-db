@@ -4,7 +4,12 @@
     "name": "アミティーザカプセル２４μｇ",
     "generic_name": "アミティーザ",
     "category": "肝臓用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アミティーザカプセル２４μｇ",
+        "kana": "ｱﾐﾃｨｰｻﾞｶﾌﾟｾﾙ24ﾏｲｸﾛG"
+      }
+    ]
   },
   "indications": [
     {

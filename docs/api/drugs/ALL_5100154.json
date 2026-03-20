@@ -4,7 +4,12 @@
     "name": "ウチダのハンゲＭ",
     "generic_name": "ウチダのハンゲＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのハンゲＭ",
+        "kana": "ｳﾁﾀﾞﾉﾊﾝｹﾞM"
+      }
+    ]
   },
   "indications": []
 }

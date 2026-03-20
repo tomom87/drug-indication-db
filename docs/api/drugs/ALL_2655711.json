@@ -4,7 +4,12 @@
     "name": "アトラント外用液１％",
     "generic_name": "アトラント外用",
     "category": "外用抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アトラント外用液１％",
+        "kana": "ｱﾄﾗﾝﾄｶﾞｲﾖｳｴｷ1%"
+      }
+    ]
   },
   "indications": []
 }

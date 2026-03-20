@@ -4,7 +4,12 @@
     "name": "ジャドニュ顆粒分包９０ｍｇ",
     "generic_name": "ジャドニュ",
     "category": "酵素製剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジャドニュ顆粒分包９０ｍｇ",
+        "kana": "ｼﾞｬﾄﾞﾆｭｶﾘｭｳﾌﾞﾝﾎﾟｳ90M"
+      }
+    ]
   },
   "indications": []
 }

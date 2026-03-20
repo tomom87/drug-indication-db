@@ -4,7 +4,12 @@
     "name": "アミパレン輸液　２００ｍＬ",
     "generic_name": "アミパレン輸",
     "category": "リン吸着薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アミパレン輸液　２００ｍＬ",
+        "kana": "ｱﾐﾊﾟﾚﾝﾕｴｷ"
+      }
+    ]
   },
   "indications": [
     {

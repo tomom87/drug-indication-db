@@ -4,7 +4,12 @@
     "name": "ゼンコ",
     "generic_name": "ゼンコ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゼンコ",
+        "kana": "ｾﾞﾝｺ"
+      }
+    ]
   },
   "indications": []
 }

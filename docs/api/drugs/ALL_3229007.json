@@ -4,7 +4,12 @@
     "name": "グルコンサンＫ錠２．５ｍＥｑ　カリウム",
     "generic_name": "グルコンサンＫ",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "グルコンサンＫ錠２．５ｍＥｑ　カリウム",
+        "kana": "ｸﾞﾙｺﾝｻﾝKｼﾞｮｳ2.5MEQ"
+      }
+    ]
   },
   "indications": [
     {

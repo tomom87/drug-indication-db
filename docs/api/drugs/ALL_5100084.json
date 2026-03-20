@@ -4,7 +4,12 @@
     "name": "トチモトのサンズコン",
     "generic_name": "トチモトのサンズコン",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トチモトのサンズコン",
+        "kana": "ﾄﾁﾓﾄﾉｻﾝｽﾞｺﾝ"
+      }
+    ]
   },
   "indications": []
 }

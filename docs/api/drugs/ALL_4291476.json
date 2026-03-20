@@ -4,7 +4,12 @@
     "name": "ルンスミオ点滴静注１ｍｇ　１ｍＬ",
     "generic_name": "ルンスミオ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルンスミオ点滴静注１ｍｇ　１ｍＬ",
+        "kana": "ﾙﾝｽﾐｵﾃﾝﾃｷｼﾞｮｳﾁｭｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "エキザルベ",
     "generic_name": "エキザルベ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エキザルベ",
+        "kana": "ｴｷｻﾞﾙﾍﾞ"
+      }
+    ]
   },
   "indications": []
 }

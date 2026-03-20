@@ -4,7 +4,12 @@
     "name": "コレバイン錠５００ｍｇ",
     "generic_name": "コレバイン",
     "category": "脂質異常症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "コレバイン錠５００ｍｇ",
+        "kana": "ｺﾚﾊﾞｲﾝｼﾞｮｳ500MG"
+      }
+    ]
   },
   "indications": [
     {

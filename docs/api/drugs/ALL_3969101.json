@@ -4,7 +4,12 @@
     "name": "ソニアス配合錠ＬＤ",
     "generic_name": "ソニアス配合",
     "category": "糖尿病薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソニアス配合錠ＬＤ",
+        "kana": "ｿﾆｱｽﾊｲｺﾞｳｼﾞｮｳLD"
+      }
+    ]
   },
   "indications": [
     {

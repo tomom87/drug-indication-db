@@ -4,7 +4,12 @@
     "name": "ザイザル錠５ｍｇ",
     "generic_name": "ザイザル",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ザイザル錠５ｍｇ",
+        "kana": "ｻﾞｲｻﾞﾙｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

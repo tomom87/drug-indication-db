@@ -4,7 +4,12 @@
     "name": "ウチダのゴミシＭ",
     "generic_name": "ウチダのゴミシＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのゴミシＭ",
+        "kana": "ｳﾁﾀﾞﾉｺﾞﾐｼM"
+      }
+    ]
   },
   "indications": []
 }

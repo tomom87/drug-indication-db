@@ -4,7 +4,12 @@
     "name": "ブリカニール皮下注０．２ｍｇ",
     "generic_name": "ブリカニール皮下",
     "category": "気管支拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブリカニール皮下注０．２ｍｇ",
+        "kana": "ﾌﾞﾘｶﾆｰﾙﾋｶﾁｭｳ0.2MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "セリンクロ錠１０ｍｇ",
     "generic_name": "セリンクロ",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セリンクロ錠１０ｍｇ",
+        "kana": "ｾﾘﾝｸﾛｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

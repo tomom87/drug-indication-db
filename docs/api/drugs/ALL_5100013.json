@@ -4,7 +4,12 @@
     "name": "ウチダのウワウルシＭ",
     "generic_name": "ウチダのウワウルシＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのウワウルシＭ",
+        "kana": "ｳﾁﾀﾞﾉｳﾜｳﾙｼM"
+      }
+    ]
   },
   "indications": []
 }

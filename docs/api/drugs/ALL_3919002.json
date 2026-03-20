@@ -4,7 +4,12 @@
     "name": "リバオール散１０％",
     "generic_name": "リバオール",
     "category": "痛風薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リバオール散１０％",
+        "kana": "ﾘﾊﾞｵｰﾙｻﾝ10%"
+      }
+    ]
   },
   "indications": [
     {

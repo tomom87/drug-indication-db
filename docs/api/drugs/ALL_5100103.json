@@ -4,7 +4,12 @@
     "name": "ウチダのショウズクＭ",
     "generic_name": "ウチダのショウズクＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのショウズクＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｮｳｽﾞｸM"
+      }
+    ]
   },
   "indications": []
 }

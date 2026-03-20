@@ -4,7 +4,12 @@
     "name": "アニスーマ坐剤",
     "generic_name": "アニスーマ",
     "category": "気管支拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アニスーマ坐剤",
+        "kana": "ｱﾆｽｰﾏｻﾞｻﾞｲ"
+      }
+    ]
   },
   "indications": [
     {

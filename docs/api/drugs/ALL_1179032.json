@@ -4,7 +4,12 @@
     "name": "バルネチール錠５０　５０ｍｇ",
     "generic_name": "バルネチール",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バルネチール錠５０　５０ｍｇ",
+        "kana": "ﾊﾞﾙﾈﾁｰﾙｼﾞｮｳ50"
+      }
+    ]
   },
   "indications": []
 }

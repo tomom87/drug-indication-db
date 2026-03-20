@@ -4,7 +4,12 @@
     "name": "ゼンタコートカプセル３ｍｇ",
     "generic_name": "ゼンタコート",
     "category": "その他の消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゼンタコートカプセル３ｍｇ",
+        "kana": "ｾﾞﾝﾀｺｰﾄｶﾌﾟｾﾙ3MG"
+      }
+    ]
   },
   "indications": []
 }

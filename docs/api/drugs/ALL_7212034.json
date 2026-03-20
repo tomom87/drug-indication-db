@@ -4,7 +4,12 @@
     "name": "バリブライトＬＶ　９９．５％",
     "generic_name": "バリブライトＬＶ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バリブライトＬＶ　９９．５％",
+        "kana": "ﾊﾞﾘﾌﾞﾗｲﾄLV"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アリメジンシロップ０．０５％",
     "generic_name": "アリメジン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アリメジンシロップ０．０５％",
+        "kana": "ｱﾘﾒｼﾞﾝｼﾛｯﾌﾟ0.05%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "バリトゲンＨＤ　９８．６％",
     "generic_name": "バリトゲンＨＤ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バリトゲンＨＤ　９８．６％",
+        "kana": "ﾊﾞﾘﾄｹﾞﾝHD"
+      }
+    ]
   },
   "indications": []
 }

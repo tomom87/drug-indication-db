@@ -4,7 +4,12 @@
     "name": "スプリセル錠２０ｍｇ",
     "generic_name": "スプリセル",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "スプリセル錠２０ｍｇ",
+        "kana": "ｽﾌﾟﾘｾﾙｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

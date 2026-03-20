@@ -4,7 +4,12 @@
     "name": "ボレー外用液１％",
     "generic_name": "ボレー外用",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボレー外用液１％",
+        "kana": "ﾎﾞﾚｰｶﾞｲﾖｳｴｷ1%"
+      }
+    ]
   },
   "indications": []
 }

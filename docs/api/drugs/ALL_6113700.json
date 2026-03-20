@@ -4,7 +4,12 @@
     "name": "バンコマイシン眼軟膏１％",
     "generic_name": "バンコマイシン眼",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "バンコマイシン眼軟膏１％",
+        "kana": "ﾊﾞﾝｺﾏｲｼﾝｶﾞﾝﾅﾝｺｳ1%"
+      }
+    ]
   },
   "indications": [
     {

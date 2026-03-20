@@ -4,7 +4,12 @@
     "name": "ダーブロック錠１ｍｇ",
     "generic_name": "ダーブロック",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ダーブロック錠１ｍｇ",
+        "kana": "ﾀﾞｰﾌﾞﾛｯｸｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": [
     {

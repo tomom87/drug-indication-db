@@ -4,7 +4,12 @@
     "name": "チンク油「司生堂」",
     "generic_name": "チンク油「司生堂」",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "チンク油「司生堂」",
+        "kana": "ﾁﾝｸﾕｼｾｲﾄﾞｳ"
+      }
+    ]
   },
   "indications": []
 }

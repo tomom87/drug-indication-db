@@ -4,7 +4,12 @@
     "name": "エバミール錠１．０　１ｍｇ",
     "generic_name": "エバミール",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エバミール錠１．０　１ｍｇ",
+        "kana": "ｴﾊﾞﾐｰﾙｼﾞｮｳ1.0"
+      }
+    ]
   },
   "indications": [
     {

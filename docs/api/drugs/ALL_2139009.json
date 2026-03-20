@@ -4,7 +4,12 @@
     "name": "ルプラック錠４ｍｇ",
     "generic_name": "ルプラック",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルプラック錠４ｍｇ",
+        "kana": "ﾙﾌﾟﾗｯｸｼﾞｮｳ4MG"
+      }
+    ]
   },
   "indications": [
     {

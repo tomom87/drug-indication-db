@@ -4,7 +4,12 @@
     "name": "ウチダのソウハクヒＭ",
     "generic_name": "ウチダのソウハクヒＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのソウハクヒＭ",
+        "kana": "ｳﾁﾀﾞﾉｿｳﾊｸﾋM"
+      }
+    ]
   },
   "indications": []
 }

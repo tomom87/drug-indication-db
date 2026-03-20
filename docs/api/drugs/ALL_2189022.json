@@ -4,7 +4,12 @@
     "name": "ネクセトール錠１８０ｍｇ",
     "generic_name": "ネクセトール",
     "category": "脂質異常症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネクセトール錠１８０ｍｇ",
+        "kana": "ﾈｸｾﾄｰﾙｼﾞｮｳ180MG"
+      }
+    ]
   },
   "indications": [
     {

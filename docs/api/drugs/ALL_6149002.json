@@ -4,7 +4,12 @@
     "name": "ルリッド錠１５０　１５０ｍｇ",
     "generic_name": "ルリッド",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルリッド錠１５０　１５０ｍｇ",
+        "kana": "ﾙﾘｯﾄﾞｼﾞｮｳ150"
+      }
+    ]
   },
   "indications": [
     {

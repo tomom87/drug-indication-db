@@ -4,7 +4,12 @@
     "name": "オイラゾンクリーム０．０５％",
     "generic_name": "オイラゾン",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "オイラゾンクリーム０．０５％",
+        "kana": "ｵｲﾗｿﾞﾝｸﾘｰﾑ0.05%"
+      }
+    ]
   },
   "indications": [
     {

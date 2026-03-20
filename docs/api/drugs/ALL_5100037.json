@@ -4,7 +4,12 @@
     "name": "花扇カロニンＫ",
     "generic_name": "花扇カロニンＫ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "花扇カロニンＫ",
+        "kana": "ﾊﾅｵｳｷﾞｶﾛﾆﾝK"
+      }
+    ]
   },
   "indications": []
 }

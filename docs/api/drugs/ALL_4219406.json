@@ -4,7 +4,12 @@
     "name": "ザノサー点滴静注用１ｇ",
     "generic_name": "ザノサー",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ザノサー点滴静注用１ｇ",
+        "kana": "ｻﾞﾉｻｰﾃﾝﾃｷｼﾞｮｳﾁｭｳﾖｳ1G"
+      }
+    ]
   },
   "indications": []
 }

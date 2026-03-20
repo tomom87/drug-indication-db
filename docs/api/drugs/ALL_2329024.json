@@ -4,7 +4,12 @@
     "name": "サイトテック錠１００　１００μｇ",
     "generic_name": "サイトテック",
     "category": "消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "サイトテック錠１００　１００μｇ",
+        "kana": "ｻｲﾄﾃｯｸｼﾞｮｳ100"
+      }
+    ]
   },
   "indications": []
 }

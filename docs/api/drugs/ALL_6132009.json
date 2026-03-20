@@ -4,7 +4,12 @@
     "name": "トミロン錠５０　５０ｍｇ",
     "generic_name": "トミロン",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トミロン錠５０　５０ｍｇ",
+        "kana": "ﾄﾐﾛﾝｼﾞｮｳ50"
+      }
+    ]
   },
   "indications": [
     {

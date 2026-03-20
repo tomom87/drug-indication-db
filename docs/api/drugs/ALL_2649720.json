@@ -4,7 +4,12 @@
     "name": "デルマクリンＡ軟膏１％",
     "generic_name": "デルマクリンＡ",
     "category": "外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "デルマクリンＡ軟膏１％",
+        "kana": "ﾃﾞﾙﾏｸﾘﾝAﾅﾝｺｳ1%"
+      }
+    ]
   },
   "indications": []
 }

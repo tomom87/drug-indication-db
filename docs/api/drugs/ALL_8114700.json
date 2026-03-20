@@ -4,7 +4,12 @@
     "name": "アンペック坐剤３０ｍｇ",
     "generic_name": "アンペック",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アンペック坐剤３０ｍｇ",
+        "kana": "ｱﾝﾍﾟｯｸｻﾞｻﾞｲ30MG"
+      }
+    ]
   },
   "indications": []
 }

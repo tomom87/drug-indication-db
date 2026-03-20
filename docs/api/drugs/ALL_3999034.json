@@ -4,7 +4,12 @@
     "name": "ゼルヤンツ錠５ｍｇ",
     "generic_name": "ゼルヤンツ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゼルヤンツ錠５ｍｇ",
+        "kana": "ｾﾞﾙﾔﾝﾂｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

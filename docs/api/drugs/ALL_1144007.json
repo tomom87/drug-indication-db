@@ -4,7 +4,12 @@
     "name": "ミグレニン",
     "generic_name": "ミグレニン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミグレニン",
+        "kana": "ﾐｸﾞﾚﾆﾝ"
+      }
+    ]
   },
   "indications": []
 }

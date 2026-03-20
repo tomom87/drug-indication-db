@@ -4,7 +4,12 @@
     "name": "ホウ酸「ケンエー」",
     "generic_name": "ホウ酸「ケンエー」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ホウ酸「ケンエー」",
+        "kana": "ﾎｳｻﾝｹﾝｴｰ"
+      }
+    ]
   },
   "indications": []
 }

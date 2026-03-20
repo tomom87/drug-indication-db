@@ -4,7 +4,12 @@
     "name": "ウチダのマオウＭ",
     "generic_name": "ウチダのマオウＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのマオウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾏｵｳM"
+      }
+    ]
   },
   "indications": []
 }

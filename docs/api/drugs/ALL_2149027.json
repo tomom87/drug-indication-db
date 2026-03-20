@@ -4,7 +4,12 @@
     "name": "カルスロット錠５　５ｍｇ",
     "generic_name": "カルスロット",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カルスロット錠５　５ｍｇ",
+        "kana": "ｶﾙｽﾛｯﾄｼﾞｮｳ5"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "アクセノン末",
     "generic_name": "アクセノン末",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アクセノン末",
+        "kana": "ｱｸｾﾉﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

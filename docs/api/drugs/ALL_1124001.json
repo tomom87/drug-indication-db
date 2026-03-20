@@ -4,7 +4,12 @@
     "name": "エスタゾラム錠１ｍｇ「アメル」",
     "generic_name": "エスタゾラム",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エスタゾラム錠１ｍｇ「アメル」",
+        "kana": "ｴｽﾀｿﾞﾗﾑｼﾞｮｳ1MGｱﾒﾙ"
+      }
+    ]
   },
   "indications": [
     {

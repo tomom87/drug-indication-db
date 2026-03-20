@@ -4,7 +4,12 @@
     "name": "ネオビタカイン注シリンジ２ｍＬ",
     "generic_name": "ネオビタカイン",
     "category": "抗てんかん薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ネオビタカイン注シリンジ２ｍＬ",
+        "kana": "ﾈｵﾋﾞﾀｶｲﾝﾁｭｳｼﾘﾝｼﾞ2ML"
+      }
+    ]
   },
   "indications": [
     {

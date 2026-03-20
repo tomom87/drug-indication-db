@@ -4,7 +4,12 @@
     "name": "ソリタックス－Ｈ輸液　５００ｍＬ",
     "generic_name": "ソリタックス－Ｈ輸",
     "category": "血液凝固阻止薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソリタックス－Ｈ輸液　５００ｍＬ",
+        "kana": "ｿﾘﾀｯｸｽ-Hﾕｴｷ"
+      }
+    ]
   },
   "indications": []
 }

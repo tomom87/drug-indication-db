@@ -4,7 +4,12 @@
     "name": "ＬＨ－ＲＨ注０．１ｍｇ「ニプロ」",
     "generic_name": "ＬＨ－ＲＨ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ＬＨ－ＲＨ注０．１ｍｇ「ニプロ」",
+        "kana": "LH-RHﾁｭｳ0.1MGﾆﾌﾟﾛ"
+      }
+    ]
   },
   "indications": []
 }

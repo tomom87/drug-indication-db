@@ -4,7 +4,12 @@
     "name": "ストロカイン錠５ｍｇ",
     "generic_name": "ストロカイン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ストロカイン錠５ｍｇ",
+        "kana": "ｽﾄﾛｶｲﾝｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": []
 }

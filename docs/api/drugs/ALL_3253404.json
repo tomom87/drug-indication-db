@@ -4,7 +4,12 @@
     "name": "ヒカリレバン注　２００ｍＬ",
     "generic_name": "ヒカリレバン",
     "category": "リン吸着薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒカリレバン注　２００ｍＬ",
+        "kana": "ﾋｶﾘﾚﾊﾞﾝﾁｭｳ"
+      }
+    ]
   },
   "indications": [
     {

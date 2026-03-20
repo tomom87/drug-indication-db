@@ -4,7 +4,12 @@
     "name": "リンパック透析剤ＴＡ５　２袋",
     "generic_name": "リンパック透析剤ＴＡ５　２袋",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "リンパック透析剤ＴＡ５　２袋",
+        "kana": "ﾘﾝﾊﾟｯｸﾄｳｾｷｻﾞｲTA5"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ツムラの生薬テンモンドウ",
     "generic_name": "ツムラの生薬テンモンドウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツムラの生薬テンモンドウ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾃﾝﾓﾝﾄﾞｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "タルセバ錠２５ｍｇ",
     "generic_name": "タルセバ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タルセバ錠２５ｍｇ",
+        "kana": "ﾀﾙｾﾊﾞｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

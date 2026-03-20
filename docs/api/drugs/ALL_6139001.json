@@ -4,7 +4,12 @@
     "name": "ファロム錠１５０ｍｇ",
     "generic_name": "ファロム",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ファロム錠１５０ｍｇ",
+        "kana": "ﾌｧﾛﾑｼﾞｮｳ150MG"
+      }
+    ]
   },
   "indications": [
     {

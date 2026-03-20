@@ -4,7 +4,12 @@
     "name": "ツバキ油",
     "generic_name": "ツバキ油",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ツバキ油",
+        "kana": "ﾂﾊﾞｷﾕ"
+      }
+    ]
   },
   "indications": []
 }

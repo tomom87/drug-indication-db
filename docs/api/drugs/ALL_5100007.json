@@ -4,7 +4,12 @@
     "name": "インチンコウダイコーＭ",
     "generic_name": "インチンコウダイコーＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "インチンコウダイコーＭ",
+        "kana": "ｲﾝﾁﾝｺｳﾀﾞｲｺｰM"
+      }
+    ]
   },
   "indications": []
 }

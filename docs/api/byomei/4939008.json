@@ -102,21 +102,9 @@
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "ALL_3949003",
-      "name": "フェブリク錠１０ｍｇ",
-      "generic_name": "フェブリク",
-      "category": "抗アレルギー薬"
-    },
-    {
       "yj_code": "ALL_3949005",
       "name": "ユリス錠０．５ｍｇ",
       "generic_name": "ユリス",
-      "category": "抗アレルギー薬"
-    },
-    {
-      "yj_code": "ALL_3949002",
-      "name": "ユリノーム錠２５ｍｇ",
-      "generic_name": "ユリノーム",
       "category": "抗アレルギー薬"
     },
     {
@@ -240,12 +228,6 @@
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259707",
-      "name": "ツロブテロールテープ０．５ｍｇ「ＱＱ」",
-      "generic_name": "ツロブテロール",
-      "category": "気管支拡張薬"
-    },
-    {
       "yj_code": "ALL_2259808",
       "name": "ビベスピエアロスフィア１２０吸入",
       "generic_name": "ビベスピエアロスフィア１２０",
@@ -282,27 +264,9 @@
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259002",
-      "name": "ホクナリン錠１ｍｇ",
-      "generic_name": "ホクナリン",
-      "category": "気管支拡張薬"
-    },
-    {
-      "yj_code": "ALL_2259004",
-      "name": "メプチンドライシロップ０．００５％",
-      "generic_name": "メプチン",
-      "category": "気管支拡張薬"
-    },
-    {
       "yj_code": "ALL_2259704",
       "name": "メプチン吸入液０．０１％",
       "generic_name": "メプチン",
-      "category": "気管支拡張薬"
-    },
-    {
-      "yj_code": "ALL_2251001",
-      "name": "ユニコン錠２００　２００ｍｇ",
-      "generic_name": "ユニコン",
       "category": "気管支拡張薬"
     },
     {

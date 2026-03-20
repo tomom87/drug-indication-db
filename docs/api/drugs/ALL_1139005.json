@@ -4,7 +4,12 @@
     "name": "エクセグラン錠１００ｍｇ",
     "generic_name": "エクセグラン",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エクセグラン錠１００ｍｇ",
+        "kana": "ｴｸｾｸﾞﾗﾝｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": [
     {

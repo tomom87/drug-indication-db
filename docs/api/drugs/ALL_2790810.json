@@ -4,7 +4,12 @@
     "name": "ヒノポロン口腔用軟膏",
     "generic_name": "ヒノポロン口腔用",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒノポロン口腔用軟膏",
+        "kana": "ﾋﾉﾎﾟﾛﾝｺｳｸｳﾖｳﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

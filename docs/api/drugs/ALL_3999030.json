@@ -4,7 +4,12 @@
     "name": "ブレーザベスカプセル１００ｍｇ",
     "generic_name": "ブレーザベス",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブレーザベスカプセル１００ｍｇ",
+        "kana": "ﾌﾞﾚｰｻﾞﾍﾞｽｶﾌﾟｾﾙ100MG"
+      }
+    ]
   },
   "indications": [
     {

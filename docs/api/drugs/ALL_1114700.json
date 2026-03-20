@@ -4,7 +4,12 @@
     "name": "麻酔用エーテル",
     "generic_name": "麻酔用エーテル",
     "category": "全身麻酔薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "麻酔用エーテル",
+        "kana": "ﾏｽｲﾖｳｴｰﾃﾙ"
+      }
+    ]
   },
   "indications": []
 }

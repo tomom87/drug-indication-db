@@ -4,7 +4,12 @@
     "name": "ビオプテン顆粒２．５％　０．４ｇ",
     "generic_name": "ビオプテン",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビオプテン顆粒２．５％　０．４ｇ",
+        "kana": "ﾋﾞｵﾌﾟﾃﾝｶﾘｭｳ2.5%"
+      }
+    ]
   },
   "indications": [
     {

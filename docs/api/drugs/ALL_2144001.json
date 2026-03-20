@@ -4,7 +4,12 @@
     "name": "カプトリル錠１２．５ｍｇ",
     "generic_name": "カプトリル",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カプトリル錠１２．５ｍｇ",
+        "kana": "ｶﾌﾟﾄﾘﾙｼﾞｮｳ12.5MG"
+      }
+    ]
   },
   "indications": [
     {

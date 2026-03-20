@@ -4,7 +4,12 @@
     "name": "マスブロン注１ｍｇ",
     "generic_name": "マスブロン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "マスブロン注１ｍｇ",
+        "kana": "ﾏｽﾌﾞﾛﾝﾁｭｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

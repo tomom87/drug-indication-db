@@ -4,7 +4,12 @@
     "name": "ミオＭＩＢＧ－Ｉ１２３注射液",
     "generic_name": "ミオＭＩＢＧ－Ｉ１２３",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ミオＭＩＢＧ－Ｉ１２３注射液",
+        "kana": "ﾐｵMIBG-I123ﾁｭｳｼｬｴｷ"
+      }
+    ]
   },
   "indications": []
 }

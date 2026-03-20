@@ -4,7 +4,12 @@
     "name": "トリテレン・カプセル５０ｍｇ",
     "generic_name": "トリテレン・",
     "category": "利尿薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トリテレン・カプセル５０ｍｇ",
+        "kana": "ﾄﾘﾃﾚﾝｶﾌﾟｾﾙ50MG"
+      }
+    ]
   },
   "indications": [
     {

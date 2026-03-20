@@ -4,7 +4,12 @@
     "name": "ニシスタゴンカプセル５０ｍｇ",
     "generic_name": "ニシスタゴン",
     "category": "酵素製剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ニシスタゴンカプセル５０ｍｇ",
+        "kana": "ﾆｼｽﾀｺﾞﾝｶﾌﾟｾﾙ50MG"
+      }
+    ]
   },
   "indications": []
 }

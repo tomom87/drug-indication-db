@@ -4,7 +4,12 @@
     "name": "グーフィス錠５ｍｇ",
     "generic_name": "グーフィス",
     "category": "肝臓用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グーフィス錠５ｍｇ",
+        "kana": "ｸﾞｰﾌｨｽｼﾞｮｳ5MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "吸水クリーム「ニッコー」",
     "generic_name": "吸水",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "吸水クリーム「ニッコー」",
+        "kana": "ｷｭｳｽｲｸﾘｰﾑﾆｯｺｰ"
+      }
+    ]
   },
   "indications": []
 }

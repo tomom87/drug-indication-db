@@ -4,7 +4,12 @@
     "name": "肝油",
     "generic_name": "肝油",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "肝油",
+        "kana": "ｶﾝﾕ"
+      }
+    ]
   },
   "indications": []
 }

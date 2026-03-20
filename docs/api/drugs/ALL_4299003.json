@@ -4,7 +4,12 @@
     "name": "アグリリンカプセル０．５ｍｇ",
     "generic_name": "アグリリン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アグリリンカプセル０．５ｍｇ",
+        "kana": "ｱｸﾞﾘﾘﾝｶﾌﾟｾﾙ0.5MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ピペラシリンＮａ注射用１ｇ「ＮＩＧ」",
     "generic_name": "ピペラシリンＮａ",
     "category": "抗菌薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピペラシリンＮａ注射用１ｇ「ＮＩＧ」",
+        "kana": "ﾋﾟﾍﾟﾗｼﾘﾝNAﾁｭｳｼｬﾖｳ1GN"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "カログラ錠１２０ｍｇ",
     "generic_name": "カログラ",
     "category": "その他の消化器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カログラ錠１２０ｍｇ",
+        "kana": "ｶﾛｸﾞﾗｼﾞｮｳ120MG"
+      }
+    ]
   },
   "indications": []
 }

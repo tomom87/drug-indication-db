@@ -4,7 +4,12 @@
     "name": "ファンガード点滴用２５ｍｇ",
     "generic_name": "ファンガード",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ファンガード点滴用２５ｍｇ",
+        "kana": "ﾌｧﾝｶﾞｰﾄﾞﾃﾝﾃｷﾖｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

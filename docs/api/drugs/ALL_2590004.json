@@ -4,7 +4,12 @@
     "name": "リトドリン塩酸塩５ｍｇ錠",
     "generic_name": "リトドリン塩酸塩",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リトドリン塩酸塩５ｍｇ錠",
+        "kana": "ﾘﾄﾄﾞﾘﾝｴﾝｻﾝｴﾝ5MGｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

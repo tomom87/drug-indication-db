@@ -4,7 +4,12 @@
     "name": "グリセオール注　２００ｍＬ",
     "generic_name": "グリセオール",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グリセオール注　２００ｍＬ",
+        "kana": "ｸﾞﾘｾｵｰﾙﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

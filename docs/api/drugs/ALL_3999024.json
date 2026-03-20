@@ -4,7 +4,12 @@
     "name": "ジアゾキシドカプセル２５ｍｇ「ＯＰ」",
     "generic_name": "ジアゾキシド",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジアゾキシドカプセル２５ｍｇ「ＯＰ」",
+        "kana": "ｼﾞｱｿﾞｷｼﾄﾞｶﾌﾟｾﾙ25MGOP"
+      }
+    ]
   },
   "indications": [
     {

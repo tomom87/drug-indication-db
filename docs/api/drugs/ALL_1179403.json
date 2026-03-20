@@ -4,7 +4,12 @@
     "name": "ドグマチール筋注１００ｍｇ",
     "generic_name": "ドグマチール筋",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ドグマチール筋注１００ｍｇ",
+        "kana": "ﾄﾞｸﾞﾏﾁｰﾙｷﾝﾁｭｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

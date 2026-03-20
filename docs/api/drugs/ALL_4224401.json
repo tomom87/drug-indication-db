@@ -4,7 +4,12 @@
     "name": "キロサイドＮ注４００ｍｇ",
     "generic_name": "キロサイドＮ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "キロサイドＮ注４００ｍｇ",
+        "kana": "ｷﾛｻｲﾄﾞNﾁｭｳ400MG"
+      }
+    ]
   },
   "indications": []
 }

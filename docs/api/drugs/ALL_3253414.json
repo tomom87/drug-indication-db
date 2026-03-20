@@ -4,7 +4,12 @@
     "name": "キドミン輸液　２００ｍＬ",
     "generic_name": "キドミン輸",
     "category": "リン吸着薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "キドミン輸液　２００ｍＬ",
+        "kana": "ｷﾄﾞﾐﾝﾕｴｷ"
+      }
+    ]
   },
   "indications": [
     {

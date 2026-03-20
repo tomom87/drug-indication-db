@@ -4,7 +4,12 @@
     "name": "フシジンレオ軟膏２％　２０ｍｇ",
     "generic_name": "フシジンレオ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "フシジンレオ軟膏２％　２０ｍｇ",
+        "kana": "ﾌｼｼﾞﾝﾚｵﾅﾝｺｳ2%"
+      }
+    ]
   },
   "indications": []
 }

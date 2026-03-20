@@ -4,7 +4,12 @@
     "name": "インライタ錠１ｍｇ",
     "generic_name": "インライタ",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "インライタ錠１ｍｇ",
+        "kana": "ｲﾝﾗｲﾀｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

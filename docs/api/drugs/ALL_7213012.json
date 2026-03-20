@@ -4,7 +4,12 @@
     "name": "バルギン発泡顆粒",
     "generic_name": "バルギン発泡",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バルギン発泡顆粒",
+        "kana": "ﾊﾞﾙｷﾞﾝﾊｯﾎﾟｳｶﾘｭｳ"
+      }
+    ]
   },
   "indications": []
 }

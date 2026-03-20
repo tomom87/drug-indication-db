@@ -4,7 +4,12 @@
     "name": "ブライアン錠５００ｍｇ",
     "generic_name": "ブライアン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブライアン錠５００ｍｇ",
+        "kana": "ﾌﾞﾗｲｱﾝｼﾞｮｳ500MG"
+      }
+    ]
   },
   "indications": []
 }

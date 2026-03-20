@@ -4,7 +4,12 @@
     "name": "リスミー錠１ｍｇ",
     "generic_name": "リスミー",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リスミー錠１ｍｇ",
+        "kana": "ﾘｽﾐｰｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ロナセン錠２ｍｇ",
     "generic_name": "ロナセン",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロナセン錠２ｍｇ",
+        "kana": "ﾛﾅｾﾝｼﾞｮｳ2MG"
+      }
+    ]
   },
   "indications": []
 }

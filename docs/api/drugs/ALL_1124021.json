@@ -4,7 +4,12 @@
     "name": "レスミット錠２　２ｍｇ",
     "generic_name": "レスミット",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レスミット錠２　２ｍｇ",
+        "kana": "ﾚｽﾐｯﾄｼﾞｮｳ2"
+      }
+    ]
   },
   "indications": [
     {

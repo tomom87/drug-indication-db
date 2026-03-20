@@ -4,7 +4,12 @@
     "name": "セスデン注７．５ｍｇ　０．７５％１ｍＬ",
     "generic_name": "セスデン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "セスデン注７．５ｍｇ　０．７５％１ｍＬ",
+        "kana": "ｾｽﾃﾞﾝﾁｭｳ7.5MG"
+      }
+    ]
   },
   "indications": []
 }

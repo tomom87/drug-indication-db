@@ -4,7 +4,12 @@
     "name": "セファランチン末１％",
     "generic_name": "セファランチン末",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "セファランチン末１％",
+        "kana": "ｾﾌｧﾗﾝﾁﾝﾏﾂ1%"
+      }
+    ]
   },
   "indications": []
 }

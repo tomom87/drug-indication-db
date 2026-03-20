@@ -4,7 +4,12 @@
     "name": "ロメフロン点眼液０．３％",
     "generic_name": "ロメフロン",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロメフロン点眼液０．３％",
+        "kana": "ﾛﾒﾌﾛﾝﾃﾝｶﾞﾝｴｷ0.3%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "スイニー錠１００ｍｇ",
     "generic_name": "スイニー",
     "category": "糖尿病薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "スイニー錠１００ｍｇ",
+        "kana": "ｽｲﾆｰｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": [
     {

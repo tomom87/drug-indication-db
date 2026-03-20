@@ -4,7 +4,12 @@
     "name": "ザクロヒ",
     "generic_name": "ザクロヒ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ザクロヒ",
+        "kana": "ｻﾞｸﾛﾋ"
+      }
+    ]
   },
   "indications": []
 }

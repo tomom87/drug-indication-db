@@ -4,7 +4,12 @@
     "name": "ジプレキサ筋注用１０ｍｇ",
     "generic_name": "ジプレキサ筋",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ジプレキサ筋注用１０ｍｇ",
+        "kana": "ｼﾞﾌﾟﾚｷｻｷﾝﾁｭｳﾖｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "アキネトン細粒１％",
     "generic_name": "アキネトン",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アキネトン細粒１％",
+        "kana": "ｱｷﾈﾄﾝｻｲﾘｭｳ1%"
+      }
+    ]
   },
   "indications": [
     {

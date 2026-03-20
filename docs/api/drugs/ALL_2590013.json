@@ -4,7 +4,12 @@
     "name": "ウリトス錠０．１ｍｇ",
     "generic_name": "ウリトス",
     "category": "泌尿器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウリトス錠０．１ｍｇ",
+        "kana": "ｳﾘﾄｽｼﾞｮｳ0.1MG"
+      }
+    ]
   },
   "indications": []
 }

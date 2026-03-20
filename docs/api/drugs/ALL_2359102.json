@@ -4,7 +4,12 @@
     "name": "ピムロ顆粒",
     "generic_name": "ピムロ",
     "category": "肝臓用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピムロ顆粒",
+        "kana": "ﾋﾟﾑﾛｶﾘｭｳ"
+      }
+    ]
   },
   "indications": [
     {

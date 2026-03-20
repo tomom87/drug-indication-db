@@ -4,7 +4,12 @@
     "name": "ソーティクツ錠６ｍｇ",
     "generic_name": "ソーティクツ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ソーティクツ錠６ｍｇ",
+        "kana": "ｿｰﾃｨｸﾂｼﾞｮｳ6MG"
+      }
+    ]
   },
   "indications": [
     {

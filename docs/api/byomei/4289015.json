@@ -60,12 +60,6 @@
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2113400",
-      "name": "ジゴシン注０．２５ｍｇ　０．０２５％１ｍＬ",
-      "generic_name": "ジゴシン",
-      "category": "強心薬"
-    },
-    {
       "yj_code": "ALL_2119007",
       "name": "タナドーパ顆粒７５％",
       "generic_name": "タナドーパ",
@@ -81,12 +75,6 @@
       "yj_code": "ALL_2119003",
       "name": "ノイキノン錠１０ｍｇ",
       "generic_name": "ノイキノン",
-      "category": "強心薬"
-    },
-    {
-      "yj_code": "ALL_2113003",
-      "name": "ハーフジゴキシンＫＹ錠０．１２５　０．１２５ｍｇ",
-      "generic_name": "ハーフジゴキシンＫＹ",
       "category": "強心薬"
     },
     {
@@ -111,12 +99,6 @@
       "yj_code": "ALL_2119408",
       "name": "ミルリノン注射液１０ｍｇ「Ｆ」　１０ｍＬ",
       "generic_name": "ミルリノン",
-      "category": "強心薬"
-    },
-    {
-      "yj_code": "ALL_2113005",
-      "name": "ラニラピッド錠０．０５ｍｇ",
-      "generic_name": "ラニラピッド",
       "category": "強心薬"
     },
     {

@@ -4,7 +4,12 @@
     "name": "２５ｍｇアリナミンＦ糖衣錠",
     "generic_name": "",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "２５ｍｇアリナミンＦ糖衣錠",
+        "kana": "25MGｱﾘﾅﾐﾝFﾄｳｲｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

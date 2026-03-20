@@ -4,7 +4,12 @@
     "name": "アヘン・トコン散",
     "generic_name": "アヘン・トコン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アヘン・トコン散",
+        "kana": "ｱﾍﾝﾄｺﾝｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

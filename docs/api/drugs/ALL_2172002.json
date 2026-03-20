@@ -4,7 +4,12 @@
     "name": "ズファジラン錠１０ｍｇ",
     "generic_name": "ズファジラン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ズファジラン錠１０ｍｇ",
+        "kana": "ｽﾞﾌｧｼﾞﾗﾝｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": []
 }

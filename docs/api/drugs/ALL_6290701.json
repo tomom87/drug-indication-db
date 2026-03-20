@@ -4,7 +4,12 @@
     "name": "ベセルナクリーム５％　２５０ｍｇ",
     "generic_name": "ベセルナ",
     "category": "抗感染症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベセルナクリーム５％　２５０ｍｇ",
+        "kana": "ﾍﾞｾﾙﾅｸﾘｰﾑ5%"
+      }
+    ]
   },
   "indications": []
 }

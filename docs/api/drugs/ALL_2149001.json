@@ -4,7 +4,12 @@
     "name": "カタプレス錠７５μｇ　０．０７５ｍｇ",
     "generic_name": "カタプレス",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "カタプレス錠７５μｇ　０．０７５ｍｇ",
+        "kana": "ｶﾀﾌﾟﾚｽｼﾞｮｳ75ﾏｲｸﾛG"
+      }
+    ]
   },
   "indications": [
     {

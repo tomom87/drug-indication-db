@@ -4,7 +4,12 @@
     "name": "テラ・コートリル軟膏",
     "generic_name": "テラ・コートリル",
     "category": "鎮痛外用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "テラ・コートリル軟膏",
+        "kana": "ﾃﾗｺｰﾄﾘﾙﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": [
     {

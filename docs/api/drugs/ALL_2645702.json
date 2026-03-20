@@ -4,7 +4,12 @@
     "name": "ｄ－カンフル",
     "generic_name": "ｄ－カンフル",
     "category": "外用ステロイド",
-    "brands": []
+    "brands": [
+      {
+        "name": "ｄ－カンフル",
+        "kana": "D-ｶﾝﾌﾙ"
+      }
+    ]
   },
   "indications": [
     {

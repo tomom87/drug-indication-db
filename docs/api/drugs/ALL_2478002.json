@@ -4,7 +4,12 @@
     "name": "ヒスロン錠５　５ｍｇ",
     "generic_name": "ヒスロン",
     "category": "性ホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ヒスロン錠５　５ｍｇ",
+        "kana": "ﾋｽﾛﾝｼﾞｮｳ5"
+      }
+    ]
   },
   "indications": []
 }

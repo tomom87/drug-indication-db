@@ -4,7 +4,12 @@
     "name": "ロメフロン耳科用液０．３％",
     "generic_name": "ロメフロン耳科用",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ロメフロン耳科用液０．３％",
+        "kana": "ﾛﾒﾌﾛﾝｼﾞｶﾖｳｴｷ0.3%"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "プログラフ注射液２ｍｇ　０．４ｍＬ",
     "generic_name": "プログラフ",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "プログラフ注射液２ｍｇ　０．４ｍＬ",
+        "kana": "ﾌﾟﾛｸﾞﾗﾌﾁｭｳｼｬｴｷ2MG"
+      }
+    ]
   },
   "indications": [
     {

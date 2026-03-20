@@ -4,7 +4,12 @@
     "name": "フェントステープ１ｍｇ",
     "generic_name": "フェントス",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "フェントステープ１ｍｇ",
+        "kana": "ﾌｪﾝﾄｽﾃｰﾌﾟ1MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "マーデュオックス軟膏",
     "generic_name": "マーデュオックス",
     "category": "皮膚用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "マーデュオックス軟膏",
+        "kana": "ﾏｰﾃﾞｭｵｯｸｽﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

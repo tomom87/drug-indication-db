@@ -4,7 +4,12 @@
     "name": "エクフィナ錠５０ｍｇ",
     "generic_name": "エクフィナ",
     "category": "抗パーキンソン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エクフィナ錠５０ｍｇ",
+        "kana": "ｴｸﾌｨﾅｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

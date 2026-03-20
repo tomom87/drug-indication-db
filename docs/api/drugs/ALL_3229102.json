@@ -4,7 +4,12 @@
     "name": "アスパラ配合錠　（１５０ｍｇ）",
     "generic_name": "アスパラ配合",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "アスパラ配合錠　（１５０ｍｇ）",
+        "kana": "ｱｽﾊﾟﾗﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": [
     {

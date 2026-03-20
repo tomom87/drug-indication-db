@@ -4,7 +4,12 @@
     "name": "ベルソムラ錠１５ｍｇ",
     "generic_name": "ベルソムラ",
     "category": "その他の神経系薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベルソムラ錠１５ｍｇ",
+        "kana": "ﾍﾞﾙｿﾑﾗｼﾞｮｳ15MG"
+      }
+    ]
   },
   "indications": []
 }

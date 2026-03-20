@@ -4,7 +4,12 @@
     "name": "エムラクリーム",
     "generic_name": "エムラ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "エムラクリーム",
+        "kana": "ｴﾑﾗｸﾘｰﾑ"
+      }
+    ]
   },
   "indications": []
 }

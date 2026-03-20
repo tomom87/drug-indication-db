@@ -4,7 +4,12 @@
     "name": "ビタジェクト注キット　２筒",
     "generic_name": "ビタジェクト",
     "category": "混合ビタミン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビタジェクト注キット　２筒",
+        "kana": "ﾋﾞﾀｼﾞｪｸﾄﾁｭｳｷｯﾄ"
+      }
+    ]
   },
   "indications": []
 }

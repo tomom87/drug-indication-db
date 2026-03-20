@@ -4,7 +4,12 @@
     "name": "レンドルミンＤ錠０．２５ｍｇ",
     "generic_name": "レンドルミンＤ",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "レンドルミンＤ錠０．２５ｍｇ",
+        "kana": "ﾚﾝﾄﾞﾙﾐﾝDｼﾞｮｳ0.25MG"
+      }
+    ]
   },
   "indications": [
     {

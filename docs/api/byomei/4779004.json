@@ -54,21 +54,9 @@
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "ALL_3949003",
-      "name": "フェブリク錠１０ｍｇ",
-      "generic_name": "フェブリク",
-      "category": "抗アレルギー薬"
-    },
-    {
       "yj_code": "ALL_3949005",
       "name": "ユリス錠０．５ｍｇ",
       "generic_name": "ユリス",
-      "category": "抗アレルギー薬"
-    },
-    {
-      "yj_code": "ALL_3949002",
-      "name": "ユリノーム錠２５ｍｇ",
-      "generic_name": "ユリノーム",
       "category": "抗アレルギー薬"
     },
     {
@@ -76,18 +64,6 @@
       "name": "ロラタジン",
       "generic_name": "ロラタジン",
       "category": "抗アレルギー薬"
-    },
-    {
-      "yj_code": "ALL_3941001",
-      "name": "コルヒチン錠０．５ｍｇ「タカタ」",
-      "generic_name": "コルヒチン",
-      "category": "抗ヒスタミン薬"
-    },
-    {
-      "yj_code": "ALL_3943001",
-      "name": "ザイロリック錠５０　５０ｍｇ",
-      "generic_name": "ザイロリック",
-      "category": "抗ヒスタミン薬"
     },
     {
       "yj_code": "TJ_019",

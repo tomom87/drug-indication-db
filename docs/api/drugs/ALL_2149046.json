@@ -4,7 +4,12 @@
     "name": "アバプロ錠５０ｍｇ",
     "generic_name": "アバプロ",
     "category": "降圧薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "アバプロ錠５０ｍｇ",
+        "kana": "ｱﾊﾞﾌﾟﾛｼﾞｮｳ50MG"
+      }
+    ]
   },
   "indications": [
     {

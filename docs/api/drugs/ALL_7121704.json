@@ -4,7 +4,12 @@
     "name": "オリブ油「ケンエー」",
     "generic_name": "オリブ油「ケンエー」",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "オリブ油「ケンエー」",
+        "kana": "ｵﾘﾌﾞﾕｹﾝｴｰ"
+      }
+    ]
   },
   "indications": []
 }

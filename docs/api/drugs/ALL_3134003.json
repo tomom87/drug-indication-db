@@ -4,7 +4,12 @@
     "name": "ピドキサール錠１０ｍｇ",
     "generic_name": "ピドキサール",
     "category": "葉酸",
-    "brands": []
+    "brands": [
+      {
+        "name": "ピドキサール錠１０ｍｇ",
+        "kana": "ﾋﾟﾄﾞｷｻｰﾙｼﾞｮｳ10MG"
+      }
+    ]
   },
   "indications": [
     {

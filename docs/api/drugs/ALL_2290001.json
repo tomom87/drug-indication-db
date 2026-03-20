@@ -4,7 +4,12 @@
     "name": "リフヌア錠４５ｍｇ",
     "generic_name": "リフヌア",
     "category": "呼吸器用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "リフヌア錠４５ｍｇ",
+        "kana": "ﾘﾌﾇｱｼﾞｮｳ45MG"
+      }
+    ]
   },
   "indications": []
 }

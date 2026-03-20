@@ -6,24 +6,6 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_3969003",
-      "name": "アカルボース錠５０ｍｇ「ＮＩＧ」",
-      "generic_name": "アカルボース",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3969007",
-      "name": "アクトス錠１５　１５ｍｇ",
-      "generic_name": "アクトス",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3961008",
-      "name": "アマリール１ｍｇ錠",
-      "generic_name": "アマリール",
-      "category": "糖尿病薬"
-    },
-    {
       "yj_code": "NAIKA_0114",
       "name": "アログリプチン",
       "generic_name": "アログリプチン",
@@ -69,12 +51,6 @@
       "yj_code": "NAIKA_0120",
       "name": "エキセナチド",
       "generic_name": "エキセナチド",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3969011",
-      "name": "エクア錠５０ｍｇ",
-      "generic_name": "エクア",
       "category": "糖尿病薬"
     },
     {
@@ -132,21 +108,9 @@
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "ALL_3961007",
-      "name": "グリミクロンＨＡ錠２０ｍｇ",
-      "generic_name": "グリミクロンＨＡ",
-      "category": "糖尿病薬"
-    },
-    {
       "yj_code": "NAIKA_0021",
       "name": "グリメピリド",
       "generic_name": "グリメピリド",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3969008",
-      "name": "グルファスト錠５ｍｇ",
-      "generic_name": "グルファスト",
       "category": "糖尿病薬"
     },
     {
@@ -168,12 +132,6 @@
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "ALL_3969013",
-      "name": "シュアポスト錠０．２５ｍｇ",
-      "generic_name": "シュアポスト",
-      "category": "糖尿病薬"
-    },
-    {
       "yj_code": "ALL_3969023",
       "name": "ジャディアンス錠１０ｍｇ",
       "generic_name": "ジャディアンス",
@@ -189,12 +147,6 @@
       "yj_code": "ALL_3969016",
       "name": "スイニー錠１００ｍｇ",
       "generic_name": "スイニー",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3969006",
-      "name": "スターシス錠３０ｍｇ",
-      "generic_name": "スターシス",
       "category": "糖尿病薬"
     },
     {
@@ -324,21 +276,9 @@
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "ALL_3969019",
-      "name": "フォシーガ錠５ｍｇ",
-      "generic_name": "フォシーガ",
-      "category": "糖尿病薬"
-    },
-    {
       "yj_code": "ALL_2449003",
       "name": "プリモボラン錠５ｍｇ",
       "generic_name": "プリモボラン",
-      "category": "糖尿病薬"
-    },
-    {
-      "yj_code": "ALL_3969004",
-      "name": "ベイスン錠０．２　０．２ｍｇ",
-      "generic_name": "ベイスン",
       "category": "糖尿病薬"
     },
     {

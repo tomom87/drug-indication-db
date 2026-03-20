@@ -4,7 +4,12 @@
     "name": "エンメイソウ",
     "generic_name": "エンメイソウ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エンメイソウ",
+        "kana": "ｴﾝﾒｲｿｳ"
+      }
+    ]
   },
   "indications": []
 }

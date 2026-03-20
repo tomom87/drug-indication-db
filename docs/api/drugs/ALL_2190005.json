@@ -4,7 +4,12 @@
     "name": "セロクラール錠２０ｍｇ",
     "generic_name": "セロクラール",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "セロクラール錠２０ｍｇ",
+        "kana": "ｾﾛｸﾗｰﾙｼﾞｮｳ20MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ウチダのヤクチＭ",
     "generic_name": "ウチダのヤクチＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのヤクチＭ",
+        "kana": "ｳﾁﾀﾞﾉﾔｸﾁM"
+      }
+    ]
   },
   "indications": []
 }

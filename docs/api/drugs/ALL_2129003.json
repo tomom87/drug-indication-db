@@ -4,7 +4,12 @@
     "name": "メキシチールカプセル５０ｍｇ",
     "generic_name": "メキシチール",
     "category": "不整脈用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "メキシチールカプセル５０ｍｇ",
+        "kana": "ﾒｷｼﾁｰﾙｶﾌﾟｾﾙ50MG"
+      }
+    ]
   },
   "indications": [
     {

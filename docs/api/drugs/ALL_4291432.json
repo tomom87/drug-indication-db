@@ -4,7 +4,12 @@
     "name": "ゾーフィゴ静注",
     "generic_name": "ゾーフィゴ静",
     "category": "抗悪性腫瘍薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゾーフィゴ静注",
+        "kana": "ｿﾞｰﾌｨｺﾞｼﾞｮｳﾁｭｳ"
+      }
+    ]
   },
   "indications": []
 }

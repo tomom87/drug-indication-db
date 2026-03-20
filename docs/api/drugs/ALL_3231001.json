@@ -4,7 +4,12 @@
     "name": "ブドウ糖「コザカイ・Ｍ」",
     "generic_name": "ブドウ糖「コザカイ・Ｍ」",
     "category": "カリウム製剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "ブドウ糖「コザカイ・Ｍ」",
+        "kana": "ﾌﾞﾄﾞｳﾄｳｺｻﾞｶｲM"
+      }
+    ]
   },
   "indications": []
 }

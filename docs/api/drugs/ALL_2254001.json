@@ -4,7 +4,12 @@
     "name": "ベネトリンシロップ０．０４％",
     "generic_name": "ベネトリン",
     "category": "気管支拡張薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベネトリンシロップ０．０４％",
+        "kana": "ﾍﾞﾈﾄﾘﾝｼﾛｯﾌﾟ0.04%"
+      }
+    ]
   },
   "indications": [
     {

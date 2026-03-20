@@ -4,7 +4,12 @@
     "name": "ハイチオール散３２％",
     "generic_name": "ハイチオール",
     "category": "骨粗鬆症薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ハイチオール散３２％",
+        "kana": "ﾊｲﾁｵｰﾙｻﾝ32%"
+      }
+    ]
   },
   "indications": [
     {

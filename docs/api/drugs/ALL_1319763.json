@@ -4,7 +4,12 @@
     "name": "グラナテック点眼液０．４％",
     "generic_name": "グラナテック",
     "category": "眼科用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "グラナテック点眼液０．４％",
+        "kana": "ｸﾞﾗﾅﾃｯｸﾃﾝｶﾞﾝｴｷ0.4%"
+      }
+    ]
   },
   "indications": []
 }

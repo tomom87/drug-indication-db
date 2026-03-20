@@ -4,7 +4,12 @@
     "name": "ストロメクトール錠３ｍｇ",
     "generic_name": "ストロメクトール",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ストロメクトール錠３ｍｇ",
+        "kana": "ｽﾄﾛﾒｸﾄｰﾙｼﾞｮｳ3MG"
+      }
+    ]
   },
   "indications": []
 }

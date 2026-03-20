@@ -4,7 +4,12 @@
     "name": "ルティナス腟錠１００ｍｇ",
     "generic_name": "ルティナス腟",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ルティナス腟錠１００ｍｇ",
+        "kana": "ﾙﾃｨﾅｽﾁﾂｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

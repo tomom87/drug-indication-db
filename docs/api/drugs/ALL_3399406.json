@@ -4,7 +4,12 @@
     "name": "ノイトロジン注５０μｇ",
     "generic_name": "ノイトロジン",
     "category": "その他の血液用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ノイトロジン注５０μｇ",
+        "kana": "ﾉｲﾄﾛｼﾞﾝﾁｭｳ50ﾏｲｸﾛG"
+      }
+    ]
   },
   "indications": []
 }

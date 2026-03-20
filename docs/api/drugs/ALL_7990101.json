@@ -4,7 +4,12 @@
     "name": "ビジクリア配合錠",
     "generic_name": "ビジクリア配合",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ビジクリア配合錠",
+        "kana": "ﾋﾞｼﾞｸﾘｱﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "ボラザＧ軟膏",
     "generic_name": "ボラザＧ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ボラザＧ軟膏",
+        "kana": "ﾎﾞﾗｻﾞGﾅﾝｺｳ"
+      }
+    ]
   },
   "indications": []
 }

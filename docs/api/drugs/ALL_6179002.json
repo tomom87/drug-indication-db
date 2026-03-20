@@ -4,7 +4,12 @@
     "name": "ノクサフィル錠１００ｍｇ",
     "generic_name": "ノクサフィル",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ノクサフィル錠１００ｍｇ",
+        "kana": "ﾉｸｻﾌｨﾙｼﾞｮｳ100MG"
+      }
+    ]
   },
   "indications": []
 }

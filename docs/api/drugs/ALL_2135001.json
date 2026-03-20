@@ -4,7 +4,12 @@
     "name": "バイカロン錠２５ｍｇ",
     "generic_name": "バイカロン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "バイカロン錠２５ｍｇ",
+        "kana": "ﾊﾞｲｶﾛﾝｼﾞｮｳ25MG"
+      }
+    ]
   },
   "indications": []
 }

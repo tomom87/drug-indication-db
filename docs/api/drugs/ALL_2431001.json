@@ -4,7 +4,12 @@
     "name": "乾燥甲状腺",
     "generic_name": "乾燥甲状腺",
     "category": "甲状腺ホルモン薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "乾燥甲状腺",
+        "kana": "ｶﾝｿｳｺｳｼﾞｮｳｾﾝ"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "ウチダのシュクシャＭ",
     "generic_name": "ウチダのシュクシャＭ",
     "category": "生薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ウチダのシュクシャＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｭｸｼｬM"
+      }
+    ]
   },
   "indications": []
 }

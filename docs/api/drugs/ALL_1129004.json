@@ -4,7 +4,12 @@
     "name": "トリクロリールシロップ１０％",
     "generic_name": "トリクロリール",
     "category": "催眠鎮静薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "トリクロリールシロップ１０％",
+        "kana": "ﾄﾘｸﾛﾘｰﾙｼﾛｯﾌﾟ10%"
+      }
+    ]
   },
   "indications": [
     {

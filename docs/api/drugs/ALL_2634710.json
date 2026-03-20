@@ -4,7 +4,12 @@
     "name": "ゲンタシンクリーム０．１％　１ｍｇ",
     "generic_name": "ゲンタシン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "ゲンタシンクリーム０．１％　１ｍｇ",
+        "kana": "ｹﾞﾝﾀｼﾝｸﾘｰﾑ0.1%"
+      }
+    ]
   },
   "indications": []
 }

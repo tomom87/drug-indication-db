@@ -4,7 +4,12 @@
     "name": "アルト原末　５００ｍｇ",
     "generic_name": "アルト原末",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "アルト原末　５００ｍｇ",
+        "kana": "ｱﾙﾄｹﾞﾝﾏﾂ"
+      }
+    ]
   },
   "indications": []
 }

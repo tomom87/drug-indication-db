@@ -4,7 +4,12 @@
     "name": "トービイ吸入液３００ｍｇ　５ｍＬ",
     "generic_name": "トービイ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "トービイ吸入液３００ｍｇ　５ｍＬ",
+        "kana": "ﾄｰﾋﾞｲｷｭｳﾆｭｳｴｷ300MG"
+      }
+    ]
   },
   "indications": []
 }

@@ -4,7 +4,12 @@
     "name": "レベニン散",
     "generic_name": "レベニン",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "レベニン散",
+        "kana": "ﾚﾍﾞﾆﾝｻﾝ"
+      }
+    ]
   },
   "indications": []
 }

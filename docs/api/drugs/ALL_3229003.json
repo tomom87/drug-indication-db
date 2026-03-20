@@ -4,7 +4,12 @@
     "name": "酢酸カリウム液「司生堂」",
     "generic_name": "酢酸カリウム",
     "category": "鉄剤",
-    "brands": []
+    "brands": [
+      {
+        "name": "酢酸カリウム液「司生堂」",
+        "kana": "ｻｸｻﾝｶﾘｳﾑｴｷｼｾｲﾄﾞｳ"
+      }
+    ]
   },
   "indications": [
     {

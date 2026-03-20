@@ -4,7 +4,12 @@
     "name": "インチュニブ錠１ｍｇ",
     "generic_name": "インチュニブ",
     "category": "精神神経用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "インチュニブ錠１ｍｇ",
+        "kana": "ｲﾝﾁｭﾆﾌﾞｼﾞｮｳ1MG"
+      }
+    ]
   },
   "indications": []
 }

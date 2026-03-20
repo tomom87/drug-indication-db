@@ -4,7 +4,12 @@
     "name": "タケルダ配合錠",
     "generic_name": "タケルダ配合",
     "category": "その他の血液用薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "タケルダ配合錠",
+        "kana": "ﾀｹﾙﾀﾞﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
   },
   "indications": []
 }

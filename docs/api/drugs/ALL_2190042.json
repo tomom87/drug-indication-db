@@ -4,7 +4,12 @@
     "name": "ベリキューボ錠２．５ｍｇ",
     "generic_name": "ベリキューボ",
     "category": "その他の循環器薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "ベリキューボ錠２．５ｍｇ",
+        "kana": "ﾍﾞﾘｷｭｰﾎﾞｼﾞｮｳ2.5MG"
+      }
+    ]
   },
   "indications": []
 }

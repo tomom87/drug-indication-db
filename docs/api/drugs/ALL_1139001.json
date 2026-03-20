@@ -4,7 +4,12 @@
     "name": "エピレオプチマル散５０％",
     "generic_name": "エピレオプチマル",
     "category": "抗不安薬",
-    "brands": []
+    "brands": [
+      {
+        "name": "エピレオプチマル散５０％",
+        "kana": "ｴﾋﾟﾚｵﾌﾟﾁﾏﾙｻﾝ50%"
+      }
+    ]
   },
   "indications": [
     {

@@ -4,7 +4,12 @@
     "name": "サラシミツロウ（東豊）",
     "generic_name": "サラシミツロウ",
     "category": "その他",
-    "brands": []
+    "brands": [
+      {
+        "name": "サラシミツロウ（東豊）",
+        "kana": "ｻﾗｼﾐﾂﾛｳﾄｳﾎｳ"
+      }
+    ]
   },
   "indications": []
 }
