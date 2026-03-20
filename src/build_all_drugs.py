@@ -268,20 +268,14 @@ def build_all():
     c.execute("SELECT yj_code FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
     curated_yj = {row[0] for row in c.fetchall()}
 
-    # キュレーション済み薬剤がカバーするYJ7桁を収集
+    # キュレーション済み薬剤がカバーするYJ7桁をbrand_nameテーブルから取得
     curated_yj7 = set()
+    c.execute("SELECT DISTINCT master_yj7 FROM brand_name WHERE master_yj7 IS NOT NULL")
+    for row in c.fetchall():
+        curated_yj7.add(row[0])
+
     iyakuhin = parse_iyakuhin()
     print(f"医薬品マスター: {len(iyakuhin)} 件")
-
-    # キュレーション済み薬剤の一般名でマスターを検索し、YJ7桁を収集
-    c.execute("SELECT yj_code, generic_name FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
-    curated_generics = {row[1]: row[0] for row in c.fetchall()}
-    for item in iyakuhin:
-        for gn in curated_generics:
-            if gn in item["name"]:
-                curated_yj7.add(item["yj_code"][:7])
-                break
-
     print(f"キュレーション済みYJ7: {len(curated_yj7)}")
 
     # 既存ALL_エントリを削除（重複分をクリーンアップ）

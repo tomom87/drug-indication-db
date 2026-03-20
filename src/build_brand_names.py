@@ -83,24 +83,29 @@ def build_brand_mapping():
     print(f"マッチした薬剤数: {len(brand_to_drug)}")
 
     # DBに保存
+    c.execute("DROP TABLE IF EXISTS brand_name")
     c.execute("""
-        CREATE TABLE IF NOT EXISTS brand_name (
+        CREATE TABLE brand_name (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             yj_code TEXT NOT NULL,
             brand_name TEXT NOT NULL,
             brand_kana TEXT,
+            master_yj7 TEXT,
             FOREIGN KEY (yj_code) REFERENCES drug(yj_code)
         )
     """)
-    c.execute("DELETE FROM brand_name")
     c.execute("CREATE INDEX IF NOT EXISTS idx_brand_yj ON brand_name(yj_code)")
+    c.execute("CREATE INDEX IF NOT EXISTS idx_brand_master_yj7 ON brand_name(master_yj7)")
 
-    for yj_code, brands in brand_to_drug.items():
-        for b in brands:
-            c.execute(
-                "INSERT INTO brand_name (yj_code, brand_name, brand_kana) VALUES (?, ?, ?)",
-                (yj_code, b["brand_name"], b["brand_kana"]),
-            )
+    # master_yj7も一緒に保存
+    for db_yj, yj7_set in drug_yj7s.items():
+        brands = brand_to_drug.get(db_yj, [])
+        for item in iyakuhin:
+            if item["yj7"] in yj7_set:
+                c.execute(
+                    "INSERT INTO brand_name (yj_code, brand_name, brand_kana, master_yj7) VALUES (?, ?, ?, ?)",
+                    (db_yj, item["name"], item["kana"], item["yj7"]),
+                )
 
     conn.commit()
     c.execute("SELECT COUNT(*) FROM brand_name")
