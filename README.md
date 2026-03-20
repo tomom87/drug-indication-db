@@ -9,7 +9,7 @@
 
 ## 使い方
 
-GitHub Pages: `https://<user>.github.io/drug-indication-db/`
+https://tomom87.github.io/drug-indication-db/
 
 ### 静的JSON API
 
