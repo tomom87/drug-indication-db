@@ -414,15 +414,6 @@
     "icd10": "J189"
   },
   {
-    "yj_code": "ALL_2354002F1",
-    "drug_name": "アジャストＡコーワ錠４０ｍｇ",
-    "generic_name": "アジャストＡコーワ",
-    "category": "利胆薬",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
-  },
-  {
     "yj_code": "NAIKA_0009",
     "drug_name": "アジルサルタン",
     "generic_name": "アジルサルタン",
@@ -468,12 +459,93 @@
     "icd10": "G20"
   },
   {
+    "yj_code": "ALL_3140001X1",
+    "drug_name": "アスコルビン酸",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140001B2",
+    "drug_name": "アスコルビン酸散　１０％",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140001B3",
+    "drug_name": "アスコルビン酸散　２０％",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140400A3",
+    "drug_name": "アスコルビン酸注射液　２００ｍｇ",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140400A6",
+    "drug_name": "アスコルビン酸注射液２０００ｍｇ「トーワ」　２ｇ",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140400A2",
+    "drug_name": "アスコルビン酸注１００ｍｇ「イセイ」",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140400A5",
+    "drug_name": "アスコルビン酸注１ｇ「ＮＰ」",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140400A4",
+    "drug_name": "アスコルビン酸注５００ｍｇ「イセイ」",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
+    "yj_code": "ALL_3140401A1",
+    "drug_name": "アスコルビン酸注５００ｍｇＰＢ「日新」",
+    "generic_name": "アスコルビン酸",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
     "yj_code": "ALL_2229001Q1",
     "drug_name": "アストミンシロップ０．２５％",
     "generic_name": "アストミン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -481,8 +553,8 @@
     "drug_name": "アストミン散１０％",
     "generic_name": "アストミン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -490,8 +562,8 @@
     "drug_name": "アストミン錠１０ｍｇ",
     "generic_name": "アストミン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -3010,18 +3082,18 @@
     "drug_name": "ウラリット配合錠",
     "generic_name": "ウラリット配合",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949101F1",
     "drug_name": "ウラリット配合錠",
     "generic_name": "ウラリット配合",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949101F1",
@@ -3037,18 +3109,18 @@
     "drug_name": "ウラリット－Ｕ配合散",
     "generic_name": "ウラリット－Ｕ配合",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949101A1",
     "drug_name": "ウラリット－Ｕ配合散",
     "generic_name": "ウラリット－Ｕ配合",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949101A1",
@@ -3064,18 +3136,18 @@
     "drug_name": "ウリアデック錠２０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949004F1",
     "drug_name": "ウリアデック錠２０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949004F1",
@@ -3091,18 +3163,18 @@
     "drug_name": "ウリアデック錠４０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949004F2",
     "drug_name": "ウリアデック錠４０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949004F2",
@@ -3118,18 +3190,18 @@
     "drug_name": "ウリアデック錠６０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949004F3",
     "drug_name": "ウリアデック錠６０ｍｇ",
     "generic_name": "ウリアデック",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949004F3",
@@ -3148,15 +3220,6 @@
     "byomei_code": "8849023",
     "byomei_name": "原発性胆汁性胆管炎",
     "icd10": "K743"
-  },
-  {
-    "yj_code": "NAIKA_0192",
-    "drug_name": "ウルソデオキシコール酸",
-    "generic_name": "ウルソデオキシコール酸",
-    "category": "肝臓薬",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
   },
   {
     "yj_code": "ALL_2259805G1",
@@ -3856,18 +3919,18 @@
     "drug_name": "エピナスチン",
     "generic_name": "エピナスチン",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "NAIKA_0058",
     "drug_name": "エピナスチン",
     "generic_name": "エピナスチン",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "NAIKA_0058",
@@ -5589,15 +5652,6 @@
     "icd10": "G409"
   },
   {
-    "yj_code": "ALL_2354001X1",
-    "drug_name": "カスカラサグラダ流エキス（司生堂）",
-    "generic_name": "カスカラサグラダ流エキス",
-    "category": "利胆薬",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
-  },
-  {
     "yj_code": "ALL_3999411H3",
     "drug_name": "カタクロット注射液４０ｍｇ　５ｍＬ",
     "generic_name": "カタクロット",
@@ -5692,8 +5746,8 @@
     "drug_name": "カフコデＮ配合錠",
     "generic_name": "カフコデＮ配合",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -6660,6 +6714,15 @@
     "icd10": "G409"
   },
   {
+    "yj_code": "ALL_3140500A2",
+    "drug_name": "クリストファン注　２０ｍＬ",
+    "generic_name": "クリストファン",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  {
     "yj_code": "ALL_3999452A1",
     "drug_name": "クリースビータ皮下注１０ｍｇ　１ｍＬ",
     "generic_name": "クリースビータ皮下",
@@ -6817,8 +6880,8 @@
     "drug_name": "クロフェドリンＳ配合シロップ",
     "generic_name": "クロフェドリンＳ配合",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -6826,8 +6889,8 @@
     "drug_name": "クロフェドリンＳ配合錠",
     "generic_name": "クロフェドリンＳ配合",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -7438,6 +7501,15 @@
     "drug_name": "コデインリン酸塩",
     "generic_name": "コデインリン酸塩",
     "category": "鎮咳薬",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
+  },
+  {
+    "yj_code": "NAIKA_0045",
+    "drug_name": "コデインリン酸塩",
+    "generic_name": "コデインリン酸塩",
+    "category": "鎮咳薬",
     "byomei_code": "4659007",
     "byomei_name": "急性上気道炎",
     "icd10": "J069"
@@ -7450,15 +7522,6 @@
     "byomei_code": "4660009",
     "byomei_name": "急性気管支炎",
     "icd10": "J209"
-  },
-  {
-    "yj_code": "NAIKA_0045",
-    "drug_name": "コデインリン酸塩",
-    "generic_name": "コデインリン酸塩",
-    "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
   },
   {
     "yj_code": "ALL_3999440G1",
@@ -7537,8 +7600,8 @@
     "drug_name": "コルドリン錠１２．５ｍｇ",
     "generic_name": "コルドリン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -7546,8 +7609,8 @@
     "drug_name": "コルドリン顆粒４．１７％",
     "generic_name": "コルドリン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -8635,8 +8698,8 @@
     "drug_name": "ジメモルファンリン酸塩ＤＳ小児用２．５％「タカタ」",
     "generic_name": "ジメモルファンリン酸塩ＤＳ小児用",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -10237,6 +10300,15 @@
     "drug_name": "セフトリアキソン",
     "generic_name": "セフトリアキソン",
     "category": "抗菌薬",
+    "byomei_code": "8837151",
+    "byomei_name": "胆のう炎",
+    "icd10": "K819"
+  },
+  {
+    "yj_code": "NAIKA_0054",
+    "drug_name": "セフトリアキソン",
+    "generic_name": "セフトリアキソン",
+    "category": "抗菌薬",
     "byomei_code": "5751001",
     "byomei_name": "胆管炎",
     "icd10": "K830"
@@ -10564,15 +10636,6 @@
     "byomei_code": "8844095",
     "byomei_name": "パニック障害",
     "icd10": "F410"
-  },
-  {
-    "yj_code": "NAIKA_0078",
-    "drug_name": "セルトラリン",
-    "generic_name": "セルトラリン",
-    "category": "抗うつ薬",
-    "byomei_code": "8845678",
-    "byomei_name": "心的外傷後ストレス障害",
-    "icd10": "F431"
   },
   {
     "yj_code": "ALL_1169010F1",
@@ -11515,15 +11578,6 @@
     "drug_name": "ダビガトラン",
     "generic_name": "ダビガトラン",
     "category": "抗凝固薬",
-    "byomei_code": "8838838",
-    "byomei_name": "肺静脈血栓塞栓症",
-    "icd10": "I269"
-  },
-  {
-    "yj_code": "NAIKA_0176",
-    "drug_name": "ダビガトラン",
-    "generic_name": "ダビガトラン",
-    "category": "抗凝固薬",
     "byomei_code": "4369009",
     "byomei_name": "脳卒中",
     "icd10": "I64"
@@ -11911,9 +11965,9 @@
     "drug_name": "ツムラ三黄瀉心湯エキス顆粒（医療用）",
     "generic_name": "三黄瀉心湯",
     "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
   },
   {
     "yj_code": "TJ_113",
@@ -12046,18 +12100,18 @@
     "drug_name": "ツムラ五積散エキス顆粒（医療用）",
     "generic_name": "五積散",
     "category": "漢方",
-    "byomei_code": "6252001",
-    "byomei_name": "月経痛",
-    "icd10": "N946"
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
   },
   {
     "yj_code": "TJ_063",
     "drug_name": "ツムラ五積散エキス顆粒（医療用）",
     "generic_name": "五積散",
     "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
+    "byomei_code": "6252001",
+    "byomei_name": "月経痛",
+    "icd10": "N946"
   },
   {
     "yj_code": "TJ_063",
@@ -12181,8 +12235,8 @@
     "drug_name": "ツムラ五虎湯エキス顆粒（医療用）",
     "generic_name": "五虎湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -12193,15 +12247,6 @@
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
     "icd10": "J459"
-  },
-  {
-    "yj_code": "TJ_032",
-    "drug_name": "ツムラ人参湯エキス顆粒（医療用）",
-    "generic_name": "人参湯",
-    "category": "漢方",
-    "byomei_code": "8834887",
-    "byomei_name": "心因性胃アトニー",
-    "icd10": "F453"
   },
   {
     "yj_code": "TJ_032",
@@ -12334,15 +12379,6 @@
     "drug_name": "ツムラ六君子湯エキス顆粒（医療用）",
     "generic_name": "六君子湯",
     "category": "漢方",
-    "byomei_code": "8834887",
-    "byomei_name": "心因性胃アトニー",
-    "icd10": "F453"
-  },
-  {
-    "yj_code": "TJ_043",
-    "drug_name": "ツムラ六君子湯エキス顆粒（医療用）",
-    "generic_name": "六君子湯",
-    "category": "漢方",
     "byomei_code": "8847604",
     "byomei_name": "機能性ディスペプシア",
     "icd10": "K30"
@@ -12469,6 +12505,15 @@
     "drug_name": "ツムラ加味逍遙散エキス顆粒（医療用）",
     "generic_name": "加味逍遙散",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_024",
+    "drug_name": "ツムラ加味逍遙散エキス顆粒（医療用）",
+    "generic_name": "加味逍遙散",
+    "category": "漢方",
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
@@ -12481,15 +12526,6 @@
     "byomei_code": "8833259",
     "byomei_name": "月経困難症",
     "icd10": "N946"
-  },
-  {
-    "yj_code": "TJ_024",
-    "drug_name": "ツムラ加味逍遙散エキス顆粒（医療用）",
-    "generic_name": "加味逍遙散",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
   },
   {
     "yj_code": "TJ_024",
@@ -12532,9 +12568,9 @@
     "drug_name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
     "generic_name": "十味敗毒湯",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_006",
@@ -12604,6 +12640,15 @@
     "drug_name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
     "generic_name": "半夏厚朴湯",
     "category": "漢方",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
+  },
+  {
+    "yj_code": "TJ_016",
+    "drug_name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+    "generic_name": "半夏厚朴湯",
+    "category": "漢方",
     "byomei_code": "7849002",
     "byomei_name": "咽喉頭異常感症",
     "icd10": "F453"
@@ -12616,15 +12661,6 @@
     "byomei_code": "7844016",
     "byomei_name": "嗄声",
     "icd10": "R490"
-  },
-  {
-    "yj_code": "TJ_016",
-    "drug_name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
-    "generic_name": "半夏厚朴湯",
-    "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
   },
   {
     "yj_code": "TJ_016",
@@ -12730,18 +12766,18 @@
     "drug_name": "ツムラ参蘇飲エキス顆粒（医療用）",
     "generic_name": "参蘇飲",
     "category": "漢方",
-    "byomei_code": "4609008",
-    "byomei_name": "感冒",
-    "icd10": "J00"
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
   },
   {
     "yj_code": "TJ_066",
     "drug_name": "ツムラ参蘇飲エキス顆粒（医療用）",
     "generic_name": "参蘇飲",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
+    "byomei_code": "4609008",
+    "byomei_name": "感冒",
+    "icd10": "J00"
   },
   {
     "yj_code": "TJ_031",
@@ -12901,9 +12937,9 @@
     "drug_name": "ツムラ四逆散エキス顆粒（医療用）",
     "generic_name": "四逆散",
     "category": "漢方",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
+    "byomei_code": "8837151",
+    "byomei_name": "胆のう炎",
+    "icd10": "K819"
   },
   {
     "yj_code": "TJ_100",
@@ -12919,18 +12955,18 @@
     "drug_name": "ツムラ大建中湯エキス顆粒（医療用）",
     "generic_name": "大建中湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
+    "byomei_code": "8840042",
+    "byomei_name": "便秘症",
+    "icd10": "K590"
   },
   {
     "yj_code": "TJ_100",
     "drug_name": "ツムラ大建中湯エキス顆粒（医療用）",
     "generic_name": "大建中湯",
     "category": "漢方",
-    "byomei_code": "8840042",
-    "byomei_name": "便秘症",
-    "icd10": "K590"
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_133",
@@ -12964,18 +13000,18 @@
     "drug_name": "ツムラ大柴胡湯エキス顆粒（医療用）",
     "generic_name": "大柴胡湯",
     "category": "漢方",
-    "byomei_code": "8839792",
-    "byomei_name": "不眠症",
-    "icd10": "G470"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_008",
     "drug_name": "ツムラ大柴胡湯エキス顆粒（医療用）",
     "generic_name": "大柴胡湯",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8839792",
+    "byomei_name": "不眠症",
+    "icd10": "G470"
   },
   {
     "yj_code": "TJ_008",
@@ -13000,9 +13036,9 @@
     "drug_name": "ツムラ大柴胡湯エキス顆粒（医療用）",
     "generic_name": "大柴胡湯",
     "category": "漢方",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
+    "byomei_code": "8837151",
+    "byomei_name": "胆のう炎",
+    "icd10": "K819"
   },
   {
     "yj_code": "TJ_008",
@@ -13099,18 +13135,18 @@
     "drug_name": "ツムラ女神散エキス顆粒（医療用）",
     "generic_name": "女神散",
     "category": "漢方",
-    "byomei_code": "8833261",
-    "byomei_name": "月経不順",
-    "icd10": "N926"
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
   },
   {
     "yj_code": "TJ_067",
     "drug_name": "ツムラ女神散エキス顆粒（医療用）",
     "generic_name": "女神散",
     "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
+    "byomei_code": "8833261",
+    "byomei_name": "月経不順",
+    "icd10": "N926"
   },
   {
     "yj_code": "TJ_067",
@@ -13180,15 +13216,6 @@
     "drug_name": "ツムラ小建中湯エキス顆粒（医療用）",
     "generic_name": "小建中湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
-  },
-  {
-    "yj_code": "TJ_099",
-    "drug_name": "ツムラ小建中湯エキス顆粒（医療用）",
-    "generic_name": "小建中湯",
-    "category": "漢方",
     "byomei_code": "8836510",
     "byomei_name": "全身倦怠感",
     "icd10": "R53"
@@ -13210,6 +13237,15 @@
     "byomei_code": "5580033",
     "byomei_name": "慢性胃腸炎",
     "icd10": "K529"
+  },
+  {
+    "yj_code": "TJ_099",
+    "drug_name": "ツムラ小建中湯エキス顆粒（医療用）",
+    "generic_name": "小建中湯",
+    "category": "漢方",
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_009",
@@ -13405,15 +13441,6 @@
     "drug_name": "ツムラ平胃散エキス顆粒（医療用）",
     "generic_name": "平胃散",
     "category": "漢方",
-    "byomei_code": "8834887",
-    "byomei_name": "心因性胃アトニー",
-    "icd10": "F453"
-  },
-  {
-    "yj_code": "TJ_079",
-    "drug_name": "ツムラ平胃散エキス顆粒（医療用）",
-    "generic_name": "平胃散",
-    "category": "漢方",
     "byomei_code": "5350004",
     "byomei_name": "急性胃炎",
     "icd10": "K291"
@@ -13450,15 +13477,6 @@
     "drug_name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
     "generic_name": "当帰四逆加呉茱萸生姜湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
-  },
-  {
-    "yj_code": "TJ_038",
-    "drug_name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
-    "generic_name": "当帰四逆加呉茱萸生姜湯",
-    "category": "漢方",
     "byomei_code": "8839176",
     "byomei_name": "冷え症",
     "icd10": "R688"
@@ -13486,18 +13504,18 @@
     "drug_name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
     "generic_name": "当帰四逆加呉茱萸生姜湯",
     "category": "漢方",
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
+  },
+  {
+    "yj_code": "TJ_038",
+    "drug_name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
+    "generic_name": "当帰四逆加呉茱萸生姜湯",
+    "category": "漢方",
     "byomei_code": "7840024",
     "byomei_name": "頭痛",
     "icd10": "R51"
-  },
-  {
-    "yj_code": "TJ_123",
-    "drug_name": "ツムラ当帰建中湯エキス顆粒（医療用）",
-    "generic_name": "当帰建中湯",
-    "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
   },
   {
     "yj_code": "TJ_123",
@@ -13518,13 +13536,13 @@
     "icd10": "K649"
   },
   {
-    "yj_code": "TJ_102",
-    "drug_name": "ツムラ当帰湯エキス顆粒（医療用）",
-    "generic_name": "当帰湯",
+    "yj_code": "TJ_123",
+    "drug_name": "ツムラ当帰建中湯エキス顆粒（医療用）",
+    "generic_name": "当帰建中湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_102",
@@ -13534,6 +13552,15 @@
     "byomei_code": "8839176",
     "byomei_name": "冷え症",
     "icd10": "R688"
+  },
+  {
+    "yj_code": "TJ_102",
+    "drug_name": "ツムラ当帰湯エキス顆粒（医療用）",
+    "generic_name": "当帰湯",
+    "category": "漢方",
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_023",
@@ -13567,6 +13594,15 @@
     "drug_name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
     "generic_name": "当帰芍薬散",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_023",
+    "drug_name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
+    "generic_name": "当帰芍薬散",
+    "category": "漢方",
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
@@ -13588,15 +13624,6 @@
     "byomei_code": "7823024",
     "byomei_name": "浮腫",
     "icd10": "R609"
-  },
-  {
-    "yj_code": "TJ_023",
-    "drug_name": "ツムラ当帰芍薬散エキス顆粒（医療用）",
-    "generic_name": "当帰芍薬散",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
   },
   {
     "yj_code": "TJ_023",
@@ -13756,18 +13783,18 @@
     "drug_name": "ツムラ柴朴湯エキス顆粒（医療用）",
     "generic_name": "柴朴湯",
     "category": "漢方",
-    "byomei_code": "7849002",
-    "byomei_name": "咽喉頭異常感症",
-    "icd10": "F453"
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
   },
   {
     "yj_code": "TJ_096",
     "drug_name": "ツムラ柴朴湯エキス顆粒（医療用）",
     "generic_name": "柴朴湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
+    "byomei_code": "7849002",
+    "byomei_name": "咽喉頭異常感症",
+    "icd10": "F453"
   },
   {
     "yj_code": "TJ_096",
@@ -13855,6 +13882,15 @@
     "drug_name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
     "generic_name": "柴胡桂枝乾姜湯",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_011",
+    "drug_name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
+    "generic_name": "柴胡桂枝乾姜湯",
+    "category": "漢方",
     "byomei_code": "4900009",
     "byomei_name": "気管支炎",
     "icd10": "J40"
@@ -13864,27 +13900,9 @@
     "drug_name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
     "generic_name": "柴胡桂枝乾姜湯",
     "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
-  },
-  {
-    "yj_code": "TJ_011",
-    "drug_name": "ツムラ柴胡桂枝乾姜湯エキス顆粒（医療用）",
-    "generic_name": "柴胡桂枝乾姜湯",
-    "category": "漢方",
     "byomei_code": "3009007",
     "byomei_name": "神経症",
     "icd10": "F489"
-  },
-  {
-    "yj_code": "TJ_010",
-    "drug_name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
-    "generic_name": "柴胡桂枝湯",
-    "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
   },
   {
     "yj_code": "TJ_010",
@@ -13903,6 +13921,15 @@
     "byomei_code": "0091005",
     "byomei_name": "胃腸炎",
     "icd10": "A099"
+  },
+  {
+    "yj_code": "TJ_010",
+    "drug_name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
+    "generic_name": "柴胡桂枝湯",
+    "category": "漢方",
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_080",
@@ -13972,8 +13999,8 @@
     "drug_name": "ツムラ柴陥湯エキス顆粒（医療用）",
     "generic_name": "柴陥湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -14098,18 +14125,18 @@
     "drug_name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
     "generic_name": "桂枝加芍薬湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
+    "byomei_code": "8840042",
+    "byomei_name": "便秘症",
+    "icd10": "K590"
   },
   {
     "yj_code": "TJ_060",
     "drug_name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
     "generic_name": "桂枝加芍薬湯",
     "category": "漢方",
-    "byomei_code": "8840042",
-    "byomei_name": "便秘症",
-    "icd10": "K590"
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_060",
@@ -14152,6 +14179,15 @@
     "drug_name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
     "generic_name": "桂枝茯苓丸",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_025",
+    "drug_name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
+    "generic_name": "桂枝茯苓丸",
+    "category": "漢方",
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
@@ -14164,15 +14200,6 @@
     "byomei_code": "8833259",
     "byomei_name": "月経困難症",
     "icd10": "N946"
-  },
-  {
-    "yj_code": "TJ_025",
-    "drug_name": "ツムラ桂枝茯苓丸エキス顆粒（医療用）",
-    "generic_name": "桂枝茯苓丸",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
   },
   {
     "yj_code": "TJ_025",
@@ -14200,15 +14227,6 @@
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
-  },
-  {
-    "yj_code": "TJ_125",
-    "drug_name": "ツムラ桂枝茯苓丸加薏苡仁エキス顆粒（医療用）",
-    "generic_name": "桂枝茯苓丸加薏苡仁",
-    "category": "漢方",
-    "byomei_code": "8837912",
-    "byomei_name": "鉄色素沈着",
-    "icd10": "L818"
   },
   {
     "yj_code": "TJ_061",
@@ -14296,15 +14314,6 @@
     "drug_name": "ツムラ治頭瘡一方エキス顆粒（医療用）",
     "generic_name": "治頭瘡一方",
     "category": "漢方",
-    "byomei_code": "8832415",
-    "byomei_name": "急性乳児湿疹",
-    "icd10": "L208"
-  },
-  {
-    "yj_code": "TJ_059",
-    "drug_name": "ツムラ治頭瘡一方エキス顆粒（医療用）",
-    "generic_name": "治頭瘡一方",
-    "category": "漢方",
     "byomei_code": "6923002",
     "byomei_name": "湿疹",
     "icd10": "L309"
@@ -14323,9 +14332,9 @@
     "drug_name": "ツムラ消風散エキス顆粒（医療用）",
     "generic_name": "消風散",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_022",
@@ -14440,8 +14449,8 @@
     "drug_name": "ツムラ清肺湯エキス顆粒（医療用）",
     "generic_name": "清肺湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -14461,6 +14470,15 @@
     "byomei_code": "4900009",
     "byomei_name": "気管支炎",
     "icd10": "J40"
+  },
+  {
+    "yj_code": "TJ_057",
+    "drug_name": "ツムラ温清飲エキス顆粒（医療用）",
+    "generic_name": "温清飲",
+    "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
   },
   {
     "yj_code": "TJ_057",
@@ -14488,15 +14506,6 @@
     "byomei_code": "6923002",
     "byomei_name": "湿疹",
     "icd10": "L309"
-  },
-  {
-    "yj_code": "TJ_057",
-    "drug_name": "ツムラ温清飲エキス顆粒（医療用）",
-    "generic_name": "温清飲",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
   },
   {
     "yj_code": "TJ_057",
@@ -14539,6 +14548,15 @@
     "drug_name": "ツムラ温経湯エキス顆粒（医療用）",
     "generic_name": "温経湯",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_106",
+    "drug_name": "ツムラ温経湯エキス顆粒（医療用）",
+    "generic_name": "温経湯",
+    "category": "漢方",
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
@@ -14562,21 +14580,12 @@
     "icd10": "L309"
   },
   {
-    "yj_code": "TJ_106",
-    "drug_name": "ツムラ温経湯エキス顆粒（医療用）",
-    "generic_name": "温経湯",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
-  },
-  {
     "yj_code": "TJ_092",
     "drug_name": "ツムラ滋陰至宝湯エキス顆粒（医療用）",
     "generic_name": "滋陰至宝湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -14593,8 +14602,8 @@
     "drug_name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
     "generic_name": "滋陰降火湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -14863,9 +14872,9 @@
     "drug_name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
     "generic_name": "白虎加人参湯",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_034",
@@ -15070,18 +15079,18 @@
     "drug_name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
     "generic_name": "竹筎温胆湯",
     "category": "漢方",
-    "byomei_code": "4609008",
-    "byomei_name": "感冒",
-    "icd10": "J00"
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
   },
   {
     "yj_code": "TJ_091",
     "drug_name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
     "generic_name": "竹筎温胆湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
+    "byomei_code": "4609008",
+    "byomei_name": "感冒",
+    "icd10": "J00"
   },
   {
     "yj_code": "TJ_091",
@@ -15106,18 +15115,18 @@
     "drug_name": "ツムラ胃苓湯エキス顆粒（医療用）",
     "generic_name": "胃苓湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
+    "byomei_code": "0091009",
+    "byomei_name": "急性胃腸炎",
+    "icd10": "A099"
   },
   {
     "yj_code": "TJ_115",
     "drug_name": "ツムラ胃苓湯エキス顆粒（医療用）",
     "generic_name": "胃苓湯",
     "category": "漢方",
-    "byomei_code": "0091009",
-    "byomei_name": "急性胃腸炎",
-    "icd10": "A099"
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_115",
@@ -15142,17 +15151,8 @@
     "drug_name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
     "generic_name": "芍薬甘草湯",
     "category": "漢方",
-    "byomei_code": "8831434",
-    "byomei_name": "下腹痛",
-    "icd10": "R103"
-  },
-  {
-    "yj_code": "TJ_068",
-    "drug_name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
-    "generic_name": "芍薬甘草湯",
-    "category": "漢方",
-    "byomei_code": "7288025",
-    "byomei_name": "四肢筋痙攣",
+    "byomei_code": "8841396",
+    "byomei_name": "有痛性筋痙攣",
     "icd10": "R252"
   },
   {
@@ -15163,6 +15163,15 @@
     "byomei_code": "7291015",
     "byomei_name": "筋肉痛",
     "icd10": "M7919"
+  },
+  {
+    "yj_code": "TJ_068",
+    "drug_name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
+    "generic_name": "芍薬甘草湯",
+    "category": "漢方",
+    "byomei_code": "8839710",
+    "byomei_name": "腹痛症",
+    "icd10": "R104"
   },
   {
     "yj_code": "TJ_077",
@@ -15295,15 +15304,6 @@
     "drug_name": "ツムラ茯苓飲エキス顆粒（医療用）",
     "generic_name": "茯苓飲",
     "category": "漢方",
-    "byomei_code": "8834887",
-    "byomei_name": "心因性胃アトニー",
-    "icd10": "F453"
-  },
-  {
-    "yj_code": "TJ_069",
-    "drug_name": "ツムラ茯苓飲エキス顆粒（医療用）",
-    "generic_name": "茯苓飲",
-    "category": "漢方",
     "byomei_code": "7870002",
     "byomei_name": "悪心",
     "icd10": "R11"
@@ -15358,9 +15358,9 @@
     "drug_name": "ツムラ茵蔯五苓散エキス顆粒（医療用）",
     "generic_name": "茵蔯五苓散",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_117",
@@ -15394,9 +15394,9 @@
     "drug_name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
     "generic_name": "茵蔯蒿湯",
     "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "TJ_135",
@@ -15466,6 +15466,15 @@
     "drug_name": "ツムラ葛根湯エキス顆粒（医療用）",
     "generic_name": "葛根湯",
     "category": "漢方",
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
+  },
+  {
+    "yj_code": "TJ_001",
+    "drug_name": "ツムラ葛根湯エキス顆粒（医療用）",
+    "generic_name": "葛根湯",
+    "category": "漢方",
     "byomei_code": "2893003",
     "byomei_name": "リンパ節炎",
     "icd10": "I889"
@@ -15487,15 +15496,6 @@
     "byomei_code": "6110007",
     "byomei_name": "乳腺炎",
     "icd10": "N61"
-  },
-  {
-    "yj_code": "TJ_001",
-    "drug_name": "ツムラ葛根湯エキス顆粒（医療用）",
-    "generic_name": "葛根湯",
-    "category": "漢方",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
   },
   {
     "yj_code": "TJ_001",
@@ -15754,6 +15754,15 @@
     "drug_name": "ツムラ通導散エキス顆粒（医療用）",
     "generic_name": "通導散",
     "category": "漢方",
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
+  },
+  {
+    "yj_code": "TJ_105",
+    "drug_name": "ツムラ通導散エキス顆粒（医療用）",
+    "generic_name": "通導散",
+    "category": "漢方",
     "byomei_code": "8833261",
     "byomei_name": "月経不順",
     "icd10": "N926"
@@ -15766,15 +15775,6 @@
     "byomei_code": "6252001",
     "byomei_name": "月経痛",
     "icd10": "N946"
-  },
-  {
-    "yj_code": "TJ_105",
-    "drug_name": "ツムラ通導散エキス顆粒（医療用）",
-    "generic_name": "通導散",
-    "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
   },
   {
     "yj_code": "TJ_105",
@@ -15952,8 +15952,8 @@
     "drug_name": "ツムラ麦門冬湯エキス顆粒（医療用）",
     "generic_name": "麦門冬湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -15988,18 +15988,18 @@
     "drug_name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
     "generic_name": "麻杏甘石湯",
     "category": "漢方",
-    "byomei_code": "4609008",
-    "byomei_name": "感冒",
-    "icd10": "J00"
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
   },
   {
     "yj_code": "TJ_055",
     "drug_name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
     "generic_name": "麻杏甘石湯",
     "category": "漢方",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
+    "byomei_code": "4609008",
+    "byomei_name": "感冒",
+    "icd10": "J00"
   },
   {
     "yj_code": "TJ_055",
@@ -16018,15 +16018,6 @@
     "byomei_code": "4900009",
     "byomei_name": "気管支炎",
     "icd10": "J40"
-  },
-  {
-    "yj_code": "TJ_078",
-    "drug_name": "ツムラ麻杏薏甘湯エキス顆粒（医療用）",
-    "generic_name": "麻杏薏甘湯",
-    "category": "漢方",
-    "byomei_code": "0781036",
-    "byomei_name": "いぼ状表皮異形成",
-    "icd10": "Q828"
   },
   {
     "yj_code": "TJ_078",
@@ -16168,18 +16159,18 @@
     "drug_name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
     "generic_name": "黄連解毒湯",
     "category": "漢方",
-    "byomei_code": "6923002",
-    "byomei_name": "湿疹",
-    "icd10": "L309"
+    "byomei_code": "6272001",
+    "byomei_name": "更年期症候群",
+    "icd10": "N951"
   },
   {
     "yj_code": "TJ_015",
     "drug_name": "ツムラ黄連解毒湯エキス顆粒（医療用）",
     "generic_name": "黄連解毒湯",
     "category": "漢方",
-    "byomei_code": "8844079",
-    "byomei_name": "男性更年期障害",
-    "icd10": "N508"
+    "byomei_code": "6923002",
+    "byomei_name": "湿疹",
+    "icd10": "L309"
   },
   {
     "yj_code": "TJ_015",
@@ -16663,6 +16654,15 @@
     "drug_name": "デキストロメトルファン",
     "generic_name": "デキストロメトルファン",
     "category": "鎮咳薬",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
+  },
+  {
+    "yj_code": "NAIKA_0046",
+    "drug_name": "デキストロメトルファン",
+    "generic_name": "デキストロメトルファン",
+    "category": "鎮咳薬",
     "byomei_code": "4659007",
     "byomei_name": "急性上気道炎",
     "icd10": "J069"
@@ -16684,15 +16684,6 @@
     "byomei_code": "4609008",
     "byomei_name": "感冒",
     "icd10": "J00"
-  },
-  {
-    "yj_code": "NAIKA_0046",
-    "drug_name": "デキストロメトルファン",
-    "generic_name": "デキストロメトルファン",
-    "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
   },
   {
     "yj_code": "ALL_6250111F2",
@@ -18904,18 +18895,18 @@
     "drug_name": "ノスカピン",
     "generic_name": "ノスカピン",
     "category": "鎮咳薬",
-    "byomei_code": "4659007",
-    "byomei_name": "急性上気道炎",
-    "icd10": "J069"
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
+    "icd10": "R05"
   },
   {
     "yj_code": "ALL_2222001A1",
     "drug_name": "ノスカピン",
     "generic_name": "ノスカピン",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
-    "icd10": "R05"
+    "byomei_code": "4659007",
+    "byomei_name": "急性上気道炎",
+    "icd10": "J069"
   },
   {
     "yj_code": "ALL_1172404A1",
@@ -18988,6 +18979,15 @@
     "byomei_code": "8839596",
     "byomei_name": "不安障害",
     "icd10": "F419"
+  },
+  {
+    "yj_code": "ALL_3140002D1",
+    "drug_name": "ハイシー顆粒２５％",
+    "generic_name": "ハイシー",
+    "category": "ビタミンC薬",
+    "byomei_code": "8839501",
+    "byomei_name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
   },
   {
     "yj_code": "ALL_3999006A1",
@@ -19480,9 +19480,9 @@
     "drug_name": "バルプロ酸",
     "generic_name": "バルプロ酸",
     "category": "抗てんかん薬",
-    "byomei_code": "8832941",
-    "byomei_name": "軽躁病",
-    "icd10": "F300"
+    "byomei_code": "2960008",
+    "byomei_name": "躁状態",
+    "icd10": "F309"
   },
   {
     "yj_code": "NAIKA_0232",
@@ -19717,15 +19717,6 @@
     "byomei_code": "8832567",
     "byomei_name": "強迫性障害",
     "icd10": "F429"
-  },
-  {
-    "yj_code": "NAIKA_0205",
-    "drug_name": "パロキセチン",
-    "generic_name": "パロキセチン",
-    "category": "抗うつ薬",
-    "byomei_code": "8845678",
-    "byomei_name": "心的外傷後ストレス障害",
-    "icd10": "F431"
   },
   {
     "yj_code": "NAIKA_0205",
@@ -20938,18 +20929,18 @@
     "drug_name": "ビラスチン",
     "generic_name": "ビラスチン",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "NAIKA_0057",
     "drug_name": "ビラスチン",
     "generic_name": "ビラスチン",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "NAIKA_0057",
@@ -21874,18 +21865,18 @@
     "drug_name": "フェキソフェナジン",
     "generic_name": "フェキソフェナジン",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "NAIKA_0055",
     "drug_name": "フェキソフェナジン",
     "generic_name": "フェキソフェナジン",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "NAIKA_0055",
@@ -22018,8 +22009,8 @@
     "drug_name": "フスタゾール散１０％",
     "generic_name": "フスタゾール",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -22027,8 +22018,8 @@
     "drug_name": "フスタゾール糖衣錠１０ｍｇ",
     "generic_name": "フスタゾール糖衣",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -22036,8 +22027,8 @@
     "drug_name": "フスタゾール錠小児用２．５ｍｇ",
     "generic_name": "フスタゾール",
     "category": "鎮咳薬",
-    "byomei_code": "8840325",
-    "byomei_name": "慢性咳嗽",
+    "byomei_code": "7862008",
+    "byomei_name": "咳",
     "icd10": "R05"
   },
   {
@@ -22963,6 +22954,15 @@
     "drug_name": "プレドニゾロン",
     "generic_name": "プレドニゾロン",
     "category": "ステロイド",
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
+  },
+  {
+    "yj_code": "NAIKA_0059",
+    "drug_name": "プレドニゾロン",
+    "generic_name": "プレドニゾロン",
+    "category": "ステロイド",
     "byomei_code": "4779004",
     "byomei_name": "アレルギー性鼻炎",
     "icd10": "J304"
@@ -22975,15 +22975,6 @@
     "byomei_code": "5819004",
     "byomei_name": "ネフローゼ症候群",
     "icd10": "N049"
-  },
-  {
-    "yj_code": "NAIKA_0059",
-    "drug_name": "プレドニゾロン",
-    "generic_name": "プレドニゾロン",
-    "category": "ステロイド",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
   },
   {
     "yj_code": "NAIKA_0059",
@@ -26185,18 +26176,18 @@
     "drug_name": "ユリス錠０．５ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949005F1",
     "drug_name": "ユリス錠０．５ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949005F1",
@@ -26212,18 +26203,18 @@
     "drug_name": "ユリス錠１ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949005F2",
     "drug_name": "ユリス錠１ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949005F2",
@@ -26239,18 +26230,18 @@
     "drug_name": "ユリス錠２ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "ALL_3949005F3",
     "drug_name": "ユリス錠２ｍｇ",
     "generic_name": "ユリス",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "ALL_3949005F3",
@@ -26269,15 +26260,6 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
-  },
-  {
-    "yj_code": "ALL_2354002F2",
-    "drug_name": "ヨーデルＳ糖衣錠－８０　８０ｍｇ",
-    "generic_name": "ヨーデルＳ糖衣",
-    "category": "利胆薬",
-    "byomei_code": "5742001",
-    "byomei_name": "遺残胆石症",
-    "icd10": "K802"
   },
   {
     "yj_code": "ALL_3253416A1",
@@ -26871,15 +26853,6 @@
     "category": "抗凝固薬",
     "byomei_code": "8848988",
     "byomei_name": "肺血栓塞栓症",
-    "icd10": "I269"
-  },
-  {
-    "yj_code": "NAIKA_0244",
-    "drug_name": "リバーロキサバン10mg",
-    "generic_name": "リバーロキサバン10mg",
-    "category": "抗凝固薬",
-    "byomei_code": "8838838",
-    "byomei_name": "肺静脈血栓塞栓症",
     "icd10": "I269"
   },
   {
@@ -28354,18 +28327,18 @@
     "drug_name": "ロラタジン",
     "generic_name": "ロラタジン",
     "category": "抗アレルギー薬",
-    "byomei_code": "4779004",
-    "byomei_name": "アレルギー性鼻炎",
-    "icd10": "J304"
+    "byomei_code": "8841304",
+    "byomei_name": "じんま疹",
+    "icd10": "L509"
   },
   {
     "yj_code": "NAIKA_0056",
     "drug_name": "ロラタジン",
     "generic_name": "ロラタジン",
     "category": "抗アレルギー薬",
-    "byomei_code": "8849413",
-    "byomei_name": "低補体血症性蕁麻疹様血管炎",
-    "icd10": "M318"
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
   },
   {
     "yj_code": "NAIKA_0056",

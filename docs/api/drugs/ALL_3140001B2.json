@@ -3,7 +3,7 @@
     "yj_code": "ALL_3140001B2",
     "name": "アスコルビン酸散　１０％",
     "generic_name": "アスコルビン酸",
-    "category": "その他",
+    "category": "ビタミンC薬",
     "brands": [
       {
         "name": "アスコルビン酸散　１０％",
@@ -11,5 +11,12 @@
       }
     ]
   },
-  "indications": []
+  "indications": [
+    {
+      "code": "8839501",
+      "name": "ビタミンＣ欠乏症",
+      "kana": "12",
+      "icd10": "E54"
+    }
+  ]
 }

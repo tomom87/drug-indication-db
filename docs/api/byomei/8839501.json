@@ -1,0 +1,75 @@
+{
+  "byomei": {
+    "code": "8839501",
+    "name": "ビタミンＣ欠乏症",
+    "icd10": "E54"
+  },
+  "drugs": [
+    {
+      "yj_code": "ALL_3140001X1",
+      "name": "アスコルビン酸",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140001B2",
+      "name": "アスコルビン酸散　１０％",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140001B3",
+      "name": "アスコルビン酸散　２０％",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140400A3",
+      "name": "アスコルビン酸注射液　２００ｍｇ",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140400A6",
+      "name": "アスコルビン酸注射液２０００ｍｇ「トーワ」　２ｇ",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140400A2",
+      "name": "アスコルビン酸注１００ｍｇ「イセイ」",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140400A5",
+      "name": "アスコルビン酸注１ｇ「ＮＰ」",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140400A4",
+      "name": "アスコルビン酸注５００ｍｇ「イセイ」",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140401A1",
+      "name": "アスコルビン酸注５００ｍｇＰＢ「日新」",
+      "generic_name": "アスコルビン酸",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140500A2",
+      "name": "クリストファン注　２０ｍＬ",
+      "generic_name": "クリストファン",
+      "category": "ビタミンC薬"
+    },
+    {
+      "yj_code": "ALL_3140002D1",
+      "name": "ハイシー顆粒２５％",
+      "generic_name": "ハイシー",
+      "category": "ビタミンC薬"
+    }
+  ]
+}

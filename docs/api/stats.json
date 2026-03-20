@@ -1,12 +1,12 @@
 {
   "drug_count": 6133,
-  "indication_count": 3251,
-  "mapped_drug_count": 1877,
-  "byomei_with_drugs": 276,
+  "indication_count": 3248,
+  "mapped_drug_count": 1885,
+  "byomei_with_drugs": 271,
   "categories": [
     {
       "category": "その他",
-      "count": 2147
+      "count": 2136
     },
     {
       "category": "抗悪性腫瘍薬",
@@ -219,6 +219,10 @@
     {
       "category": "ワクチン",
       "count": 12
+    },
+    {
+      "category": "ビタミンC薬",
+      "count": 11
     },
     {
       "category": "葉酸",

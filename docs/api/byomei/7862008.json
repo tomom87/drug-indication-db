@@ -1,0 +1,165 @@
+{
+  "byomei": {
+    "code": "7862008",
+    "name": "咳",
+    "icd10": "R05"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_095",
+      "name": "ツムラ五虎湯エキス顆粒（医療用）",
+      "generic_name": "五虎湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_016",
+      "name": "ツムラ半夏厚朴湯エキス顆粒（医療用）",
+      "generic_name": "半夏厚朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_066",
+      "name": "ツムラ参蘇飲エキス顆粒（医療用）",
+      "generic_name": "参蘇飲",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_096",
+      "name": "ツムラ柴朴湯エキス顆粒（医療用）",
+      "generic_name": "柴朴湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_073",
+      "name": "ツムラ柴陥湯エキス顆粒（医療用）",
+      "generic_name": "柴陥湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_090",
+      "name": "ツムラ清肺湯エキス顆粒（医療用）",
+      "generic_name": "清肺湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_092",
+      "name": "ツムラ滋陰至宝湯エキス顆粒（医療用）",
+      "generic_name": "滋陰至宝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_093",
+      "name": "ツムラ滋陰降火湯エキス顆粒（医療用）",
+      "generic_name": "滋陰降火湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_091",
+      "name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
+      "generic_name": "竹筎温胆湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_029",
+      "name": "ツムラ麦門冬湯エキス顆粒（医療用）",
+      "generic_name": "麦門冬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_055",
+      "name": "ツムラ麻杏甘石湯エキス顆粒（医療用）",
+      "generic_name": "麻杏甘石湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "ALL_2229001Q1",
+      "name": "アストミンシロップ０．２５％",
+      "generic_name": "アストミン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229001B1",
+      "name": "アストミン散１０％",
+      "generic_name": "アストミン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229001F1",
+      "name": "アストミン錠１０ｍｇ",
+      "generic_name": "アストミン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229114F2",
+      "name": "カフコデＮ配合錠",
+      "generic_name": "カフコデＮ配合",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229102Q1",
+      "name": "クロフェドリンＳ配合シロップ",
+      "generic_name": "クロフェドリンＳ配合",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229101F1",
+      "name": "クロフェドリンＳ配合錠",
+      "generic_name": "クロフェドリンＳ配合",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0045",
+      "name": "コデインリン酸塩",
+      "generic_name": "コデインリン酸塩",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229002F1",
+      "name": "コルドリン錠１２．５ｍｇ",
+      "generic_name": "コルドリン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229002D1",
+      "name": "コルドリン顆粒４．１７％",
+      "generic_name": "コルドリン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229001R1",
+      "name": "ジメモルファンリン酸塩ＤＳ小児用２．５％「タカタ」",
+      "generic_name": "ジメモルファンリン酸塩ＤＳ小児用",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0046",
+      "name": "デキストロメトルファン",
+      "generic_name": "デキストロメトルファン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2222001A1",
+      "name": "ノスカピン",
+      "generic_name": "ノスカピン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229006B1",
+      "name": "フスタゾール散１０％",
+      "generic_name": "フスタゾール",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229004F1",
+      "name": "フスタゾール糖衣錠１０ｍｇ",
+      "generic_name": "フスタゾール糖衣",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229006F1",
+      "name": "フスタゾール錠小児用２．５ｍｇ",
+      "generic_name": "フスタゾール",
+      "category": "鎮咳薬"
+    }
+  ]
+}

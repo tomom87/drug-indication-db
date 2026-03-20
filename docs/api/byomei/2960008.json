@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2960008",
+    "name": "躁状態",
+    "icd10": "F309"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0210",
+      "name": "バルプロ酸",
+      "generic_name": "バルプロ酸",
+      "category": "抗てんかん薬"
+    }
+  ]
+}

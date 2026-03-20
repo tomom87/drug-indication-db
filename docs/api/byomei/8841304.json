@@ -1,0 +1,129 @@
+{
+  "byomei": {
+    "code": "8841304",
+    "name": "じんま疹",
+    "icd10": "L509"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0059",
+      "name": "プレドニゾロン",
+      "generic_name": "プレドニゾロン",
+      "category": "ステロイド"
+    },
+    {
+      "yj_code": "ALL_3949101F1",
+      "name": "ウラリット配合錠",
+      "generic_name": "ウラリット配合",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949101A1",
+      "name": "ウラリット－Ｕ配合散",
+      "generic_name": "ウラリット－Ｕ配合",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949004F1",
+      "name": "ウリアデック錠２０ｍｇ",
+      "generic_name": "ウリアデック",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949004F2",
+      "name": "ウリアデック錠４０ｍｇ",
+      "generic_name": "ウリアデック",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949004F3",
+      "name": "ウリアデック錠６０ｍｇ",
+      "generic_name": "ウリアデック",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0058",
+      "name": "エピナスチン",
+      "generic_name": "エピナスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0057",
+      "name": "ビラスチン",
+      "generic_name": "ビラスチン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0055",
+      "name": "フェキソフェナジン",
+      "generic_name": "フェキソフェナジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949005F1",
+      "name": "ユリス錠０．５ｍｇ",
+      "generic_name": "ユリス",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949005F2",
+      "name": "ユリス錠１ｍｇ",
+      "generic_name": "ユリス",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949005F3",
+      "name": "ユリス錠２ｍｇ",
+      "generic_name": "ユリス",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0056",
+      "name": "ロラタジン",
+      "generic_name": "ロラタジン",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "TJ_006",
+      "name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
+      "generic_name": "十味敗毒湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_008",
+      "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
+      "generic_name": "大柴胡湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_022",
+      "name": "ツムラ消風散エキス顆粒（医療用）",
+      "generic_name": "消風散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_034",
+      "name": "ツムラ白虎加人参湯エキス顆粒（医療用）",
+      "generic_name": "白虎加人参湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_117",
+      "name": "ツムラ茵蔯五苓散エキス顆粒（医療用）",
+      "generic_name": "茵蔯五苓散",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_135",
+      "name": "ツムラ茵蔯蒿湯エキス顆粒（医療用）",
+      "generic_name": "茵蔯蒿湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_001",
+      "name": "ツムラ葛根湯エキス顆粒（医療用）",
+      "generic_name": "葛根湯",
+      "category": "漢方"
+    }
+  ]
+}

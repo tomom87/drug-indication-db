@@ -3,7 +3,7 @@
     "yj_code": "ALL_3140500A2",
     "name": "クリストファン注　２０ｍＬ",
     "generic_name": "クリストファン",
-    "category": "その他",
+    "category": "ビタミンC薬",
     "brands": [
       {
         "name": "クリストファン注　２０ｍＬ",
@@ -11,5 +11,12 @@
       }
     ]
   },
-  "indications": []
+  "indications": [
+    {
+      "code": "8839501",
+      "name": "ビタミンＣ欠乏症",
+      "kana": "12",
+      "icd10": "E54"
+    }
+  ]
 }

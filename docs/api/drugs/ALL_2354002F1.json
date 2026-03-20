@@ -11,12 +11,5 @@
       }
     ]
   },
-  "indications": [
-    {
-      "code": "5742001",
-      "name": "遺残胆石症",
-      "kana": "10",
-      "icd10": "K802"
-    }
-  ]
+  "indications": []
 }

@@ -16,21 +16,40 @@ DB_PATH = DATA_DIR / "drug_indication.db"
 def find_byomei_code(cursor, name: str) -> str | None:
     """傷病名マスターから病名コードを検索する.
 
-    完全一致 → 部分一致の順で検索。
+    完全一致 → 前方一致に「症」等を補完 → 末尾一致の順で検索。
+    部分一致は誤マッチの原因となるため使わない。
     """
-    # 完全一致
+    # 1. 完全一致
     cursor.execute("SELECT code FROM byomei WHERE name = ?", (name,))
     row = cursor.fetchone()
     if row:
         return row[0]
 
-    # 全角・半角の揺れを考慮して部分一致
-    cursor.execute("SELECT code, name FROM byomei WHERE name LIKE ?", (f"%{name}%",))
+    # 2. 末尾に「症」「病」を補完して完全一致
+    for suffix in ["症", "病"]:
+        cursor.execute("SELECT code FROM byomei WHERE name = ?", (name + suffix,))
+        row = cursor.fetchone()
+        if row:
+            return row[0]
+
+    # 3. 検索語 + 任意の1-2文字（「症」「性」「型」等の補完）
+    cursor.execute("SELECT code, name FROM byomei WHERE name GLOB ?", (name + "?",))
     rows = cursor.fetchall()
+    if not rows:
+        cursor.execute("SELECT code, name FROM byomei WHERE name GLOB ?", (name + "??",))
+        rows = cursor.fetchall()
     if rows:
-        # 最短一致（最も名前が近いもの）を返す
         best = min(rows, key=lambda r: len(r[1]))
         return best[0]
+
+    # 4. 前方一致（検索語で始まる病名、長さの差が小さいもの優先）
+    cursor.execute("SELECT code, name FROM byomei WHERE name LIKE ?", (name + "%",))
+    rows = cursor.fetchall()
+    if rows:
+        best = min(rows, key=lambda r: len(r[1]))
+        # 長さの差が大きすぎる場合は不採用（「腹痛」→「腹痛を伴う〜」を防ぐ）
+        if len(best[1]) <= len(name) + 5:
+            return best[0]
 
     return None
 

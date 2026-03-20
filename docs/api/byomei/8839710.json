@@ -1,0 +1,63 @@
+{
+  "byomei": {
+    "code": "8839710",
+    "name": "腹痛症",
+    "icd10": "R104"
+  },
+  "drugs": [
+    {
+      "yj_code": "TJ_100",
+      "name": "ツムラ大建中湯エキス顆粒（医療用）",
+      "generic_name": "大建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_099",
+      "name": "ツムラ小建中湯エキス顆粒（医療用）",
+      "generic_name": "小建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_038",
+      "name": "ツムラ当帰四逆加呉茱萸生姜湯エキス顆粒（医療用）",
+      "generic_name": "当帰四逆加呉茱萸生姜湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_123",
+      "name": "ツムラ当帰建中湯エキス顆粒（医療用）",
+      "generic_name": "当帰建中湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_102",
+      "name": "ツムラ当帰湯エキス顆粒（医療用）",
+      "generic_name": "当帰湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_010",
+      "name": "ツムラ柴胡桂枝湯エキス顆粒（医療用）",
+      "generic_name": "柴胡桂枝湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_060",
+      "name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
+      "generic_name": "桂枝加芍薬湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_115",
+      "name": "ツムラ胃苓湯エキス顆粒（医療用）",
+      "generic_name": "胃苓湯",
+      "category": "漢方"
+    },
+    {
+      "yj_code": "TJ_068",
+      "name": "ツムラ芍薬甘草湯エキス顆粒（医療用）",
+      "generic_name": "芍薬甘草湯",
+      "category": "漢方"
+    }
+  ]
+}
