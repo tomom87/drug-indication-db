@@ -42,6 +42,12 @@
       "category": "脂質異常症薬"
     },
     {
+      "yj_code": "NAIKA_0130",
+      "name": "ペマフィブラート",
+      "generic_name": "ペマフィブラート",
+      "category": "脂質異常症薬"
+    },
+    {
       "yj_code": "NAIKA_0026",
       "name": "ロスバスタチン",
       "generic_name": "ロスバスタチン",

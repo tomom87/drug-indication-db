@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "4369009",
+    "name": "脳卒中",
+    "icd10": "I64"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0183",
+      "name": "ダビガトラン",
+      "generic_name": "ダビガトラン",
+      "category": "抗凝固薬"
+    }
+  ]
+}

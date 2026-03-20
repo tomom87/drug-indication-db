@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8838810",
+    "name": "肺結核",
+    "icd10": "A162"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0151",
+      "name": "フドステイン",
+      "generic_name": "フドステイン",
+      "category": "去痰薬"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "drug_count": 223,
-  "indication_count": 842,
-  "mapped_drug_count": 222,
-  "byomei_with_drugs": 226,
+  "drug_count": 369,
+  "indication_count": 1125,
+  "mapped_drug_count": 361,
+  "byomei_with_drugs": 275,
   "categories": [
     {
       "category": "漢方",
@@ -10,22 +10,54 @@
     },
     {
       "category": "降圧薬",
-      "count": 15
-    },
-    {
-      "category": "消化器薬",
-      "count": 11
+      "count": 29
     },
     {
       "category": "糖尿病薬",
-      "count": 10
+      "count": 28
     },
     {
-      "category": "脂質異常症薬",
-      "count": 7
+      "category": "消化器薬",
+      "count": 23
     },
     {
       "category": "抗菌薬",
+      "count": 16
+    },
+    {
+      "category": "呼吸器薬",
+      "count": 12
+    },
+    {
+      "category": "脂質異常症薬",
+      "count": 11
+    },
+    {
+      "category": "骨粗鬆症薬",
+      "count": 10
+    },
+    {
+      "category": "循環器薬",
+      "count": 10
+    },
+    {
+      "category": "排尿障害薬",
+      "count": 8
+    },
+    {
+      "category": "抗うつ薬",
+      "count": 8
+    },
+    {
+      "category": "抗ウイルス薬",
+      "count": 7
+    },
+    {
+      "category": "免疫抑制薬",
+      "count": 7
+    },
+    {
+      "category": "腎臓薬",
       "count": 6
     },
     {
@@ -33,11 +65,27 @@
       "count": 5
     },
     {
-      "category": "呼吸器薬",
+      "category": "抗凝固薬",
       "count": 5
     },
     {
-      "category": "抗凝固薬",
+      "category": "高尿酸血症薬",
+      "count": 4
+    },
+    {
+      "category": "認知症薬",
+      "count": 4
+    },
+    {
+      "category": "睡眠薬",
+      "count": 4
+    },
+    {
+      "category": "片頭痛薬",
+      "count": 4
+    },
+    {
+      "category": "抗血小板薬",
       "count": 4
     },
     {
@@ -45,39 +93,39 @@
       "count": 4
     },
     {
-      "category": "骨粗鬆症薬",
-      "count": 3
-    },
-    {
-      "category": "睡眠薬",
-      "count": 3
-    },
-    {
-      "category": "排尿障害薬",
-      "count": 3
-    },
-    {
-      "category": "抗うつ薬",
-      "count": 3
-    },
-    {
-      "category": "高尿酸血症薬",
-      "count": 2
+      "category": "ビタミン",
+      "count": 4
     },
     {
       "category": "鎮咳薬",
-      "count": 2
+      "count": 3
+    },
+    {
+      "category": "抗真菌薬",
+      "count": 3
+    },
+    {
+      "category": "抗不安薬",
+      "count": 3
+    },
+    {
+      "category": "去痰薬",
+      "count": 3
+    },
+    {
+      "category": "パーキンソン病薬",
+      "count": 3
     },
     {
       "category": "甲状腺薬",
       "count": 2
     },
     {
-      "category": "抗血小板薬",
+      "category": "抗精神病薬",
       "count": 2
     },
     {
-      "category": "去痰薬",
+      "category": "めまい薬",
       "count": 2
     },
     {
@@ -85,23 +133,27 @@
       "count": 1
     },
     {
+      "category": "肝臓薬",
+      "count": 1
+    },
+    {
+      "category": "禁煙補助薬",
+      "count": 1
+    },
+    {
       "category": "痛風薬",
       "count": 1
     },
     {
-      "category": "抗不安薬",
+      "category": "止痒薬",
       "count": 1
     },
     {
-      "category": "ビタミン",
+      "category": "抗てんかん薬",
       "count": 1
     },
     {
       "category": "ステロイド",
-      "count": 1
-    },
-    {
-      "category": "めまい薬",
       "count": 1
     }
   ]

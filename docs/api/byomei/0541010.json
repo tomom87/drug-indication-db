@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0541010",
+    "name": "性器ヘルペス",
+    "icd10": "A600"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0163",
+      "name": "バラシクロビル",
+      "generic_name": "バラシクロビル",
+      "category": "抗ウイルス薬"
+    }
+  ]
+}

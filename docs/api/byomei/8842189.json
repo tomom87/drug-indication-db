@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8842189",
+    "name": "水痘",
+    "icd10": "B019"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0163",
+      "name": "バラシクロビル",
+      "generic_name": "バラシクロビル",
+      "category": "抗ウイルス薬"
+    }
+  ]
+}

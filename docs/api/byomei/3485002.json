@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "3485002",
+    "name": "脳浮腫",
+    "icd10": "G936"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0106",
+      "name": "フロセミド",
+      "generic_name": "フロセミド",
+      "category": "降圧薬"
+    }
+  ]
+}

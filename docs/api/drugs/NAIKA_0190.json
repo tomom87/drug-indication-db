@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0190",
+    "name": "ダルベポエチンアルファ",
+    "generic_name": "ダルベポエチンアルファ",
+    "category": "腎臓薬"
+  },
+  "indications": [
+    {
+      "code": "2858001",
+      "name": "腎性貧血",
+      "kana": "8",
+      "icd10": "N19"
+    }
+  ]
+}

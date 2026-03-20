@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0187",
+    "name": "炭酸ランタン",
+    "generic_name": "炭酸ランタン",
+    "category": "腎臓薬"
+  },
+  "indications": [
+    {
+      "code": "8844106",
+      "name": "慢性腎臓病",
+      "kana": "11",
+      "icd10": "N189"
+    },
+    {
+      "code": "8841364",
+      "name": "高リン血症",
+      "kana": "9",
+      "icd10": "E833"
+    }
+  ]
+}

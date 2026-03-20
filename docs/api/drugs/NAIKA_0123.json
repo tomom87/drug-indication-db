@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0123",
+    "name": "ミチグリニド",
+    "generic_name": "ミチグリニド",
+    "category": "糖尿病薬"
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

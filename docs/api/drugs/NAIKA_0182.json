@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0182",
+    "name": "プラスグレル",
+    "generic_name": "プラスグレル",
+    "category": "抗血小板薬"
+  },
+  "indications": [
+    {
+      "code": "8846372",
+      "name": "急性冠症候群",
+      "kana": "14",
+      "icd10": "I249"
+    }
+  ]
+}

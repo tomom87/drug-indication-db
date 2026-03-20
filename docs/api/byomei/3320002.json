@@ -1,0 +1,27 @@
+{
+  "byomei": {
+    "code": "3320002",
+    "name": "パーキンソン病",
+    "icd10": "G20"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0230",
+      "name": "プラミペキソール",
+      "generic_name": "プラミペキソール",
+      "category": "パーキンソン病薬"
+    },
+    {
+      "yj_code": "NAIKA_0229",
+      "name": "レボドパ・カルビドパ",
+      "generic_name": "レボドパ・カルビドパ",
+      "category": "パーキンソン病薬"
+    },
+    {
+      "yj_code": "NAIKA_0231",
+      "name": "ロピニロール",
+      "generic_name": "ロピニロール",
+      "category": "パーキンソン病薬"
+    }
+  ]
+}

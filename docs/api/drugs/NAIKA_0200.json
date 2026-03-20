@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0200",
+    "name": "エンテカビル",
+    "generic_name": "エンテカビル",
+    "category": "抗ウイルス薬"
+  },
+  "indications": [
+    {
+      "code": "0703003",
+      "name": "Ｂ型慢性肝炎",
+      "kana": "11",
+      "icd10": "B181"
+    },
+    {
+      "code": "8843999",
+      "name": "Ｂ型肝硬変",
+      "kana": "9",
+      "icd10": "B181"
+    }
+  ]
+}

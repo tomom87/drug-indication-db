@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "0703003",
+    "name": "Ｂ型慢性肝炎",
+    "icd10": "B181"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0200",
+      "name": "エンテカビル",
+      "generic_name": "エンテカビル",
+      "category": "抗ウイルス薬"
+    },
+    {
+      "yj_code": "NAIKA_0201",
+      "name": "テノホビル",
+      "generic_name": "テノホビル",
+      "category": "抗ウイルス薬"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0107",
+    "name": "アゾセミド",
+    "generic_name": "アゾセミド",
+    "category": "降圧薬"
+  },
+  "indications": [
+    {
+      "code": "7823029",
+      "name": "肝性浮腫",
+      "kana": "7",
+      "icd10": "R609"
+    },
+    {
+      "code": "5819009",
+      "name": "腎性浮腫",
+      "kana": "7",
+      "icd10": "R609"
+    }
+  ]
+}

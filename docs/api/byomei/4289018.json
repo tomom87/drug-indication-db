@@ -6,6 +6,24 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0179",
+      "name": "イバブラジン",
+      "generic_name": "イバブラジン",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0180",
+      "name": "サクビトリル・バルサルタン",
+      "generic_name": "サクビトリル・バルサルタン",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0171",
+      "name": "ジゴキシン",
+      "generic_name": "ジゴキシン",
+      "category": "循環器薬"
+    },
+    {
       "yj_code": "NAIKA_0017",
       "name": "エンパグリフロジン",
       "generic_name": "エンパグリフロジン",
@@ -21,6 +39,12 @@
       "yj_code": "NAIKA_0008",
       "name": "エナラプリル",
       "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0104",
+      "name": "エプレレノン",
+      "generic_name": "エプレレノン",
       "category": "降圧薬"
     },
     {

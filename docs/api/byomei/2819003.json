@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2819003",
+    "name": "巨赤芽球性貧血",
+    "icd10": "D531"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0239",
+      "name": "葉酸",
+      "generic_name": "葉酸",
+      "category": "ビタミン"
+    }
+  ]
+}

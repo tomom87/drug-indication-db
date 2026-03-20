@@ -6,6 +6,18 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0164",
+      "name": "オセルタミビル",
+      "generic_name": "オセルタミビル",
+      "category": "抗ウイルス薬"
+    },
+    {
+      "yj_code": "NAIKA_0165",
+      "name": "バロキサビル",
+      "generic_name": "バロキサビル",
+      "category": "抗ウイルス薬"
+    },
+    {
       "yj_code": "TJ_091",
       "name": "ツムラ竹筎温胆湯エキス顆粒（医療用）",
       "generic_name": "竹筎温胆湯",

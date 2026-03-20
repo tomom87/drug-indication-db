@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "8842549",
+    "name": "アルツハイマー型認知症",
+    "icd10": "G309"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0204",
+      "name": "ガランタミン",
+      "generic_name": "ガランタミン",
+      "category": "認知症薬"
+    },
+    {
+      "yj_code": "NAIKA_0202",
+      "name": "ドネペジル",
+      "generic_name": "ドネペジル",
+      "category": "認知症薬"
+    },
+    {
+      "yj_code": "NAIKA_0203",
+      "name": "メマンチン",
+      "generic_name": "メマンチン",
+      "category": "認知症薬"
+    },
+    {
+      "yj_code": "NAIKA_0205",
+      "name": "リバスチグミン",
+      "generic_name": "リバスチグミン",
+      "category": "認知症薬"
+    }
+  ]
+}

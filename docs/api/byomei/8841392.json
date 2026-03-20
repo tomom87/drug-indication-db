@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8841392",
+    "name": "本態性振戦",
+    "icd10": "G250"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
+    }
+  ]
+}

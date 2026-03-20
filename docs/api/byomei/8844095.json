@@ -10,6 +10,12 @@
       "name": "セルトラリン",
       "generic_name": "セルトラリン",
       "category": "抗うつ薬"
+    },
+    {
+      "yj_code": "NAIKA_0212",
+      "name": "パロキセチン",
+      "generic_name": "パロキセチン",
+      "category": "抗うつ薬"
     }
   ]
 }

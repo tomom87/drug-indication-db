@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "2858001",
+    "name": "腎性貧血",
+    "icd10": "N19"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0190",
+      "name": "ダルベポエチンアルファ",
+      "generic_name": "ダルベポエチンアルファ",
+      "category": "腎臓薬"
+    },
+    {
+      "yj_code": "NAIKA_0189",
+      "name": "ロキサデュスタット",
+      "generic_name": "ロキサデュスタット",
+      "category": "腎臓薬"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8838838",
+    "name": "肺静脈血栓塞栓症",
+    "icd10": "I269"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0183",
+      "name": "ダビガトラン",
+      "generic_name": "ダビガトラン",
+      "category": "抗凝固薬"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8832834",
+    "name": "クリプトコッカス症",
+    "icd10": "B459"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0169",
+      "name": "フルコナゾール",
+      "generic_name": "フルコナゾール",
+      "category": "抗真菌薬"
+    }
+  ]
+}

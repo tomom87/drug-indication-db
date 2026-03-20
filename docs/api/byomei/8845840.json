@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8845840",
+    "name": "レビー小体型認知症",
+    "icd10": "G318"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0202",
+      "name": "ドネペジル",
+      "generic_name": "ドネペジル",
+      "category": "認知症薬"
+    }
+  ]
+}

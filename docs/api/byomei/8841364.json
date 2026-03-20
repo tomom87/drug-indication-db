@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "8841364",
+    "name": "高リン血症",
+    "icd10": "E833"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0188",
+      "name": "セベラマー",
+      "generic_name": "セベラマー",
+      "category": "腎臓薬"
+    },
+    {
+      "yj_code": "NAIKA_0187",
+      "name": "炭酸ランタン",
+      "generic_name": "炭酸ランタン",
+      "category": "腎臓薬"
+    }
+  ]
+}

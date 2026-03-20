@@ -12,6 +12,18 @@
       "category": "消化器薬"
     },
     {
+      "yj_code": "NAIKA_0134",
+      "name": "スクラルファート",
+      "generic_name": "スクラルファート",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0133",
+      "name": "テプレノン",
+      "generic_name": "テプレノン",
+      "category": "消化器薬"
+    },
+    {
       "yj_code": "NAIKA_0036",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",
@@ -21,6 +33,12 @@
       "yj_code": "NAIKA_0035",
       "name": "ボノプラザン",
       "generic_name": "ボノプラザン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0132",
+      "name": "ラベプラゾール",
+      "generic_name": "ラベプラゾール",
       "category": "消化器薬"
     },
     {

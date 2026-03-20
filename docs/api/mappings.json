@@ -1,5 +1,50 @@
 [
   {
+    "yj_code": "NAIKA_0111",
+    "drug_name": "アカルボース",
+    "generic_name": "アカルボース",
+    "category": "糖尿病薬",
+    "byomei_code": "2500013",
+    "byomei_name": "糖尿病",
+    "icd10": "E14"
+  },
+  {
+    "yj_code": "NAIKA_0193",
+    "drug_name": "アザチオプリン",
+    "generic_name": "アザチオプリン",
+    "category": "免疫抑制薬",
+    "byomei_code": "7100011",
+    "byomei_name": "全身性エリテマトーデス",
+    "icd10": "M329"
+  },
+  {
+    "yj_code": "NAIKA_0193",
+    "drug_name": "アザチオプリン",
+    "generic_name": "アザチオプリン",
+    "category": "免疫抑制薬",
+    "byomei_code": "7104004",
+    "byomei_name": "多発性筋炎",
+    "icd10": "M332"
+  },
+  {
+    "yj_code": "NAIKA_0193",
+    "drug_name": "アザチオプリン",
+    "generic_name": "アザチオプリン",
+    "category": "免疫抑制薬",
+    "byomei_code": "5569003",
+    "byomei_name": "潰瘍性大腸炎",
+    "icd10": "K519"
+  },
+  {
+    "yj_code": "NAIKA_0193",
+    "drug_name": "アザチオプリン",
+    "generic_name": "アザチオプリン",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  {
     "yj_code": "NAIKA_0056",
     "drug_name": "アジスロマイシン",
     "generic_name": "アジスロマイシン",
@@ -216,6 +261,69 @@
     "icd10": "R51"
   },
   {
+    "yj_code": "NAIKA_0098",
+    "drug_name": "アゼルニジピン",
+    "generic_name": "アゼルニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0098",
+    "drug_name": "アゼルニジピン",
+    "generic_name": "アゼルニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0107",
+    "drug_name": "アゾセミド",
+    "generic_name": "アゾセミド",
+    "category": "降圧薬",
+    "byomei_code": "7823029",
+    "byomei_name": "肝性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0107",
+    "drug_name": "アゾセミド",
+    "generic_name": "アゾセミド",
+    "category": "降圧薬",
+    "byomei_code": "5819009",
+    "byomei_name": "腎性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0101",
+    "drug_name": "アテノロール",
+    "generic_name": "アテノロール",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0101",
+    "drug_name": "アテノロール",
+    "generic_name": "アテノロール",
+    "category": "降圧薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0101",
+    "drug_name": "アテノロール",
+    "generic_name": "アテノロール",
+    "category": "降圧薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  {
     "yj_code": "NAIKA_0027",
     "drug_name": "アトルバスタチン",
     "generic_name": "アトルバスタチン",
@@ -286,6 +394,51 @@
     "byomei_code": "8838736",
     "byomei_name": "脳塞栓症",
     "icd10": "I669"
+  },
+  {
+    "yj_code": "NAIKA_0172",
+    "drug_name": "アミオダロン",
+    "generic_name": "アミオダロン",
+    "category": "循環器薬",
+    "byomei_code": "4274004",
+    "byomei_name": "心室細動",
+    "icd10": "I490"
+  },
+  {
+    "yj_code": "NAIKA_0172",
+    "drug_name": "アミオダロン",
+    "generic_name": "アミオダロン",
+    "category": "循環器薬",
+    "byomei_code": "4271005",
+    "byomei_name": "心室頻拍",
+    "icd10": "I472"
+  },
+  {
+    "yj_code": "NAIKA_0215",
+    "drug_name": "アミトリプチリン",
+    "generic_name": "アミトリプチリン",
+    "category": "抗うつ薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
+    "yj_code": "NAIKA_0215",
+    "drug_name": "アミトリプチリン",
+    "generic_name": "アミトリプチリン",
+    "category": "抗うつ薬",
+    "byomei_code": "3076004",
+    "byomei_name": "夜尿症",
+    "icd10": "R32"
+  },
+  {
+    "yj_code": "NAIKA_0215",
+    "drug_name": "アミトリプチリン",
+    "generic_name": "アミトリプチリン",
+    "category": "抗うつ薬",
+    "byomei_code": "8849550",
+    "byomei_name": "末梢性神経障害性疼痛",
+    "icd10": "G64"
   },
   {
     "yj_code": "NAIKA_0001",
@@ -441,6 +594,51 @@
     "icd10": "N309"
   },
   {
+    "yj_code": "NAIKA_0217",
+    "drug_name": "アリピプラゾール",
+    "generic_name": "アリピプラゾール",
+    "category": "抗精神病薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
+    "yj_code": "NAIKA_0217",
+    "drug_name": "アリピプラゾール",
+    "generic_name": "アリピプラゾール",
+    "category": "抗精神病薬",
+    "byomei_code": "8850673",
+    "byomei_name": "双極性障害",
+    "icd10": "F319"
+  },
+  {
+    "yj_code": "NAIKA_0217",
+    "drug_name": "アリピプラゾール",
+    "generic_name": "アリピプラゾール",
+    "category": "抗精神病薬",
+    "byomei_code": "8841702",
+    "byomei_name": "統合失調症",
+    "icd10": "F209"
+  },
+  {
+    "yj_code": "NAIKA_0237",
+    "drug_name": "アルファカルシドール",
+    "generic_name": "アルファカルシドール",
+    "category": "ビタミン",
+    "byomei_code": "5859002",
+    "byomei_name": "慢性腎不全",
+    "icd10": "N189"
+  },
+  {
+    "yj_code": "NAIKA_0237",
+    "drug_name": "アルファカルシドール",
+    "generic_name": "アルファカルシドール",
+    "category": "ビタミン",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
     "yj_code": "NAIKA_0075",
     "drug_name": "アレンドロン酸",
     "generic_name": "アレンドロン酸",
@@ -448,6 +646,15 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0114",
+    "drug_name": "アログリプチン",
+    "generic_name": "アログリプチン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
   },
   {
     "yj_code": "NAIKA_0071",
@@ -504,6 +711,15 @@
     "icd10": "J47"
   },
   {
+    "yj_code": "NAIKA_0198",
+    "drug_name": "イグラチモド",
+    "generic_name": "イグラチモド",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  {
     "yj_code": "NAIKA_0032",
     "drug_name": "イコサペント酸エチル",
     "generic_name": "イコサペント酸エチル",
@@ -529,6 +745,132 @@
     "byomei_code": "2724007",
     "byomei_name": "高脂血症",
     "icd10": "E785"
+  },
+  {
+    "yj_code": "NAIKA_0168",
+    "drug_name": "イトラコナゾール",
+    "generic_name": "イトラコナゾール",
+    "category": "抗真菌薬",
+    "byomei_code": "1129002",
+    "byomei_name": "カンジダ症",
+    "icd10": "B379"
+  },
+  {
+    "yj_code": "NAIKA_0168",
+    "drug_name": "イトラコナゾール",
+    "generic_name": "イトラコナゾール",
+    "category": "抗真菌薬",
+    "byomei_code": "8837847",
+    "byomei_name": "爪白癬",
+    "icd10": "B351"
+  },
+  {
+    "yj_code": "NAIKA_0168",
+    "drug_name": "イトラコナゾール",
+    "generic_name": "イトラコナゾール",
+    "category": "抗真菌薬",
+    "byomei_code": "8838926",
+    "byomei_name": "白癬",
+    "icd10": "B359"
+  },
+  {
+    "yj_code": "NAIKA_0179",
+    "drug_name": "イバブラジン",
+    "generic_name": "イバブラジン",
+    "category": "循環器薬",
+    "byomei_code": "4289018",
+    "byomei_name": "慢性心不全",
+    "icd10": "I509"
+  },
+  {
+    "yj_code": "NAIKA_0118",
+    "drug_name": "イプラグリフロジン",
+    "generic_name": "イプラグリフロジン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500014",
+    "byomei_name": "１型糖尿病",
+    "icd10": "E10"
+  },
+  {
+    "yj_code": "NAIKA_0118",
+    "drug_name": "イプラグリフロジン",
+    "generic_name": "イプラグリフロジン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0099",
+    "drug_name": "イミダプリル",
+    "generic_name": "イミダプリル",
+    "category": "降圧薬",
+    "byomei_code": "2503005",
+    "byomei_name": "糖尿病性腎症",
+    "icd10": "E142"
+  },
+  {
+    "yj_code": "NAIKA_0099",
+    "drug_name": "イミダプリル",
+    "generic_name": "イミダプリル",
+    "category": "降圧薬",
+    "byomei_code": "8835605",
+    "byomei_name": "腎実質性高血圧症",
+    "icd10": "I151"
+  },
+  {
+    "yj_code": "NAIKA_0099",
+    "drug_name": "イミダプリル",
+    "generic_name": "イミダプリル",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0099",
+    "drug_name": "イミダプリル",
+    "generic_name": "イミダプリル",
+    "category": "降圧薬",
+    "byomei_code": "2500014",
+    "byomei_name": "１型糖尿病",
+    "icd10": "E10"
+  },
+  {
+    "yj_code": "NAIKA_0127",
+    "drug_name": "イメグリミン",
+    "generic_name": "イメグリミン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0125",
+    "drug_name": "インスリンアスパルト",
+    "generic_name": "インスリンアスパルト",
+    "category": "糖尿病薬",
+    "byomei_code": "2500013",
+    "byomei_name": "糖尿病",
+    "icd10": "E14"
+  },
+  {
+    "yj_code": "NAIKA_0125",
+    "drug_name": "インスリンアスパルト",
+    "generic_name": "インスリンアスパルト",
+    "category": "糖尿病薬",
+    "byomei_code": "2500014",
+    "byomei_name": "１型糖尿病",
+    "icd10": "E10"
+  },
+  {
+    "yj_code": "NAIKA_0125",
+    "drug_name": "インスリンアスパルト",
+    "generic_name": "インスリンアスパルト",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
   },
   {
     "yj_code": "NAIKA_0025",
@@ -558,6 +900,42 @@
     "icd10": "E11"
   },
   {
+    "yj_code": "NAIKA_0126",
+    "drug_name": "インスリンデグルデク",
+    "generic_name": "インスリンデグルデク",
+    "category": "糖尿病薬",
+    "byomei_code": "2500013",
+    "byomei_name": "糖尿病",
+    "icd10": "E14"
+  },
+  {
+    "yj_code": "NAIKA_0126",
+    "drug_name": "インスリンデグルデク",
+    "generic_name": "インスリンデグルデク",
+    "category": "糖尿病薬",
+    "byomei_code": "2500014",
+    "byomei_name": "１型糖尿病",
+    "icd10": "E10"
+  },
+  {
+    "yj_code": "NAIKA_0126",
+    "drug_name": "インスリンデグルデク",
+    "generic_name": "インスリンデグルデク",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0148",
+    "drug_name": "インダカテロール・グリコピロニウム",
+    "generic_name": "インダカテロール・グリコピロニウム",
+    "category": "呼吸器薬",
+    "byomei_code": "8840399",
+    "byomei_name": "慢性閉塞性肺疾患",
+    "icd10": "J449"
+  },
+  {
     "yj_code": "NAIKA_0010",
     "drug_name": "インダパミド",
     "generic_name": "インダパミド",
@@ -570,6 +948,60 @@
     "yj_code": "NAIKA_0010",
     "drug_name": "インダパミド",
     "generic_name": "インダパミド",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0149",
+    "drug_name": "ウメクリジニウム・ビランテロール",
+    "generic_name": "ウメクリジニウム・ビランテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "8840399",
+    "byomei_name": "慢性閉塞性肺疾患",
+    "icd10": "J449"
+  },
+  {
+    "yj_code": "NAIKA_0199",
+    "drug_name": "ウルソデオキシコール酸",
+    "generic_name": "ウルソデオキシコール酸",
+    "category": "肝臓薬",
+    "byomei_code": "8849023",
+    "byomei_name": "原発性胆汁性胆管炎",
+    "icd10": "K743"
+  },
+  {
+    "yj_code": "NAIKA_0199",
+    "drug_name": "ウルソデオキシコール酸",
+    "generic_name": "ウルソデオキシコール酸",
+    "category": "肝臓薬",
+    "byomei_code": "5742001",
+    "byomei_name": "遺残胆石症",
+    "icd10": "K802"
+  },
+  {
+    "yj_code": "NAIKA_0120",
+    "drug_name": "エキセナチド",
+    "generic_name": "エキセナチド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0105",
+    "drug_name": "エサキセレノン",
+    "generic_name": "エサキセレノン",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0105",
+    "drug_name": "エサキセレノン",
+    "generic_name": "エサキセレノン",
     "category": "降圧薬",
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
@@ -900,6 +1332,24 @@
     "icd10": "L309"
   },
   {
+    "yj_code": "NAIKA_0104",
+    "drug_name": "エプレレノン",
+    "generic_name": "エプレレノン",
+    "category": "降圧薬",
+    "byomei_code": "4289018",
+    "byomei_name": "慢性心不全",
+    "icd10": "I509"
+  },
+  {
+    "yj_code": "NAIKA_0104",
+    "drug_name": "エプレレノン",
+    "generic_name": "エプレレノン",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
     "yj_code": "NAIKA_0077",
     "drug_name": "エルデカルシトール",
     "generic_name": "エルデカルシトール",
@@ -907,6 +1357,33 @@
     "byomei_code": "7330006",
     "byomei_name": "骨粗鬆症",
     "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0234",
+    "drug_name": "エレヌマブ",
+    "generic_name": "エレヌマブ",
+    "category": "片頭痛薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
+  },
+  {
+    "yj_code": "NAIKA_0200",
+    "drug_name": "エンテカビル",
+    "generic_name": "エンテカビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "0703003",
+    "byomei_name": "Ｂ型慢性肝炎",
+    "icd10": "B181"
+  },
+  {
+    "yj_code": "NAIKA_0200",
+    "drug_name": "エンテカビル",
+    "generic_name": "エンテカビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "8843999",
+    "byomei_name": "Ｂ型肝硬変",
+    "icd10": "B181"
   },
   {
     "yj_code": "NAIKA_0017",
@@ -934,6 +1411,15 @@
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
     "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0164",
+    "drug_name": "オセルタミビル",
+    "generic_name": "オセルタミビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "4871001",
+    "byomei_name": "インフルエンザ",
+    "icd10": "J111"
   },
   {
     "yj_code": "NAIKA_0003",
@@ -970,6 +1456,33 @@
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
     "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0115",
+    "drug_name": "カナグリフロジン",
+    "generic_name": "カナグリフロジン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0238",
+    "drug_name": "カルシトリオール",
+    "generic_name": "カルシトリオール",
+    "category": "ビタミン",
+    "byomei_code": "8844593",
+    "byomei_name": "副甲状腺機能低下症",
+    "icd10": "E209"
+  },
+  {
+    "yj_code": "NAIKA_0238",
+    "drug_name": "カルシトリオール",
+    "generic_name": "カルシトリオール",
+    "category": "ビタミン",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
   },
   {
     "yj_code": "NAIKA_0014",
@@ -1125,6 +1638,33 @@
     "icd10": "I10"
   },
   {
+    "yj_code": "NAIKA_0204",
+    "drug_name": "ガランタミン",
+    "generic_name": "ガランタミン",
+    "category": "認知症薬",
+    "byomei_code": "8842549",
+    "byomei_name": "アルツハイマー型認知症",
+    "icd10": "G309"
+  },
+  {
+    "yj_code": "NAIKA_0235",
+    "drug_name": "ガルカネズマブ",
+    "generic_name": "ガルカネズマブ",
+    "category": "片頭痛薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
+  },
+  {
+    "yj_code": "NAIKA_0216",
+    "drug_name": "クエチアピン",
+    "generic_name": "クエチアピン",
+    "category": "抗精神病薬",
+    "byomei_code": "8841702",
+    "byomei_name": "統合失調症",
+    "icd10": "F209"
+  },
+  {
     "yj_code": "NAIKA_0090",
     "drug_name": "クエン酸第一鉄ナトリウム",
     "generic_name": "クエン酸第一鉄ナトリウム",
@@ -1215,6 +1755,15 @@
     "icd10": "A319"
   },
   {
+    "yj_code": "NAIKA_0220",
+    "drug_name": "クロナゼパム",
+    "generic_name": "クロナゼパム",
+    "category": "抗不安薬",
+    "byomei_code": "3459001",
+    "byomei_name": "てんかん",
+    "icd10": "G409"
+  },
+  {
     "yj_code": "NAIKA_0069",
     "drug_name": "クロピドグレル",
     "generic_name": "クロピドグレル",
@@ -1249,6 +1798,15 @@
     "byomei_code": "8839948",
     "byomei_name": "閉塞性動脈硬化症",
     "icd10": "I7090"
+  },
+  {
+    "yj_code": "NAIKA_0121",
+    "drug_name": "グリクラジド",
+    "generic_name": "グリクラジド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
   },
   {
     "yj_code": "NAIKA_0021",
@@ -1314,6 +1872,60 @@
     "icd10": "M1009"
   },
   {
+    "yj_code": "NAIKA_0131",
+    "drug_name": "コレスチミド",
+    "generic_name": "コレスチミド",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720001",
+    "byomei_name": "家族性高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0131",
+    "drug_name": "コレスチミド",
+    "generic_name": "コレスチミド",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720004",
+    "byomei_name": "高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0131",
+    "drug_name": "コレスチミド",
+    "generic_name": "コレスチミド",
+    "category": "脂質異常症薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0180",
+    "drug_name": "サクビトリル・バルサルタン",
+    "generic_name": "サクビトリル・バルサルタン",
+    "category": "循環器薬",
+    "byomei_code": "4289018",
+    "byomei_name": "慢性心不全",
+    "icd10": "I509"
+  },
+  {
+    "yj_code": "NAIKA_0196",
+    "drug_name": "サラゾスルファピリジン",
+    "generic_name": "サラゾスルファピリジン",
+    "category": "免疫抑制薬",
+    "byomei_code": "5569003",
+    "byomei_name": "潰瘍性大腸炎",
+    "icd10": "K519"
+  },
+  {
+    "yj_code": "NAIKA_0196",
+    "drug_name": "サラゾスルファピリジン",
+    "generic_name": "サラゾスルファピリジン",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  {
     "yj_code": "NAIKA_0045",
     "drug_name": "サルメテロール・フルチカゾン",
     "generic_name": "サルメテロール・フルチカゾン",
@@ -1332,6 +1944,42 @@
     "icd10": "E11"
   },
   {
+    "yj_code": "NAIKA_0097",
+    "drug_name": "シルニジピン",
+    "generic_name": "シルニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0097",
+    "drug_name": "シルニジピン",
+    "generic_name": "シルニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0181",
+    "drug_name": "シロスタゾール",
+    "generic_name": "シロスタゾール",
+    "category": "抗血小板薬",
+    "byomei_code": "8842316",
+    "byomei_name": "慢性動脈閉塞症",
+    "icd10": "I749"
+  },
+  {
+    "yj_code": "NAIKA_0181",
+    "drug_name": "シロスタゾール",
+    "generic_name": "シロスタゾール",
+    "category": "抗血小板薬",
+    "byomei_code": "8838708",
+    "byomei_name": "脳梗塞",
+    "icd10": "I639"
+  },
+  {
     "yj_code": "NAIKA_0093",
     "drug_name": "シロドシン",
     "generic_name": "シロドシン",
@@ -1348,6 +1996,105 @@
     "byomei_code": "7881002",
     "byomei_name": "排尿障害",
     "icd10": "R391"
+  },
+  {
+    "yj_code": "NAIKA_0129",
+    "drug_name": "シンバスタチン",
+    "generic_name": "シンバスタチン",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720001",
+    "byomei_name": "家族性高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0129",
+    "drug_name": "シンバスタチン",
+    "generic_name": "シンバスタチン",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720004",
+    "byomei_name": "高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0171",
+    "drug_name": "ジゴキシン",
+    "generic_name": "ジゴキシン",
+    "category": "循環器薬",
+    "byomei_code": "4273009",
+    "byomei_name": "心房粗動",
+    "icd10": "I489"
+  },
+  {
+    "yj_code": "NAIKA_0171",
+    "drug_name": "ジゴキシン",
+    "generic_name": "ジゴキシン",
+    "category": "循環器薬",
+    "byomei_code": "4273006",
+    "byomei_name": "心房細動",
+    "icd10": "I489"
+  },
+  {
+    "yj_code": "NAIKA_0171",
+    "drug_name": "ジゴキシン",
+    "generic_name": "ジゴキシン",
+    "category": "循環器薬",
+    "byomei_code": "4289018",
+    "byomei_name": "慢性心不全",
+    "icd10": "I509"
+  },
+  {
+    "yj_code": "NAIKA_0236",
+    "drug_name": "ジフェニドール",
+    "generic_name": "ジフェニドール",
+    "category": "めまい薬",
+    "byomei_code": "8840549",
+    "byomei_name": "めまい症",
+    "icd10": "R42"
+  },
+  {
+    "yj_code": "NAIKA_0176",
+    "drug_name": "ジルチアゼム",
+    "generic_name": "ジルチアゼム",
+    "category": "循環器薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0176",
+    "drug_name": "ジルチアゼム",
+    "generic_name": "ジルチアゼム",
+    "category": "循環器薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  {
+    "yj_code": "NAIKA_0176",
+    "drug_name": "ジルチアゼム",
+    "generic_name": "ジルチアゼム",
+    "category": "循環器薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0134",
+    "drug_name": "スクラルファート",
+    "generic_name": "スクラルファート",
+    "category": "消化器薬",
+    "byomei_code": "5329002",
+    "byomei_name": "十二指腸潰瘍",
+    "icd10": "K269"
+  },
+  {
+    "yj_code": "NAIKA_0134",
+    "drug_name": "スクラルファート",
+    "generic_name": "スクラルファート",
+    "category": "消化器薬",
+    "byomei_code": "5319009",
+    "byomei_name": "胃潰瘍",
+    "icd10": "K259"
   },
   {
     "yj_code": "NAIKA_0012",
@@ -1393,6 +2140,15 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
+  },
+  {
+    "yj_code": "NAIKA_0232",
+    "drug_name": "スマトリプタン",
+    "generic_name": "スマトリプタン",
+    "category": "片頭痛薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
   },
   {
     "yj_code": "NAIKA_0054",
@@ -1443,6 +2199,204 @@
     "yj_code": "NAIKA_0054",
     "drug_name": "セファレキシン",
     "generic_name": "セファレキシン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "3829010",
+    "byomei_name": "中耳炎",
+    "icd10": "H669"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "4739007",
+    "byomei_name": "副鼻腔炎",
+    "icd10": "J329"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "4629008",
+    "byomei_name": "咽頭炎",
+    "icd10": "J029"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "4660009",
+    "byomei_name": "急性気管支炎",
+    "icd10": "J209"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "4639033",
+    "byomei_name": "扁桃炎",
+    "icd10": "J039"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "5908007",
+    "byomei_name": "腎盂腎炎",
+    "icd10": "N12"
+  },
+  {
+    "yj_code": "NAIKA_0153",
+    "drug_name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "3829010",
+    "byomei_name": "中耳炎",
+    "icd10": "H669"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "4739007",
+    "byomei_name": "副鼻腔炎",
+    "icd10": "J329"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "4629008",
+    "byomei_name": "咽頭炎",
+    "icd10": "J029"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "4639033",
+    "byomei_name": "扁桃炎",
+    "icd10": "J039"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "5908007",
+    "byomei_name": "腎盂腎炎",
+    "icd10": "N12"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "drug_name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "3829010",
+    "byomei_name": "中耳炎",
+    "icd10": "H669"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "4739007",
+    "byomei_name": "副鼻腔炎",
+    "icd10": "J329"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "4629008",
+    "byomei_name": "咽頭炎",
+    "icd10": "J029"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "4660009",
+    "byomei_name": "急性気管支炎",
+    "icd10": "J209"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "4639033",
+    "byomei_name": "扁桃炎",
+    "icd10": "J039"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "drug_name": "セフジニル",
+    "generic_name": "セフジニル",
     "category": "抗菌薬",
     "byomei_code": "5959015",
     "byomei_name": "膀胱炎",
@@ -1510,6 +2464,24 @@
     "byomei_code": "3229007",
     "byomei_name": "髄膜炎",
     "icd10": "G039"
+  },
+  {
+    "yj_code": "NAIKA_0188",
+    "drug_name": "セベラマー",
+    "generic_name": "セベラマー",
+    "category": "腎臓薬",
+    "byomei_code": "8844106",
+    "byomei_name": "慢性腎臓病",
+    "icd10": "N189"
+  },
+  {
+    "yj_code": "NAIKA_0188",
+    "drug_name": "セベラマー",
+    "generic_name": "セベラマー",
+    "category": "腎臓薬",
+    "byomei_code": "8841364",
+    "byomei_name": "高リン血症",
+    "icd10": "E833"
   },
   {
     "yj_code": "NAIKA_0023",
@@ -1602,6 +2574,15 @@
     "icd10": "K590"
   },
   {
+    "yj_code": "NAIKA_0208",
+    "drug_name": "ソリフェナシン",
+    "generic_name": "ソリフェナシン",
+    "category": "排尿障害薬",
+    "byomei_code": "8843031",
+    "byomei_name": "過活動膀胱",
+    "icd10": "N328"
+  },
+  {
     "yj_code": "NAIKA_0087",
     "drug_name": "ゾルピデム",
     "generic_name": "ゾルピデム",
@@ -1609,6 +2590,42 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
+  },
+  {
+    "yj_code": "NAIKA_0228",
+    "drug_name": "ゾレドロン酸",
+    "generic_name": "ゾレドロン酸",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0194",
+    "drug_name": "タクロリムス",
+    "generic_name": "タクロリムス",
+    "category": "免疫抑制薬",
+    "byomei_code": "7100007",
+    "byomei_name": "ループス腎炎",
+    "icd10": "M321"
+  },
+  {
+    "yj_code": "NAIKA_0194",
+    "drug_name": "タクロリムス",
+    "generic_name": "タクロリムス",
+    "category": "免疫抑制薬",
+    "byomei_code": "5569003",
+    "byomei_name": "潰瘍性大腸炎",
+    "icd10": "K519"
+  },
+  {
+    "yj_code": "NAIKA_0194",
+    "drug_name": "タクロリムス",
+    "generic_name": "タクロリムス",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
   },
   {
     "yj_code": "NAIKA_0092",
@@ -1665,6 +2682,42 @@
     "icd10": "E11"
   },
   {
+    "yj_code": "NAIKA_0183",
+    "drug_name": "ダビガトラン",
+    "generic_name": "ダビガトラン",
+    "category": "抗凝固薬",
+    "byomei_code": "4273006",
+    "byomei_name": "心房細動",
+    "icd10": "I489"
+  },
+  {
+    "yj_code": "NAIKA_0183",
+    "drug_name": "ダビガトラン",
+    "generic_name": "ダビガトラン",
+    "category": "抗凝固薬",
+    "byomei_code": "8838838",
+    "byomei_name": "肺静脈血栓塞栓症",
+    "icd10": "I269"
+  },
+  {
+    "yj_code": "NAIKA_0183",
+    "drug_name": "ダビガトラン",
+    "generic_name": "ダビガトラン",
+    "category": "抗凝固薬",
+    "byomei_code": "4369009",
+    "byomei_name": "脳卒中",
+    "icd10": "I64"
+  },
+  {
+    "yj_code": "NAIKA_0190",
+    "drug_name": "ダルベポエチンアルファ",
+    "generic_name": "ダルベポエチンアルファ",
+    "category": "腎臓薬",
+    "byomei_code": "2858001",
+    "byomei_name": "腎性貧血",
+    "icd10": "N19"
+  },
+  {
     "yj_code": "NAIKA_0074",
     "drug_name": "チアマゾール",
     "generic_name": "チアマゾール",
@@ -1717,6 +2770,33 @@
     "byomei_code": "4920017",
     "byomei_name": "肺気腫",
     "icd10": "J439"
+  },
+  {
+    "yj_code": "NAIKA_0152",
+    "drug_name": "チペピジン",
+    "generic_name": "チペピジン",
+    "category": "鎮咳薬",
+    "byomei_code": "4659007",
+    "byomei_name": "急性上気道炎",
+    "icd10": "J069"
+  },
+  {
+    "yj_code": "NAIKA_0152",
+    "drug_name": "チペピジン",
+    "generic_name": "チペピジン",
+    "category": "鎮咳薬",
+    "byomei_code": "4660009",
+    "byomei_name": "急性気管支炎",
+    "icd10": "J209"
+  },
+  {
+    "yj_code": "NAIKA_0152",
+    "drug_name": "チペピジン",
+    "generic_name": "チペピジン",
+    "category": "鎮咳薬",
+    "byomei_code": "4609008",
+    "byomei_name": "感冒",
+    "icd10": "J00"
   },
   {
     "yj_code": "TJ_046",
@@ -6075,6 +7155,42 @@
     "icd10": "R040"
   },
   {
+    "yj_code": "NAIKA_0147",
+    "drug_name": "ツロブテロール",
+    "generic_name": "ツロブテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4660009",
+    "byomei_name": "急性気管支炎",
+    "icd10": "J209"
+  },
+  {
+    "yj_code": "NAIKA_0147",
+    "drug_name": "ツロブテロール",
+    "generic_name": "ツロブテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4919002",
+    "byomei_name": "慢性気管支炎",
+    "icd10": "J42"
+  },
+  {
+    "yj_code": "NAIKA_0147",
+    "drug_name": "ツロブテロール",
+    "generic_name": "ツロブテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4939008",
+    "byomei_name": "気管支喘息",
+    "icd10": "J459"
+  },
+  {
+    "yj_code": "NAIKA_0147",
+    "drug_name": "ツロブテロール",
+    "generic_name": "ツロブテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4920017",
+    "byomei_name": "肺気腫",
+    "icd10": "J439"
+  },
+  {
     "yj_code": "NAIKA_0048",
     "drug_name": "テオフィリン",
     "generic_name": "テオフィリン",
@@ -6109,6 +7225,87 @@
     "byomei_code": "4920017",
     "byomei_name": "肺気腫",
     "icd10": "J439"
+  },
+  {
+    "yj_code": "NAIKA_0112",
+    "drug_name": "テネリグリプチン",
+    "generic_name": "テネリグリプチン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0201",
+    "drug_name": "テノホビル",
+    "generic_name": "テノホビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "0703003",
+    "byomei_name": "Ｂ型慢性肝炎",
+    "icd10": "B181"
+  },
+  {
+    "yj_code": "NAIKA_0201",
+    "drug_name": "テノホビル",
+    "generic_name": "テノホビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "8843999",
+    "byomei_name": "Ｂ型肝硬変",
+    "icd10": "B181"
+  },
+  {
+    "yj_code": "NAIKA_0133",
+    "drug_name": "テプレノン",
+    "generic_name": "テプレノン",
+    "category": "消化器薬",
+    "byomei_code": "5350004",
+    "byomei_name": "急性胃炎",
+    "icd10": "K291"
+  },
+  {
+    "yj_code": "NAIKA_0133",
+    "drug_name": "テプレノン",
+    "generic_name": "テプレノン",
+    "category": "消化器薬",
+    "byomei_code": "5319009",
+    "byomei_name": "胃潰瘍",
+    "icd10": "K259"
+  },
+  {
+    "yj_code": "NAIKA_0224",
+    "drug_name": "テリパラチド",
+    "generic_name": "テリパラチド",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0170",
+    "drug_name": "テルビナフィン",
+    "generic_name": "テルビナフィン",
+    "category": "抗真菌薬",
+    "byomei_code": "1129002",
+    "byomei_name": "カンジダ症",
+    "icd10": "B379"
+  },
+  {
+    "yj_code": "NAIKA_0170",
+    "drug_name": "テルビナフィン",
+    "generic_name": "テルビナフィン",
+    "category": "抗真菌薬",
+    "byomei_code": "8837847",
+    "byomei_name": "爪白癬",
+    "icd10": "B351"
+  },
+  {
+    "yj_code": "NAIKA_0170",
+    "drug_name": "テルビナフィン",
+    "generic_name": "テルビナフィン",
+    "category": "抗真菌薬",
+    "byomei_code": "8838926",
+    "byomei_name": "白癬",
+    "icd10": "B359"
   },
   {
     "yj_code": "NAIKA_0004",
@@ -6219,6 +7416,69 @@
     "icd10": "E11"
   },
   {
+    "yj_code": "NAIKA_0211",
+    "drug_name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
+    "yj_code": "NAIKA_0211",
+    "drug_name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "7159004",
+    "byomei_name": "変形性関節症",
+    "icd10": "M1999"
+  },
+  {
+    "yj_code": "NAIKA_0211",
+    "drug_name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "7242031",
+    "byomei_name": "慢性腰痛症",
+    "icd10": "M5456"
+  },
+  {
+    "yj_code": "NAIKA_0211",
+    "drug_name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8848768",
+    "byomei_name": "糖尿病性神経障害性疼痛",
+    "icd10": "E144"
+  },
+  {
+    "yj_code": "NAIKA_0211",
+    "drug_name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8836065",
+    "byomei_name": "線維筋痛症",
+    "icd10": "M7979"
+  },
+  {
+    "yj_code": "NAIKA_0117",
+    "drug_name": "トホグリフロジン",
+    "generic_name": "トホグリフロジン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0214",
+    "drug_name": "トラゾドン",
+    "generic_name": "トラゾドン",
+    "category": "抗うつ薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
     "yj_code": "NAIKA_0081",
     "drug_name": "トラマドール",
     "generic_name": "トラマドール",
@@ -6255,6 +7515,69 @@
     "icd10": "M5456"
   },
   {
+    "yj_code": "NAIKA_0108",
+    "drug_name": "トリクロルメチアジド",
+    "generic_name": "トリクロルメチアジド",
+    "category": "降圧薬",
+    "byomei_code": "7823029",
+    "byomei_name": "肝性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0108",
+    "drug_name": "トリクロルメチアジド",
+    "generic_name": "トリクロルメチアジド",
+    "category": "降圧薬",
+    "byomei_code": "5819009",
+    "byomei_name": "腎性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0108",
+    "drug_name": "トリクロルメチアジド",
+    "generic_name": "トリクロルメチアジド",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0135",
+    "drug_name": "トリメブチン",
+    "generic_name": "トリメブチン",
+    "category": "消化器薬",
+    "byomei_code": "5351003",
+    "byomei_name": "慢性胃炎",
+    "icd10": "K295"
+  },
+  {
+    "yj_code": "NAIKA_0135",
+    "drug_name": "トリメブチン",
+    "generic_name": "トリメブチン",
+    "category": "消化器薬",
+    "byomei_code": "5641015",
+    "byomei_name": "過敏性腸症候群",
+    "icd10": "K589"
+  },
+  {
+    "yj_code": "NAIKA_0109",
+    "drug_name": "トルバプタン",
+    "generic_name": "トルバプタン",
+    "category": "降圧薬",
+    "byomei_code": "2761001",
+    "byomei_name": "低ナトリウム血症",
+    "icd10": "E871"
+  },
+  {
+    "yj_code": "NAIKA_0109",
+    "drug_name": "トルバプタン",
+    "generic_name": "トルバプタン",
+    "category": "降圧薬",
+    "byomei_code": "4289015",
+    "byomei_name": "心不全",
+    "icd10": "I509"
+  },
+  {
     "yj_code": "NAIKA_0015",
     "drug_name": "ドキサゾシン",
     "generic_name": "ドキサゾシン",
@@ -6280,6 +7603,87 @@
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
     "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "drug_name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "0788011",
+    "byomei_name": "クラミジア感染症",
+    "icd10": "A749"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "drug_name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "8842169",
+    "byomei_name": "マイコプラズマ肺炎",
+    "icd10": "J157"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "drug_name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "5978015",
+    "byomei_name": "尿道炎",
+    "icd10": "N342"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "drug_name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "drug_name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0185",
+    "drug_name": "ドチヌラド",
+    "generic_name": "ドチヌラド",
+    "category": "高尿酸血症薬",
+    "byomei_code": "2749004",
+    "byomei_name": "痛風",
+    "icd10": "M1009"
+  },
+  {
+    "yj_code": "NAIKA_0185",
+    "drug_name": "ドチヌラド",
+    "generic_name": "ドチヌラド",
+    "category": "高尿酸血症薬",
+    "byomei_code": "7906015",
+    "byomei_name": "高尿酸血症",
+    "icd10": "E790"
+  },
+  {
+    "yj_code": "NAIKA_0202",
+    "drug_name": "ドネペジル",
+    "generic_name": "ドネペジル",
+    "category": "認知症薬",
+    "byomei_code": "8842549",
+    "byomei_name": "アルツハイマー型認知症",
+    "icd10": "G309"
+  },
+  {
+    "yj_code": "NAIKA_0202",
+    "drug_name": "ドネペジル",
+    "generic_name": "ドネペジル",
+    "category": "認知症薬",
+    "byomei_code": "8845840",
+    "byomei_name": "レビー小体型認知症",
+    "icd10": "G318"
   },
   {
     "yj_code": "NAIKA_0039",
@@ -6316,6 +7720,42 @@
     "byomei_code": "7830003",
     "byomei_name": "食欲不振",
     "icd10": "R630"
+  },
+  {
+    "yj_code": "NAIKA_0122",
+    "drug_name": "ナテグリニド",
+    "generic_name": "ナテグリニド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0210",
+    "drug_name": "ナフトピジル",
+    "generic_name": "ナフトピジル",
+    "category": "排尿障害薬",
+    "byomei_code": "8836591",
+    "byomei_name": "前立腺肥大症",
+    "icd10": "N40"
+  },
+  {
+    "yj_code": "NAIKA_0140",
+    "drug_name": "ナルデメジン",
+    "generic_name": "ナルデメジン",
+    "category": "消化器薬",
+    "byomei_code": "8850626",
+    "byomei_name": "オピオイド誘発性便秘症",
+    "icd10": "K590"
+  },
+  {
+    "yj_code": "NAIKA_0177",
+    "drug_name": "ニコランジル",
+    "generic_name": "ニコランジル",
+    "category": "循環器薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
   },
   {
     "yj_code": "NAIKA_0002",
@@ -6363,6 +7803,42 @@
     "icd10": "I10"
   },
   {
+    "yj_code": "NAIKA_0227",
+    "drug_name": "バゼドキシフェン",
+    "generic_name": "バゼドキシフェン",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0163",
+    "drug_name": "バラシクロビル",
+    "generic_name": "バラシクロビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "0539013",
+    "byomei_name": "帯状疱疹",
+    "icd10": "B029"
+  },
+  {
+    "yj_code": "NAIKA_0163",
+    "drug_name": "バラシクロビル",
+    "generic_name": "バラシクロビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "0541010",
+    "byomei_name": "性器ヘルペス",
+    "icd10": "A600"
+  },
+  {
+    "yj_code": "NAIKA_0163",
+    "drug_name": "バラシクロビル",
+    "generic_name": "バラシクロビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "8842189",
+    "byomei_name": "水痘",
+    "icd10": "B019"
+  },
+  {
     "yj_code": "NAIKA_0006",
     "drug_name": "バルサルタン",
     "generic_name": "バルサルタン",
@@ -6388,6 +7864,114 @@
     "byomei_code": "8833421",
     "byomei_name": "高血圧症",
     "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0218",
+    "drug_name": "バルプロ酸",
+    "generic_name": "バルプロ酸",
+    "category": "抗てんかん薬",
+    "byomei_code": "3459001",
+    "byomei_name": "てんかん",
+    "icd10": "G409"
+  },
+  {
+    "yj_code": "NAIKA_0218",
+    "drug_name": "バルプロ酸",
+    "generic_name": "バルプロ酸",
+    "category": "抗てんかん薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
+  },
+  {
+    "yj_code": "NAIKA_0218",
+    "drug_name": "バルプロ酸",
+    "generic_name": "バルプロ酸",
+    "category": "抗てんかん薬",
+    "byomei_code": "8832941",
+    "byomei_name": "軽躁病",
+    "icd10": "F300"
+  },
+  {
+    "yj_code": "NAIKA_0240",
+    "drug_name": "バレニクリン",
+    "generic_name": "バレニクリン",
+    "category": "禁煙補助薬",
+    "byomei_code": "8843091",
+    "byomei_name": "ニコチン依存症",
+    "icd10": "F172"
+  },
+  {
+    "yj_code": "NAIKA_0165",
+    "drug_name": "バロキサビル",
+    "generic_name": "バロキサビル",
+    "category": "抗ウイルス薬",
+    "byomei_code": "4871001",
+    "byomei_name": "インフルエンザ",
+    "icd10": "J111"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "drug_name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "drug_name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8844095",
+    "byomei_name": "パニック障害",
+    "icd10": "F410"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "drug_name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8832567",
+    "byomei_name": "強迫性障害",
+    "icd10": "F429"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "drug_name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8845678",
+    "byomei_name": "心的外傷後ストレス障害",
+    "icd10": "F431"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "drug_name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬",
+    "byomei_code": "8842740",
+    "byomei_name": "社会不安障害",
+    "icd10": "F401"
+  },
+  {
+    "yj_code": "NAIKA_0195",
+    "drug_name": "ヒドロキシクロロキン",
+    "generic_name": "ヒドロキシクロロキン",
+    "category": "免疫抑制薬",
+    "byomei_code": "7100011",
+    "byomei_name": "全身性エリテマトーデス",
+    "icd10": "M329"
+  },
+  {
+    "yj_code": "NAIKA_0195",
+    "drug_name": "ヒドロキシクロロキン",
+    "generic_name": "ヒドロキシクロロキン",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
   },
   {
     "yj_code": "NAIKA_0011",
@@ -6498,6 +8082,15 @@
     "icd10": "I10"
   },
   {
+    "yj_code": "NAIKA_0207",
+    "drug_name": "ビベグロン",
+    "generic_name": "ビベグロン",
+    "category": "排尿障害薬",
+    "byomei_code": "8843031",
+    "byomei_name": "過活動膀胱",
+    "icd10": "N328"
+  },
+  {
     "yj_code": "NAIKA_0061",
     "drug_name": "ビラスチン",
     "generic_name": "ビラスチン",
@@ -6525,6 +8118,15 @@
     "icd10": "L299"
   },
   {
+    "yj_code": "NAIKA_0113",
+    "drug_name": "ビルダグリプチン",
+    "generic_name": "ビルダグリプチン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
     "yj_code": "NAIKA_0022",
     "drug_name": "ピオグリタゾン",
     "generic_name": "ピオグリタゾン",
@@ -6532,6 +8134,42 @@
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
     "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0141",
+    "drug_name": "ピコスルファート",
+    "generic_name": "ピコスルファート",
+    "category": "消化器薬",
+    "byomei_code": "8840042",
+    "byomei_name": "便秘症",
+    "icd10": "K590"
+  },
+  {
+    "yj_code": "NAIKA_0128",
+    "drug_name": "ピタバスタチン",
+    "generic_name": "ピタバスタチン",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720001",
+    "byomei_name": "家族性高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0128",
+    "drug_name": "ピタバスタチン",
+    "generic_name": "ピタバスタチン",
+    "category": "脂質異常症薬",
+    "byomei_code": "2720004",
+    "byomei_name": "高コレステロール血症",
+    "icd10": "E780"
+  },
+  {
+    "yj_code": "NAIKA_0174",
+    "drug_name": "ピルシカイニド",
+    "generic_name": "ピルシカイニド",
+    "category": "循環器薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
   },
   {
     "yj_code": "NAIKA_0036",
@@ -6595,6 +8233,78 @@
     "byomei_code": "5301002",
     "byomei_name": "逆流性食道炎",
     "icd10": "K210"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "3829010",
+    "byomei_name": "中耳炎",
+    "icd10": "H669"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "4739007",
+    "byomei_name": "副鼻腔炎",
+    "icd10": "J329"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "4629008",
+    "byomei_name": "咽頭炎",
+    "icd10": "J029"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "4660009",
+    "byomei_name": "急性気管支炎",
+    "icd10": "J209"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "4639033",
+    "byomei_name": "扁桃炎",
+    "icd10": "J039"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "5908007",
+    "byomei_name": "腎盂腎炎",
+    "icd10": "N12"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "drug_name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
   },
   {
     "yj_code": "NAIKA_0059",
@@ -6678,6 +8388,150 @@
     "icd10": "E790"
   },
   {
+    "yj_code": "NAIKA_0151",
+    "drug_name": "フドステイン",
+    "generic_name": "フドステイン",
+    "category": "去痰薬",
+    "byomei_code": "4919002",
+    "byomei_name": "慢性気管支炎",
+    "icd10": "J42"
+  },
+  {
+    "yj_code": "NAIKA_0151",
+    "drug_name": "フドステイン",
+    "generic_name": "フドステイン",
+    "category": "去痰薬",
+    "byomei_code": "4950002",
+    "byomei_name": "気管支拡張症",
+    "icd10": "J47"
+  },
+  {
+    "yj_code": "NAIKA_0151",
+    "drug_name": "フドステイン",
+    "generic_name": "フドステイン",
+    "category": "去痰薬",
+    "byomei_code": "8838810",
+    "byomei_name": "肺結核",
+    "icd10": "A162"
+  },
+  {
+    "yj_code": "NAIKA_0169",
+    "drug_name": "フルコナゾール",
+    "generic_name": "フルコナゾール",
+    "category": "抗真菌薬",
+    "byomei_code": "1129002",
+    "byomei_name": "カンジダ症",
+    "icd10": "B379"
+  },
+  {
+    "yj_code": "NAIKA_0169",
+    "drug_name": "フルコナゾール",
+    "generic_name": "フルコナゾール",
+    "category": "抗真菌薬",
+    "byomei_code": "8832834",
+    "byomei_name": "クリプトコッカス症",
+    "icd10": "B459"
+  },
+  {
+    "yj_code": "NAIKA_0144",
+    "drug_name": "フルチカゾン",
+    "generic_name": "フルチカゾン",
+    "category": "呼吸器薬",
+    "byomei_code": "4939008",
+    "byomei_name": "気管支喘息",
+    "icd10": "J459"
+  },
+  {
+    "yj_code": "NAIKA_0213",
+    "drug_name": "フルボキサミン",
+    "generic_name": "フルボキサミン",
+    "category": "抗うつ薬",
+    "byomei_code": "2961003",
+    "byomei_name": "うつ病",
+    "icd10": "F329"
+  },
+  {
+    "yj_code": "NAIKA_0213",
+    "drug_name": "フルボキサミン",
+    "generic_name": "フルボキサミン",
+    "category": "抗うつ薬",
+    "byomei_code": "8832567",
+    "byomei_name": "強迫性障害",
+    "icd10": "F429"
+  },
+  {
+    "yj_code": "NAIKA_0213",
+    "drug_name": "フルボキサミン",
+    "generic_name": "フルボキサミン",
+    "category": "抗うつ薬",
+    "byomei_code": "8842740",
+    "byomei_name": "社会不安障害",
+    "icd10": "F401"
+  },
+  {
+    "yj_code": "NAIKA_0173",
+    "drug_name": "フレカイニド",
+    "generic_name": "フレカイニド",
+    "category": "循環器薬",
+    "byomei_code": "4273006",
+    "byomei_name": "心房細動",
+    "icd10": "I489"
+  },
+  {
+    "yj_code": "NAIKA_0173",
+    "drug_name": "フレカイニド",
+    "generic_name": "フレカイニド",
+    "category": "循環器薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  {
+    "yj_code": "NAIKA_0106",
+    "drug_name": "フロセミド",
+    "generic_name": "フロセミド",
+    "category": "降圧薬",
+    "byomei_code": "7823029",
+    "byomei_name": "肝性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0106",
+    "drug_name": "フロセミド",
+    "generic_name": "フロセミド",
+    "category": "降圧薬",
+    "byomei_code": "3485002",
+    "byomei_name": "脳浮腫",
+    "icd10": "G936"
+  },
+  {
+    "yj_code": "NAIKA_0106",
+    "drug_name": "フロセミド",
+    "generic_name": "フロセミド",
+    "category": "降圧薬",
+    "byomei_code": "5819009",
+    "byomei_name": "腎性浮腫",
+    "icd10": "R609"
+  },
+  {
+    "yj_code": "NAIKA_0106",
+    "drug_name": "フロセミド",
+    "generic_name": "フロセミド",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0197",
+    "drug_name": "ブシラミン",
+    "generic_name": "ブシラミン",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  {
     "yj_code": "NAIKA_0046",
     "drug_name": "ブデソニド・ホルモテロール",
     "generic_name": "ブデソニド・ホルモテロール",
@@ -6694,6 +8548,15 @@
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
     "icd10": "J459"
+  },
+  {
+    "yj_code": "NAIKA_0182",
+    "drug_name": "プラスグレル",
+    "generic_name": "プラスグレル",
+    "category": "抗血小板薬",
+    "byomei_code": "8846372",
+    "byomei_name": "急性冠症候群",
+    "icd10": "I249"
   },
   {
     "yj_code": "NAIKA_0028",
@@ -6730,6 +8593,33 @@
     "byomei_code": "2724007",
     "byomei_name": "高脂血症",
     "icd10": "E785"
+  },
+  {
+    "yj_code": "NAIKA_0230",
+    "drug_name": "プラミペキソール",
+    "generic_name": "プラミペキソール",
+    "category": "パーキンソン病薬",
+    "byomei_code": "3320002",
+    "byomei_name": "パーキンソン病",
+    "icd10": "G20"
+  },
+  {
+    "yj_code": "NAIKA_0150",
+    "drug_name": "プランルカスト",
+    "generic_name": "プランルカスト",
+    "category": "呼吸器薬",
+    "byomei_code": "4779004",
+    "byomei_name": "アレルギー性鼻炎",
+    "icd10": "J304"
+  },
+  {
+    "yj_code": "NAIKA_0150",
+    "drug_name": "プランルカスト",
+    "generic_name": "プランルカスト",
+    "category": "呼吸器薬",
+    "byomei_code": "4939008",
+    "byomei_name": "気管支喘息",
+    "icd10": "J459"
   },
   {
     "yj_code": "NAIKA_0082",
@@ -6858,6 +8748,114 @@
     "icd10": "M0690"
   },
   {
+    "yj_code": "NAIKA_0146",
+    "drug_name": "プロカテロール",
+    "generic_name": "プロカテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4919002",
+    "byomei_name": "慢性気管支炎",
+    "icd10": "J42"
+  },
+  {
+    "yj_code": "NAIKA_0146",
+    "drug_name": "プロカテロール",
+    "generic_name": "プロカテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4939008",
+    "byomei_name": "気管支喘息",
+    "icd10": "J459"
+  },
+  {
+    "yj_code": "NAIKA_0146",
+    "drug_name": "プロカテロール",
+    "generic_name": "プロカテロール",
+    "category": "呼吸器薬",
+    "byomei_code": "4920017",
+    "byomei_name": "肺気腫",
+    "icd10": "J439"
+  },
+  {
+    "yj_code": "NAIKA_0209",
+    "drug_name": "プロピベリン",
+    "generic_name": "プロピベリン",
+    "category": "排尿障害薬",
+    "byomei_code": "8843031",
+    "byomei_name": "過活動膀胱",
+    "icd10": "N328"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "4276001",
+    "byomei_name": "期外収縮",
+    "icd10": "I494"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "8841392",
+    "byomei_name": "本態性振戦",
+    "icd10": "G250"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "8840094",
+    "byomei_name": "発作性頻拍",
+    "icd10": "I479"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "drug_name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬",
+    "byomei_code": "1718002",
+    "byomei_name": "褐色細胞腫",
+    "icd10": "D350"
+  },
+  {
+    "yj_code": "NAIKA_0145",
+    "drug_name": "ベクロメタゾン",
+    "generic_name": "ベクロメタゾン",
+    "category": "呼吸器薬",
+    "byomei_code": "4939008",
+    "byomei_name": "気管支喘息",
+    "icd10": "J459"
+  },
+  {
     "yj_code": "NAIKA_0031",
     "drug_name": "ベザフィブラート",
     "generic_name": "ベザフィブラート",
@@ -6892,6 +8890,132 @@
     "byomei_code": "8842865",
     "byomei_name": "メニエール病",
     "icd10": "H810"
+  },
+  {
+    "yj_code": "NAIKA_0096",
+    "drug_name": "ベニジピン",
+    "generic_name": "ベニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0096",
+    "drug_name": "ベニジピン",
+    "generic_name": "ベニジピン",
+    "category": "降圧薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0096",
+    "drug_name": "ベニジピン",
+    "generic_name": "ベニジピン",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0175",
+    "drug_name": "ベラパミル",
+    "generic_name": "ベラパミル",
+    "category": "循環器薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0175",
+    "drug_name": "ベラパミル",
+    "generic_name": "ベラパミル",
+    "category": "循環器薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  {
+    "yj_code": "NAIKA_0184",
+    "drug_name": "ベンズブロマロン",
+    "generic_name": "ベンズブロマロン",
+    "category": "高尿酸血症薬",
+    "byomei_code": "2749004",
+    "byomei_name": "痛風",
+    "icd10": "M1009"
+  },
+  {
+    "yj_code": "NAIKA_0184",
+    "drug_name": "ベンズブロマロン",
+    "generic_name": "ベンズブロマロン",
+    "category": "高尿酸血症薬",
+    "byomei_code": "7906015",
+    "byomei_name": "高尿酸血症",
+    "icd10": "E790"
+  },
+  {
+    "yj_code": "NAIKA_0130",
+    "drug_name": "ペマフィブラート",
+    "generic_name": "ペマフィブラート",
+    "category": "脂質異常症薬",
+    "byomei_code": "2724007",
+    "byomei_name": "高脂血症",
+    "icd10": "E785"
+  },
+  {
+    "yj_code": "NAIKA_0100",
+    "drug_name": "ペリンドプリル",
+    "generic_name": "ペリンドプリル",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0100",
+    "drug_name": "ペリンドプリル",
+    "generic_name": "ペリンドプリル",
+    "category": "降圧薬",
+    "byomei_code": "8833421",
+    "byomei_name": "高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0162",
+    "drug_name": "ホスホマイシン",
+    "generic_name": "ホスホマイシン",
+    "category": "抗菌薬",
+    "byomei_code": "0090003",
+    "byomei_name": "感染性腸炎",
+    "icd10": "A090"
+  },
+  {
+    "yj_code": "NAIKA_0162",
+    "drug_name": "ホスホマイシン",
+    "generic_name": "ホスホマイシン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0110",
+    "drug_name": "ボグリボース",
+    "generic_name": "ボグリボース",
+    "category": "糖尿病薬",
+    "byomei_code": "2500013",
+    "byomei_name": "糖尿病",
+    "icd10": "E14"
+  },
+  {
+    "yj_code": "NAIKA_0110",
+    "drug_name": "ボグリボース",
+    "generic_name": "ボグリボース",
+    "category": "糖尿病薬",
+    "byomei_code": "2713009",
+    "byomei_name": "耐糖能異常",
+    "icd10": "R730"
   },
   {
     "yj_code": "NAIKA_0035",
@@ -6939,6 +9063,87 @@
     "icd10": "K210"
   },
   {
+    "yj_code": "NAIKA_0136",
+    "drug_name": "ポリカルボフィルカルシウム",
+    "generic_name": "ポリカルボフィルカルシウム",
+    "category": "消化器薬",
+    "byomei_code": "5641015",
+    "byomei_name": "過敏性腸症候群",
+    "icd10": "K589"
+  },
+  {
+    "yj_code": "NAIKA_0123",
+    "drug_name": "ミチグリニド",
+    "generic_name": "ミチグリニド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "drug_name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "7061037",
+    "byomei_name": "ざ瘡",
+    "icd10": "L709"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "drug_name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "8842169",
+    "byomei_name": "マイコプラズマ肺炎",
+    "icd10": "J157"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "drug_name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "5978015",
+    "byomei_name": "尿道炎",
+    "icd10": "N342"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "drug_name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "4860030",
+    "byomei_name": "肺炎",
+    "icd10": "J189"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "drug_name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬",
+    "byomei_code": "5959015",
+    "byomei_name": "膀胱炎",
+    "icd10": "N309"
+  },
+  {
+    "yj_code": "NAIKA_0223",
+    "drug_name": "ミノドロン酸",
+    "generic_name": "ミノドロン酸",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0206",
+    "drug_name": "ミラベグロン",
+    "generic_name": "ミラベグロン",
+    "category": "排尿障害薬",
+    "byomei_code": "8843031",
+    "byomei_name": "過活動膀胱",
+    "icd10": "N328"
+  },
+  {
     "yj_code": "NAIKA_0085",
     "drug_name": "ミルタザピン",
     "generic_name": "ミルタザピン",
@@ -6973,6 +9178,24 @@
     "byomei_code": "8848768",
     "byomei_name": "糖尿病性神経障害性疼痛",
     "icd10": "E144"
+  },
+  {
+    "yj_code": "NAIKA_0143",
+    "drug_name": "メサラジン",
+    "generic_name": "メサラジン",
+    "category": "消化器薬",
+    "byomei_code": "5559001",
+    "byomei_name": "クローン病",
+    "icd10": "K509"
+  },
+  {
+    "yj_code": "NAIKA_0143",
+    "drug_name": "メサラジン",
+    "generic_name": "メサラジン",
+    "category": "消化器薬",
+    "byomei_code": "5569003",
+    "byomei_name": "潰瘍性大腸炎",
+    "icd10": "K519"
   },
   {
     "yj_code": "NAIKA_0040",
@@ -7011,6 +9234,42 @@
     "icd10": "R630"
   },
   {
+    "yj_code": "NAIKA_0192",
+    "drug_name": "メトトレキサート",
+    "generic_name": "メトトレキサート",
+    "category": "免疫抑制薬",
+    "byomei_code": "8842106",
+    "byomei_name": "関節リウマチ",
+    "icd10": "M0690"
+  },
+  {
+    "yj_code": "NAIKA_0102",
+    "drug_name": "メトプロロール",
+    "generic_name": "メトプロロール",
+    "category": "降圧薬",
+    "byomei_code": "8840107",
+    "byomei_name": "本態性高血圧症",
+    "icd10": "I10"
+  },
+  {
+    "yj_code": "NAIKA_0102",
+    "drug_name": "メトプロロール",
+    "generic_name": "メトプロロール",
+    "category": "降圧薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0102",
+    "drug_name": "メトプロロール",
+    "generic_name": "メトプロロール",
+    "category": "降圧薬",
+    "byomei_code": "8844914",
+    "byomei_name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  {
     "yj_code": "NAIKA_0016",
     "drug_name": "メトホルミン",
     "generic_name": "メトホルミン",
@@ -7018,6 +9277,33 @@
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
     "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0159",
+    "drug_name": "メトロニダゾール",
+    "generic_name": "メトロニダゾール",
+    "category": "抗菌薬",
+    "byomei_code": "0069002",
+    "byomei_name": "アメーバ赤痢",
+    "icd10": "A060"
+  },
+  {
+    "yj_code": "NAIKA_0159",
+    "drug_name": "メトロニダゾール",
+    "generic_name": "メトロニダゾール",
+    "category": "抗菌薬",
+    "byomei_code": "8839972",
+    "byomei_name": "ヘリコバクター・ピロリ感染症",
+    "icd10": "A048"
+  },
+  {
+    "yj_code": "NAIKA_0203",
+    "drug_name": "メマンチン",
+    "generic_name": "メマンチン",
+    "category": "認知症薬",
+    "byomei_code": "8842549",
+    "byomei_name": "アルツハイマー型認知症",
+    "icd10": "G309"
   },
   {
     "yj_code": "NAIKA_0038",
@@ -7045,6 +9331,87 @@
     "byomei_code": "4939008",
     "byomei_name": "気管支喘息",
     "icd10": "J459"
+  },
+  {
+    "yj_code": "NAIKA_0142",
+    "drug_name": "ラクツロース",
+    "generic_name": "ラクツロース",
+    "category": "消化器薬",
+    "byomei_code": "2706003",
+    "byomei_name": "高アンモニア血症",
+    "icd10": "E722"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "drug_name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬",
+    "byomei_code": "2515003",
+    "byomei_name": "ゾリンジャー・エリソン症候群",
+    "icd10": "E164"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "drug_name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬",
+    "byomei_code": "8839972",
+    "byomei_name": "ヘリコバクター・ピロリ感染症",
+    "icd10": "A048"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "drug_name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬",
+    "byomei_code": "5329002",
+    "byomei_name": "十二指腸潰瘍",
+    "icd10": "K269"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "drug_name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬",
+    "byomei_code": "5319009",
+    "byomei_name": "胃潰瘍",
+    "icd10": "K259"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "drug_name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬",
+    "byomei_code": "5301002",
+    "byomei_name": "逆流性食道炎",
+    "icd10": "K210"
+  },
+  {
+    "yj_code": "NAIKA_0219",
+    "drug_name": "ラメルテオン",
+    "generic_name": "ラメルテオン",
+    "category": "睡眠薬",
+    "byomei_code": "8839792",
+    "byomei_name": "不眠症",
+    "icd10": "G470"
+  },
+  {
+    "yj_code": "NAIKA_0137",
+    "drug_name": "ラモセトロン",
+    "generic_name": "ラモセトロン",
+    "category": "消化器薬",
+    "byomei_code": "5641015",
+    "byomei_name": "過敏性腸症候群",
+    "icd10": "K589"
+  },
+  {
+    "yj_code": "NAIKA_0226",
+    "drug_name": "ラロキシフェン",
+    "generic_name": "ラロキシフェン",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
   },
   {
     "yj_code": "NAIKA_0033",
@@ -7110,6 +9477,33 @@
     "icd10": "K210"
   },
   {
+    "yj_code": "NAIKA_0233",
+    "drug_name": "リザトリプタン",
+    "generic_name": "リザトリプタン",
+    "category": "片頭痛薬",
+    "byomei_code": "3469004",
+    "byomei_name": "片頭痛",
+    "icd10": "G439"
+  },
+  {
+    "yj_code": "NAIKA_0222",
+    "drug_name": "リセドロン酸",
+    "generic_name": "リセドロン酸",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0138",
+    "drug_name": "リナクロチド",
+    "generic_name": "リナクロチド",
+    "category": "消化器薬",
+    "byomei_code": "5641015",
+    "byomei_name": "過敏性腸症候群",
+    "icd10": "K589"
+  },
+  {
     "yj_code": "NAIKA_0020",
     "drug_name": "リナグリプチン",
     "generic_name": "リナグリプチン",
@@ -7117,6 +9511,15 @@
     "byomei_code": "2500015",
     "byomei_name": "２型糖尿病",
     "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0205",
+    "drug_name": "リバスチグミン",
+    "generic_name": "リバスチグミン",
+    "category": "認知症薬",
+    "byomei_code": "8842549",
+    "byomei_name": "アルツハイマー型認知症",
+    "icd10": "G309"
   },
   {
     "yj_code": "NAIKA_0066",
@@ -7155,6 +9558,24 @@
     "icd10": "I669"
   },
   {
+    "yj_code": "NAIKA_0119",
+    "drug_name": "リラグルチド",
+    "generic_name": "リラグルチド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
+    "yj_code": "NAIKA_0116",
+    "drug_name": "ルセオグリフロジン",
+    "generic_name": "ルセオグリフロジン",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
     "yj_code": "NAIKA_0043",
     "drug_name": "ルビプロストン",
     "generic_name": "ルビプロストン",
@@ -7191,6 +9612,15 @@
     "icd10": "K259"
   },
   {
+    "yj_code": "NAIKA_0124",
+    "drug_name": "レパグリニド",
+    "generic_name": "レパグリニド",
+    "category": "糖尿病薬",
+    "byomei_code": "2500015",
+    "byomei_name": "２型糖尿病",
+    "icd10": "E11"
+  },
+  {
     "yj_code": "NAIKA_0073",
     "drug_name": "レボチロキシン",
     "generic_name": "レボチロキシン",
@@ -7225,6 +9655,15 @@
     "byomei_code": "2449016",
     "byomei_name": "粘液水腫",
     "icd10": "E039"
+  },
+  {
+    "yj_code": "NAIKA_0229",
+    "drug_name": "レボドパ・カルビドパ",
+    "generic_name": "レボドパ・カルビドパ",
+    "category": "パーキンソン病薬",
+    "byomei_code": "3320002",
+    "byomei_name": "パーキンソン病",
+    "icd10": "G20"
   },
   {
     "yj_code": "NAIKA_0057",
@@ -7315,6 +9754,15 @@
     "byomei_code": "8839792",
     "byomei_name": "不眠症",
     "icd10": "G470"
+  },
+  {
+    "yj_code": "NAIKA_0189",
+    "drug_name": "ロキサデュスタット",
+    "generic_name": "ロキサデュスタット",
+    "category": "腎臓薬",
+    "byomei_code": "2858001",
+    "byomei_name": "腎性貧血",
+    "icd10": "N19"
   },
   {
     "yj_code": "NAIKA_0079",
@@ -7443,6 +9891,33 @@
     "icd10": "E785"
   },
   {
+    "yj_code": "NAIKA_0231",
+    "drug_name": "ロピニロール",
+    "generic_name": "ロピニロール",
+    "category": "パーキンソン病薬",
+    "byomei_code": "3320002",
+    "byomei_name": "パーキンソン病",
+    "icd10": "G20"
+  },
+  {
+    "yj_code": "NAIKA_0225",
+    "drug_name": "ロモソズマブ",
+    "generic_name": "ロモソズマブ",
+    "category": "骨粗鬆症薬",
+    "byomei_code": "7330006",
+    "byomei_name": "骨粗鬆症",
+    "icd10": "M8199"
+  },
+  {
+    "yj_code": "NAIKA_0221",
+    "drug_name": "ロラゼパム",
+    "generic_name": "ロラゼパム",
+    "category": "抗不安薬",
+    "byomei_code": "8839596",
+    "byomei_name": "不安障害",
+    "icd10": "F419"
+  },
+  {
     "yj_code": "NAIKA_0060",
     "drug_name": "ロラタジン",
     "generic_name": "ロラタジン",
@@ -7531,6 +10006,78 @@
     "byomei_code": "8838736",
     "byomei_name": "脳塞栓症",
     "icd10": "I669"
+  },
+  {
+    "yj_code": "NAIKA_0187",
+    "drug_name": "炭酸ランタン",
+    "generic_name": "炭酸ランタン",
+    "category": "腎臓薬",
+    "byomei_code": "8844106",
+    "byomei_name": "慢性腎臓病",
+    "icd10": "N189"
+  },
+  {
+    "yj_code": "NAIKA_0187",
+    "drug_name": "炭酸ランタン",
+    "generic_name": "炭酸ランタン",
+    "category": "腎臓薬",
+    "byomei_code": "8841364",
+    "byomei_name": "高リン血症",
+    "icd10": "E833"
+  },
+  {
+    "yj_code": "NAIKA_0186",
+    "drug_name": "球形吸着炭",
+    "generic_name": "球形吸着炭",
+    "category": "腎臓薬",
+    "byomei_code": "5859002",
+    "byomei_name": "慢性腎不全",
+    "icd10": "N189"
+  },
+  {
+    "yj_code": "NAIKA_0178",
+    "drug_name": "硝酸イソソルビド",
+    "generic_name": "硝酸イソソルビド",
+    "category": "循環器薬",
+    "byomei_code": "8830796",
+    "byomei_name": "うっ血性心不全",
+    "icd10": "I500"
+  },
+  {
+    "yj_code": "NAIKA_0178",
+    "drug_name": "硝酸イソソルビド",
+    "generic_name": "硝酸イソソルビド",
+    "category": "循環器薬",
+    "byomei_code": "8834919",
+    "byomei_name": "心筋梗塞",
+    "icd10": "I219"
+  },
+  {
+    "yj_code": "NAIKA_0178",
+    "drug_name": "硝酸イソソルビド",
+    "generic_name": "硝酸イソソルビド",
+    "category": "循環器薬",
+    "byomei_code": "4139007",
+    "byomei_name": "狭心症",
+    "icd10": "I209"
+  },
+  {
+    "yj_code": "NAIKA_0239",
+    "drug_name": "葉酸",
+    "generic_name": "葉酸",
+    "category": "ビタミン",
+    "byomei_code": "2819003",
+    "byomei_name": "巨赤芽球性貧血",
+    "icd10": "D531"
+  },
+  {
+    "yj_code": "NAIKA_0239",
+    "drug_name": "葉酸",
+    "generic_name": "葉酸",
+    "category": "ビタミン",
+    "byomei_code": "8840786",
+    "byomei_name": "葉酸欠乏症",
+    "icd10": "E538"
   },
   {
     "yj_code": "NAIKA_0042",

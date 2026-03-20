@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0109",
+    "name": "トルバプタン",
+    "generic_name": "トルバプタン",
+    "category": "降圧薬"
+  },
+  "indications": [
+    {
+      "code": "2761001",
+      "name": "低ナトリウム血症",
+      "kana": "12",
+      "icd10": "E871"
+    },
+    {
+      "code": "4289015",
+      "name": "心不全",
+      "kana": "5",
+      "icd10": "I509"
+    }
+  ]
+}

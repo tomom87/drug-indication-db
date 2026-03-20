@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0181",
+    "name": "シロスタゾール",
+    "generic_name": "シロスタゾール",
+    "category": "抗血小板薬"
+  },
+  "indications": [
+    {
+      "code": "8842316",
+      "name": "慢性動脈閉塞症",
+      "kana": "16",
+      "icd10": "I749"
+    },
+    {
+      "code": "8838708",
+      "name": "脳梗塞",
+      "kana": "6",
+      "icd10": "I639"
+    }
+  ]
+}

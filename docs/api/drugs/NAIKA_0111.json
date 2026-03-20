@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0111",
+    "name": "アカルボース",
+    "generic_name": "アカルボース",
+    "category": "糖尿病薬"
+  },
+  "indications": [
+    {
+      "code": "2500013",
+      "name": "糖尿病",
+      "kana": "8",
+      "icd10": "E14"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0141",
+    "name": "ピコスルファート",
+    "generic_name": "ピコスルファート",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "8840042",
+      "name": "便秘症",
+      "kana": "6",
+      "icd10": "K590"
+    }
+  ]
+}

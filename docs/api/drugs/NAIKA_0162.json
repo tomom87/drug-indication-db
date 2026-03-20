@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0162",
+    "name": "ホスホマイシン",
+    "generic_name": "ホスホマイシン",
+    "category": "抗菌薬"
+  },
+  "indications": [
+    {
+      "code": "0090003",
+      "name": "感染性腸炎",
+      "kana": "11",
+      "icd10": "A090"
+    },
+    {
+      "code": "5959015",
+      "name": "膀胱炎",
+      "kana": "6",
+      "icd10": "N309"
+    }
+  ]
+}

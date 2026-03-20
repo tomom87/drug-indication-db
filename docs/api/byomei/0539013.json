@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0539013",
+    "name": "帯状疱疹",
+    "icd10": "B029"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0163",
+      "name": "バラシクロビル",
+      "generic_name": "バラシクロビル",
+      "category": "抗ウイルス薬"
+    }
+  ]
+}

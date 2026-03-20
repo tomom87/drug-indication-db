@@ -6,6 +6,12 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0215",
+      "name": "アミトリプチリン",
+      "generic_name": "アミトリプチリン",
+      "category": "抗うつ薬"
+    },
+    {
       "yj_code": "TJ_099",
       "name": "ツムラ小建中湯エキス顆粒（医療用）",
       "generic_name": "小建中湯",

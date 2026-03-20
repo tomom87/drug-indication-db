@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0118",
+    "name": "イプラグリフロジン",
+    "generic_name": "イプラグリフロジン",
+    "category": "糖尿病薬"
+  },
+  "indications": [
+    {
+      "code": "2500014",
+      "name": "１型糖尿病",
+      "kana": "11",
+      "icd10": "E10"
+    },
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

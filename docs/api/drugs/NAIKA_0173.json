@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0173",
+    "name": "フレカイニド",
+    "generic_name": "フレカイニド",
+    "category": "循環器薬"
+  },
+  "indications": [
+    {
+      "code": "4273006",
+      "name": "心房細動",
+      "kana": "8",
+      "icd10": "I489"
+    },
+    {
+      "code": "8844914",
+      "name": "頻脈性不整脈",
+      "kana": "13",
+      "icd10": "R000"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0788011",
+    "name": "クラミジア感染症",
+    "icd10": "A749"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0158",
+      "name": "ドキシサイクリン",
+      "generic_name": "ドキシサイクリン",
+      "category": "抗菌薬"
+    }
+  ]
+}

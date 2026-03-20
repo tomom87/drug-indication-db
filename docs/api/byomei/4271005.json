@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "4271005",
+    "name": "心室頻拍",
+    "icd10": "I472"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0172",
+      "name": "アミオダロン",
+      "generic_name": "アミオダロン",
+      "category": "循環器薬"
+    }
+  ]
+}

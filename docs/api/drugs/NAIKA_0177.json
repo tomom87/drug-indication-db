@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0177",
+    "name": "ニコランジル",
+    "generic_name": "ニコランジル",
+    "category": "循環器薬"
+  },
+  "indications": [
+    {
+      "code": "4139007",
+      "name": "狭心症",
+      "kana": "8",
+      "icd10": "I209"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0206",
+    "name": "ミラベグロン",
+    "generic_name": "ミラベグロン",
+    "category": "排尿障害薬"
+  },
+  "indications": [
+    {
+      "code": "8843031",
+      "name": "過活動膀胱",
+      "kana": "9",
+      "icd10": "N328"
+    }
+  ]
+}

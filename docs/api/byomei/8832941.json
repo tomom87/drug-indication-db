@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8832941",
+    "name": "軽躁病",
+    "icd10": "F300"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0218",
+      "name": "バルプロ酸",
+      "generic_name": "バルプロ酸",
+      "category": "抗てんかん薬"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0135",
+    "name": "トリメブチン",
+    "generic_name": "トリメブチン",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "5351003",
+      "name": "慢性胃炎",
+      "kana": "7",
+      "icd10": "K295"
+    },
+    {
+      "code": "5641015",
+      "name": "過敏性腸症候群",
+      "kana": "15",
+      "icd10": "K589"
+    }
+  ]
+}

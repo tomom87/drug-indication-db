@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0143",
+    "name": "メサラジン",
+    "generic_name": "メサラジン",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "5559001",
+      "name": "クローン病",
+      "kana": "7",
+      "icd10": "K509"
+    },
+    {
+      "code": "5569003",
+      "name": "潰瘍性大腸炎",
+      "kana": "13",
+      "icd10": "K519"
+    }
+  ]
+}

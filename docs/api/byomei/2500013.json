@@ -24,9 +24,33 @@
       "category": "漢方"
     },
     {
+      "yj_code": "NAIKA_0111",
+      "name": "アカルボース",
+      "generic_name": "アカルボース",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0125",
+      "name": "インスリンアスパルト",
+      "generic_name": "インスリンアスパルト",
+      "category": "糖尿病薬"
+    },
+    {
       "yj_code": "NAIKA_0025",
       "name": "インスリングラルギン",
       "generic_name": "インスリングラルギン",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0126",
+      "name": "インスリンデグルデク",
+      "generic_name": "インスリンデグルデク",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0110",
+      "name": "ボグリボース",
+      "generic_name": "ボグリボース",
       "category": "糖尿病薬"
     }
   ]

@@ -6,6 +6,12 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0176",
+      "name": "ジルチアゼム",
+      "generic_name": "ジルチアゼム",
+      "category": "循環器薬"
+    },
+    {
       "yj_code": "TJ_046",
       "name": "ツムラ七物降下湯エキス顆粒（医療用）",
       "generic_name": "七物降下湯",
@@ -84,9 +90,21 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "NAIKA_0098",
+      "name": "アゼルニジピン",
+      "generic_name": "アゼルニジピン",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0001",
       "name": "アムロジピン",
       "generic_name": "アムロジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0099",
+      "name": "イミダプリル",
+      "generic_name": "イミダプリル",
       "category": "降圧薬"
     },
     {
@@ -96,9 +114,21 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "NAIKA_0105",
+      "name": "エサキセレノン",
+      "generic_name": "エサキセレノン",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0008",
       "name": "エナラプリル",
       "generic_name": "エナラプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0104",
+      "name": "エプレレノン",
+      "generic_name": "エプレレノン",
       "category": "降圧薬"
     },
     {
@@ -120,6 +150,12 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "NAIKA_0097",
+      "name": "シルニジピン",
+      "generic_name": "シルニジピン",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0012",
       "name": "スピロノラクトン",
       "generic_name": "スピロノラクトン",
@@ -129,6 +165,12 @@
       "yj_code": "NAIKA_0004",
       "name": "テルミサルタン",
       "generic_name": "テルミサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0108",
+      "name": "トリクロルメチアジド",
+      "generic_name": "トリクロルメチアジド",
       "category": "降圧薬"
     },
     {
@@ -159,6 +201,24 @@
       "yj_code": "NAIKA_0013",
       "name": "ビソプロロール",
       "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0106",
+      "name": "フロセミド",
+      "generic_name": "フロセミド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0096",
+      "name": "ベニジピン",
+      "generic_name": "ベニジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0100",
+      "name": "ペリンドプリル",
+      "generic_name": "ペリンドプリル",
       "category": "降圧薬"
     },
     {

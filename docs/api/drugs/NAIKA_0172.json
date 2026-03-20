@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0172",
+    "name": "アミオダロン",
+    "generic_name": "アミオダロン",
+    "category": "循環器薬"
+  },
+  "indications": [
+    {
+      "code": "4274004",
+      "name": "心室細動",
+      "kana": "8",
+      "icd10": "I490"
+    },
+    {
+      "code": "4271005",
+      "name": "心室頻拍",
+      "kana": "8",
+      "icd10": "I472"
+    }
+  ]
+}

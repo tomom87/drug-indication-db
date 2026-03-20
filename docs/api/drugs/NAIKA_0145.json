@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0145",
+    "name": "ベクロメタゾン",
+    "generic_name": "ベクロメタゾン",
+    "category": "呼吸器薬"
+  },
+  "indications": [
+    {
+      "code": "4939008",
+      "name": "気管支喘息",
+      "kana": "8",
+      "icd10": "J459"
+    }
+  ]
+}

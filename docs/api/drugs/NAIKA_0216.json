@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0216",
+    "name": "クエチアピン",
+    "generic_name": "クエチアピン",
+    "category": "抗精神病薬"
+  },
+  "indications": [
+    {
+      "code": "8841702",
+      "name": "統合失調症",
+      "kana": "12",
+      "icd10": "F209"
+    }
+  ]
+}

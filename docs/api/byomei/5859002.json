@@ -1,0 +1,21 @@
+{
+  "byomei": {
+    "code": "5859002",
+    "name": "慢性腎不全",
+    "icd10": "N189"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0237",
+      "name": "アルファカルシドール",
+      "generic_name": "アルファカルシドール",
+      "category": "ビタミン"
+    },
+    {
+      "yj_code": "NAIKA_0186",
+      "name": "球形吸着炭",
+      "generic_name": "球形吸着炭",
+      "category": "腎臓薬"
+    }
+  ]
+}

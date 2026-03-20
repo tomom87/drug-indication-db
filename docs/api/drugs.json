@@ -1,5 +1,11 @@
 [
   {
+    "yj_code": "NAIKA_0236",
+    "name": "ジフェニドール",
+    "generic_name": "ジフェニドール",
+    "category": "めまい薬"
+  },
+  {
     "yj_code": "NAIKA_0095",
     "name": "ベタヒスチン",
     "generic_name": "ベタヒスチン",
@@ -12,10 +18,88 @@
     "category": "ステロイド"
   },
   {
+    "yj_code": "NAIKA_0230",
+    "name": "プラミペキソール",
+    "generic_name": "プラミペキソール",
+    "category": "パーキンソン病薬"
+  },
+  {
+    "yj_code": "NAIKA_0229",
+    "name": "レボドパ・カルビドパ",
+    "generic_name": "レボドパ・カルビドパ",
+    "category": "パーキンソン病薬"
+  },
+  {
+    "yj_code": "NAIKA_0231",
+    "name": "ロピニロール",
+    "generic_name": "ロピニロール",
+    "category": "パーキンソン病薬"
+  },
+  {
+    "yj_code": "NAIKA_0237",
+    "name": "アルファカルシドール",
+    "generic_name": "アルファカルシドール",
+    "category": "ビタミン"
+  },
+  {
+    "yj_code": "NAIKA_0238",
+    "name": "カルシトリオール",
+    "generic_name": "カルシトリオール",
+    "category": "ビタミン"
+  },
+  {
     "yj_code": "NAIKA_0091",
     "name": "メコバラミン",
     "generic_name": "メコバラミン",
     "category": "ビタミン"
+  },
+  {
+    "yj_code": "NAIKA_0239",
+    "name": "葉酸",
+    "generic_name": "葉酸",
+    "category": "ビタミン"
+  },
+  {
+    "yj_code": "NAIKA_0193",
+    "name": "アザチオプリン",
+    "generic_name": "アザチオプリン",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0198",
+    "name": "イグラチモド",
+    "generic_name": "イグラチモド",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0196",
+    "name": "サラゾスルファピリジン",
+    "generic_name": "サラゾスルファピリジン",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0194",
+    "name": "タクロリムス",
+    "generic_name": "タクロリムス",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0195",
+    "name": "ヒドロキシクロロキン",
+    "generic_name": "ヒドロキシクロロキン",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0197",
+    "name": "ブシラミン",
+    "generic_name": "ブシラミン",
+    "category": "免疫抑制薬"
+  },
+  {
+    "yj_code": "NAIKA_0192",
+    "name": "メトトレキサート",
+    "generic_name": "メトトレキサート",
+    "category": "免疫抑制薬"
   },
   {
     "yj_code": "NAIKA_0052",
@@ -30,6 +114,24 @@
     "category": "去痰薬"
   },
   {
+    "yj_code": "NAIKA_0151",
+    "name": "フドステイン",
+    "generic_name": "フドステイン",
+    "category": "去痰薬"
+  },
+  {
+    "yj_code": "NAIKA_0148",
+    "name": "インダカテロール・グリコピロニウム",
+    "generic_name": "インダカテロール・グリコピロニウム",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0149",
+    "name": "ウメクリジニウム・ビランテロール",
+    "generic_name": "ウメクリジニウム・ビランテロール",
+    "category": "呼吸器薬"
+  },
+  {
     "yj_code": "NAIKA_0045",
     "name": "サルメテロール・フルチカゾン",
     "generic_name": "サルメテロール・フルチカゾン",
@@ -42,9 +144,21 @@
     "category": "呼吸器薬"
   },
   {
+    "yj_code": "NAIKA_0147",
+    "name": "ツロブテロール",
+    "generic_name": "ツロブテロール",
+    "category": "呼吸器薬"
+  },
+  {
     "yj_code": "NAIKA_0048",
     "name": "テオフィリン",
     "generic_name": "テオフィリン",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0144",
+    "name": "フルチカゾン",
+    "generic_name": "フルチカゾン",
     "category": "呼吸器薬"
   },
   {
@@ -54,10 +168,94 @@
     "category": "呼吸器薬"
   },
   {
+    "yj_code": "NAIKA_0150",
+    "name": "プランルカスト",
+    "generic_name": "プランルカスト",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0146",
+    "name": "プロカテロール",
+    "generic_name": "プロカテロール",
+    "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0145",
+    "name": "ベクロメタゾン",
+    "generic_name": "ベクロメタゾン",
+    "category": "呼吸器薬"
+  },
+  {
     "yj_code": "NAIKA_0044",
     "name": "モンテルカスト",
     "generic_name": "モンテルカスト",
     "category": "呼吸器薬"
+  },
+  {
+    "yj_code": "NAIKA_0172",
+    "name": "アミオダロン",
+    "generic_name": "アミオダロン",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0179",
+    "name": "イバブラジン",
+    "generic_name": "イバブラジン",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0180",
+    "name": "サクビトリル・バルサルタン",
+    "generic_name": "サクビトリル・バルサルタン",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0171",
+    "name": "ジゴキシン",
+    "generic_name": "ジゴキシン",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0176",
+    "name": "ジルチアゼム",
+    "generic_name": "ジルチアゼム",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0177",
+    "name": "ニコランジル",
+    "generic_name": "ニコランジル",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0174",
+    "name": "ピルシカイニド",
+    "generic_name": "ピルシカイニド",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0173",
+    "name": "フレカイニド",
+    "generic_name": "フレカイニド",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0175",
+    "name": "ベラパミル",
+    "generic_name": "ベラパミル",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0178",
+    "name": "硝酸イソソルビド",
+    "generic_name": "硝酸イソソルビド",
+    "category": "循環器薬"
+  },
+  {
+    "yj_code": "NAIKA_0215",
+    "name": "アミトリプチリン",
+    "generic_name": "アミトリプチリン",
+    "category": "抗うつ薬"
   },
   {
     "yj_code": "NAIKA_0083",
@@ -72,10 +270,40 @@
     "category": "抗うつ薬"
   },
   {
+    "yj_code": "NAIKA_0211",
+    "name": "デュロキセチン",
+    "generic_name": "デュロキセチン",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0214",
+    "name": "トラゾドン",
+    "generic_name": "トラゾドン",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0212",
+    "name": "パロキセチン",
+    "generic_name": "パロキセチン",
+    "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0213",
+    "name": "フルボキサミン",
+    "generic_name": "フルボキサミン",
+    "category": "抗うつ薬"
+  },
+  {
     "yj_code": "NAIKA_0085",
     "name": "ミルタザピン",
     "generic_name": "ミルタザピン",
     "category": "抗うつ薬"
+  },
+  {
+    "yj_code": "NAIKA_0218",
+    "name": "バルプロ酸",
+    "generic_name": "バルプロ酸",
+    "category": "抗てんかん薬"
   },
   {
     "yj_code": "NAIKA_0062",
@@ -102,9 +330,63 @@
     "category": "抗アレルギー薬"
   },
   {
+    "yj_code": "NAIKA_0166",
+    "name": "エンシトレルビル",
+    "generic_name": "エンシトレルビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0200",
+    "name": "エンテカビル",
+    "generic_name": "エンテカビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0164",
+    "name": "オセルタミビル",
+    "generic_name": "オセルタミビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0201",
+    "name": "テノホビル",
+    "generic_name": "テノホビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0163",
+    "name": "バラシクロビル",
+    "generic_name": "バラシクロビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0165",
+    "name": "バロキサビル",
+    "generic_name": "バロキサビル",
+    "category": "抗ウイルス薬"
+  },
+  {
+    "yj_code": "NAIKA_0167",
+    "name": "モルヌピラビル",
+    "generic_name": "モルヌピラビル",
+    "category": "抗ウイルス薬"
+  },
+  {
     "yj_code": "NAIKA_0086",
     "name": "エチゾラム",
     "generic_name": "エチゾラム",
+    "category": "抗不安薬"
+  },
+  {
+    "yj_code": "NAIKA_0220",
+    "name": "クロナゼパム",
+    "generic_name": "クロナゼパム",
+    "category": "抗不安薬"
+  },
+  {
+    "yj_code": "NAIKA_0221",
+    "name": "ロラゼパム",
+    "generic_name": "ロラゼパム",
     "category": "抗不安薬"
   },
   {
@@ -120,6 +402,12 @@
     "category": "抗凝固薬"
   },
   {
+    "yj_code": "NAIKA_0183",
+    "name": "ダビガトラン",
+    "generic_name": "ダビガトラン",
+    "category": "抗凝固薬"
+  },
+  {
     "yj_code": "NAIKA_0066",
     "name": "リバーロキサバン",
     "generic_name": "リバーロキサバン",
@@ -130,6 +418,36 @@
     "name": "ワルファリン",
     "generic_name": "ワルファリン",
     "category": "抗凝固薬"
+  },
+  {
+    "yj_code": "NAIKA_0168",
+    "name": "イトラコナゾール",
+    "generic_name": "イトラコナゾール",
+    "category": "抗真菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0170",
+    "name": "テルビナフィン",
+    "generic_name": "テルビナフィン",
+    "category": "抗真菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0169",
+    "name": "フルコナゾール",
+    "generic_name": "フルコナゾール",
+    "category": "抗真菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0217",
+    "name": "アリピプラゾール",
+    "generic_name": "アリピプラゾール",
+    "category": "抗精神病薬"
+  },
+  {
+    "yj_code": "NAIKA_0216",
+    "name": "クエチアピン",
+    "generic_name": "クエチアピン",
+    "category": "抗精神病薬"
   },
   {
     "yj_code": "NAIKA_0056",
@@ -150,15 +468,75 @@
     "category": "抗菌薬"
   },
   {
+    "yj_code": "NAIKA_0160",
+    "name": "スルファメトキサゾール・トリメトプリム",
+    "generic_name": "スルファメトキサゾール・トリメトプリム",
+    "category": "抗菌薬"
+  },
+  {
     "yj_code": "NAIKA_0054",
     "name": "セファレキシン",
     "generic_name": "セファレキシン",
     "category": "抗菌薬"
   },
   {
+    "yj_code": "NAIKA_0153",
+    "name": "セフカペン",
+    "generic_name": "セフカペン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0154",
+    "name": "セフジトレン",
+    "generic_name": "セフジトレン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0155",
+    "name": "セフジニル",
+    "generic_name": "セフジニル",
+    "category": "抗菌薬"
+  },
+  {
     "yj_code": "NAIKA_0058",
     "name": "セフトリアキソン",
     "generic_name": "セフトリアキソン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0158",
+    "name": "ドキシサイクリン",
+    "generic_name": "ドキシサイクリン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0161",
+    "name": "バンコマイシン経口",
+    "generic_name": "バンコマイシン経口",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0156",
+    "name": "ファロペネム",
+    "generic_name": "ファロペネム",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0162",
+    "name": "ホスホマイシン",
+    "generic_name": "ホスホマイシン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0157",
+    "name": "ミノサイクリン",
+    "generic_name": "ミノサイクリン",
+    "category": "抗菌薬"
+  },
+  {
+    "yj_code": "NAIKA_0159",
+    "name": "メトロニダゾール",
+    "generic_name": "メトロニダゾール",
     "category": "抗菌薬"
   },
   {
@@ -180,9 +558,27 @@
     "category": "抗血小板薬"
   },
   {
+    "yj_code": "NAIKA_0181",
+    "name": "シロスタゾール",
+    "generic_name": "シロスタゾール",
+    "category": "抗血小板薬"
+  },
+  {
+    "yj_code": "NAIKA_0182",
+    "name": "プラスグレル",
+    "generic_name": "プラスグレル",
+    "category": "抗血小板薬"
+  },
+  {
     "yj_code": "NAIKA_0093",
     "name": "シロドシン",
     "generic_name": "シロドシン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0208",
+    "name": "ソリフェナシン",
+    "generic_name": "ソリフェナシン",
     "category": "排尿障害薬"
   },
   {
@@ -198,9 +594,51 @@
     "category": "排尿障害薬"
   },
   {
+    "yj_code": "NAIKA_0210",
+    "name": "ナフトピジル",
+    "generic_name": "ナフトピジル",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0207",
+    "name": "ビベグロン",
+    "generic_name": "ビベグロン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0209",
+    "name": "プロピベリン",
+    "generic_name": "プロピベリン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0206",
+    "name": "ミラベグロン",
+    "generic_name": "ミラベグロン",
+    "category": "排尿障害薬"
+  },
+  {
+    "yj_code": "NAIKA_0241",
+    "name": "ナルフラフィン",
+    "generic_name": "ナルフラフィン",
+    "category": "止痒薬"
+  },
+  {
     "yj_code": "NAIKA_0034",
     "name": "エソメプラゾール",
     "generic_name": "エソメプラゾール",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0139",
+    "name": "エロビキシバット",
+    "generic_name": "エロビキシバット",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0134",
+    "name": "スクラルファート",
+    "generic_name": "スクラルファート",
     "category": "消化器薬"
   },
   {
@@ -210,9 +648,33 @@
     "category": "消化器薬"
   },
   {
+    "yj_code": "NAIKA_0133",
+    "name": "テプレノン",
+    "generic_name": "テプレノン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0135",
+    "name": "トリメブチン",
+    "generic_name": "トリメブチン",
+    "category": "消化器薬"
+  },
+  {
     "yj_code": "NAIKA_0039",
     "name": "ドンペリドン",
     "generic_name": "ドンペリドン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0140",
+    "name": "ナルデメジン",
+    "generic_name": "ナルデメジン",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0141",
+    "name": "ピコスルファート",
+    "generic_name": "ピコスルファート",
     "category": "消化器薬"
   },
   {
@@ -228,6 +690,18 @@
     "category": "消化器薬"
   },
   {
+    "yj_code": "NAIKA_0136",
+    "name": "ポリカルボフィルカルシウム",
+    "generic_name": "ポリカルボフィルカルシウム",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0143",
+    "name": "メサラジン",
+    "generic_name": "メサラジン",
+    "category": "消化器薬"
+  },
+  {
     "yj_code": "NAIKA_0040",
     "name": "メトクロプラミド",
     "generic_name": "メトクロプラミド",
@@ -240,9 +714,33 @@
     "category": "消化器薬"
   },
   {
+    "yj_code": "NAIKA_0142",
+    "name": "ラクツロース",
+    "generic_name": "ラクツロース",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0132",
+    "name": "ラベプラゾール",
+    "generic_name": "ラベプラゾール",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0137",
+    "name": "ラモセトロン",
+    "generic_name": "ラモセトロン",
+    "category": "消化器薬"
+  },
+  {
     "yj_code": "NAIKA_0033",
     "name": "ランソプラゾール",
     "generic_name": "ランソプラゾール",
+    "category": "消化器薬"
+  },
+  {
+    "yj_code": "NAIKA_0138",
+    "name": "リナクロチド",
+    "generic_name": "リナクロチド",
     "category": "消化器薬"
   },
   {
@@ -1032,6 +1530,30 @@
     "category": "漢方"
   },
   {
+    "yj_code": "NAIKA_0234",
+    "name": "エレヌマブ",
+    "generic_name": "エレヌマブ",
+    "category": "片頭痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0235",
+    "name": "ガルカネズマブ",
+    "generic_name": "ガルカネズマブ",
+    "category": "片頭痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0232",
+    "name": "スマトリプタン",
+    "generic_name": "スマトリプタン",
+    "category": "片頭痛薬"
+  },
+  {
+    "yj_code": "NAIKA_0233",
+    "name": "リザトリプタン",
+    "generic_name": "リザトリプタン",
+    "category": "片頭痛薬"
+  },
+  {
     "yj_code": "NAIKA_0074",
     "name": "チアマゾール",
     "generic_name": "チアマゾール",
@@ -1062,10 +1584,52 @@
     "category": "睡眠薬"
   },
   {
+    "yj_code": "NAIKA_0219",
+    "name": "ラメルテオン",
+    "generic_name": "ラメルテオン",
+    "category": "睡眠薬"
+  },
+  {
     "yj_code": "NAIKA_0089",
     "name": "レンボレキサント",
     "generic_name": "レンボレキサント",
     "category": "睡眠薬"
+  },
+  {
+    "yj_code": "NAIKA_0240",
+    "name": "バレニクリン",
+    "generic_name": "バレニクリン",
+    "category": "禁煙補助薬"
+  },
+  {
+    "yj_code": "NAIKA_0111",
+    "name": "アカルボース",
+    "generic_name": "アカルボース",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0114",
+    "name": "アログリプチン",
+    "generic_name": "アログリプチン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0118",
+    "name": "イプラグリフロジン",
+    "generic_name": "イプラグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0127",
+    "name": "イメグリミン",
+    "generic_name": "イメグリミン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0125",
+    "name": "インスリンアスパルト",
+    "generic_name": "インスリンアスパルト",
+    "category": "糖尿病薬"
   },
   {
     "yj_code": "NAIKA_0025",
@@ -1074,9 +1638,33 @@
     "category": "糖尿病薬"
   },
   {
+    "yj_code": "NAIKA_0126",
+    "name": "インスリンデグルデク",
+    "generic_name": "インスリンデグルデク",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0120",
+    "name": "エキセナチド",
+    "generic_name": "エキセナチド",
+    "category": "糖尿病薬"
+  },
+  {
     "yj_code": "NAIKA_0017",
     "name": "エンパグリフロジン",
     "generic_name": "エンパグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0115",
+    "name": "カナグリフロジン",
+    "generic_name": "カナグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0121",
+    "name": "グリクラジド",
+    "generic_name": "グリクラジド",
     "category": "糖尿病薬"
   },
   {
@@ -1104,15 +1692,51 @@
     "category": "糖尿病薬"
   },
   {
+    "yj_code": "NAIKA_0112",
+    "name": "テネリグリプチン",
+    "generic_name": "テネリグリプチン",
+    "category": "糖尿病薬"
+  },
+  {
     "yj_code": "NAIKA_0024",
     "name": "デュラグルチド",
     "generic_name": "デュラグルチド",
     "category": "糖尿病薬"
   },
   {
+    "yj_code": "NAIKA_0117",
+    "name": "トホグリフロジン",
+    "generic_name": "トホグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0122",
+    "name": "ナテグリニド",
+    "generic_name": "ナテグリニド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0113",
+    "name": "ビルダグリプチン",
+    "generic_name": "ビルダグリプチン",
+    "category": "糖尿病薬"
+  },
+  {
     "yj_code": "NAIKA_0022",
     "name": "ピオグリタゾン",
     "generic_name": "ピオグリタゾン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0110",
+    "name": "ボグリボース",
+    "generic_name": "ボグリボース",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0123",
+    "name": "ミチグリニド",
+    "generic_name": "ミチグリニド",
     "category": "糖尿病薬"
   },
   {
@@ -1126,6 +1750,30 @@
     "name": "リナグリプチン",
     "generic_name": "リナグリプチン",
     "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0119",
+    "name": "リラグルチド",
+    "generic_name": "リラグルチド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0116",
+    "name": "ルセオグリフロジン",
+    "generic_name": "ルセオグリフロジン",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0124",
+    "name": "レパグリニド",
+    "generic_name": "レパグリニド",
+    "category": "糖尿病薬"
+  },
+  {
+    "yj_code": "NAIKA_0199",
+    "name": "ウルソデオキシコール酸",
+    "generic_name": "ウルソデオキシコール酸",
+    "category": "肝臓薬"
   },
   {
     "yj_code": "NAIKA_0027",
@@ -1143,6 +1791,24 @@
     "yj_code": "NAIKA_0029",
     "name": "エゼチミブ",
     "generic_name": "エゼチミブ",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0131",
+    "name": "コレスチミド",
+    "generic_name": "コレスチミド",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0129",
+    "name": "シンバスタチン",
+    "generic_name": "シンバスタチン",
+    "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0128",
+    "name": "ピタバスタチン",
+    "generic_name": "ピタバスタチン",
     "category": "脂質異常症薬"
   },
   {
@@ -1164,10 +1830,76 @@
     "category": "脂質異常症薬"
   },
   {
+    "yj_code": "NAIKA_0130",
+    "name": "ペマフィブラート",
+    "generic_name": "ペマフィブラート",
+    "category": "脂質異常症薬"
+  },
+  {
     "yj_code": "NAIKA_0026",
     "name": "ロスバスタチン",
     "generic_name": "ロスバスタチン",
     "category": "脂質異常症薬"
+  },
+  {
+    "yj_code": "NAIKA_0188",
+    "name": "セベラマー",
+    "generic_name": "セベラマー",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0190",
+    "name": "ダルベポエチンアルファ",
+    "generic_name": "ダルベポエチンアルファ",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0189",
+    "name": "ロキサデュスタット",
+    "generic_name": "ロキサデュスタット",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0191",
+    "name": "沈降炭酸カルシウム",
+    "generic_name": "沈降炭酸カルシウム",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0187",
+    "name": "炭酸ランタン",
+    "generic_name": "炭酸ランタン",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0186",
+    "name": "球形吸着炭",
+    "generic_name": "球形吸着炭",
+    "category": "腎臓薬"
+  },
+  {
+    "yj_code": "NAIKA_0204",
+    "name": "ガランタミン",
+    "generic_name": "ガランタミン",
+    "category": "認知症薬"
+  },
+  {
+    "yj_code": "NAIKA_0202",
+    "name": "ドネペジル",
+    "generic_name": "ドネペジル",
+    "category": "認知症薬"
+  },
+  {
+    "yj_code": "NAIKA_0203",
+    "name": "メマンチン",
+    "generic_name": "メマンチン",
+    "category": "認知症薬"
+  },
+  {
+    "yj_code": "NAIKA_0205",
+    "name": "リバスチグミン",
+    "generic_name": "リバスチグミン",
+    "category": "認知症薬"
   },
   {
     "yj_code": "NAIKA_0090",
@@ -1179,6 +1911,12 @@
     "yj_code": "NAIKA_0049",
     "name": "コデインリン酸塩",
     "generic_name": "コデインリン酸塩",
+    "category": "鎮咳薬"
+  },
+  {
+    "yj_code": "NAIKA_0152",
+    "name": "チペピジン",
+    "generic_name": "チペピジン",
     "category": "鎮咳薬"
   },
   {
@@ -1224,9 +1962,33 @@
     "category": "降圧薬"
   },
   {
+    "yj_code": "NAIKA_0098",
+    "name": "アゼルニジピン",
+    "generic_name": "アゼルニジピン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0107",
+    "name": "アゾセミド",
+    "generic_name": "アゾセミド",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0101",
+    "name": "アテノロール",
+    "generic_name": "アテノロール",
+    "category": "降圧薬"
+  },
+  {
     "yj_code": "NAIKA_0001",
     "name": "アムロジピン",
     "generic_name": "アムロジピン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0099",
+    "name": "イミダプリル",
+    "generic_name": "イミダプリル",
     "category": "降圧薬"
   },
   {
@@ -1236,9 +1998,21 @@
     "category": "降圧薬"
   },
   {
+    "yj_code": "NAIKA_0105",
+    "name": "エサキセレノン",
+    "generic_name": "エサキセレノン",
+    "category": "降圧薬"
+  },
+  {
     "yj_code": "NAIKA_0008",
     "name": "エナラプリル",
     "generic_name": "エナラプリル",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0104",
+    "name": "エプレレノン",
+    "generic_name": "エプレレノン",
     "category": "降圧薬"
   },
   {
@@ -1260,6 +2034,12 @@
     "category": "降圧薬"
   },
   {
+    "yj_code": "NAIKA_0097",
+    "name": "シルニジピン",
+    "generic_name": "シルニジピン",
+    "category": "降圧薬"
+  },
+  {
     "yj_code": "NAIKA_0012",
     "name": "スピロノラクトン",
     "generic_name": "スピロノラクトン",
@@ -1269,6 +2049,18 @@
     "yj_code": "NAIKA_0004",
     "name": "テルミサルタン",
     "generic_name": "テルミサルタン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0108",
+    "name": "トリクロルメチアジド",
+    "generic_name": "トリクロルメチアジド",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0109",
+    "name": "トルバプタン",
+    "generic_name": "トルバプタン",
     "category": "降圧薬"
   },
   {
@@ -1302,6 +2094,36 @@
     "category": "降圧薬"
   },
   {
+    "yj_code": "NAIKA_0106",
+    "name": "フロセミド",
+    "generic_name": "フロセミド",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0103",
+    "name": "プロプラノロール",
+    "generic_name": "プロプラノロール",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0096",
+    "name": "ベニジピン",
+    "generic_name": "ベニジピン",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0100",
+    "name": "ペリンドプリル",
+    "generic_name": "ペリンドプリル",
+    "category": "降圧薬"
+  },
+  {
+    "yj_code": "NAIKA_0102",
+    "name": "メトプロロール",
+    "generic_name": "メトプロロール",
+    "category": "降圧薬"
+  },
+  {
     "yj_code": "NAIKA_0007",
     "name": "ロサルタン",
     "generic_name": "ロサルタン",
@@ -1320,9 +2142,51 @@
     "category": "骨粗鬆症薬"
   },
   {
+    "yj_code": "NAIKA_0228",
+    "name": "ゾレドロン酸",
+    "generic_name": "ゾレドロン酸",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0224",
+    "name": "テリパラチド",
+    "generic_name": "テリパラチド",
+    "category": "骨粗鬆症薬"
+  },
+  {
     "yj_code": "NAIKA_0076",
     "name": "デノスマブ",
     "generic_name": "デノスマブ",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0227",
+    "name": "バゼドキシフェン",
+    "generic_name": "バゼドキシフェン",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0223",
+    "name": "ミノドロン酸",
+    "generic_name": "ミノドロン酸",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0226",
+    "name": "ラロキシフェン",
+    "generic_name": "ラロキシフェン",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0222",
+    "name": "リセドロン酸",
+    "generic_name": "リセドロン酸",
+    "category": "骨粗鬆症薬"
+  },
+  {
+    "yj_code": "NAIKA_0225",
+    "name": "ロモソズマブ",
+    "generic_name": "ロモソズマブ",
     "category": "骨粗鬆症薬"
   },
   {
@@ -1332,9 +2196,21 @@
     "category": "高尿酸血症薬"
   },
   {
+    "yj_code": "NAIKA_0185",
+    "name": "ドチヌラド",
+    "generic_name": "ドチヌラド",
+    "category": "高尿酸血症薬"
+  },
+  {
     "yj_code": "NAIKA_0070",
     "name": "フェブキソスタット",
     "generic_name": "フェブキソスタット",
+    "category": "高尿酸血症薬"
+  },
+  {
+    "yj_code": "NAIKA_0184",
+    "name": "ベンズブロマロン",
+    "generic_name": "ベンズブロマロン",
     "category": "高尿酸血症薬"
   }
 ]

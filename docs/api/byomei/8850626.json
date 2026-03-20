@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8850626",
+    "name": "オピオイド誘発性便秘症",
+    "icd10": "K590"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0140",
+      "name": "ナルデメジン",
+      "generic_name": "ナルデメジン",
+      "category": "消化器薬"
+    }
+  ]
+}

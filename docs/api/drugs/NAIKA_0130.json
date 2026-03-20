@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0130",
+    "name": "ペマフィブラート",
+    "generic_name": "ペマフィブラート",
+    "category": "脂質異常症薬"
+  },
+  "indications": [
+    {
+      "code": "2724007",
+      "name": "高脂血症",
+      "kana": "8",
+      "icd10": "E785"
+    }
+  ]
+}

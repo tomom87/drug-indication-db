@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0221",
+    "name": "ロラゼパム",
+    "generic_name": "ロラゼパム",
+    "category": "抗不安薬"
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

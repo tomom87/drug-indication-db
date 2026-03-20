@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8830796",
+    "name": "うっ血性心不全",
+    "icd10": "I500"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0178",
+      "name": "硝酸イソソルビド",
+      "generic_name": "硝酸イソソルビド",
+      "category": "循環器薬"
+    }
+  ]
+}

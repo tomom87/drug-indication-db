@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8842316",
+    "name": "慢性動脈閉塞症",
+    "icd10": "I749"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0181",
+      "name": "シロスタゾール",
+      "generic_name": "シロスタゾール",
+      "category": "抗血小板薬"
+    }
+  ]
+}

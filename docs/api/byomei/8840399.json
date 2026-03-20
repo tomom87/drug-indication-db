@@ -6,6 +6,18 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0148",
+      "name": "インダカテロール・グリコピロニウム",
+      "generic_name": "インダカテロール・グリコピロニウム",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0149",
+      "name": "ウメクリジニウム・ビランテロール",
+      "generic_name": "ウメクリジニウム・ビランテロール",
+      "category": "呼吸器薬"
+    },
+    {
       "yj_code": "NAIKA_0047",
       "name": "チオトロピウム",
       "generic_name": "チオトロピウム",

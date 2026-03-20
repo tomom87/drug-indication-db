@@ -16,6 +16,18 @@
       "name": "ダパグリフロジン",
       "generic_name": "ダパグリフロジン",
       "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0188",
+      "name": "セベラマー",
+      "generic_name": "セベラマー",
+      "category": "腎臓薬"
+    },
+    {
+      "yj_code": "NAIKA_0187",
+      "name": "炭酸ランタン",
+      "generic_name": "炭酸ランタン",
+      "category": "腎臓薬"
     }
   ]
 }

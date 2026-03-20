@@ -3,7 +3,9 @@ import sqlite3
 from pathlib import Path
 
 from indication_seed import get_indication_map
+from indication_seed_ext import get_indication_map_ext
 from drug_seed import NAIKA_DRUGS, TSUMURA_KAMPO
+from drug_seed_ext import NAIKA_DRUGS_EXT
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DB_PATH = DATA_DIR / "drug_indication.db"
@@ -39,7 +41,7 @@ def build():
     drug_id = 0
     drug_keys = {}  # drug_key -> yj_code (ここでは連番IDで代用)
 
-    for name, category in NAIKA_DRUGS:
+    for name, category in NAIKA_DRUGS + NAIKA_DRUGS_EXT:
         drug_id += 1
         yj_code = f"NAIKA_{drug_id:04d}"
         c.execute(
@@ -61,6 +63,7 @@ def build():
 
     # indicationテーブルにデータ投入
     indication_map = get_indication_map()
+    indication_map.update(get_indication_map_ext())
     matched = 0
     unmatched_names = set()
 

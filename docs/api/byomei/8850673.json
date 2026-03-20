@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8850673",
+    "name": "双極性障害",
+    "icd10": "F319"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0217",
+      "name": "アリピプラゾール",
+      "generic_name": "アリピプラゾール",
+      "category": "抗精神病薬"
+    }
+  ]
+}

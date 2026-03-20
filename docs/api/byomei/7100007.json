@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "7100007",
+    "name": "ループス腎炎",
+    "icd10": "M321"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0194",
+      "name": "タクロリムス",
+      "generic_name": "タクロリムス",
+      "category": "免疫抑制薬"
+    }
+  ]
+}

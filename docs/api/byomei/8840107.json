@@ -12,6 +12,18 @@
       "category": "降圧薬"
     },
     {
+      "yj_code": "NAIKA_0098",
+      "name": "アゼルニジピン",
+      "generic_name": "アゼルニジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0101",
+      "name": "アテノロール",
+      "generic_name": "アテノロール",
+      "category": "降圧薬"
+    },
+    {
       "yj_code": "NAIKA_0001",
       "name": "アムロジピン",
       "generic_name": "アムロジピン",
@@ -21,6 +33,12 @@
       "yj_code": "NAIKA_0010",
       "name": "インダパミド",
       "generic_name": "インダパミド",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0105",
+      "name": "エサキセレノン",
+      "generic_name": "エサキセレノン",
       "category": "降圧薬"
     },
     {
@@ -45,6 +63,12 @@
       "yj_code": "NAIKA_0005",
       "name": "カンデサルタン",
       "generic_name": "カンデサルタン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0097",
+      "name": "シルニジピン",
+      "generic_name": "シルニジピン",
       "category": "降圧薬"
     },
     {
@@ -81,6 +105,30 @@
       "yj_code": "NAIKA_0013",
       "name": "ビソプロロール",
       "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0096",
+      "name": "ベニジピン",
+      "generic_name": "ベニジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0100",
+      "name": "ペリンドプリル",
+      "generic_name": "ペリンドプリル",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0102",
+      "name": "メトプロロール",
+      "generic_name": "メトプロロール",
       "category": "降圧薬"
     },
     {

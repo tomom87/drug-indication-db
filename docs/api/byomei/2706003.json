@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2706003",
+    "name": "高アンモニア血症",
+    "icd10": "E722"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0142",
+      "name": "ラクツロース",
+      "generic_name": "ラクツロース",
+      "category": "消化器薬"
+    }
+  ]
+}

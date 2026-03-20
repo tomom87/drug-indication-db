@@ -6,10 +6,40 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0176",
+      "name": "ジルチアゼム",
+      "generic_name": "ジルチアゼム",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0177",
+      "name": "ニコランジル",
+      "generic_name": "ニコランジル",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0175",
+      "name": "ベラパミル",
+      "generic_name": "ベラパミル",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0178",
+      "name": "硝酸イソソルビド",
+      "generic_name": "硝酸イソソルビド",
+      "category": "循環器薬"
+    },
+    {
       "yj_code": "NAIKA_0068",
       "name": "アスピリン",
       "generic_name": "アスピリン",
       "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "NAIKA_0101",
+      "name": "アテノロール",
+      "generic_name": "アテノロール",
+      "category": "降圧薬"
     },
     {
       "yj_code": "NAIKA_0001",
@@ -33,6 +63,24 @@
       "yj_code": "NAIKA_0013",
       "name": "ビソプロロール",
       "generic_name": "ビソプロロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0096",
+      "name": "ベニジピン",
+      "generic_name": "ベニジピン",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0102",
+      "name": "メトプロロール",
+      "generic_name": "メトプロロール",
       "category": "降圧薬"
     }
   ]

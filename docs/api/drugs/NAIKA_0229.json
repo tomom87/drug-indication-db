@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0229",
+    "name": "レボドパ・カルビドパ",
+    "generic_name": "レボドパ・カルビドパ",
+    "category": "パーキンソン病薬"
+  },
+  "indications": [
+    {
+      "code": "3320002",
+      "name": "パーキンソン病",
+      "kana": "9",
+      "icd10": "G20"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0165",
+    "name": "バロキサビル",
+    "generic_name": "バロキサビル",
+    "category": "抗ウイルス薬"
+  },
+  "indications": [
+    {
+      "code": "4871001",
+      "name": "インフルエンザ",
+      "kana": "7",
+      "icd10": "J111"
+    }
+  ]
+}

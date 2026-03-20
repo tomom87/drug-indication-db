@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8844593",
+    "name": "副甲状腺機能低下症",
+    "icd10": "E209"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0238",
+      "name": "カルシトリオール",
+      "generic_name": "カルシトリオール",
+      "category": "ビタミン"
+    }
+  ]
+}

@@ -24,9 +24,45 @@
       "category": "抗菌薬"
     },
     {
+      "yj_code": "NAIKA_0153",
+      "name": "セフカペン",
+      "generic_name": "セフカペン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0154",
+      "name": "セフジトレン",
+      "generic_name": "セフジトレン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0155",
+      "name": "セフジニル",
+      "generic_name": "セフジニル",
+      "category": "抗菌薬"
+    },
+    {
       "yj_code": "NAIKA_0058",
       "name": "セフトリアキソン",
       "generic_name": "セフトリアキソン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0158",
+      "name": "ドキシサイクリン",
+      "generic_name": "ドキシサイクリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0156",
+      "name": "ファロペネム",
+      "generic_name": "ファロペネム",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0157",
+      "name": "ミノサイクリン",
+      "generic_name": "ミノサイクリン",
       "category": "抗菌薬"
     },
     {

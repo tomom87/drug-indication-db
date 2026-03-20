@@ -18,6 +18,24 @@
       "category": "脂質異常症薬"
     },
     {
+      "yj_code": "NAIKA_0131",
+      "name": "コレスチミド",
+      "generic_name": "コレスチミド",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0129",
+      "name": "シンバスタチン",
+      "generic_name": "シンバスタチン",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0128",
+      "name": "ピタバスタチン",
+      "generic_name": "ピタバスタチン",
+      "category": "脂質異常症薬"
+    },
+    {
       "yj_code": "NAIKA_0028",
       "name": "プラバスタチン",
       "generic_name": "プラバスタチン",

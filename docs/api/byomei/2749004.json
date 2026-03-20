@@ -24,9 +24,21 @@
       "category": "高尿酸血症薬"
     },
     {
+      "yj_code": "NAIKA_0185",
+      "name": "ドチヌラド",
+      "generic_name": "ドチヌラド",
+      "category": "高尿酸血症薬"
+    },
+    {
       "yj_code": "NAIKA_0070",
       "name": "フェブキソスタット",
       "generic_name": "フェブキソスタット",
+      "category": "高尿酸血症薬"
+    },
+    {
+      "yj_code": "NAIKA_0184",
+      "name": "ベンズブロマロン",
+      "generic_name": "ベンズブロマロン",
       "category": "高尿酸血症薬"
     }
   ]

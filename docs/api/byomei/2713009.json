@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2713009",
+    "name": "耐糖能異常",
+    "icd10": "R730"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0110",
+      "name": "ボグリボース",
+      "generic_name": "ボグリボース",
+      "category": "糖尿病薬"
+    }
+  ]
+}

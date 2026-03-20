@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0110",
+    "name": "ボグリボース",
+    "generic_name": "ボグリボース",
+    "category": "糖尿病薬"
+  },
+  "indications": [
+    {
+      "code": "2500013",
+      "name": "糖尿病",
+      "kana": "8",
+      "icd10": "E14"
+    },
+    {
+      "code": "2713009",
+      "name": "耐糖能異常",
+      "kana": "10",
+      "icd10": "R730"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0236",
+    "name": "ジフェニドール",
+    "generic_name": "ジフェニドール",
+    "category": "めまい薬"
+  },
+  "indications": [
+    {
+      "code": "8840549",
+      "name": "めまい症",
+      "kana": "6",
+      "icd10": "R42"
+    }
+  ]
+}

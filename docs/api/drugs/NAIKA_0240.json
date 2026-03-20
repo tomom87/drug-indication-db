@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0240",
+    "name": "バレニクリン",
+    "generic_name": "バレニクリン",
+    "category": "禁煙補助薬"
+  },
+  "indications": [
+    {
+      "code": "8843091",
+      "name": "ニコチン依存症",
+      "kana": "10",
+      "icd10": "F172"
+    }
+  ]
+}

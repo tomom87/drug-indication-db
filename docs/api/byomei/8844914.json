@@ -1,0 +1,45 @@
+{
+  "byomei": {
+    "code": "8844914",
+    "name": "頻脈性不整脈",
+    "icd10": "R000"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0176",
+      "name": "ジルチアゼム",
+      "generic_name": "ジルチアゼム",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0174",
+      "name": "ピルシカイニド",
+      "generic_name": "ピルシカイニド",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0173",
+      "name": "フレカイニド",
+      "generic_name": "フレカイニド",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0175",
+      "name": "ベラパミル",
+      "generic_name": "ベラパミル",
+      "category": "循環器薬"
+    },
+    {
+      "yj_code": "NAIKA_0101",
+      "name": "アテノロール",
+      "generic_name": "アテノロール",
+      "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0102",
+      "name": "メトプロロール",
+      "generic_name": "メトプロロール",
+      "category": "降圧薬"
+    }
+  ]
+}

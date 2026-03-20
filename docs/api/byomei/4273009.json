@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "4273009",
+    "name": "心房粗動",
+    "icd10": "I489"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0171",
+      "name": "ジゴキシン",
+      "generic_name": "ジゴキシン",
+      "category": "循環器薬"
+    }
+  ]
+}

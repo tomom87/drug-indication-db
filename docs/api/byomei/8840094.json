@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8840094",
+    "name": "発作性頻拍",
+    "icd10": "I479"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
+    }
+  ]
+}

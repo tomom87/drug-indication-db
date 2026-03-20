@@ -36,15 +36,45 @@
       "category": "呼吸器薬"
     },
     {
+      "yj_code": "NAIKA_0147",
+      "name": "ツロブテロール",
+      "generic_name": "ツロブテロール",
+      "category": "呼吸器薬"
+    },
+    {
       "yj_code": "NAIKA_0048",
       "name": "テオフィリン",
       "generic_name": "テオフィリン",
       "category": "呼吸器薬"
     },
     {
+      "yj_code": "NAIKA_0144",
+      "name": "フルチカゾン",
+      "generic_name": "フルチカゾン",
+      "category": "呼吸器薬"
+    },
+    {
       "yj_code": "NAIKA_0046",
       "name": "ブデソニド・ホルモテロール",
       "generic_name": "ブデソニド・ホルモテロール",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0150",
+      "name": "プランルカスト",
+      "generic_name": "プランルカスト",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0146",
+      "name": "プロカテロール",
+      "generic_name": "プロカテロール",
+      "category": "呼吸器薬"
+    },
+    {
+      "yj_code": "NAIKA_0145",
+      "name": "ベクロメタゾン",
+      "generic_name": "ベクロメタゾン",
       "category": "呼吸器薬"
     },
     {

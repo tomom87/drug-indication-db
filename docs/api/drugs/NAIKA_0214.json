@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0214",
+    "name": "トラゾドン",
+    "generic_name": "トラゾドン",
+    "category": "抗うつ薬"
+  },
+  "indications": [
+    {
+      "code": "2961003",
+      "name": "うつ病",
+      "kana": "5",
+      "icd10": "F329"
+    }
+  ]
+}

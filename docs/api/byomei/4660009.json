@@ -18,6 +18,12 @@
       "category": "去痰薬"
     },
     {
+      "yj_code": "NAIKA_0147",
+      "name": "ツロブテロール",
+      "generic_name": "ツロブテロール",
+      "category": "呼吸器薬"
+    },
+    {
       "yj_code": "NAIKA_0056",
       "name": "アジスロマイシン",
       "generic_name": "アジスロマイシン",
@@ -42,6 +48,24 @@
       "category": "抗菌薬"
     },
     {
+      "yj_code": "NAIKA_0153",
+      "name": "セフカペン",
+      "generic_name": "セフカペン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0155",
+      "name": "セフジニル",
+      "generic_name": "セフジニル",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0156",
+      "name": "ファロペネム",
+      "generic_name": "ファロペネム",
+      "category": "抗菌薬"
+    },
+    {
       "yj_code": "NAIKA_0057",
       "name": "レボフロキサシン",
       "generic_name": "レボフロキサシン",
@@ -51,6 +75,12 @@
       "yj_code": "NAIKA_0049",
       "name": "コデインリン酸塩",
       "generic_name": "コデインリン酸塩",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0152",
+      "name": "チペピジン",
+      "generic_name": "チペピジン",
       "category": "鎮咳薬"
     },
     {

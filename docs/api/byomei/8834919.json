@@ -6,6 +6,12 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0178",
+      "name": "硝酸イソソルビド",
+      "generic_name": "硝酸イソソルビド",
+      "category": "循環器薬"
+    },
+    {
       "yj_code": "NAIKA_0064",
       "name": "ワルファリン",
       "generic_name": "ワルファリン",

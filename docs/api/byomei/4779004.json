@@ -12,6 +12,12 @@
       "category": "ステロイド"
     },
     {
+      "yj_code": "NAIKA_0150",
+      "name": "プランルカスト",
+      "generic_name": "プランルカスト",
+      "category": "呼吸器薬"
+    },
+    {
       "yj_code": "NAIKA_0044",
       "name": "モンテルカスト",
       "generic_name": "モンテルカスト",

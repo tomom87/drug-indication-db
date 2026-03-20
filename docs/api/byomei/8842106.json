@@ -12,6 +12,48 @@
       "category": "ステロイド"
     },
     {
+      "yj_code": "NAIKA_0193",
+      "name": "アザチオプリン",
+      "generic_name": "アザチオプリン",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0198",
+      "name": "イグラチモド",
+      "generic_name": "イグラチモド",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0196",
+      "name": "サラゾスルファピリジン",
+      "generic_name": "サラゾスルファピリジン",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0194",
+      "name": "タクロリムス",
+      "generic_name": "タクロリムス",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0195",
+      "name": "ヒドロキシクロロキン",
+      "generic_name": "ヒドロキシクロロキン",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0197",
+      "name": "ブシラミン",
+      "generic_name": "ブシラミン",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0192",
+      "name": "メトトレキサート",
+      "generic_name": "メトトレキサート",
+      "category": "免疫抑制薬"
+    },
+    {
       "yj_code": "TJ_097",
       "name": "ツムラ大防風湯エキス顆粒（医療用）",
       "generic_name": "大防風湯",

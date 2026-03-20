@@ -6,6 +6,30 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0135",
+      "name": "トリメブチン",
+      "generic_name": "トリメブチン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0136",
+      "name": "ポリカルボフィルカルシウム",
+      "generic_name": "ポリカルボフィルカルシウム",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0137",
+      "name": "ラモセトロン",
+      "generic_name": "ラモセトロン",
+      "category": "消化器薬"
+    },
+    {
+      "yj_code": "NAIKA_0138",
+      "name": "リナクロチド",
+      "generic_name": "リナクロチド",
+      "category": "消化器薬"
+    },
+    {
       "yj_code": "TJ_060",
       "name": "ツムラ桂枝加芍薬湯エキス顆粒（医療用）",
       "generic_name": "桂枝加芍薬湯",

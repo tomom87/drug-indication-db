@@ -10,6 +10,18 @@
       "name": "プレドニゾロン",
       "generic_name": "プレドニゾロン",
       "category": "ステロイド"
+    },
+    {
+      "yj_code": "NAIKA_0193",
+      "name": "アザチオプリン",
+      "generic_name": "アザチオプリン",
+      "category": "免疫抑制薬"
+    },
+    {
+      "yj_code": "NAIKA_0195",
+      "name": "ヒドロキシクロロキン",
+      "generic_name": "ヒドロキシクロロキン",
+      "category": "免疫抑制薬"
     }
   ]
 }

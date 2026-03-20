@@ -6,10 +6,46 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0218",
+      "name": "バルプロ酸",
+      "generic_name": "バルプロ酸",
+      "category": "抗てんかん薬"
+    },
+    {
       "yj_code": "TJ_031",
       "name": "ツムラ呉茱萸湯エキス顆粒（医療用）",
       "generic_name": "呉茱萸湯",
       "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0234",
+      "name": "エレヌマブ",
+      "generic_name": "エレヌマブ",
+      "category": "片頭痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0235",
+      "name": "ガルカネズマブ",
+      "generic_name": "ガルカネズマブ",
+      "category": "片頭痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0232",
+      "name": "スマトリプタン",
+      "generic_name": "スマトリプタン",
+      "category": "片頭痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0233",
+      "name": "リザトリプタン",
+      "generic_name": "リザトリプタン",
+      "category": "片頭痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0179",
+    "name": "イバブラジン",
+    "generic_name": "イバブラジン",
+    "category": "循環器薬"
+  },
+  "indications": [
+    {
+      "code": "4289018",
+      "name": "慢性心不全",
+      "kana": "9",
+      "icd10": "I509"
+    }
+  ]
+}

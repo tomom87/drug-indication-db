@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "7104004",
+    "name": "多発性筋炎",
+    "icd10": "M332"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0193",
+      "name": "アザチオプリン",
+      "generic_name": "アザチオプリン",
+      "category": "免疫抑制薬"
+    }
+  ]
+}

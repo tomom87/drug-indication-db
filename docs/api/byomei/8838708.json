@@ -16,6 +16,12 @@
       "name": "クロピドグレル",
       "generic_name": "クロピドグレル",
       "category": "抗血小板薬"
+    },
+    {
+      "yj_code": "NAIKA_0181",
+      "name": "シロスタゾール",
+      "generic_name": "シロスタゾール",
+      "category": "抗血小板薬"
     }
   ]
 }

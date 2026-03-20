@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "0069002",
+    "name": "アメーバ赤痢",
+    "icd10": "A060"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0159",
+      "name": "メトロニダゾール",
+      "generic_name": "メトロニダゾール",
+      "category": "抗菌薬"
+    }
+  ]
+}

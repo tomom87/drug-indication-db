@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0239",
+    "name": "葉酸",
+    "generic_name": "葉酸",
+    "category": "ビタミン"
+  },
+  "indications": [
+    {
+      "code": "2819003",
+      "name": "巨赤芽球性貧血",
+      "kana": "14",
+      "icd10": "D531"
+    },
+    {
+      "code": "8840786",
+      "name": "葉酸欠乏症",
+      "kana": "11",
+      "icd10": "E538"
+    }
+  ]
+}

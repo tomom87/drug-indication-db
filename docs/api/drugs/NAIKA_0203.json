@@ -1,0 +1,16 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0203",
+    "name": "メマンチン",
+    "generic_name": "メマンチン",
+    "category": "認知症薬"
+  },
+  "indications": [
+    {
+      "code": "8842549",
+      "name": "アルツハイマー型認知症",
+      "kana": "15",
+      "icd10": "G309"
+    }
+  ]
+}

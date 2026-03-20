@@ -6,6 +6,18 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0237",
+      "name": "アルファカルシドール",
+      "generic_name": "アルファカルシドール",
+      "category": "ビタミン"
+    },
+    {
+      "yj_code": "NAIKA_0238",
+      "name": "カルシトリオール",
+      "generic_name": "カルシトリオール",
+      "category": "ビタミン"
+    },
+    {
       "yj_code": "NAIKA_0075",
       "name": "アレンドロン酸",
       "generic_name": "アレンドロン酸",
@@ -18,9 +30,51 @@
       "category": "骨粗鬆症薬"
     },
     {
+      "yj_code": "NAIKA_0228",
+      "name": "ゾレドロン酸",
+      "generic_name": "ゾレドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0224",
+      "name": "テリパラチド",
+      "generic_name": "テリパラチド",
+      "category": "骨粗鬆症薬"
+    },
+    {
       "yj_code": "NAIKA_0076",
       "name": "デノスマブ",
       "generic_name": "デノスマブ",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0227",
+      "name": "バゼドキシフェン",
+      "generic_name": "バゼドキシフェン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0223",
+      "name": "ミノドロン酸",
+      "generic_name": "ミノドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0226",
+      "name": "ラロキシフェン",
+      "generic_name": "ラロキシフェン",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0222",
+      "name": "リセドロン酸",
+      "generic_name": "リセドロン酸",
+      "category": "骨粗鬆症薬"
+    },
+    {
+      "yj_code": "NAIKA_0225",
+      "name": "ロモソズマブ",
+      "generic_name": "ロモソズマブ",
       "category": "骨粗鬆症薬"
     }
   ]

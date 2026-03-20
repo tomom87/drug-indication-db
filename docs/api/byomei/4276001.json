@@ -10,6 +10,12 @@
       "name": "ツムラ炙甘草湯エキス顆粒（医療用）",
       "generic_name": "炙甘草湯",
       "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
     }
   ]
 }

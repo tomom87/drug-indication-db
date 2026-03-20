@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "7242031",
+    "name": "慢性腰痛症",
+    "icd10": "M5456"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0211",
+      "name": "デュロキセチン",
+      "generic_name": "デュロキセチン",
+      "category": "抗うつ薬"
+    }
+  ]
+}

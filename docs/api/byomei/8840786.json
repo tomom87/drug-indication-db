@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8840786",
+    "name": "葉酸欠乏症",
+    "icd10": "E538"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0239",
+      "name": "葉酸",
+      "generic_name": "葉酸",
+      "category": "ビタミン"
+    }
+  ]
+}

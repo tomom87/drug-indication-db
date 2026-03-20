@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8849550",
+    "name": "末梢性神経障害性疼痛",
+    "icd10": "G64"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0215",
+      "name": "アミトリプチリン",
+      "generic_name": "アミトリプチリン",
+      "category": "抗うつ薬"
+    }
+  ]
+}

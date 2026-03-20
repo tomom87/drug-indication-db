@@ -6,6 +6,12 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0133",
+      "name": "テプレノン",
+      "generic_name": "テプレノン",
+      "category": "消化器薬"
+    },
+    {
       "yj_code": "NAIKA_0036",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",

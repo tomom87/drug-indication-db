@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8835605",
+    "name": "腎実質性高血圧症",
+    "icd10": "I151"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0099",
+      "name": "イミダプリル",
+      "generic_name": "イミダプリル",
+      "category": "降圧薬"
+    }
+  ]
+}

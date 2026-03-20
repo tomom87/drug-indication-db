@@ -16,6 +16,12 @@
       "name": "ツムラ真武湯エキス顆粒（医療用）",
       "generic_name": "真武湯",
       "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0109",
+      "name": "トルバプタン",
+      "generic_name": "トルバプタン",
+      "category": "降圧薬"
     }
   ]
 }

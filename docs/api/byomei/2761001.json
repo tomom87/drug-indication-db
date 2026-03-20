@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "2761001",
+    "name": "低ナトリウム血症",
+    "icd10": "E871"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0109",
+      "name": "トルバプタン",
+      "generic_name": "トルバプタン",
+      "category": "降圧薬"
+    }
+  ]
+}

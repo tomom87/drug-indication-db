@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0134",
+    "name": "スクラルファート",
+    "generic_name": "スクラルファート",
+    "category": "消化器薬"
+  },
+  "indications": [
+    {
+      "code": "5329002",
+      "name": "十二指腸潰瘍",
+      "kana": "12",
+      "icd10": "K269"
+    },
+    {
+      "code": "5319009",
+      "name": "胃潰瘍",
+      "kana": "5",
+      "icd10": "K259"
+    }
+  ]
+}

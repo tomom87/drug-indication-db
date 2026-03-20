@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "5559001",
+    "name": "クローン病",
+    "icd10": "K509"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0143",
+      "name": "メサラジン",
+      "generic_name": "メサラジン",
+      "category": "消化器薬"
+    }
+  ]
+}

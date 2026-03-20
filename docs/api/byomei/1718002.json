@@ -10,6 +10,12 @@
       "name": "ドキサゾシン",
       "generic_name": "ドキサゾシン",
       "category": "降圧薬"
+    },
+    {
+      "yj_code": "NAIKA_0103",
+      "name": "プロプラノロール",
+      "generic_name": "プロプラノロール",
+      "category": "降圧薬"
     }
   ]
 }

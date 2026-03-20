@@ -1,0 +1,33 @@
+{
+  "byomei": {
+    "code": "8843031",
+    "name": "過活動膀胱",
+    "icd10": "N328"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0208",
+      "name": "ソリフェナシン",
+      "generic_name": "ソリフェナシン",
+      "category": "排尿障害薬"
+    },
+    {
+      "yj_code": "NAIKA_0207",
+      "name": "ビベグロン",
+      "generic_name": "ビベグロン",
+      "category": "排尿障害薬"
+    },
+    {
+      "yj_code": "NAIKA_0209",
+      "name": "プロピベリン",
+      "generic_name": "プロピベリン",
+      "category": "排尿障害薬"
+    },
+    {
+      "yj_code": "NAIKA_0206",
+      "name": "ミラベグロン",
+      "generic_name": "ミラベグロン",
+      "category": "排尿障害薬"
+    }
+  ]
+}

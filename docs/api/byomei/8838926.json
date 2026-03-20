@@ -6,6 +6,18 @@
   },
   "drugs": [
     {
+      "yj_code": "NAIKA_0168",
+      "name": "イトラコナゾール",
+      "generic_name": "イトラコナゾール",
+      "category": "抗真菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0170",
+      "name": "テルビナフィン",
+      "generic_name": "テルビナフィン",
+      "category": "抗真菌薬"
+    },
+    {
       "yj_code": "TJ_006",
       "name": "ツムラ十味敗毒湯エキス顆粒（医療用）",
       "generic_name": "十味敗毒湯",

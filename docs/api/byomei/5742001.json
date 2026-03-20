@@ -16,6 +16,12 @@
       "name": "ツムラ大柴胡湯エキス顆粒（医療用）",
       "generic_name": "大柴胡湯",
       "category": "漢方"
+    },
+    {
+      "yj_code": "NAIKA_0199",
+      "name": "ウルソデオキシコール酸",
+      "generic_name": "ウルソデオキシコール酸",
+      "category": "肝臓薬"
     }
   ]
 }
