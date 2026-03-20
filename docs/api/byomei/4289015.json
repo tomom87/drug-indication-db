@@ -6,99 +6,249 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2119405",
+      "yj_code": "NAIKA_0242",
+      "name": "トルバプタン7.5-15mg（サムスカ）",
+      "generic_name": "トルバプタン7.5-15mg（サムスカ）",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2119405D1",
       "name": "アクトシン注射用３００ｍｇ　（溶解液付）",
       "generic_name": "アクトシン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119409",
+      "yj_code": "ALL_2119409D1",
       "name": "アデール点滴静注用５ｍｇ",
       "generic_name": "アデール",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119402",
+      "yj_code": "ALL_2119402P3",
+      "name": "イノバン注０．１％シリンジ　５０ｍＬ",
+      "generic_name": "イノバン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402P4",
+      "name": "イノバン注０．３％シリンジ　５０ｍＬ",
+      "generic_name": "イノバン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402P5",
+      "name": "イノバン注０．６％シリンジ　５０ｍＬ",
+      "generic_name": "イノバン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402A1",
       "name": "イノバン注１００ｍｇ　５ｍＬ",
       "generic_name": "イノバン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119001",
+      "yj_code": "ALL_2119001F1",
       "name": "エチレフリン塩酸塩錠　５ｍｇ",
       "generic_name": "エチレフリン塩酸塩",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119401",
+      "yj_code": "ALL_2119401A1",
       "name": "エホチール注１０ｍｇ　１％１ｍＬ",
       "generic_name": "エホチール",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119004",
+      "yj_code": "ALL_2119004C1",
+      "name": "カルグート細粒５％",
+      "generic_name": "カルグート",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119004F2",
+      "name": "カルグート錠１０　１０ｍｇ",
+      "generic_name": "カルグート",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119004F1",
       "name": "カルグート錠５　５ｍｇ",
       "generic_name": "カルグート",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119407",
+      "yj_code": "ALL_2119407A1",
       "name": "コアテック注５ｍｇ　５ｍＬ",
       "generic_name": "コアテック",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2113401",
+      "yj_code": "ALL_2113401A1",
       "name": "ジギラノゲン注０．４ｍｇ　０．０２％２ｍＬ",
       "generic_name": "ジギラノゲン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2113004",
+      "yj_code": "ALL_2113004S1",
+      "name": "ジゴシンエリキシル０．０５ｍｇ／ｍＬ　０．００５％",
+      "generic_name": "ジゴシンエリキシル",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2113004B1",
       "name": "ジゴシン散０．１％",
       "generic_name": "ジゴシン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119007",
+      "yj_code": "ALL_2119007D1",
       "name": "タナドーパ顆粒７５％",
       "generic_name": "タナドーパ",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119404",
+      "yj_code": "ALL_2119402A4",
+      "name": "ツルドパミ点滴静注２００ｍｇ　１０ｍＬ",
+      "generic_name": "ツルドパミ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402A3",
+      "name": "ドパミン塩酸塩点滴静注液５０ｍｇ「ＮＩＧ」　２．５ｍＬ",
+      "generic_name": "ドパミン塩酸塩",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402P1",
+      "name": "ドパミン塩酸塩点滴２００ｍｇキットＶＴＲＳ　０．１％２００ｍＬ",
+      "generic_name": "ドパミン塩酸塩",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119402P2",
+      "name": "ドパミン塩酸塩点滴６００ｍｇキットＶＴＲＳ　０．３％２００ｍＬ",
+      "generic_name": "ドパミン塩酸塩",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404G6",
+      "name": "ドブタミン持続静注１５０ｍｇシリンジ「ＫＫＣ」　０．３％５０ｍＬ",
+      "generic_name": "ドブタミン持続静",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404G7",
+      "name": "ドブタミン持続静注３００ｍｇシリンジ「ＫＫＣ」　０．６％５０ｍＬ",
+      "generic_name": "ドブタミン持続静",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404G5",
+      "name": "ドブタミン持続静注５０ｍｇシリンジ「ＫＫＣ」　０．１％５０ｍＬ",
+      "generic_name": "ドブタミン持続静",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404A1",
       "name": "ドブタミン点滴静注１００ｍｇ「アイロム」",
       "generic_name": "ドブタミン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119003",
+      "yj_code": "ALL_2119404G3",
+      "name": "ドブトレックスキット点滴静注用２００ｍｇ　０．１％２００ｍＬ",
+      "generic_name": "ドブトレックスキット",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119404G4",
+      "name": "ドブトレックスキット点滴静注用６００ｍｇ　０．３％２００ｍＬ",
+      "generic_name": "ドブトレックスキット",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119003F2",
       "name": "ノイキノン錠１０ｍｇ",
       "generic_name": "ノイキノン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119006",
+      "yj_code": "ALL_2119003F1",
+      "name": "ノイキノン錠５ｍｇ",
+      "generic_name": "ノイキノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119006F3",
+      "name": "ピモベンダン錠０．６２５ｍｇ「ＴＥ」",
+      "generic_name": "ピモベンダン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119006F1",
       "name": "ピモベンダン錠１．２５ｍｇ「ＴＥ」",
       "generic_name": "ピモベンダン",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119400",
+      "yj_code": "ALL_2119006F2",
+      "name": "ピモベンダン錠２．５ｍｇ「ＴＥ」",
+      "generic_name": "ピモベンダン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119400A1",
       "name": "プロタノールＬ注０．２ｍｇ　０．０２％１ｍＬ",
       "generic_name": "プロタノールＬ",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119002",
+      "yj_code": "ALL_2119400A2",
+      "name": "プロタノールＬ注１ｍｇ　０．０２％５ｍＬ",
+      "generic_name": "プロタノールＬ",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119002G1",
       "name": "プロタノールＳ錠１５ｍｇ",
       "generic_name": "プロタノールＳ",
       "category": "強心薬"
     },
     {
-      "yj_code": "ALL_2119408",
+      "yj_code": "ALL_2119408A2",
       "name": "ミルリノン注射液１０ｍｇ「Ｆ」　１０ｍＬ",
       "generic_name": "ミルリノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119408A3",
+      "name": "ミルリノン注射液２２．５ｍｇ「Ｆ」　１５０ｍＬ",
+      "generic_name": "ミルリノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119408A1",
+      "name": "ミルリノン注１０ｍｇ「タカタ」　１０ｍＬ",
+      "generic_name": "ミルリノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119408G1",
+      "name": "ミルリノン注２２．５ｍｇバッグ「タカタ」　１５０ｍＬ",
+      "generic_name": "ミルリノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119003M1",
+      "name": "ユビデカレノンカプセル５ｍｇ「ツルハラ」",
+      "generic_name": "ユビデカレノン",
+      "category": "強心薬"
+    },
+    {
+      "yj_code": "ALL_2119003D1",
+      "name": "ユビデカレノン顆粒１％「ツルハラ」",
+      "generic_name": "ユビデカレノン",
       "category": "強心薬"
     },
     {
@@ -112,12 +262,6 @@
       "name": "ツムラ真武湯エキス顆粒（医療用）",
       "generic_name": "真武湯",
       "category": "漢方"
-    },
-    {
-      "yj_code": "NAIKA_0109",
-      "name": "トルバプタン",
-      "generic_name": "トルバプタン",
-      "category": "降圧薬"
     }
   ]
 }

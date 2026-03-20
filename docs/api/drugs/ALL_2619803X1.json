@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2619803X1",
+    "name": "山善消アル",
+    "generic_name": "山善消アル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "山善消アル",
+        "kana": "ﾔﾏｾﾞﾝｼｮｳｱﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649727M1",
+    "name": "コンベック軟膏５％",
+    "generic_name": "コンベック",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "コンベック軟膏５％",
+        "kana": "ｺﾝﾍﾞｯｸﾅﾝｺｳ5%"
+      }
+    ]
+  },
+  "indications": []
+}

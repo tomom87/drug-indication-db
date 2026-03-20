@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2475001F2",
+    "name": "エストリール錠０．５ｍｇ",
+    "generic_name": "エストリール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エストリール錠０．５ｍｇ",
+        "kana": "ｴｽﾄﾘｰﾙｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

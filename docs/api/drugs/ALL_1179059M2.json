@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179059M2",
+    "name": "ビバンセカプセル３０ｍｇ",
+    "generic_name": "ビバンセ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ビバンセカプセル３０ｍｇ",
+        "kana": "ﾋﾞﾊﾞﾝｾｶﾌﾟｾﾙ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

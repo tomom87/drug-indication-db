@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2710818V1",
+    "name": "ネオザロカインパスタ",
+    "generic_name": "ネオザロカインパスタ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ネオザロカインパスタ",
+        "kana": "ﾈｵｻﾞﾛｶｲﾝﾊﾟｽﾀ"
+      }
+    ]
+  },
+  "indications": []
+}

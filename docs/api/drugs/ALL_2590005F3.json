@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590005F3",
+    "name": "ポラキス錠１　１ｍｇ",
+    "generic_name": "ポラキス",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ポラキス錠１　１ｍｇ",
+        "kana": "ﾎﾟﾗｷｽｼﾞｮｳ1"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4229001M1",
+    "name": "ハイドレアカプセル５００ｍｇ",
+    "generic_name": "ハイドレア",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ハイドレアカプセル５００ｍｇ",
+        "kana": "ﾊｲﾄﾞﾚｱｶﾌﾟｾﾙ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

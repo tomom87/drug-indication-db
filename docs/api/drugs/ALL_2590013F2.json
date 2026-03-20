@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590013F2",
+    "name": "ウリトスＯＤ錠０．１ｍｇ",
+    "generic_name": "ウリトスＯＤ",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ウリトスＯＤ錠０．１ｍｇ",
+        "kana": "ｳﾘﾄｽODｼﾞｮｳ0.1MG"
+      }
+    ]
+  },
+  "indications": []
+}

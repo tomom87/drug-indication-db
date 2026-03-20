@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100191X1",
+    "name": "トチモトのバクガ（麦芽）",
+    "generic_name": "トチモトのバクガ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのバクガ（麦芽）",
+        "kana": "ﾄﾁﾓﾄﾉﾊﾞｸｶﾞﾊﾞｸｶﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

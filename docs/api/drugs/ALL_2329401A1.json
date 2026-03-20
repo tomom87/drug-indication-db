@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329401A1",
+    "name": "ドグマチール筋注５０ｍｇ",
+    "generic_name": "ドグマチール筋",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ドグマチール筋注５０ｍｇ",
+        "kana": "ﾄﾞｸﾞﾏﾁｰﾙｷﾝﾁｭｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

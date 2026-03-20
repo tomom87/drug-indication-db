@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1243001X1",
+    "name": "パパベリン塩酸塩",
+    "generic_name": "パパベリン塩酸塩",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "パパベリン塩酸塩",
+        "kana": "ﾊﾟﾊﾟﾍﾞﾘﾝｴﾝｻﾝｴﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

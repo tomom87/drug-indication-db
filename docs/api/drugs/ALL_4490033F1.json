@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490033F1",
+    "name": "ビラノア錠２０ｍｇ",
+    "generic_name": "ビラノア",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビラノア錠２０ｍｇ",
+        "kana": "ﾋﾞﾗﾉｱｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

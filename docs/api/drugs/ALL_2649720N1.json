@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649720N1",
+    "name": "デルマクリンクリーム１％",
+    "generic_name": "デルマクリン",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "デルマクリンクリーム１％",
+        "kana": "ﾃﾞﾙﾏｸﾘﾝｸﾘｰﾑ1%"
+      }
+    ]
+  },
+  "indications": []
+}

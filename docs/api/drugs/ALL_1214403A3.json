@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1214403A3",
+    "name": "マーカイン注０．５％",
+    "generic_name": "マーカイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "マーカイン注０．５％",
+        "kana": "ﾏｰｶｲﾝﾁｭｳ0.5%"
+      }
+    ]
+  },
+  "indications": []
+}

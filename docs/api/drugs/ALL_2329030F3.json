@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329030F3",
+    "name": "タケキャブＯＤ錠１０ｍｇ",
+    "generic_name": "タケキャブＯＤ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "タケキャブＯＤ錠１０ｍｇ",
+        "kana": "ﾀｹｷｬﾌﾞODｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

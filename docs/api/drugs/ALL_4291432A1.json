@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291432A1",
+    "name": "ゾーフィゴ静注",
+    "generic_name": "ゾーフィゴ静",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ゾーフィゴ静注",
+        "kana": "ｿﾞｰﾌｨｺﾞｼﾞｮｳﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

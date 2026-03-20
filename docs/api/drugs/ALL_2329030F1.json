@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329030F1",
+    "name": "タケキャブ錠１０ｍｇ",
+    "generic_name": "タケキャブ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "タケキャブ錠１０ｍｇ",
+        "kana": "ﾀｹｷｬﾌﾞｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

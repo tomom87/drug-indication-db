@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7122701X1",
+    "name": "加水ラノリン",
+    "generic_name": "加水ラノリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "加水ラノリン",
+        "kana": "ｶｽｲﾗﾉﾘﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

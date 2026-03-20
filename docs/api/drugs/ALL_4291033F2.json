@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291033F2",
+    "name": "ザイティガ錠５００ｍｇ",
+    "generic_name": "ザイティガ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ザイティガ錠５００ｍｇ",
+        "kana": "ｻﾞｲﾃｨｶﾞｼﾞｮｳ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119003G3",
+    "name": "ナルサス錠１２ｍｇ",
+    "generic_name": "ナルサス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ナルサス錠１２ｍｇ",
+        "kana": "ﾅﾙｻｽｼﾞｮｳ12MG"
+      }
+    ]
+  },
+  "indications": []
+}

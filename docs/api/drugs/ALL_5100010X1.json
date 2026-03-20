@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100010X1",
+    "name": "ウズ",
+    "generic_name": "ウズ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウズ",
+        "kana": "ｳｽﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

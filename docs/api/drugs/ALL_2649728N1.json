@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649728N1",
+    "name": "ベシカムクリーム５％",
+    "generic_name": "ベシカム",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ベシカムクリーム５％",
+        "kana": "ﾍﾞｼｶﾑｸﾘｰﾑ5%"
+      }
+    ]
+  },
+  "indications": []
+}

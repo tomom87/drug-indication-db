@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2900001F1",
+    "name": "セファランチン錠１ｍｇ",
+    "generic_name": "セファランチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "セファランチン錠１ｍｇ",
+        "kana": "ｾﾌｧﾗﾝﾁﾝｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

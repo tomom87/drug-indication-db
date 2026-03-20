@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190026F7",
+    "name": "タリージェＯＤ錠１０ｍｇ",
+    "generic_name": "タリージェＯＤ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "タリージェＯＤ錠１０ｍｇ",
+        "kana": "ﾀﾘｰｼﾞｪODｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

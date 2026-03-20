@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319734Q1",
+    "name": "ロメフロン点眼液０．３％",
+    "generic_name": "ロメフロン",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "ロメフロン点眼液０．３％",
+        "kana": "ﾛﾒﾌﾛﾝﾃﾝｶﾞﾝｴｷ0.3%"
+      }
+    ]
+  },
+  "indications": []
+}

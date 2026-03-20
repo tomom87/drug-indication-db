@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179026F3",
+    "name": "トロペロン錠３ｍｇ",
+    "generic_name": "トロペロン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "トロペロン錠３ｍｇ",
+        "kana": "ﾄﾛﾍﾟﾛﾝｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

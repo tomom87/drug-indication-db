@@ -6,10 +6,10 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0217",
-      "name": "アリピプラゾール",
-      "generic_name": "アリピプラゾール",
-      "category": "抗精神病薬"
+      "yj_code": "NAIKA_0249",
+      "name": "アリピプラゾール経口",
+      "generic_name": "アリピプラゾール経口",
+      "category": "精神神経薬"
     }
   ]
 }

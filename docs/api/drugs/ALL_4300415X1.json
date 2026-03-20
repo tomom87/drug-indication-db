@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300415X1",
+    "name": "クリアボーンキット",
+    "generic_name": "クリアボーンキット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "クリアボーンキット",
+        "kana": "ｸﾘｱﾎﾞｰﾝｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291045F2",
+    "name": "タグリッソ錠８０ｍｇ",
+    "generic_name": "タグリッソ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タグリッソ錠８０ｍｇ",
+        "kana": "ﾀｸﾞﾘｯｿｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

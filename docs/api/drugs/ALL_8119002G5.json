@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119002G5",
+    "name": "オキシコンチンＴＲ錠５ｍｇ",
+    "generic_name": "オキシコンチンＴＲ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オキシコンチンＴＲ錠５ｍｇ",
+        "kana": "ｵｷｼｺﾝﾁﾝTRｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

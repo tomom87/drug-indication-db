@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291055F2",
+    "name": "ローブレナ錠１００ｍｇ",
+    "generic_name": "ローブレナ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ローブレナ錠１００ｍｇ",
+        "kana": "ﾛｰﾌﾞﾚﾅｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

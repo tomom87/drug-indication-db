@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139006F1",
+    "name": "マイスタン錠５ｍｇ",
+    "generic_name": "マイスタン",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "マイスタン錠５ｍｇ",
+        "kana": "ﾏｲｽﾀﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

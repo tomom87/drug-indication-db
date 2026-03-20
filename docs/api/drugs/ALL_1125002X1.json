@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1125002X1",
+    "name": "バルビタール",
+    "generic_name": "バルビタール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バルビタール",
+        "kana": "ﾊﾞﾙﾋﾞﾀｰﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

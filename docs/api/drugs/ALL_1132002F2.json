@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1132002F2",
+    "name": "フェニトイン錠　１００ｍｇ",
+    "generic_name": "フェニトイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フェニトイン錠　１００ｍｇ",
+        "kana": "ﾌｪﾆﾄｲﾝｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

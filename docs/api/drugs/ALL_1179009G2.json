@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179009G2",
+    "name": "コンサータ錠２７ｍｇ",
+    "generic_name": "コンサータ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "コンサータ錠２７ｍｇ",
+        "kana": "ｺﾝｻｰﾀｼﾞｮｳ27MG"
+      }
+    ]
+  },
+  "indications": []
+}

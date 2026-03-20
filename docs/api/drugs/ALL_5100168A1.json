@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100168A1",
+    "name": "ウチダのボタンピ末Ｍ",
+    "generic_name": "ウチダのボタンピ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのボタンピ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞﾀﾝﾋﾟﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

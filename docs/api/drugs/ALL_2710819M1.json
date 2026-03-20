@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2710819M1",
+    "name": "プロネスパスタアロマ",
+    "generic_name": "プロネスパスタアロマ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロネスパスタアロマ",
+        "kana": "ﾌﾟﾛﾈｽﾊﾟｽﾀｱﾛﾏ"
+      }
+    ]
+  },
+  "indications": []
+}

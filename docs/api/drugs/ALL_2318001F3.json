@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2318001F3",
+    "name": "ガスコン錠８０ｍｇ",
+    "generic_name": "ガスコン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ガスコン錠８０ｍｇ",
+        "kana": "ｶﾞｽｺﾝｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

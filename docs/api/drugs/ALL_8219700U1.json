@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219700U1",
+    "name": "ラフェンタテープ１１ｍｇ",
+    "generic_name": "ラフェンタ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラフェンタテープ１１ｍｇ",
+        "kana": "ﾗﾌｪﾝﾀﾃｰﾌﾟ11MG"
+      }
+    ]
+  },
+  "indications": []
+}

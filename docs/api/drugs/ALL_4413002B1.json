@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4413002B1",
+    "name": "ヒベルナ散１０％",
+    "generic_name": "ヒベルナ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヒベルナ散１０％",
+        "kana": "ﾋﾍﾞﾙﾅｻﾝ10%"
+      }
+    ]
+  },
+  "indications": []
+}

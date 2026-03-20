@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100124A1",
+    "name": "ウチダのタクシャ末Ｍ",
+    "generic_name": "ウチダのタクシャ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのタクシャ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾀｸｼｬﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

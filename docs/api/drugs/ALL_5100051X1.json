@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100051X1",
+    "name": "グアヤク脂",
+    "generic_name": "グアヤク脂",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "グアヤク脂",
+        "kana": "ｸﾞｱﾔｸｼ"
+      }
+    ]
+  },
+  "indications": []
+}

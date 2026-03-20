@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316003F1",
+    "name": "レベニンＳ配合錠",
+    "generic_name": "レベニンＳ配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レベニンＳ配合錠",
+        "kana": "ﾚﾍﾞﾆﾝSﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

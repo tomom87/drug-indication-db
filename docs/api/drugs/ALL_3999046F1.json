@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999046F1",
+    "name": "スマイラフ錠５０ｍｇ",
+    "generic_name": "スマイラフ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "スマイラフ錠５０ｍｇ",
+        "kana": "ｽﾏｲﾗﾌｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

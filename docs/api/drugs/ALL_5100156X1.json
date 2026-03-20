@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100156X1",
+    "name": "トチモトのビャクゴウ",
+    "generic_name": "トチモトのビャクゴウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのビャクゴウ",
+        "kana": "ﾄﾁﾓﾄﾉﾋﾞｬｸｺﾞｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179024F3",
+    "name": "ロドピン錠１００ｍｇ",
+    "generic_name": "ロドピン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロドピン錠１００ｍｇ",
+        "kana": "ﾛﾄﾞﾋﾟﾝｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

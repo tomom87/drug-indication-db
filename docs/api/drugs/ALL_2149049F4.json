@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149049F4",
+    "name": "ミネブロＯＤ錠１．２５ｍｇ",
+    "generic_name": "ミネブロＯＤ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ミネブロＯＤ錠１．２５ｍｇ",
+        "kana": "ﾐﾈﾌﾞﾛODｼﾞｮｳ1.25MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

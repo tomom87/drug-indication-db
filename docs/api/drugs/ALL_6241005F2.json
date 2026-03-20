@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6241005F2",
+    "name": "バクシダール錠２００ｍｇ",
+    "generic_name": "バクシダール",
+    "category": "抗ウイルス薬",
+    "brands": [
+      {
+        "name": "バクシダール錠２００ｍｇ",
+        "kana": "ﾊﾞｸｼﾀﾞｰﾙｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

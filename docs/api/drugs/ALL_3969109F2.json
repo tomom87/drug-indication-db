@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969109F2",
+    "name": "メトアナ配合錠ＨＤ",
+    "generic_name": "メトアナ配合",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "メトアナ配合錠ＨＤ",
+        "kana": "ﾒﾄｱﾅﾊｲｺﾞｳｼﾞｮｳHD"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

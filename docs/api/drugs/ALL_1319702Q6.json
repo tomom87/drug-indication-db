@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319702Q6",
+    "name": "リズモンＴＧ点眼液０．５％",
+    "generic_name": "リズモンＴＧ",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "リズモンＴＧ点眼液０．５％",
+        "kana": "ﾘｽﾞﾓﾝTGﾃﾝｶﾞﾝｴｷ0.5%"
+      }
+    ]
+  },
+  "indications": []
+}

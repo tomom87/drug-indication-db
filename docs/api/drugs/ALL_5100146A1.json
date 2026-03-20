@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100146A1",
+    "name": "ウチダのニガキ末Ｍ",
+    "generic_name": "ウチダのニガキ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのニガキ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾆｶﾞｷﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

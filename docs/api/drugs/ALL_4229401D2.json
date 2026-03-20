@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4229401D2",
+    "name": "アリムタ注射用１００ｍｇ",
+    "generic_name": "アリムタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アリムタ注射用１００ｍｇ",
+        "kana": "ｱﾘﾑﾀﾁｭｳｼｬﾖｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

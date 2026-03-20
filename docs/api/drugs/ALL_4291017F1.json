@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291017F1",
+    "name": "ネクサバール錠２００ｍｇ",
+    "generic_name": "ネクサバール",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ネクサバール錠２００ｍｇ",
+        "kana": "ﾈｸｻﾊﾞｰﾙｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

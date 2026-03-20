@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100014A1",
+    "name": "ウチダのエイジツ末Ｍ",
+    "generic_name": "ウチダのエイジツ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのエイジツ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｴｲｼﾞﾂﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319538A4",
+    "name": "ニソリＭ注　５００ｍＬ",
+    "generic_name": "ニソリＭ",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ニソリＭ注　５００ｍＬ",
+        "kana": "ﾆｿﾘMﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

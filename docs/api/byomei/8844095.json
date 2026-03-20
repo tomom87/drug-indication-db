@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0084",
+      "yj_code": "NAIKA_0078",
       "name": "セルトラリン",
       "generic_name": "セルトラリン",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "NAIKA_0212",
+      "yj_code": "NAIKA_0205",
       "name": "パロキセチン",
       "generic_name": "パロキセチン",
       "category": "抗うつ薬"

@@ -6,19 +6,19 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0034",
+      "yj_code": "NAIKA_0030",
       "name": "エソメプラゾール",
       "generic_name": "エソメプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0035",
+      "yj_code": "NAIKA_0031",
       "name": "ボノプラザン",
       "generic_name": "ボノプラザン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0033",
+      "yj_code": "NAIKA_0029",
       "name": "ランソプラゾール",
       "generic_name": "ランソプラゾール",
       "category": "消化器薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499001F1",
+    "name": "セキソビット錠１００ｍｇ",
+    "generic_name": "セキソビット",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "セキソビット錠１００ｍｇ",
+        "kana": "ｾｷｿﾋﾞｯﾄｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

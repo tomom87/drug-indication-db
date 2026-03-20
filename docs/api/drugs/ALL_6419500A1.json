@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6419500A1",
+    "name": "バクトラミン注　５ｍＬ",
+    "generic_name": "バクトラミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バクトラミン注　５ｍＬ",
+        "kana": "ﾊﾞｸﾄﾗﾐﾝﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

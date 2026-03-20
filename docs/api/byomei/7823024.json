@@ -6,50 +6,128 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2134001",
+      "yj_code": "ALL_2134001X1",
       "name": "アセタゾラミド",
       "generic_name": "アセタゾラミド",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2139001",
+      "yj_code": "ALL_2139001Q1",
       "name": "イソソルビド内服ゼリー７０％分包２０ｇ「日医工」",
       "generic_name": "イソソルビド内服ゼリー",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2139403",
+      "yj_code": "ALL_2139001Q2",
+      "name": "イソソルビド内服ゼリー７０％分包３０ｇ「日医工」",
+      "generic_name": "イソソルビド内服ゼリー",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001S1",
+      "name": "イソソルビド内用液７０％「ＣＥＯ」",
+      "generic_name": "イソソルビド内用",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001S2",
+      "name": "イソソルビド内用液７０％分包３０ｍＬ「ＣＥＯ」",
+      "generic_name": "イソソルビド内用",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001S5",
+      "name": "イソソルビド内用液７０％分包４０ｍＬ「ＣＥＯ」",
+      "generic_name": "イソソルビド内用",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001S3",
+      "name": "イソバイドシロップ７０％分包２０ｍＬ",
+      "generic_name": "イソバイド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139001S4",
+      "name": "イソバイドシロップ７０％分包２３ｍＬ",
+      "generic_name": "イソバイド",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133400D4",
+      "name": "カンレノ酸カリウム静注用１００ｍｇ「サワイ」",
+      "generic_name": "カンレノ酸カリウム静",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133400D3",
+      "name": "カンレノ酸カリウム静注用２００ｍｇ「サワイ」",
+      "generic_name": "カンレノ酸カリウム静",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139403D2",
+      "name": "サムタス点滴静注用１６ｍｇ",
+      "generic_name": "サムタス",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139403D1",
       "name": "サムタス点滴静注用８ｍｇ",
       "generic_name": "サムタス",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2133400",
+      "yj_code": "ALL_2133400D1",
       "name": "ソルダクトン静注用１００ｍｇ",
       "generic_name": "ソルダクトン静",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2134400",
+      "yj_code": "ALL_2133400D2",
+      "name": "ソルダクトン静注用２００ｍｇ",
+      "generic_name": "ソルダクトン静",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2134400D1",
       "name": "ダイアモックス注射用５００ｍｇ",
       "generic_name": "ダイアモックス",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2134002",
+      "yj_code": "ALL_2134002F1",
       "name": "ダイアモックス錠２５０ｍｇ",
       "generic_name": "ダイアモックス",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2133002",
+      "yj_code": "ALL_2139009F3",
+      "name": "トラセミドＯＤ錠４ｍｇ「ＴＥ」",
+      "generic_name": "トラセミドＯＤ",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139009F4",
+      "name": "トラセミドＯＤ錠８ｍｇ「ＴＥ」",
+      "generic_name": "トラセミドＯＤ",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2133002M1",
       "name": "トリテレン・カプセル５０ｍｇ",
       "generic_name": "トリテレン・",
       "category": "利尿薬"
     },
     {
-      "yj_code": "ALL_2139009",
+      "yj_code": "ALL_2139009F1",
       "name": "ルプラック錠４ｍｇ",
+      "generic_name": "ルプラック",
+      "category": "利尿薬"
+    },
+    {
+      "yj_code": "ALL_2139009F2",
+      "name": "ルプラック錠８ｍｇ",
       "generic_name": "ルプラック",
       "category": "利尿薬"
     },

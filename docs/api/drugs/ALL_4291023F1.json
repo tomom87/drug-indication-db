@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291023F1",
+    "name": "アフィニトール錠５ｍｇ",
+    "generic_name": "アフィニトール",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アフィニトール錠５ｍｇ",
+        "kana": "ｱﾌｨﾆﾄｰﾙｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

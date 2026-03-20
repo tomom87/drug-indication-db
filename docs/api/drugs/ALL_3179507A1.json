@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3179507A1",
+    "name": "シーパラ注　２ｍＬ",
+    "generic_name": "シーパラ",
+    "category": "混合ビタミン薬",
+    "brands": [
+      {
+        "name": "シーパラ注　２ｍＬ",
+        "kana": "ｼｰﾊﾟﾗﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

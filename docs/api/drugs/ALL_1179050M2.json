@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179050M2",
+    "name": "ストラテラカプセル１０ｍｇ",
+    "generic_name": "ストラテラ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ストラテラカプセル１０ｍｇ",
+        "kana": "ｽﾄﾗﾃﾗｶﾌﾟｾﾙ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

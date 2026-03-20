@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235403D2",
+    "name": "テラルビシン注射用２０ｍｇ",
+    "generic_name": "テラルビシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テラルビシン注射用２０ｍｇ",
+        "kana": "ﾃﾗﾙﾋﾞｼﾝﾁｭｳｼｬﾖｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

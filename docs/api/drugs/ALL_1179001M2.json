@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179001M2",
+    "name": "アモキサンカプセル２５ｍｇ",
+    "generic_name": "アモキサン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "アモキサンカプセル２５ｍｇ",
+        "kana": "ｱﾓｷｻﾝｶﾌﾟｾﾙ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

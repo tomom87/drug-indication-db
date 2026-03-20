@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300410A2",
+    "name": "テクネＭＤＰ注射液　３７０ＭＢｑ",
+    "generic_name": "テクネＭＤＰ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＭＤＰ注射液　３７０ＭＢｑ",
+        "kana": "ﾃｸﾈMDPﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

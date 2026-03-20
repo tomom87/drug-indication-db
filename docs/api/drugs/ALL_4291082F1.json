@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291082F1",
+    "name": "トルカプ錠１６０ｍｇ",
+    "generic_name": "トルカプ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "トルカプ錠１６０ｍｇ",
+        "kana": "ﾄﾙｶﾌﾟｼﾞｮｳ160MG"
+      }
+    ]
+  },
+  "indications": []
+}

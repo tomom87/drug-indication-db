@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319534A3",
+    "name": "ニソリ輸液　５００ｍＬ",
+    "generic_name": "ニソリ輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ニソリ輸液　５００ｍＬ",
+        "kana": "ﾆｿﾘﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3215400A2",
+    "name": "大塚塩カル注２％　２０ｍＬ",
+    "generic_name": "大塚塩カル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "大塚塩カル注２％　２０ｍＬ",
+        "kana": "ｵｵﾂｶｴﾝｶﾙﾁｭｳ2%"
+      }
+    ]
+  },
+  "indications": []
+}

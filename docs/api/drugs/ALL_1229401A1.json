@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1229401A1",
+    "name": "ロキシーン注２ｍｇ　０．２％１ｍＬ",
+    "generic_name": "ロキシーン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロキシーン注２ｍｇ　０．２％１ｍＬ",
+        "kana": "ﾛｷｼｰﾝﾁｭｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

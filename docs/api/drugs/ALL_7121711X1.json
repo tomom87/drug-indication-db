@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121711X1",
+    "name": "ミツロウ",
+    "generic_name": "ミツロウ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミツロウ",
+        "kana": "ﾐﾂﾛｳ"
+      }
+    ]
+  },
+  "indications": []
+}

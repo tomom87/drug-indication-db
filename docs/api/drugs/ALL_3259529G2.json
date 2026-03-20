@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3259529G2",
+    "name": "ビーフリード輸液　１Ｌ",
+    "generic_name": "ビーフリード輸",
+    "category": "代謝用薬",
+    "brands": [
+      {
+        "name": "ビーフリード輸液　１Ｌ",
+        "kana": "ﾋﾞｰﾌﾘｰﾄﾞﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

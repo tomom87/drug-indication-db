@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4224401A1",
+    "name": "キロサイド注２０ｍｇ",
+    "generic_name": "キロサイド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キロサイド注２０ｍｇ",
+        "kana": "ｷﾛｻｲﾄﾞﾁｭｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

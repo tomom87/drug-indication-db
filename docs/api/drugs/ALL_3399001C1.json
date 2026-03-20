@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3399001C1",
+    "name": "パナルジン細粒１０％",
+    "generic_name": "パナルジン",
+    "category": "その他の血液用薬",
+    "brands": [
+      {
+        "name": "パナルジン細粒１０％",
+        "kana": "ﾊﾟﾅﾙｼﾞﾝｻｲﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249007M1",
+    "name": "コスパノンカプセル４０ｍｇ",
+    "generic_name": "コスパノン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "コスパノンカプセル４０ｍｇ",
+        "kana": "ｺｽﾊﾟﾉﾝｶﾌﾟｾﾙ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

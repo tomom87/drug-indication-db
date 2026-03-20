@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190034F3",
+    "name": "ボルズィ錠１０ｍｇ",
+    "generic_name": "ボルズィ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "ボルズィ錠１０ｍｇ",
+        "kana": "ﾎﾞﾙｽﾞｨｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

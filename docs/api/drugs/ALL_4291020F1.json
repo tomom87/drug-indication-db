@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291020F1",
+    "name": "スプリセル錠２０ｍｇ",
+    "generic_name": "スプリセル",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "スプリセル錠２０ｍｇ",
+        "kana": "ｽﾌﾟﾘｾﾙｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

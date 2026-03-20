@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291024M2",
+    "name": "レブラミドカプセル２．５ｍｇ",
+    "generic_name": "レブラミド",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "レブラミドカプセル２．５ｍｇ",
+        "kana": "ﾚﾌﾞﾗﾐﾄﾞｶﾌﾟｾﾙ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

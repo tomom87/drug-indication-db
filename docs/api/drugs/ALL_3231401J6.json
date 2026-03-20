@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231401J6",
+    "name": "光糖液５％　２５０ｍＬ",
+    "generic_name": "光糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "光糖液５％　２５０ｍＬ",
+        "kana": "ﾋｶﾘﾄｳｴｷ5%"
+      }
+    ]
+  },
+  "indications": []
+}

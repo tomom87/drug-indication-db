@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969101F2",
+    "name": "ソニアス配合錠ＨＤ",
+    "generic_name": "ソニアス配合",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "ソニアス配合錠ＨＤ",
+        "kana": "ｿﾆｱｽﾊｲｺﾞｳｼﾞｮｳHD"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

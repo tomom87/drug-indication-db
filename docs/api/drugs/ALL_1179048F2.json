@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179048F2",
+    "name": "ロナセン錠４ｍｇ",
+    "generic_name": "ロナセン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロナセン錠４ｍｇ",
+        "kana": "ﾛﾅｾﾝｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

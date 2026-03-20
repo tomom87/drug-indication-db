@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399011C1",
+    "name": "ポリフル細粒８３．３％",
+    "generic_name": "ポリフル",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "ポリフル細粒８３．３％",
+        "kana": "ﾎﾟﾘﾌﾙｻｲﾘｭｳ83.3%"
+      }
+    ]
+  },
+  "indications": []
+}

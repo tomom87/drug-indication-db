@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291035F1",
+    "name": "ラパリムス錠１ｍｇ",
+    "generic_name": "ラパリムス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ラパリムス錠１ｍｇ",
+        "kana": "ﾗﾊﾟﾘﾑｽｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

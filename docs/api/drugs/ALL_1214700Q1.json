@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1214700Q1",
+    "name": "キシロカイン点眼液４％",
+    "generic_name": "キシロカイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キシロカイン点眼液４％",
+        "kana": "ｷｼﾛｶｲﾝﾃﾝｶﾞﾝｴｷ4%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139003F2",
+    "name": "リボトリール錠１ｍｇ",
+    "generic_name": "リボトリール",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "リボトリール錠１ｍｇ",
+        "kana": "ﾘﾎﾞﾄﾘｰﾙｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

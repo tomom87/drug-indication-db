@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291012F1",
+    "name": "アロマシン錠２５ｍｇ",
+    "generic_name": "アロマシン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アロマシン錠２５ｍｇ",
+        "kana": "ｱﾛﾏｼﾝｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

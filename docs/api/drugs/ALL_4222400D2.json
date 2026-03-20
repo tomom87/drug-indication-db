@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4222400D2",
+    "name": "注射用メソトレキセート５０ｍｇ",
+    "generic_name": "",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "注射用メソトレキセート５０ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳﾒｿﾄﾚｷｾｰﾄ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

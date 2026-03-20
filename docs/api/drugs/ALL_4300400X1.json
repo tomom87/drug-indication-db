@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300400X1",
+    "name": "ウルトラテクネカウ",
+    "generic_name": "ウルトラテクネカウ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ウルトラテクネカウ",
+        "kana": "ｳﾙﾄﾗﾃｸﾈｶｳ"
+      }
+    ]
+  },
+  "indications": []
+}

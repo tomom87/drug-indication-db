@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139007F2",
+    "name": "ガバペン錠３００ｍｇ",
+    "generic_name": "ガバペン",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "ガバペン錠３００ｍｇ",
+        "kana": "ｶﾞﾊﾞﾍﾟﾝｼﾞｮｳ300MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

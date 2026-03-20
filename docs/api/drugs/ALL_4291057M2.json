@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291057M2",
+    "name": "ビラフトビカプセル７５ｍｇ",
+    "generic_name": "ビラフトビ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ビラフトビカプセル７５ｍｇ",
+        "kana": "ﾋﾞﾗﾌﾄﾋﾞｶﾌﾟｾﾙ75MG"
+      }
+    ]
+  },
+  "indications": []
+}

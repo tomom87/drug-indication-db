@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3132400A1",
+    "name": "ニコチン酸注射液　２０ｍｇ",
+    "generic_name": "ニコチン酸",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ニコチン酸注射液　２０ｍｇ",
+        "kana": "ﾆｺﾁﾝｻﾝﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

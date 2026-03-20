@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100047A1",
+    "name": "キナ末",
+    "generic_name": "キナ末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "キナ末",
+        "kana": "ｷﾅﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

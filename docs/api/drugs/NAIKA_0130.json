@@ -1,17 +1,17 @@
 {
   "drug": {
     "yj_code": "NAIKA_0130",
-    "name": "ペマフィブラート",
-    "generic_name": "ペマフィブラート",
-    "category": "脂質異常症薬",
+    "name": "ラモセトロン",
+    "generic_name": "ラモセトロン",
+    "category": "消化器薬",
     "brands": []
   },
   "indications": [
     {
-      "code": "2724007",
-      "name": "高脂血症",
-      "kana": "8",
-      "icd10": "E785"
+      "code": "5641015",
+      "name": "過敏性腸症候群",
+      "kana": "15",
+      "icd10": "K589"
     }
   ]
 }

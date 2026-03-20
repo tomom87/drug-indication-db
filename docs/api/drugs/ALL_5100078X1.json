@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100078X1",
+    "name": "ウチダのサフランＭ",
+    "generic_name": "ウチダのサフランＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのサフランＭ",
+        "kana": "ｳﾁﾀﾞﾉｻﾌﾗﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

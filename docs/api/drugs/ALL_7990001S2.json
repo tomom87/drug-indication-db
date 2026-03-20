@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7990001S2",
+    "name": "Ｄ－ソルビトール液　６５％",
+    "generic_name": "Ｄ－ソルビトール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "Ｄ－ソルビトール液　６５％",
+        "kana": "D-ｿﾙﾋﾞﾄｰﾙｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

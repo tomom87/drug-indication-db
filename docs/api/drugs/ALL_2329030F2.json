@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329030F2",
+    "name": "タケキャブ錠２０ｍｇ",
+    "generic_name": "タケキャブ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "タケキャブ錠２０ｍｇ",
+        "kana": "ﾀｹｷｬﾌﾞｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190004F2",
+    "name": "グラマリール錠５０ｍｇ",
+    "generic_name": "グラマリール",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "グラマリール錠５０ｍｇ",
+        "kana": "ｸﾞﾗﾏﾘｰﾙｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

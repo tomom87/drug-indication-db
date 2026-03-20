@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179005F1",
+    "name": "アタラックス錠１０ｍｇ",
+    "generic_name": "アタラックス",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "アタラックス錠１０ｍｇ",
+        "kana": "ｱﾀﾗｯｸｽｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

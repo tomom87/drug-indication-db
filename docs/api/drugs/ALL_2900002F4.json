@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2900002F4",
+    "name": "ハイゼット錠２５ｍｇ",
+    "generic_name": "ハイゼット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハイゼット錠２５ｍｇ",
+        "kana": "ﾊｲｾﾞｯﾄｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

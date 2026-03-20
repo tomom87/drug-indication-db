@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2615702X1",
+    "name": "エタノール　シオエ",
+    "generic_name": "エタノール　シオエ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エタノール　シオエ",
+        "kana": "ｴﾀﾉｰﾙｼｵｴ"
+      }
+    ]
+  },
+  "indications": []
+}

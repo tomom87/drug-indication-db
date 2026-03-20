@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1133002B1",
+    "name": "ミノアレ散６６．７％",
+    "generic_name": "ミノアレ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミノアレ散６６．７％",
+        "kana": "ﾐﾉｱﾚｻﾝ66.7%"
+      }
+    ]
+  },
+  "indications": []
+}

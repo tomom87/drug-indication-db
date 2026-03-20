@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100079A1",
+    "name": "ウチダのサンキライ末Ｍ",
+    "generic_name": "ウチダのサンキライ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのサンキライ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｻﾝｷﾗｲﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

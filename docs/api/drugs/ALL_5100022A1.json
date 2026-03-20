@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100022A1",
+    "name": "ウチダのオウレン末Ｍ",
+    "generic_name": "ウチダのオウレン末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのオウレン末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｵｳﾚﾝﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

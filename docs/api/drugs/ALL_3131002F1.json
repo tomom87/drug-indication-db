@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3131002F1",
+    "name": "ハイボン錠２０ｍｇ",
+    "generic_name": "ハイボン",
+    "category": "ビタミンB薬",
+    "brands": [
+      {
+        "name": "ハイボン錠２０ｍｇ",
+        "kana": "ﾊｲﾎﾞﾝｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

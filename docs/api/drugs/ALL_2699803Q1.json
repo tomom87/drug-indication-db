@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699803Q1",
+    "name": "デュアック配合ゲル",
+    "generic_name": "デュアック配合",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "デュアック配合ゲル",
+        "kana": "ﾃﾞｭｱｯｸﾊｲｺﾞｳｹﾞﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319522A4",
+    "name": "ＫＮＭＧ３号輸液　５００ｍＬ",
+    "generic_name": "ＫＮＭＧ３号輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ＫＮＭＧ３号輸液　５００ｍＬ",
+        "kana": "KNMG3ｺﾞｳﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

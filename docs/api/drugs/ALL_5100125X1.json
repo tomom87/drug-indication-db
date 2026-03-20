@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100125X1",
+    "name": "花扇チクジョＫ",
+    "generic_name": "花扇チクジョＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇チクジョＫ",
+        "kana": "ﾊﾅｵｳｷﾞﾁｸｼﾞｮK"
+      }
+    ]
+  },
+  "indications": []
+}

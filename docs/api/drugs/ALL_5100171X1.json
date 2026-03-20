@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100171X1",
+    "name": "ツムラの生薬マシニン",
+    "generic_name": "ツムラの生薬マシニン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ツムラの生薬マシニン",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾏｼﾆﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

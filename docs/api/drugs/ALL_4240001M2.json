@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240001M2",
+    "name": "ラステットＳカプセル５０ｍｇ",
+    "generic_name": "ラステットＳ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラステットＳカプセル５０ｍｇ",
+        "kana": "ﾗｽﾃｯﾄSｶﾌﾟｾﾙ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

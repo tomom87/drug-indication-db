@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2659708N1",
+    "name": "ボレークリーム１％",
+    "generic_name": "ボレー",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ボレークリーム１％",
+        "kana": "ﾎﾞﾚｰｸﾘｰﾑ1%"
+      }
+    ]
+  },
+  "indications": []
+}

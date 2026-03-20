@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1169002B1",
+    "name": "アーテン散１％",
+    "generic_name": "アーテン",
+    "category": "抗パーキンソン薬",
+    "brands": [
+      {
+        "name": "アーテン散１％",
+        "kana": "ｱｰﾃﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3320002",
+      "name": "パーキンソン病",
+      "kana": "9",
+      "icd10": "G20"
+    }
+  ]
+}

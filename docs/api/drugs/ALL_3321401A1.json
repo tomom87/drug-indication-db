@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3321401A1",
+    "name": "アドナ注１０ｍｇ　０．５％２ｍＬ",
+    "generic_name": "アドナ",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "アドナ注１０ｍｇ　０．５％２ｍＬ",
+        "kana": "ｱﾄﾞﾅﾁｭｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

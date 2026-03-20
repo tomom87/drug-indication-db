@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100001X1",
+    "name": "トチモトのアキョウ",
+    "generic_name": "トチモトのアキョウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのアキョウ",
+        "kana": "ﾄﾁﾓﾄﾉｱｷｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

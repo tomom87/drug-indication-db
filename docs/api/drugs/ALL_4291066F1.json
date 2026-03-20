@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291066F1",
+    "name": "ベレキシブル錠８０ｍｇ",
+    "generic_name": "ベレキシブル",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ベレキシブル錠８０ｍｇ",
+        "kana": "ﾍﾞﾚｷｼﾌﾞﾙｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

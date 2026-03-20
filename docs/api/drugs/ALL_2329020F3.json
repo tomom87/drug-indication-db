@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329020F3",
+    "name": "ガスロンＮ・ＯＤ錠２ｍｇ",
+    "generic_name": "ガスロンＮ・ＯＤ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ガスロンＮ・ＯＤ錠２ｍｇ",
+        "kana": "ｶﾞｽﾛﾝNODｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

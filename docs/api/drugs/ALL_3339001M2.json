@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339001M2",
+    "name": "プラザキサカプセル１１０ｍｇ",
+    "generic_name": "プラザキサ",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "プラザキサカプセル１１０ｍｇ",
+        "kana": "ﾌﾟﾗｻﾞｷｻｶﾌﾟｾﾙ110MG"
+      }
+    ]
+  },
+  "indications": []
+}

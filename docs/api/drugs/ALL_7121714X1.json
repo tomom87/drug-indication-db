@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121714X1",
+    "name": "セタノール",
+    "generic_name": "セタノール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "セタノール",
+        "kana": "ｾﾀﾉｰﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

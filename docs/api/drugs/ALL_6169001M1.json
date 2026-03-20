@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6169001M1",
+    "name": "ミコブティンカプセル１５０ｍｇ",
+    "generic_name": "ミコブティン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミコブティンカプセル１５０ｍｇ",
+        "kana": "ﾐｺﾌﾞﾃｨﾝｶﾌﾟｾﾙ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

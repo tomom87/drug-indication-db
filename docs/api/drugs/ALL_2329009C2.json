@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329009C2",
+    "name": "ドグマチール細粒１０％",
+    "generic_name": "ドグマチール",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ドグマチール細粒１０％",
+        "kana": "ﾄﾞｸﾞﾏﾁｰﾙｻｲﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

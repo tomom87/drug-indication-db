@@ -12,85 +12,115 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_3919502",
+      "yj_code": "ALL_3919502A1",
       "name": "アミファーゲンＰ注２０ｍＬ",
       "generic_name": "アミファーゲンＰ",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919100",
+      "yj_code": "ALL_3919100F1",
       "name": "グリチロン配合錠",
       "generic_name": "グリチロン配合",
       "category": "痛風薬"
     },
     {
-      "yj_code": "NAIKA_0072",
+      "yj_code": "NAIKA_0066",
       "name": "コルヒチン",
       "generic_name": "コルヒチン",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919007",
+      "yj_code": "ALL_3919007M1",
       "name": "セロシオンカプセル１０　１０ｍｇ",
       "generic_name": "セロシオン",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919006",
+      "yj_code": "ALL_3919006B1",
       "name": "タウリン散９８％「大正」",
       "generic_name": "タウリン",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919003",
+      "yj_code": "ALL_3919003F2",
       "name": "チオラ錠１００　１００ｍｇ",
       "generic_name": "チオラ",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919401",
+      "yj_code": "ALL_3919401A1",
       "name": "デファイテリオ静注２００ｍｇ　２．５ｍＬ",
       "generic_name": "デファイテリオ静",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919009",
+      "yj_code": "ALL_3919502G1",
+      "name": "ヒシファーゲン配合静注シリンジ２０ｍＬ",
+      "generic_name": "ヒシファーゲン配合静",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919009D1",
       "name": "ビルベイ顆粒２００μｇ",
       "generic_name": "ビルベイ",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919002",
+      "yj_code": "ALL_3919009D2",
+      "name": "ビルベイ顆粒６００μｇ",
+      "generic_name": "ビルベイ",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919002B1",
       "name": "リバオール散１０％",
       "generic_name": "リバオール",
       "category": "痛風薬"
     },
     {
-      "yj_code": "ALL_3919008",
+      "yj_code": "ALL_3919002F1",
+      "name": "リバオール錠２０ｍｇ",
+      "generic_name": "リバオール",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919008S1",
       "name": "リブマーリ内用液１０ｍｇ／ｍＬ　１％３０ｍＬ",
       "generic_name": "リブマーリ内用",
       "category": "痛風薬"
     },
     {
-      "yj_code": "NAIKA_0071",
+      "yj_code": "ALL_3919502G2",
+      "name": "強力ネオミノファーゲンシー静注シリンジ４０ｍＬ",
+      "generic_name": "強力ネオミノファーゲンシー静",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "ALL_3919502A2",
+      "name": "強力ネオミノファーゲンシー静注５ｍＬ",
+      "generic_name": "強力ネオミノファーゲンシー静",
+      "category": "痛風薬"
+    },
+    {
+      "yj_code": "NAIKA_0065",
       "name": "アロプリノール",
       "generic_name": "アロプリノール",
       "category": "高尿酸血症薬"
     },
     {
-      "yj_code": "NAIKA_0185",
+      "yj_code": "NAIKA_0178",
       "name": "ドチヌラド",
       "generic_name": "ドチヌラド",
       "category": "高尿酸血症薬"
     },
     {
-      "yj_code": "NAIKA_0070",
+      "yj_code": "NAIKA_0064",
       "name": "フェブキソスタット",
       "generic_name": "フェブキソスタット",
       "category": "高尿酸血症薬"
     },
     {
-      "yj_code": "NAIKA_0184",
+      "yj_code": "NAIKA_0177",
       "name": "ベンズブロマロン",
       "generic_name": "ベンズブロマロン",
       "category": "高尿酸血症薬"

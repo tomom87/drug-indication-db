@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190041F2",
+    "name": "エンレスト錠１００ｍｇ",
+    "generic_name": "エンレスト",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "エンレスト錠１００ｍｇ",
+        "kana": "ｴﾝﾚｽﾄｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590016F1",
+    "name": "ザルティア錠２．５ｍｇ",
+    "generic_name": "ザルティア",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ザルティア錠２．５ｍｇ",
+        "kana": "ｻﾞﾙﾃｨｱｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

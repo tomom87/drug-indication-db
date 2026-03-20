@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7119700L1",
+    "name": "アラビアゴム末",
+    "generic_name": "アラビアゴム末",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アラビアゴム末",
+        "kana": "ｱﾗﾋﾞｱｺﾞﾑﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

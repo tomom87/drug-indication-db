@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6173400D1",
+    "name": "ファンギゾン注射用５０ｍｇ",
+    "generic_name": "ファンギゾン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ファンギゾン注射用５０ｍｇ",
+        "kana": "ﾌｧﾝｷﾞｿﾞﾝﾁｭｳｼｬﾖｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

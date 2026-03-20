@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179035F4",
+    "name": "クレミン錠５０ｍｇ",
+    "generic_name": "クレミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "クレミン錠５０ｍｇ",
+        "kana": "ｸﾚﾐﾝｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

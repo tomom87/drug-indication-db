@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0168",
+      "yj_code": "NAIKA_0161",
       "name": "イトラコナゾール",
       "generic_name": "イトラコナゾール",
       "category": "抗真菌薬"
     },
     {
-      "yj_code": "NAIKA_0170",
+      "yj_code": "NAIKA_0163",
       "name": "テルビナフィン",
       "generic_name": "テルビナフィン",
       "category": "抗真菌薬"

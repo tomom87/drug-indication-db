@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2129013F2",
+    "name": "ソタコール錠８０ｍｇ",
+    "generic_name": "ソタコール",
+    "category": "不整脈用薬",
+    "brands": [
+      {
+        "name": "ソタコール錠８０ｍｇ",
+        "kana": "ｿﾀｺｰﾙｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4279016",
+      "name": "不整脈",
+      "kana": "6",
+      "icd10": "I499"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590016F5",
+    "name": "シアリス錠５ｍｇ",
+    "generic_name": "シアリス",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "シアリス錠５ｍｇ",
+        "kana": "ｼｱﾘｽｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

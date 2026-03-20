@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119401A2",
+    "name": "ナルベイン注２０ｍｇ　２ｍＬ",
+    "generic_name": "ナルベイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ナルベイン注２０ｍｇ　２ｍＬ",
+        "kana": "ﾅﾙﾍﾞｲﾝﾁｭｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490003Q1",
+    "name": "ザジテンシロップ０．０２％",
+    "generic_name": "ザジテン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ザジテンシロップ０．０２％",
+        "kana": "ｻﾞｼﾞﾃﾝｼﾛｯﾌﾟ0.02%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149017F1",
+    "name": "ワイテンス錠２ｍｇ",
+    "generic_name": "ワイテンス",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ワイテンス錠２ｍｇ",
+        "kana": "ﾜｲﾃﾝｽｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

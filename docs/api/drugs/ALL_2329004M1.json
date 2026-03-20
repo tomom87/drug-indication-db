@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329004M1",
+    "name": "ノイエルカプセル２００ｍｇ",
+    "generic_name": "ノイエル",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ノイエルカプセル２００ｍｇ",
+        "kana": "ﾉｲｴﾙｶﾌﾟｾﾙ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

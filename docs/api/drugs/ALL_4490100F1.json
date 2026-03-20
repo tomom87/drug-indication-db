@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490100F1",
+    "name": "ディレグラ配合錠",
+    "generic_name": "ディレグラ配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ディレグラ配合錠",
+        "kana": "ﾃﾞｨﾚｸﾞﾗﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291027F2",
+    "name": "インライタ錠５ｍｇ",
+    "generic_name": "インライタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "インライタ錠５ｍｇ",
+        "kana": "ｲﾝﾗｲﾀｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

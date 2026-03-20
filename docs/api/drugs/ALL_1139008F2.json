@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139008F2",
+    "name": "トピナ錠１００ｍｇ",
+    "generic_name": "トピナ",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "トピナ錠１００ｍｇ",
+        "kana": "ﾄﾋﾟﾅｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

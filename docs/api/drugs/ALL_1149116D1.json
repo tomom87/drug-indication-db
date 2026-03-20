@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1149116D1",
+    "name": "ＳＧ配合顆粒",
+    "generic_name": "ＳＧ配合",
+    "category": "抗てんかん薬",
+    "brands": [
+      {
+        "name": "ＳＧ配合顆粒",
+        "kana": "SGﾊｲｺﾞｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3459001",
+      "name": "てんかん",
+      "kana": "4",
+      "icd10": "G409"
+    }
+  ]
+}

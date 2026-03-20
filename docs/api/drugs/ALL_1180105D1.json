@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1180105D1",
+    "name": "ペレックス配合顆粒",
+    "generic_name": "ペレックス配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ペレックス配合顆粒",
+        "kana": "ﾍﾟﾚｯｸｽﾊｲｺﾞｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

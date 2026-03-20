@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2456003F1",
+    "name": "メドロール錠２ｍｇ",
+    "generic_name": "メドロール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "メドロール錠２ｍｇ",
+        "kana": "ﾒﾄﾞﾛｰﾙｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

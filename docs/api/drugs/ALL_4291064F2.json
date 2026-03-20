@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291064F2",
+    "name": "カボメティクス錠６０ｍｇ",
+    "generic_name": "カボメティクス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "カボメティクス錠６０ｍｇ",
+        "kana": "ｶﾎﾞﾒﾃｨｸｽｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

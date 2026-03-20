@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119003F2",
+    "name": "ナルラピド錠２ｍｇ",
+    "generic_name": "ナルラピド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ナルラピド錠２ｍｇ",
+        "kana": "ﾅﾙﾗﾋﾟﾄﾞｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

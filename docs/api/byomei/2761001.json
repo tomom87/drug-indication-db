@@ -6,10 +6,10 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0109",
-      "name": "トルバプタン",
-      "generic_name": "トルバプタン",
-      "category": "降圧薬"
+      "yj_code": "NAIKA_0242",
+      "name": "トルバプタン7.5-15mg（サムスカ）",
+      "generic_name": "トルバプタン7.5-15mg（サムスカ）",
+      "category": "利尿薬"
     }
   ]
 }

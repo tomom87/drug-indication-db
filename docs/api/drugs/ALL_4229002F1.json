@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4229002F1",
+    "name": "フルダラ錠１０ｍｇ",
+    "generic_name": "フルダラ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "フルダラ錠１０ｍｇ",
+        "kana": "ﾌﾙﾀﾞﾗｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

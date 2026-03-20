@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190022F1",
+    "name": "リズミック錠１０ｍｇ",
+    "generic_name": "リズミック",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "リズミック錠１０ｍｇ",
+        "kana": "ﾘｽﾞﾐｯｸｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

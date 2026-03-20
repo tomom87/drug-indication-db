@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6199102X2",
+    "name": "ラベキュアパック８００",
+    "generic_name": "ラベキュアパック８００",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラベキュアパック８００",
+        "kana": "ﾗﾍﾞｷｭｱﾊﾟｯｸ800"
+      }
+    ]
+  },
+  "indications": []
+}

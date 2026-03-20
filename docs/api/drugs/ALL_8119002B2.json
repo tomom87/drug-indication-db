@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119002B2",
+    "name": "オキノーム散２．５ｍｇ",
+    "generic_name": "オキノーム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オキノーム散２．５ｍｇ",
+        "kana": "ｵｷﾉｰﾑｻﾝ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

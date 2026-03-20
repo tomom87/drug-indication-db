@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291081M1",
+    "name": "ターゼナカプセル０．１ｍｇ",
+    "generic_name": "ターゼナ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ターゼナカプセル０．１ｍｇ",
+        "kana": "ﾀｰｾﾞﾅｶﾌﾟｾﾙ0.1MG"
+      }
+    ]
+  },
+  "indications": []
+}

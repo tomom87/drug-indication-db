@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490012F2",
+    "name": "ドメナン錠２００ｍｇ",
+    "generic_name": "ドメナン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ドメナン錠２００ｍｇ",
+        "kana": "ﾄﾞﾒﾅﾝｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329022H1",
+    "name": "オメプラゾン錠２０ｍｇ",
+    "generic_name": "オメプラゾン",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "オメプラゾン錠２０ｍｇ",
+        "kana": "ｵﾒﾌﾟﾗｿﾞﾝｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

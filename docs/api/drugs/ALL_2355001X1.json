@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2355001X1",
+    "name": "硫酸カリウム",
+    "generic_name": "硫酸カリウム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "硫酸カリウム",
+        "kana": "ﾘｭｳｻﾝｶﾘｳﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

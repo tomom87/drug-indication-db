@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4413400A1",
+    "name": "ヒベルナ注２５ｍｇ　２．５％１ｍＬ",
+    "generic_name": "ヒベルナ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヒベルナ注２５ｍｇ　２．５％１ｍＬ",
+        "kana": "ﾋﾍﾞﾙﾅﾁｭｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

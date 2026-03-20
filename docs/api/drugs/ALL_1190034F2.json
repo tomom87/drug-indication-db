@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190034F2",
+    "name": "ボルズィ錠５ｍｇ",
+    "generic_name": "ボルズィ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "ボルズィ錠５ｍｇ",
+        "kana": "ﾎﾞﾙｽﾞｨｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

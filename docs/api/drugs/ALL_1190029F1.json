@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190029F1",
+    "name": "エブリスディ錠５ｍｇ",
+    "generic_name": "エブリスディ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "エブリスディ錠５ｍｇ",
+        "kana": "ｴﾌﾞﾘｽﾃﾞｨｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

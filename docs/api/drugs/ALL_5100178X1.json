@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100178X1",
+    "name": "ヤクモソウ",
+    "generic_name": "ヤクモソウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ヤクモソウ",
+        "kana": "ﾔｸﾓｿｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290007X1",
+    "name": "アラベル内用剤１．５ｇ",
+    "generic_name": "アラベル内用剤１．５ｇ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アラベル内用剤１．５ｇ",
+        "kana": "ｱﾗﾍﾞﾙﾅｲﾖｳｻﾞｲ1.5G"
+      }
+    ]
+  },
+  "indications": []
+}

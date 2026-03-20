@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590017F1",
+    "name": "ベオーバ錠５０ｍｇ",
+    "generic_name": "ベオーバ",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ベオーバ錠５０ｍｇ",
+        "kana": "ﾍﾞｵｰﾊﾞｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1147700S1",
+    "name": "ジクトルテープ７５ｍｇ",
+    "generic_name": "ジクトル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ジクトルテープ７５ｍｇ",
+        "kana": "ｼﾞｸﾄﾙﾃｰﾌﾟ75MG"
+      }
+    ]
+  },
+  "indications": []
+}

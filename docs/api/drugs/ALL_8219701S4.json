@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219701S4",
+    "name": "フェントステープ６ｍｇ",
+    "generic_name": "フェントス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フェントステープ６ｍｇ",
+        "kana": "ﾌｪﾝﾄｽﾃｰﾌﾟ6MG"
+      }
+    ]
+  },
+  "indications": []
+}

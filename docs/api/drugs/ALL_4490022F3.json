@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490022F3",
+    "name": "タリオンＯＤ錠５ｍｇ",
+    "generic_name": "タリオンＯＤ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "タリオンＯＤ錠５ｍｇ",
+        "kana": "ﾀﾘｵﾝODｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

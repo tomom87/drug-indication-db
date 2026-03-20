@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291031F1",
+    "name": "イクスタンジ錠４０ｍｇ",
+    "generic_name": "イクスタンジ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "イクスタンジ錠４０ｍｇ",
+        "kana": "ｲｸｽﾀﾝｼﾞｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

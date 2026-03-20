@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2655710M1",
+    "name": "アスタット軟膏１％",
+    "generic_name": "アスタット",
+    "category": "外用抗菌薬",
+    "brands": [
+      {
+        "name": "アスタット軟膏１％",
+        "kana": "ｱｽﾀｯﾄﾅﾝｺｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

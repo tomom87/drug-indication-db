@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2492416A1",
+    "name": "ランタス注カート　３００単位",
+    "generic_name": "ランタス",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "ランタス注カート　３００単位",
+        "kana": "ﾗﾝﾀｽﾁｭｳｶｰﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

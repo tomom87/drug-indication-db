@@ -1,24 +1,12 @@
 {
   "drug": {
     "yj_code": "NAIKA_0017",
-    "name": "エンパグリフロジン",
-    "generic_name": "エンパグリフロジン",
+    "name": "シタグリプチン",
+    "generic_name": "シタグリプチン",
     "category": "糖尿病薬",
     "brands": []
   },
   "indications": [
-    {
-      "code": "4289018",
-      "name": "慢性心不全",
-      "kana": "9",
-      "icd10": "I509"
-    },
-    {
-      "code": "8844106",
-      "name": "慢性腎臓病",
-      "kana": "11",
-      "icd10": "N189"
-    },
     {
       "code": "2500015",
       "name": "２型糖尿病",

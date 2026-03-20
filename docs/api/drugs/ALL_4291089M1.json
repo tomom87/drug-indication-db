@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291089M1",
+    "name": "ブルキンザカプセル８０ｍｇ",
+    "generic_name": "ブルキンザ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ブルキンザカプセル８０ｍｇ",
+        "kana": "ﾌﾞﾙｷﾝｻﾞｶﾌﾟｾﾙ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

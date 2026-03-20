@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1125700J2",
+    "name": "ルピアール坐剤２５　２５ｍｇ",
+    "generic_name": "ルピアール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ルピアール坐剤２５　２５ｍｇ",
+        "kana": "ﾙﾋﾟｱｰﾙｻﾞｻﾞｲ25"
+      }
+    ]
+  },
+  "indications": []
+}

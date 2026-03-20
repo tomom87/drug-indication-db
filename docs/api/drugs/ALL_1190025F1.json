@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190025F1",
+    "name": "セリンクロ錠１０ｍｇ",
+    "generic_name": "セリンクロ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "セリンクロ錠１０ｍｇ",
+        "kana": "ｾﾘﾝｸﾛｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

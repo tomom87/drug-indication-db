@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2790821Q1",
+    "name": "歯科用ＴＤゼット液",
+    "generic_name": "歯科用ＴＤゼット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "歯科用ＴＤゼット液",
+        "kana": "ｼｶﾖｳTDｾﾞｯﾄｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

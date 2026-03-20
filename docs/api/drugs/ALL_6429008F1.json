@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6429008F1",
+    "name": "ストロメクトール錠３ｍｇ",
+    "generic_name": "ストロメクトール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ストロメクトール錠３ｍｇ",
+        "kana": "ｽﾄﾛﾒｸﾄｰﾙｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

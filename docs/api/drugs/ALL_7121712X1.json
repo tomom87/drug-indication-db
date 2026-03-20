@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121712X1",
+    "name": "ラッカセイ油",
+    "generic_name": "ラッカセイ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラッカセイ油",
+        "kana": "ﾗｯｶｾｲﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

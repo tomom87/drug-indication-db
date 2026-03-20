@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231400G2",
+    "name": "大塚糖液５％ＴＮ　５０ｍＬ",
+    "generic_name": "大塚糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "大塚糖液５％ＴＮ　５０ｍＬ",
+        "kana": "ｵｵﾂｶﾄｳｴｷ5%TN"
+      }
+    ]
+  },
+  "indications": []
+}

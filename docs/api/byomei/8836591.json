@@ -6,25 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0093",
+      "yj_code": "NAIKA_0087",
       "name": "シロドシン",
       "generic_name": "シロドシン",
       "category": "排尿障害薬"
     },
     {
-      "yj_code": "NAIKA_0092",
+      "yj_code": "NAIKA_0086",
       "name": "タムスロシン",
       "generic_name": "タムスロシン",
       "category": "排尿障害薬"
     },
     {
-      "yj_code": "NAIKA_0094",
+      "yj_code": "NAIKA_0088",
       "name": "デュタステリド",
       "generic_name": "デュタステリド",
       "category": "排尿障害薬"
     },
     {
-      "yj_code": "NAIKA_0210",
+      "yj_code": "NAIKA_0203",
       "name": "ナフトピジル",
       "generic_name": "ナフトピジル",
       "category": "排尿障害薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231401J3",
+    "name": "大塚糖液５０％　２００ｍＬ",
+    "generic_name": "大塚糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "大塚糖液５０％　２００ｍＬ",
+        "kana": "ｵｵﾂｶﾄｳｴｷ50%"
+      }
+    ]
+  },
+  "indications": []
+}

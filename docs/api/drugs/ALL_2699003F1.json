@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699003F1",
+    "name": "レクチゾール錠２５ｍｇ",
+    "generic_name": "レクチゾール",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "レクチゾール錠２５ｍｇ",
+        "kana": "ﾚｸﾁｿﾞｰﾙｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

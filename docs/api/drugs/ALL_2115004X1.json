@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2115004X1",
+    "name": "カフェイン水和物",
+    "generic_name": "カフェイン水和物",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カフェイン水和物",
+        "kana": "ｶﾌｪｲﾝｽｲﾜﾌﾞﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

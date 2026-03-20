@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319408A1",
+    "name": "ボルベン輸液６％　５００ｍＬ",
+    "generic_name": "ボルベン輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ボルベン輸液６％　５００ｍＬ",
+        "kana": "ﾎﾞﾙﾍﾞﾝﾕｴｷ6%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6122400D2",
+    "name": "アザクタム注射用１ｇ",
+    "generic_name": "アザクタム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アザクタム注射用１ｇ",
+        "kana": "ｱｻﾞｸﾀﾑﾁｭｳｼｬﾖｳ1G"
+      }
+    ]
+  },
+  "indications": []
+}

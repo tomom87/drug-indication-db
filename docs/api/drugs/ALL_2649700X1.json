@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649700X1",
+    "name": "塩化亜鉛",
+    "generic_name": "塩化亜鉛",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "塩化亜鉛",
+        "kana": "ｴﾝｶｱｴﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

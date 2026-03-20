@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0068",
-      "name": "アスピリン",
-      "generic_name": "アスピリン",
+      "yj_code": "NAIKA_0247",
+      "name": "アスピリン低用量100mg（バイアスピリン）",
+      "generic_name": "アスピリン低用量100mg（バイアスピリン）",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "NAIKA_0069",
+      "yj_code": "NAIKA_0063",
       "name": "クロピドグレル",
       "generic_name": "クロピドグレル",
       "category": "抗血小板薬"

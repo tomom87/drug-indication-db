@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179020F2",
+    "name": "セレネース錠１ｍｇ",
+    "generic_name": "セレネース",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "セレネース錠１ｍｇ",
+        "kana": "ｾﾚﾈｰｽｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

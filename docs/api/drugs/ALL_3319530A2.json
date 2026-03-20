@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319530A2",
+    "name": "ＫＮ２号輸液　５００ｍＬ",
+    "generic_name": "ＫＮ２号輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ＫＮ２号輸液　５００ｍＬ",
+        "kana": "KN2ｺﾞｳﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

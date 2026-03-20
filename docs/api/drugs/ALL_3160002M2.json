@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3160002M2",
+    "name": "グラケーカプセル１５ｍｇ",
+    "generic_name": "グラケー",
+    "category": "ビタミンE薬",
+    "brands": [
+      {
+        "name": "グラケーカプセル１５ｍｇ",
+        "kana": "ｸﾞﾗｹｰｶﾌﾟｾﾙ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

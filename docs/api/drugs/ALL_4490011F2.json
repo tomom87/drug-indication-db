@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490011F2",
+    "name": "アレギサール錠５ｍｇ",
+    "generic_name": "アレギサール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレギサール錠５ｍｇ",
+        "kana": "ｱﾚｷﾞｻｰﾙｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

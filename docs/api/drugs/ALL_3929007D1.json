@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3929007D1",
+    "name": "ノベルジン顆粒５％",
+    "generic_name": "ノベルジン",
+    "category": "酵素製剤",
+    "brands": [
+      {
+        "name": "ノベルジン顆粒５％",
+        "kana": "ﾉﾍﾞﾙｼﾞﾝｶﾘｭｳ5%"
+      }
+    ]
+  },
+  "indications": []
+}

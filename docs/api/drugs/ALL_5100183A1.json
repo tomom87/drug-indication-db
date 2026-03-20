@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100183A1",
+    "name": "ウチダのリュウタン末Ｍ",
+    "generic_name": "ウチダのリュウタン末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのリュウタン末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾘｭｳﾀﾝﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

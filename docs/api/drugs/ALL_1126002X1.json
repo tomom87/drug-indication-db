@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1126002X1",
+    "name": "臭化ナトリウム",
+    "generic_name": "臭化ナトリウム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "臭化ナトリウム",
+        "kana": "ｼｭｳｶﾅﾄﾘｳﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291064F1",
+    "name": "カボメティクス錠２０ｍｇ",
+    "generic_name": "カボメティクス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "カボメティクス錠２０ｍｇ",
+        "kana": "ｶﾎﾞﾒﾃｨｸｽｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

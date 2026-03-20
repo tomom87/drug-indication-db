@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2160002F2",
+    "name": "メトリジンＤ錠２ｍｇ",
+    "generic_name": "メトリジンＤ",
+    "category": "血管拡張薬",
+    "brands": [
+      {
+        "name": "メトリジンＤ錠２ｍｇ",
+        "kana": "ﾒﾄﾘｼﾞﾝDｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4139007",
+      "name": "狭心症",
+      "kana": "8",
+      "icd10": "I209"
+    }
+  ]
+}

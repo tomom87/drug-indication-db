@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329116S1",
+    "name": "アルロイドＧ内用液５％",
+    "generic_name": "アルロイドＧ内用",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "アルロイドＧ内用液５％",
+        "kana": "ｱﾙﾛｲﾄﾞGﾅｲﾖｳｴｷ5%"
+      }
+    ]
+  },
+  "indications": []
+}

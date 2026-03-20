@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2339226D1",
+    "name": "ケイラーゼＳＡ配合顆粒",
+    "generic_name": "ケイラーゼＳＡ配合",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ケイラーゼＳＡ配合顆粒",
+        "kana": "ｹｲﾗｰｾﾞSAﾊｲｺﾞｳｶﾘｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

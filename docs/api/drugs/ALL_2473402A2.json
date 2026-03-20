@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2473402A2",
+    "name": "ペラニンデポー筋注１０ｍｇ",
+    "generic_name": "ペラニンデポー筋",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ペラニンデポー筋注１０ｍｇ",
+        "kana": "ﾍﾟﾗﾆﾝﾃﾞﾎﾟｰｷﾝﾁｭｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

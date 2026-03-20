@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1312700X1",
+    "name": "ピロカルピン塩酸塩",
+    "generic_name": "ピロカルピン塩酸塩",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ピロカルピン塩酸塩",
+        "kana": "ﾋﾟﾛｶﾙﾋﾟﾝｴﾝｻﾝｴﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

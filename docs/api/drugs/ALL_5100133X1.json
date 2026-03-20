@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100133X1",
+    "name": "ツムラの生薬テンマ",
+    "generic_name": "ツムラの生薬テンマ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ツムラの生薬テンマ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸﾃﾝﾏ"
+      }
+    ]
+  },
+  "indications": []
+}

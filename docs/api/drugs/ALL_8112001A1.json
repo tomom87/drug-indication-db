@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8112001A1",
+    "name": "アヘン末",
+    "generic_name": "アヘン末",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アヘン末",
+        "kana": "ｱﾍﾝﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

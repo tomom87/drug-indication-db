@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179049F1",
+    "name": "クロザリル錠２５ｍｇ",
+    "generic_name": "クロザリル",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "クロザリル錠２５ｍｇ",
+        "kana": "ｸﾛｻﾞﾘﾙｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

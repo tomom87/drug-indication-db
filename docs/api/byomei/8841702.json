@@ -6,34 +6,70 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0217",
-      "name": "アリピプラゾール",
-      "generic_name": "アリピプラゾール",
-      "category": "抗精神病薬"
-    },
-    {
-      "yj_code": "NAIKA_0216",
+      "yj_code": "NAIKA_0209",
       "name": "クエチアピン",
       "generic_name": "クエチアピン",
       "category": "抗精神病薬"
     },
     {
-      "yj_code": "ALL_1171005",
+      "yj_code": "ALL_1171005C1",
       "name": "ウインタミン細粒（１０％）",
       "generic_name": "ウインタミン",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1171400",
+      "yj_code": "ALL_1171400A1",
       "name": "クロルプロマジン塩酸塩注射液　０．５％２ｍＬ",
       "generic_name": "クロルプロマジン塩酸塩",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1171001",
+      "yj_code": "ALL_1171400A2",
+      "name": "クロルプロマジン塩酸塩注射液　０．５％５ｍＬ",
+      "generic_name": "クロルプロマジン塩酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1171400A3",
+      "name": "クロルプロマジン塩酸塩注射液　１％５ｍＬ",
+      "generic_name": "クロルプロマジン塩酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1171001F4",
+      "name": "クロルプロマジン塩酸塩錠　１００ｍｇ",
+      "generic_name": "クロルプロマジン塩酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1171001F1",
       "name": "クロルプロマジン塩酸塩錠　１２．５ｍｇ",
       "generic_name": "クロルプロマジン塩酸塩",
       "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1171001F2",
+      "name": "クロルプロマジン塩酸塩錠　２５ｍｇ",
+      "generic_name": "クロルプロマジン塩酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1171001F3",
+      "name": "クロルプロマジン塩酸塩錠　５０ｍｇ",
+      "generic_name": "クロルプロマジン塩酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "NAIKA_0250",
+      "name": "アリピプラゾール持続性注射（LAI）",
+      "generic_name": "アリピプラゾール持続性注射（LAI）",
+      "category": "精神神経薬"
+    },
+    {
+      "yj_code": "NAIKA_0249",
+      "name": "アリピプラゾール経口",
+      "generic_name": "アリピプラゾール経口",
+      "category": "精神神経薬"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114005N3",
+    "name": "パシーフカプセル１２０ｍｇ",
+    "generic_name": "パシーフ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "パシーフカプセル１２０ｍｇ",
+        "kana": "ﾊﾟｼｰﾌｶﾌﾟｾﾙ120MG"
+      }
+    ]
+  },
+  "indications": []
+}

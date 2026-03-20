@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7223001M1",
+    "name": "メトピロンカプセル２５０ｍｇ",
+    "generic_name": "メトピロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "メトピロンカプセル２５０ｍｇ",
+        "kana": "ﾒﾄﾋﾟﾛﾝｶﾌﾟｾﾙ250MG"
+      }
+    ]
+  },
+  "indications": []
+}

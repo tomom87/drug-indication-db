@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100075X1",
+    "name": "ウチダのサイコＭ",
+    "generic_name": "ウチダのサイコＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのサイコＭ",
+        "kana": "ｳﾁﾀﾞﾉｻｲｺM"
+      }
+    ]
+  },
+  "indications": []
+}

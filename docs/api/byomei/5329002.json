@@ -6,115 +6,193 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0034",
+      "yj_code": "NAIKA_0030",
       "name": "エソメプラゾール",
       "generic_name": "エソメプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0134",
+      "yj_code": "NAIKA_0127",
       "name": "スクラルファート",
       "generic_name": "スクラルファート",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0036",
+      "yj_code": "NAIKA_0032",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0035",
+      "yj_code": "NAIKA_0031",
       "name": "ボノプラザン",
       "generic_name": "ボノプラザン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0132",
+      "yj_code": "NAIKA_0125",
       "name": "ラベプラゾール",
       "generic_name": "ラベプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0033",
+      "yj_code": "NAIKA_0029",
       "name": "ランソプラゾール",
       "generic_name": "ランソプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0042",
+      "yj_code": "NAIKA_0038",
       "name": "酸化マグネシウム",
       "generic_name": "酸化マグネシウム",
       "category": "消化器薬"
     },
     {
-      "yj_code": "ALL_2325005",
+      "yj_code": "ALL_2325005F1",
+      "name": "アシノン錠１５０ｍｇ",
+      "generic_name": "アシノン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325005F2",
       "name": "アシノン錠７５ｍｇ",
       "generic_name": "アシノン",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2325004",
+      "yj_code": "ALL_2325004M2",
+      "name": "アルタットカプセル３７．５ｍｇ",
+      "generic_name": "アルタット",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325004M1",
       "name": "アルタットカプセル７５ｍｇ",
       "generic_name": "アルタット",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2325403",
+      "yj_code": "ALL_2325004C1",
+      "name": "アルタット細粒２０％",
+      "generic_name": "アルタット",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325403D2",
       "name": "アルタット静注用７５ｍｇ",
       "generic_name": "アルタット静",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2325400",
+      "yj_code": "ALL_2325001C2",
+      "name": "カイロック細粒４０％",
+      "generic_name": "カイロック",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325400A1",
       "name": "シメチジン注射液２００ｍｇ「サワイ」　１０％２ｍＬ",
       "generic_name": "シメチジン",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2325001",
+      "yj_code": "ALL_2325001C1",
+      "name": "シメチジン細粒２０％「ツルハラ」",
+      "generic_name": "シメチジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325001F2",
+      "name": "シメチジン４００ｍｇ錠",
+      "generic_name": "シメチジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325001F1",
       "name": "タガメット錠２００ｍｇ",
       "generic_name": "タガメット",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2312001",
+      "yj_code": "ALL_2312001X1",
       "name": "タンニン酸アルブミン「三恵」",
       "generic_name": "タンニン酸アルブミン「三恵」",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2319100",
+      "yj_code": "ALL_2325005M2",
+      "name": "ニザチジンカプセル７５ｍｇ「ＹＤ」",
+      "generic_name": "ニザチジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319100F1",
       "name": "フェロベリン配合錠",
       "generic_name": "フェロベリン配合",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2325006",
+      "yj_code": "ALL_2325006F2",
+      "name": "プロテカジン錠１０　１０ｍｇ",
+      "generic_name": "プロテカジン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325006F1",
       "name": "プロテカジン錠５　５ｍｇ",
       "generic_name": "プロテカジン",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2314400",
+      "yj_code": "ALL_2325006F4",
+      "name": "プロテカジンＯＤ錠１０　１０ｍｇ",
+      "generic_name": "プロテカジンＯＤ",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2325006F3",
+      "name": "プロテカジンＯＤ錠５　５ｍｇ",
+      "generic_name": "プロテカジンＯＤ",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2314400A2",
       "name": "ベルベリン硫酸塩注２ｍｇ「日新」　０．１％２ｍＬ",
       "generic_name": "ベルベリン硫酸塩",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2319001",
+      "yj_code": "ALL_2319001C1",
+      "name": "ロペミン小児用細粒０．０５％",
+      "generic_name": "ロペミン小児用",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319001C2",
+      "name": "ロペミン細粒０．１％",
+      "generic_name": "ロペミン",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319001F1",
+      "name": "ロペラミド塩酸塩錠１ｍｇ「あすか」",
+      "generic_name": "ロペラミド塩酸塩",
+      "category": "消化性潰瘍薬"
+    },
+    {
+      "yj_code": "ALL_2319001M1",
       "name": "ロペラミド塩酸塩１ｍｇカプセル",
       "generic_name": "ロペラミド塩酸塩",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2319002",
+      "yj_code": "ALL_2319002X1",
       "name": "乳酸",
       "generic_name": "乳酸",
       "category": "消化性潰瘍薬"
     },
     {
-      "yj_code": "ALL_2319003",
+      "yj_code": "ALL_2319003X1",
       "name": "薬用炭",
       "generic_name": "薬用炭",
       "category": "消化性潰瘍薬"

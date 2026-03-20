@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179038C1",
+    "name": "リスパダール細粒１％",
+    "generic_name": "リスパダール",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リスパダール細粒１％",
+        "kana": "ﾘｽﾊﾟﾀﾞｰﾙｻｲﾘｭｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

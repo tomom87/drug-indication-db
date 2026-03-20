@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139007F3",
+    "name": "ガバペン錠４００ｍｇ",
+    "generic_name": "ガバペン",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "ガバペン錠４００ｍｇ",
+        "kana": "ｶﾞﾊﾞﾍﾟﾝｼﾞｮｳ400MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

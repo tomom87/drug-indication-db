@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339004F1",
+    "name": "エリキュース錠２．５ｍｇ",
+    "generic_name": "エリキュース",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "エリキュース錠２．５ｍｇ",
+        "kana": "ｴﾘｷｭｰｽｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

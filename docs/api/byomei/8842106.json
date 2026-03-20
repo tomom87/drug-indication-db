@@ -6,49 +6,49 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0063",
+      "yj_code": "NAIKA_0059",
       "name": "プレドニゾロン",
       "generic_name": "プレドニゾロン",
       "category": "ステロイド"
     },
     {
-      "yj_code": "NAIKA_0193",
+      "yj_code": "NAIKA_0186",
       "name": "アザチオプリン",
       "generic_name": "アザチオプリン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0198",
+      "yj_code": "NAIKA_0191",
       "name": "イグラチモド",
       "generic_name": "イグラチモド",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0196",
+      "yj_code": "NAIKA_0189",
       "name": "サラゾスルファピリジン",
       "generic_name": "サラゾスルファピリジン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0194",
+      "yj_code": "NAIKA_0187",
       "name": "タクロリムス",
       "generic_name": "タクロリムス",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0195",
+      "yj_code": "NAIKA_0188",
       "name": "ヒドロキシクロロキン",
       "generic_name": "ヒドロキシクロロキン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0197",
+      "yj_code": "NAIKA_0190",
       "name": "ブシラミン",
       "generic_name": "ブシラミン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0192",
+      "yj_code": "NAIKA_0185",
       "name": "メトトレキサート",
       "generic_name": "メトトレキサート",
       "category": "免疫抑制薬"
@@ -78,25 +78,31 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_1151001",
+      "yj_code": "ALL_1151001F1",
       "name": "ヒロポン錠　１ｍｇ",
       "generic_name": "ヒロポン",
       "category": "解熱鎮痛消炎薬"
     },
     {
-      "yj_code": "NAIKA_0080",
+      "yj_code": "NAIKA_0248",
+      "name": "アスピリン高用量330mg（バファリン等）",
+      "generic_name": "アスピリン高用量330mg（バファリン等）",
+      "category": "解熱鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0074",
       "name": "セレコキシブ",
       "generic_name": "セレコキシブ",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0079",
+      "yj_code": "NAIKA_0073",
       "name": "ロキソプロフェン",
       "generic_name": "ロキソプロフェン",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0076",
+      "yj_code": "NAIKA_0070",
       "name": "デノスマブ",
       "generic_name": "デノスマブ",
       "category": "骨粗鬆症薬"

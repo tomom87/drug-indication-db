@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329020F4",
+    "name": "ガスロンＮ・ＯＤ錠４ｍｇ",
+    "generic_name": "ガスロンＮ・ＯＤ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ガスロンＮ・ＯＤ錠４ｍｇ",
+        "kana": "ｶﾞｽﾛﾝNODｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

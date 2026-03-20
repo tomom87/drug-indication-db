@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190044F2",
+    "name": "ケレンディア錠２０ｍｇ",
+    "generic_name": "ケレンディア",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ケレンディア錠２０ｍｇ",
+        "kana": "ｹﾚﾝﾃﾞｨｱｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

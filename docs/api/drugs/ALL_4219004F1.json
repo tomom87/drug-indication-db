@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4219004F1",
+    "name": "テモゾロミド錠２０ｍｇ「ＮＫ」",
+    "generic_name": "テモゾロミド",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "テモゾロミド錠２０ｍｇ「ＮＫ」",
+        "kana": "ﾃﾓｿﾞﾛﾐﾄﾞｼﾞｮｳ20MGNK"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4299004M2",
+    "name": "コセルゴカプセル２５ｍｇ",
+    "generic_name": "コセルゴ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "コセルゴカプセル２５ｍｇ",
+        "kana": "ｺｾﾙｺﾞｶﾌﾟｾﾙ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

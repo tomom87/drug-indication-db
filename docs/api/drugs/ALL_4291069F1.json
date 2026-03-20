@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291069F1",
+    "name": "アルンブリグ錠３０ｍｇ",
+    "generic_name": "アルンブリグ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アルンブリグ錠３０ｍｇ",
+        "kana": "ｱﾙﾝﾌﾞﾘｸﾞｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

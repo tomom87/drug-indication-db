@@ -6,25 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0204",
+      "yj_code": "NAIKA_0197",
       "name": "ガランタミン",
       "generic_name": "ガランタミン",
       "category": "認知症薬"
     },
     {
-      "yj_code": "NAIKA_0202",
+      "yj_code": "NAIKA_0195",
       "name": "ドネペジル",
       "generic_name": "ドネペジル",
       "category": "認知症薬"
     },
     {
-      "yj_code": "NAIKA_0203",
+      "yj_code": "NAIKA_0196",
       "name": "メマンチン",
       "generic_name": "メマンチン",
       "category": "認知症薬"
     },
     {
-      "yj_code": "NAIKA_0205",
+      "yj_code": "NAIKA_0198",
       "name": "リバスチグミン",
       "generic_name": "リバスチグミン",
       "category": "認知症薬"

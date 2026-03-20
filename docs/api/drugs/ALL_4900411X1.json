@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900411X1",
+    "name": "エレビジス点滴静注",
+    "generic_name": "エレビジス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エレビジス点滴静注",
+        "kana": "ｴﾚﾋﾞｼﾞｽﾃﾝﾃｷｼﾞｮｳﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

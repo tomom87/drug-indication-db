@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291405F2",
+    "name": "アクプラ静注用５０ｍｇ",
+    "generic_name": "アクプラ静",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アクプラ静注用５０ｍｇ",
+        "kana": "ｱｸﾌﾟﾗｼﾞｮｳﾁｭｳﾖｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

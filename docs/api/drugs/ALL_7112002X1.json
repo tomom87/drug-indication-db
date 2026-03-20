@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7112002X1",
+    "name": "コメデンプン",
+    "generic_name": "コメデンプン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "コメデンプン",
+        "kana": "ｺﾒﾃﾞﾝﾌﾟﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

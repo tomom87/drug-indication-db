@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291086M2",
+    "name": "オータイロカプセル１６０ｍｇ",
+    "generic_name": "オータイロ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "オータイロカプセル１６０ｍｇ",
+        "kana": "ｵｰﾀｲﾛｶﾌﾟｾﾙ160MG"
+      }
+    ]
+  },
+  "indications": []
+}

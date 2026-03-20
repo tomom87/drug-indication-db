@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291084F2",
+    "name": "ジャイパーカ錠１００ｍｇ",
+    "generic_name": "ジャイパーカ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ジャイパーカ錠１００ｍｇ",
+        "kana": "ｼﾞｬｲﾊﾟｰｶｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

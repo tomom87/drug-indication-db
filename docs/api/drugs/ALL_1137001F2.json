@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1137001F2",
+    "name": "オスポロット錠２００ｍｇ",
+    "generic_name": "オスポロット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オスポロット錠２００ｍｇ",
+        "kana": "ｵｽﾎﾟﾛｯﾄｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

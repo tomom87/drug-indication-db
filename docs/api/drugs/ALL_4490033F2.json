@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490033F2",
+    "name": "ビラノアＯＤ錠２０ｍｇ",
+    "generic_name": "ビラノアＯＤ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビラノアＯＤ錠２０ｍｇ",
+        "kana": "ﾋﾞﾗﾉｱODｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

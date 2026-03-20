@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179030F3",
+    "name": "クロフェクトン錠５０ｍｇ",
+    "generic_name": "クロフェクトン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "クロフェクトン錠５０ｍｇ",
+        "kana": "ｸﾛﾌｪｸﾄﾝｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

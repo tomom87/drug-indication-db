@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100030A1",
+    "name": "トチモトのガジュツ末",
+    "generic_name": "トチモトのガジュツ末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのガジュツ末",
+        "kana": "ﾄﾁﾓﾄﾉｶﾞｼﾞｭﾂﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

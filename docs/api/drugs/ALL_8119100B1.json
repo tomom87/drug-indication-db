@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119100B1",
+    "name": "アヘン・トコン散",
+    "generic_name": "アヘン・トコン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アヘン・トコン散",
+        "kana": "ｱﾍﾝﾄｺﾝｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

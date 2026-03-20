@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900409X1",
+    "name": "アベクマ点滴静注",
+    "generic_name": "アベクマ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アベクマ点滴静注",
+        "kana": "ｱﾍﾞｸﾏﾃﾝﾃｷｼﾞｮｳﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

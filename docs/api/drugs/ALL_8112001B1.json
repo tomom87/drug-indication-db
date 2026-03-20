@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8112001B1",
+    "name": "アヘン散　１０％",
+    "generic_name": "アヘン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アヘン散　１０％",
+        "kana": "ｱﾍﾝｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

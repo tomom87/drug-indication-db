@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339002F6",
+    "name": "リクシアナＯＤ錠６０ｍｇ",
+    "generic_name": "リクシアナＯＤ",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "リクシアナＯＤ錠６０ｍｇ",
+        "kana": "ﾘｸｼｱﾅODｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

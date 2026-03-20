@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100084X1",
+    "name": "トチモトのサンズコン",
+    "generic_name": "トチモトのサンズコン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのサンズコン",
+        "kana": "ﾄﾁﾓﾄﾉｻﾝｽﾞｺﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

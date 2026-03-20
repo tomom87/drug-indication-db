@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499007F2",
+    "name": "ボンゾール錠２００ｍｇ",
+    "generic_name": "ボンゾール",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "ボンゾール錠２００ｍｇ",
+        "kana": "ﾎﾞﾝｿﾞｰﾙｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

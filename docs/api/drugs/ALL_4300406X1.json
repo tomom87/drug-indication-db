@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300406X1",
+    "name": "テクネＤＴＰＡキット",
+    "generic_name": "テクネＤＴＰＡキット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＤＴＰＡキット",
+        "kana": "ﾃｸﾈDTPAｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

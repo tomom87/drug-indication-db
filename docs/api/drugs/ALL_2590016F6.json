@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590016F6",
+    "name": "シアリス錠１０ｍｇ",
+    "generic_name": "シアリス",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "シアリス錠１０ｍｇ",
+        "kana": "ｼｱﾘｽｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

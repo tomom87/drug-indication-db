@@ -6,55 +6,61 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0148",
+      "yj_code": "NAIKA_0141",
       "name": "インダカテロール・グリコピロニウム",
       "generic_name": "インダカテロール・グリコピロニウム",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0149",
+      "yj_code": "NAIKA_0142",
       "name": "ウメクリジニウム・ビランテロール",
       "generic_name": "ウメクリジニウム・ビランテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0047",
+      "yj_code": "NAIKA_0043",
       "name": "チオトロピウム",
       "generic_name": "チオトロピウム",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0046",
+      "yj_code": "NAIKA_0042",
       "name": "ブデソニド・ホルモテロール",
       "generic_name": "ブデソニド・ホルモテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "ALL_2252700",
+      "yj_code": "ALL_2252700G1",
       "name": "アスプール液（０．５％）",
       "generic_name": "アスプール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252006",
+      "yj_code": "ALL_2252006R2",
       "name": "フェノテロール臭化水素酸塩ＤＳ小児用０．５％「タカタ」",
       "generic_name": "フェノテロール臭化水素酸塩ＤＳ小児用",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252401",
+      "yj_code": "ALL_2252003Q1",
+      "name": "ブリカニールシロップ０．５ｍｇ／ｍＬ　０．０５％",
+      "generic_name": "ブリカニール",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2252401A1",
       "name": "ブリカニール皮下注０．２ｍｇ",
       "generic_name": "ブリカニール皮下",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252003",
+      "yj_code": "ALL_2252003F1",
       "name": "ブリカニール錠２ｍｇ",
       "generic_name": "ブリカニール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252704",
+      "yj_code": "ALL_2252704G2",
       "name": "ベロテックエロゾル１００　２０ｍｇ１０ｍＬ",
       "generic_name": "ベロテックエロゾル１００",
       "category": "気管支拡張薬"

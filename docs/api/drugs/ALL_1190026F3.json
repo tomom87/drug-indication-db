@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190026F3",
+    "name": "タリージェ錠１０ｍｇ",
+    "generic_name": "タリージェ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "タリージェ錠１０ｍｇ",
+        "kana": "ﾀﾘｰｼﾞｪｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

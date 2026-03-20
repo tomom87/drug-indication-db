@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179012D1",
+    "name": "リーゼ顆粒１０％",
+    "generic_name": "リーゼ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リーゼ顆粒１０％",
+        "kana": "ﾘｰｾﾞｶﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

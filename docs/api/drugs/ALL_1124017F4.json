@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1124017F4",
+    "name": "５ｍｇセルシン錠",
+    "generic_name": "",
+    "category": "催眠鎮静薬",
+    "brands": [
+      {
+        "name": "５ｍｇセルシン錠",
+        "kana": "5MGｾﾙｼﾝｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

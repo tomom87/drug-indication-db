@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2900002F5",
+    "name": "ハイゼット錠５０ｍｇ",
+    "generic_name": "ハイゼット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハイゼット錠５０ｍｇ",
+        "kana": "ﾊｲｾﾞｯﾄｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

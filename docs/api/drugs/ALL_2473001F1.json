@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2473001F1",
+    "name": "ジュリナ錠０．５ｍｇ",
+    "generic_name": "ジュリナ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ジュリナ錠０．５ｍｇ",
+        "kana": "ｼﾞｭﾘﾅｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

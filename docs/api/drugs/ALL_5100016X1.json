@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100016X1",
+    "name": "エンメイソウ",
+    "generic_name": "エンメイソウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "エンメイソウ",
+        "kana": "ｴﾝﾒｲｿｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6199102X1",
+    "name": "ラベキュアパック４００",
+    "generic_name": "ラベキュアパック４００",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラベキュアパック４００",
+        "kana": "ﾗﾍﾞｷｭｱﾊﾟｯｸ400"
+      }
+    ]
+  },
+  "indications": []
+}

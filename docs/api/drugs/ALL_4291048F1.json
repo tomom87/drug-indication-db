@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291048F1",
+    "name": "アイクルシグ錠１５ｍｇ",
+    "generic_name": "アイクルシグ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アイクルシグ錠１５ｍｇ",
+        "kana": "ｱｲｸﾙｼｸﾞｼﾞｮｳ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

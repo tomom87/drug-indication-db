@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649729N1",
+    "name": "セクタークリーム３％",
+    "generic_name": "セクター",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "セクタークリーム３％",
+        "kana": "ｾｸﾀｰｸﾘｰﾑ3%"
+      }
+    ]
+  },
+  "indications": []
+}

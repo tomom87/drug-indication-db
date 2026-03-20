@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6112001M1",
+    "name": "ダラシンカプセル７５ｍｇ",
+    "generic_name": "ダラシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ダラシンカプセル７５ｍｇ",
+        "kana": "ﾀﾞﾗｼﾝｶﾌﾟｾﾙ75MG"
+      }
+    ]
+  },
+  "indications": []
+}

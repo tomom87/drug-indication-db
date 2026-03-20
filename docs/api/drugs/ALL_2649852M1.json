@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649852M1",
+    "name": "エキザルベ",
+    "generic_name": "エキザルベ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "エキザルベ",
+        "kana": "ｴｷｻﾞﾙﾍﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490028Q1",
+    "name": "ザイザルシロップ０．０５％",
+    "generic_name": "ザイザル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ザイザルシロップ０．０５％",
+        "kana": "ｻﾞｲｻﾞﾙｼﾛｯﾌﾟ0.05%"
+      }
+    ]
+  },
+  "indications": []
+}

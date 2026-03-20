@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1144400A3",
+    "name": "スルピリン注射液　２５％２ｍＬ",
+    "generic_name": "スルピリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "スルピリン注射液　２５％２ｍＬ",
+        "kana": "ｽﾙﾋﾟﾘﾝﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

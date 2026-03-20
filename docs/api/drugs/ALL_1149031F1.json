@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1149031F1",
+    "name": "オークル錠１００ｍｇ",
+    "generic_name": "オークル",
+    "category": "抗てんかん薬",
+    "brands": [
+      {
+        "name": "オークル錠１００ｍｇ",
+        "kana": "ｵｰｸﾙｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3459001",
+      "name": "てんかん",
+      "kana": "4",
+      "icd10": "G409"
+    }
+  ]
+}

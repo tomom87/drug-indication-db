@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490013M2",
+    "name": "レミカットカプセル２ｍｇ",
+    "generic_name": "レミカット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レミカットカプセル２ｍｇ",
+        "kana": "ﾚﾐｶｯﾄｶﾌﾟｾﾙ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

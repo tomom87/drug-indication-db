@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6123401A1",
+    "name": "トブラシン注小児用１０ｍｇ",
+    "generic_name": "トブラシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トブラシン注小児用１０ｍｇ",
+        "kana": "ﾄﾌﾞﾗｼﾝﾁｭｳｼｮｳﾆﾖｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

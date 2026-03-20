@@ -6,13 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2323001",
+      "yj_code": "ALL_2323001F1",
       "name": "アズレン錠２ｍｇ「ツルハラ」",
       "generic_name": "アズレン",
       "category": "消化酵素薬"
     },
     {
-      "yj_code": "ALL_2323002",
+      "yj_code": "ALL_2323001D3",
+      "name": "アズレン顆粒１％「ツルハラ」",
+      "generic_name": "アズレン",
+      "category": "消化酵素薬"
+    },
+    {
+      "yj_code": "ALL_2323002F1",
+      "name": "アズロキサ錠１５ｍｇ",
+      "generic_name": "アズロキサ",
+      "category": "消化酵素薬"
+    },
+    {
+      "yj_code": "ALL_2323002D1",
       "name": "アズロキサ顆粒２．５％",
       "generic_name": "アズロキサ",
       "category": "消化酵素薬"

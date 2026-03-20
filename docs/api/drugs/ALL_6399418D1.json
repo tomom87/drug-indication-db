@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6399418D1",
+    "name": "シムレクト静注用２０ｍｇ",
+    "generic_name": "シムレクト静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "シムレクト静注用２０ｍｇ",
+        "kana": "ｼﾑﾚｸﾄｼﾞｮｳﾁｭｳﾖｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

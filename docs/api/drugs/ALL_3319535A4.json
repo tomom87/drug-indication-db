@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319535A4",
+    "name": "ニソリ・Ｓ注　５００ｍＬ",
+    "generic_name": "ニソリ・Ｓ",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ニソリ・Ｓ注　５００ｍＬ",
+        "kana": "ﾆｿﾘSﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

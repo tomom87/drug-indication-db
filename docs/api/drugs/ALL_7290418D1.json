@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290418D1",
+    "name": "ロカメッツキット",
+    "generic_name": "ロカメッツキット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロカメッツキット",
+        "kana": "ﾛｶﾒｯﾂｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

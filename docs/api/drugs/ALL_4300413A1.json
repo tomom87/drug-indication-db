@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300413A1",
+    "name": "クリアボーン注",
+    "generic_name": "クリアボーン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "クリアボーン注",
+        "kana": "ｸﾘｱﾎﾞｰﾝﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

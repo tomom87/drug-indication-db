@@ -268,15 +268,15 @@ def build_all():
     c.execute("SELECT yj_code FROM drug WHERE yj_code LIKE 'NAIKA_%' OR yj_code LIKE 'TJ_%'")
     curated_yj = {row[0] for row in c.fetchall()}
 
-    # キュレーション済み薬剤がカバーするYJ7桁をbrand_nameテーブルから取得
-    curated_yj7 = set()
-    c.execute("SELECT DISTINCT master_yj7 FROM brand_name WHERE master_yj7 IS NOT NULL")
+    # キュレーション済み薬剤がカバーするYJ9桁をbrand_nameテーブルから取得
+    curated_yj9 = set()
+    c.execute("SELECT DISTINCT master_yj9 FROM brand_name WHERE master_yj9 IS NOT NULL")
     for row in c.fetchall():
-        curated_yj7.add(row[0])
+        curated_yj9.add(row[0])
 
     iyakuhin = parse_iyakuhin()
     print(f"医薬品マスター: {len(iyakuhin)} 件")
-    print(f"キュレーション済みYJ7: {len(curated_yj7)}")
+    print(f"キュレーション済みYJ9: {len(curated_yj9)}")
 
     # 既存ALL_エントリを削除（重複分をクリーンアップ）
     c.execute("DELETE FROM drug WHERE yj_code LIKE 'ALL_%'")
@@ -284,19 +284,20 @@ def build_all():
     c.execute("DELETE FROM brand_name WHERE yj_code LIKE 'ALL_%'")
     conn.commit()
 
-    # YJコードの先頭7桁でグルーピング（同一成分の規格違いをまとめる）
-    seen_yj7 = set()
+    # YJコードの先頭9桁でグルーピング（成分+剤形+規格で区別、メーカー違いは統合）
+    seen_yj9 = set()
     new_drug_count = 0
     new_indication_count = 0
 
     for item in iyakuhin:
-        yj7 = item["yj_code"][:7]
-        if yj7 in seen_yj7:
+        yj_full = item["yj_code"]
+        yj9 = yj_full[:9] if len(yj_full) >= 9 else yj_full[:7]
+        if yj9 in seen_yj9:
             continue
-        seen_yj7.add(yj7)
+        seen_yj9.add(yj9)
 
-        # キュレーション済み薬剤と同じYJ7桁ならスキップ
-        if yj7 in curated_yj7:
+        # キュレーション済み薬剤と同じYJ9桁ならスキップ
+        if yj9 in curated_yj9:
             continue
 
         yakkou4 = item["yakkou4"]
@@ -310,7 +311,7 @@ def build_all():
             category, byomei_names = category_info
 
         generic = extract_generic_name(item["name"])
-        yj_code = f"ALL_{yj7}"
+        yj_code = f"ALL_{yj9}"
 
         # drug登録
         c.execute(
@@ -321,8 +322,8 @@ def build_all():
 
         # brand_name登録
         c.execute(
-            "INSERT OR IGNORE INTO brand_name (yj_code, brand_name, brand_kana) VALUES (?, ?, ?)",
-            (yj_code, item["name"], item["kana"]),
+            "INSERT OR IGNORE INTO brand_name (yj_code, brand_name, brand_kana, master_yj9) VALUES (?, ?, ?, ?)",
+            (yj_code, item["name"], item["kana"], yj9),
         )
 
         # indication登録（薬効分類ベース）

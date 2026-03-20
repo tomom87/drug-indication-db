@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100142A1",
+    "name": "トコン末",
+    "generic_name": "トコン末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トコン末",
+        "kana": "ﾄｺﾝﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

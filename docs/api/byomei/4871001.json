@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0164",
+      "yj_code": "NAIKA_0157",
       "name": "オセルタミビル",
       "generic_name": "オセルタミビル",
       "category": "抗ウイルス薬"
     },
     {
-      "yj_code": "NAIKA_0165",
+      "yj_code": "NAIKA_0158",
       "name": "バロキサビル",
       "generic_name": "バロキサビル",
       "category": "抗ウイルス薬"

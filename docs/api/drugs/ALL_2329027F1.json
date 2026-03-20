@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2329027F1",
+    "name": "プロマックＤ錠７５　７５ｍｇ",
+    "generic_name": "プロマックＤ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "プロマックＤ錠７５　７５ｍｇ",
+        "kana": "ﾌﾟﾛﾏｯｸDｼﾞｮｳ75"
+      }
+    ]
+  },
+  "indications": []
+}

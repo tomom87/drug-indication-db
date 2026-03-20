@@ -6,163 +6,241 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0027",
+      "yj_code": "NAIKA_0023",
       "name": "アトルバスタチン",
       "generic_name": "アトルバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189101",
+      "yj_code": "ALL_2189101F2",
+      "name": "アトーゼット配合錠ＨＤ",
+      "generic_name": "アトーゼット配合",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189101F1",
       "name": "アトーゼット配合錠ＬＤ",
       "generic_name": "アトーゼット配合",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0032",
+      "yj_code": "NAIKA_0028",
       "name": "イコサペント酸エチル",
       "generic_name": "イコサペント酸エチル",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0029",
+      "yj_code": "NAIKA_0025",
       "name": "エゼチミブ",
       "generic_name": "エゼチミブ",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189021",
+      "yj_code": "ALL_2189021M1",
       "name": "エパデールＥＭカプセル２ｇ",
       "generic_name": "エパデールＥＭ",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189001",
+      "yj_code": "ALL_2189001F1",
       "name": "エラスチーム錠１８００　１，８００単位",
       "generic_name": "エラスチーム",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189404",
+      "yj_code": "ALL_2189404A1",
       "name": "エヴキーザ点滴静注液３４５ｍｇ　２．３ｍＬ",
       "generic_name": "エヴキーザ",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189009",
+      "yj_code": "ALL_2189009R1",
       "name": "クエストラン粉末４４．４％",
       "generic_name": "クエストラン粉末",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2183002",
+      "yj_code": "ALL_2183002M1",
       "name": "クロフィブラートカプセル　２５０ｍｇ",
       "generic_name": "クロフィブラート",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189014",
+      "yj_code": "ALL_2183002M2",
+      "name": "クロフィブラートカプセル　５００ｍｇ",
+      "generic_name": "クロフィブラート",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189014D2",
+      "name": "コレバインミニ８３％",
+      "generic_name": "コレバインミニ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189014F1",
       "name": "コレバイン錠５００ｍｇ",
       "generic_name": "コレバイン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189008",
+      "yj_code": "ALL_2189008C1",
       "name": "シンレスタール細粒５０％",
       "generic_name": "シンレスタール",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189020",
+      "yj_code": "ALL_2189020M2",
+      "name": "ジャクスタピッドカプセル１０ｍｇ",
+      "generic_name": "ジャクスタピッド",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189020M3",
+      "name": "ジャクスタピッドカプセル２０ｍｇ",
+      "generic_name": "ジャクスタピッド",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189020M1",
       "name": "ジャクスタピッドカプセル５ｍｇ",
       "generic_name": "ジャクスタピッド",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189004",
+      "yj_code": "ALL_2189004F1",
       "name": "ニコモール錠　２００ｍｇ",
       "generic_name": "ニコモール",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189022",
+      "yj_code": "ALL_2189022F1",
       "name": "ネクセトール錠１８０ｍｇ",
       "generic_name": "ネクセトール",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2183007",
+      "yj_code": "ALL_2183007F1",
       "name": "パルモディア錠０．１ｍｇ",
       "generic_name": "パルモディア",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0030",
+      "yj_code": "ALL_2183007G1",
+      "name": "パルモディアＸＲ錠０．２ｍｇ",
+      "generic_name": "パルモディアＸＲ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2183007G2",
+      "name": "パルモディアＸＲ錠０．４ｍｇ",
+      "generic_name": "パルモディアＸＲ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0026",
       "name": "フェノフィブラート",
       "generic_name": "フェノフィブラート",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0028",
+      "yj_code": "NAIKA_0024",
       "name": "プラバスタチン",
       "generic_name": "プラバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0031",
+      "yj_code": "NAIKA_0027",
       "name": "ベザフィブラート",
       "generic_name": "ベザフィブラート",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0130",
+      "yj_code": "NAIKA_0123",
       "name": "ペマフィブラート",
       "generic_name": "ペマフィブラート",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189103",
+      "yj_code": "ALL_2189103F2",
+      "name": "リバゼブ配合錠ＨＤ",
+      "generic_name": "リバゼブ配合",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189103F1",
       "name": "リバゼブ配合錠ＬＤ",
       "generic_name": "リバゼブ配合",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189403",
+      "yj_code": "ALL_2189403G1",
       "name": "レクビオ皮下注３００ｍｇシリンジ　１．５ｍＬ",
       "generic_name": "レクビオ皮下",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189401",
+      "yj_code": "ALL_2189401G2",
       "name": "レパーサ皮下注１４０ｍｇペン　１ｍＬ",
       "generic_name": "レパーサ皮下",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0026",
+      "yj_code": "ALL_2189401G3",
+      "name": "レパーサ皮下注４２０ｍｇオートミニドーザー　３．５ｍＬ",
+      "generic_name": "レパーサ皮下",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "NAIKA_0022",
       "name": "ロスバスタチン",
       "generic_name": "ロスバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189102",
+      "yj_code": "ALL_2189102F2",
       "name": "ロスーゼット配合錠ＨＤ",
       "generic_name": "ロスーゼット配合",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189019",
+      "yj_code": "ALL_2189102F1",
+      "name": "ロスーゼット配合錠ＬＤ",
+      "generic_name": "ロスーゼット配合",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189019M1",
       "name": "ロトリガ粒状カプセル２ｇ",
       "generic_name": "ロトリガ粒状",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189012",
+      "yj_code": "ALL_2189008F1",
+      "name": "ロレルコ錠２５０ｍｇ",
+      "generic_name": "ロレルコ",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189012F1",
       "name": "ローコール錠１０ｍｇ",
       "generic_name": "ローコール",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "ALL_2189006",
+      "yj_code": "ALL_2189012F2",
+      "name": "ローコール錠２０ｍｇ",
+      "generic_name": "ローコール",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189012F3",
+      "name": "ローコール錠３０ｍｇ",
+      "generic_name": "ローコール",
+      "category": "脂質異常症薬"
+    },
+    {
+      "yj_code": "ALL_2189006M1",
       "name": "ＥＰＬカプセル２５０ｍｇ",
       "generic_name": "ＥＰＬ",
       "category": "脂質異常症薬"

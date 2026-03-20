@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7212020B1",
+    "name": "バリブライトＰ　９８％",
+    "generic_name": "バリブライトＰ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バリブライトＰ　９８％",
+        "kana": "ﾊﾞﾘﾌﾞﾗｲﾄP"
+      }
+    ]
+  },
+  "indications": []
+}

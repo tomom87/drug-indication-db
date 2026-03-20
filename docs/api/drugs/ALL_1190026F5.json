@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190026F5",
+    "name": "タリージェＯＤ錠２．５ｍｇ",
+    "generic_name": "タリージェＯＤ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "タリージェＯＤ錠２．５ｍｇ",
+        "kana": "ﾀﾘｰｼﾞｪODｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

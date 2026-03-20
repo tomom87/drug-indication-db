@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490037F2",
+    "name": "サイバインコ錠１００ｍｇ",
+    "generic_name": "サイバインコ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サイバインコ錠１００ｍｇ",
+        "kana": "ｻｲﾊﾞｲﾝｺｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

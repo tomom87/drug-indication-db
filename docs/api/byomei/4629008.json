@@ -6,225 +6,471 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0056",
+      "yj_code": "NAIKA_0052",
       "name": "アジスロマイシン",
       "generic_name": "アジスロマイシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0053",
+      "yj_code": "NAIKA_0049",
       "name": "アモキシシリン",
       "generic_name": "アモキシシリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132700",
+      "yj_code": "ALL_6132700J1",
       "name": "エポセリン坐剤１２５　１２５ｍｇ",
       "generic_name": "エポセリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132006",
+      "yj_code": "ALL_6132700J2",
+      "name": "エポセリン坐剤２５０　２５０ｍｇ",
+      "generic_name": "エポセリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132006R1",
       "name": "オラスポア小児用ドライシロップ１０％　１００ｍｇ",
       "generic_name": "オラスポア小児用",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132010",
+      "yj_code": "ALL_6132010F1",
       "name": "オラセフ錠２５０ｍｇ",
       "generic_name": "オラセフ",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132409",
+      "yj_code": "ALL_6132409D1",
       "name": "クラフォラン注射用０．５ｇ　５００ｍｇ",
       "generic_name": "クラフォラン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0055",
+      "yj_code": "ALL_6132409D2",
+      "name": "クラフォラン注射用１ｇ",
+      "generic_name": "クラフォラン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0051",
       "name": "クラリスロマイシン",
       "generic_name": "クラリスロマイシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132005",
+      "yj_code": "ALL_6132005M1",
       "name": "ケフラールカプセル２５０ｍｇ",
       "generic_name": "ケフラール",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132403",
+      "yj_code": "ALL_6132005C1",
+      "name": "ケフラール細粒小児用１００ｍｇ",
+      "generic_name": "ケフラール",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132403D2",
       "name": "コアキシン注射用１ｇ",
       "generic_name": "コアキシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6133400",
+      "yj_code": "ALL_6132403D3",
+      "name": "コアキシン注射用２ｇ",
+      "generic_name": "コアキシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6133400F3",
       "name": "シオマリン静注用１ｇ",
       "generic_name": "シオマリン静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6111403",
+      "yj_code": "ALL_6111403G2",
+      "name": "ステルイズ水性懸濁筋注２４０万単位シリンジ",
+      "generic_name": "ステルイズ水性懸濁筋",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6111403G1",
       "name": "ステルイズ水性懸濁筋注６０万単位シリンジ",
       "generic_name": "ステルイズ水性懸濁筋",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132401",
+      "yj_code": "ALL_6132005C2",
+      "name": "セファクロル細粒２０％「日医工」　２００ｍｇ",
+      "generic_name": "セファクロル",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401D1",
+      "name": "セファメジンα注射用０．２５ｇ　２５０ｍｇ",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401D2",
+      "name": "セファメジンα注射用０．５ｇ　５００ｍｇ",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401D3",
+      "name": "セファメジンα注射用１ｇ",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401D4",
+      "name": "セファメジンα注射用２ｇ",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401G3",
+      "name": "セファメジンα点滴用キット１ｇ　（生理食塩液１００ｍＬ付）",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401G1",
+      "name": "セファメジンα点滴用キット２ｇ　（生理食塩液１００ｍＬ付）",
+      "generic_name": "セファメジンα",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132401E1",
       "name": "セファメジンα筋注用０．２５ｇ　２５０ｍｇ（溶解液付）",
       "generic_name": "セファメジンα筋",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0054",
+      "yj_code": "ALL_6132401E2",
+      "name": "セファメジンα筋注用０．５ｇ　５００ｍｇ（溶解液付）",
+      "generic_name": "セファメジンα筋",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0050",
       "name": "セファレキシン",
       "generic_name": "セファレキシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132425",
+      "yj_code": "ALL_6132425D1",
       "name": "セフェピム塩酸塩静注用０．５ｇ「サンド」　５００ｍｇ",
       "generic_name": "セフェピム塩酸塩静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132400",
+      "yj_code": "ALL_6132425D2",
+      "name": "セフェピム塩酸塩静注用１ｇ「サンド」",
+      "generic_name": "セフェピム塩酸塩静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132400F1",
+      "name": "セフォチアム塩酸塩静注用０．２５ｇ「ＮＰ」　２５０ｍｇ",
+      "generic_name": "セフォチアム塩酸塩静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132400F2",
+      "name": "セフォチアム塩酸塩静注用０．５ｇ「ＮＰ」　５００ｍｇ",
+      "generic_name": "セフォチアム塩酸塩静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132400F3",
+      "name": "セフォチアム塩酸塩静注用１ｇ「ＮＰ」",
+      "generic_name": "セフォチアム塩酸塩静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132400G3",
       "name": "セフォチアム静注用１ｇバッグ「日医工」　生理食塩液１００ｍＬ付",
       "generic_name": "セフォチアム静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0153",
+      "yj_code": "NAIKA_0146",
       "name": "セフカペン",
       "generic_name": "セフカペン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0154",
+      "yj_code": "NAIKA_0147",
       "name": "セフジトレン",
       "generic_name": "セフジトレン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0155",
+      "yj_code": "NAIKA_0148",
       "name": "セフジニル",
       "generic_name": "セフジニル",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132008",
+      "yj_code": "ALL_6132008M2",
+      "name": "セフスパンカプセル１００ｍｇ",
+      "generic_name": "セフスパン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132008M1",
+      "name": "セフスパンカプセル５０ｍｇ",
+      "generic_name": "セフスパン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132008C1",
       "name": "セフスパン細粒５０ｍｇ",
       "generic_name": "セフスパン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132418",
+      "yj_code": "ALL_6132418F1",
+      "name": "セフタジジム静注用０．５ｇ「ＣＨＭ」　５００ｍｇ",
+      "generic_name": "セフタジジム静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132418F2",
       "name": "セフタジジム静注用１ｇ「ＮＰ」",
       "generic_name": "セフタジジム静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132408",
+      "yj_code": "ALL_6132408E1",
+      "name": "セフメタゾン筋注用０．５ｇ　５００ｍｇ（溶解液付）",
+      "generic_name": "セフメタゾン筋",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132408G3",
       "name": "セフメタゾールナトリウム点滴静注バッグ１ｇＮＰ　生食１００ｍＬ付",
       "generic_name": "セフメタゾールナトリウム",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132009",
+      "yj_code": "ALL_6132408G4",
+      "name": "セフメタゾールナトリウム点滴静注バッグ２ｇＮＰ　生食１００ｍＬ付",
+      "generic_name": "セフメタゾールナトリウム",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132408F1",
+      "name": "セフメタゾールＮａ静注用０．２５ｇ「ＮＰ」　２５０ｍｇ",
+      "generic_name": "セフメタゾールＮａ静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132408F2",
+      "name": "セフメタゾールＮａ静注用０．５ｇ「ＮＰ」　５００ｍｇ",
+      "generic_name": "セフメタゾールＮａ静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132408F3",
+      "name": "セフメタゾールＮａ静注用１ｇ「ＮＰ」",
+      "generic_name": "セフメタゾールＮａ静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132408F4",
+      "name": "セフメタゾールＮａ静注用２ｇ「ＮＰ」",
+      "generic_name": "セフメタゾールＮａ静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132009C2",
+      "name": "トミロン細粒小児用２０％　２００ｍｇ",
+      "generic_name": "トミロン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132009F2",
+      "name": "トミロン錠１００　１００ｍｇ",
+      "generic_name": "トミロン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132009F1",
       "name": "トミロン錠５０　５０ｍｇ",
       "generic_name": "トミロン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132011",
+      "yj_code": "ALL_6132011R1",
+      "name": "バナンドライシロップ５％　５０ｍｇ",
+      "generic_name": "バナン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132011F1",
       "name": "バナン錠１００ｍｇ",
       "generic_name": "バナン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6113001",
-      "name": "バンコマイシン塩酸塩散０．５ｇ「サワイ」　５００ｍｇ",
-      "generic_name": "バンコマイシン塩酸塩",
+      "yj_code": "ALL_6132400E1",
+      "name": "パンスポリン筋注用０．２５ｇ　２５０ｍｇ（溶解液付）",
+      "generic_name": "パンスポリン筋",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6113400",
-      "name": "バンコマイシン塩酸塩点滴静注用０．５ｇ「サワイ」",
-      "generic_name": "バンコマイシン塩酸塩",
+      "yj_code": "ALL_6132400G4",
+      "name": "パンスポリン静注用１ｇバッグＧ　５％ブドウ糖注射液１００ｍＬ付",
+      "generic_name": "パンスポリン静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6113700",
-      "name": "バンコマイシン眼軟膏１％",
-      "generic_name": "バンコマイシン眼",
-      "category": "抗菌薬"
-    },
-    {
-      "yj_code": "ALL_6131002",
+      "yj_code": "ALL_6131002M1",
       "name": "ビクシリンカプセル２５０ｍｇ",
       "generic_name": "ビクシリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6131400",
+      "yj_code": "ALL_6131002R1",
+      "name": "ビクシリンドライシロップ１０％　１００ｍｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131400D1",
       "name": "ビクシリン注射用０．２５ｇ　２５０ｍｇ",
       "generic_name": "ビクシリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6131403",
+      "yj_code": "ALL_6131400D2",
+      "name": "ビクシリン注射用０．５ｇ　５００ｍｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131400D3",
+      "name": "ビクシリン注射用１ｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131400D4",
+      "name": "ビクシリン注射用２ｇ",
+      "generic_name": "ビクシリン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131403P1",
+      "name": "ピペラシリンナトリウム点滴静注バッグ１ｇＮＰ　生食１００ｍＬ付",
+      "generic_name": "ピペラシリンナトリウム",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131403P2",
+      "name": "ピペラシリンナトリウム点滴静注バッグ２ｇＮＰ　生食１００ｍＬ付",
+      "generic_name": "ピペラシリンナトリウム",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131403D1",
       "name": "ピペラシリンＮａ注射用１ｇ「ＮＩＧ」",
       "generic_name": "ピペラシリンＮａ",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0156",
+      "yj_code": "ALL_6131403D2",
+      "name": "ピペラシリンＮａ注射用２ｇ「ＮＩＧ」",
+      "generic_name": "ピペラシリンＮａ",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0149",
       "name": "ファロペネム",
       "generic_name": "ファロペネム",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132426",
+      "yj_code": "ALL_6132426F1",
       "name": "ファーストシン静注用０．５ｇ　５００ｍｇ",
       "generic_name": "ファーストシン静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6133401",
+      "yj_code": "ALL_6132426F2",
+      "name": "ファーストシン静注用１ｇ",
+      "generic_name": "ファーストシン静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6133401G1",
       "name": "フルマリンキット静注用１ｇ　（生理食塩液１００ｍＬ付）",
       "generic_name": "フルマリンキット静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6131004",
+      "yj_code": "ALL_6133401F1",
+      "name": "フルマリン静注用０．５ｇ　５００ｍｇ",
+      "generic_name": "フルマリン静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6133401F2",
+      "name": "フルマリン静注用１ｇ",
+      "generic_name": "フルマリン静",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6131004F2",
       "name": "ペングッド錠２５０ｍｇ",
       "generic_name": "ペングッド",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6132422",
+      "yj_code": "ALL_6132422D2",
       "name": "メイセリン静注用１ｇ",
       "generic_name": "メイセリン静",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6131008",
+      "yj_code": "ALL_6131008C1",
       "name": "ユナシン細粒小児用１０％　１００ｍｇ",
       "generic_name": "ユナシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0057",
+      "yj_code": "ALL_6131008F1",
+      "name": "ユナシン錠３７５ｍｇ",
+      "generic_name": "ユナシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "NAIKA_0053",
       "name": "レボフロキサシン",
       "generic_name": "レボフロキサシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6111400",
+      "yj_code": "ALL_6111400D3",
       "name": "注射用ペニシリンＧカリウム１００万単位",
       "generic_name": "",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6111400D2",
+      "name": "注射用ペニシリンＧカリウム２０万単位",
+      "generic_name": "",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6132005E1",
+      "name": "Ｌ－ケフラール顆粒　３７５ｍｇ",
+      "generic_name": "Ｌ－ケフラール",
       "category": "抗菌薬"
     },
     {

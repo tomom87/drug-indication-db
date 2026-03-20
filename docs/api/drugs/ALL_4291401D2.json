@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291401D2",
+    "name": "動注用アイエーコール５０ｍｇ",
+    "generic_name": "動",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "動注用アイエーコール５０ｍｇ",
+        "kana": "ﾄﾞｳﾁｭｳﾖｳｱｲｴｰｺｰﾙ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

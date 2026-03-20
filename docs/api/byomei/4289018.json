@@ -6,33 +6,33 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0179",
+      "yj_code": "NAIKA_0172",
       "name": "イバブラジン",
       "generic_name": "イバブラジン",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0180",
+      "yj_code": "NAIKA_0173",
       "name": "サクビトリル・バルサルタン",
       "generic_name": "サクビトリル・バルサルタン",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0171",
+      "yj_code": "NAIKA_0164",
       "name": "ジゴキシン",
       "generic_name": "ジゴキシン",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0017",
-      "name": "エンパグリフロジン",
-      "generic_name": "エンパグリフロジン",
+      "yj_code": "NAIKA_0236",
+      "name": "エンパグリフロジン10mg",
+      "generic_name": "エンパグリフロジン10mg",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0018",
-      "name": "ダパグリフロジン",
-      "generic_name": "ダパグリフロジン",
+      "yj_code": "NAIKA_0235",
+      "name": "ダパグリフロジン10mg",
+      "generic_name": "ダパグリフロジン10mg",
       "category": "糖尿病薬"
     },
     {
@@ -42,7 +42,7 @@
       "category": "降圧薬"
     },
     {
-      "yj_code": "NAIKA_0104",
+      "yj_code": "NAIKA_0098",
       "name": "エプレレノン",
       "generic_name": "エプレレノン",
       "category": "降圧薬"

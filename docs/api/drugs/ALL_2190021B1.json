@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190021B1",
+    "name": "サアミオン散１％",
+    "generic_name": "サアミオン",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "サアミオン散１％",
+        "kana": "ｻｱﾐｵﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": []
+}

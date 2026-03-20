@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2482009F2",
+    "name": "ルナベル配合錠ＵＬＤ",
+    "generic_name": "ルナベル配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ルナベル配合錠ＵＬＤ",
+        "kana": "ﾙﾅﾍﾞﾙﾊｲｺﾞｳｼﾞｮｳULD"
+      }
+    ]
+  },
+  "indications": []
+}

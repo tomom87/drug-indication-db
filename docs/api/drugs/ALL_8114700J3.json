@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114700J3",
+    "name": "アンペック坐剤３０ｍｇ",
+    "generic_name": "アンペック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アンペック坐剤３０ｍｇ",
+        "kana": "ｱﾝﾍﾟｯｸｻﾞｻﾞｲ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

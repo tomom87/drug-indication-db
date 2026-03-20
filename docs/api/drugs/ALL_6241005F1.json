@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6241005F1",
+    "name": "バクシダール錠１００ｍｇ",
+    "generic_name": "バクシダール",
+    "category": "抗ウイルス薬",
+    "brands": [
+      {
+        "name": "バクシダール錠１００ｍｇ",
+        "kana": "ﾊﾞｸｼﾀﾞｰﾙｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

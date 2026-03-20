@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3291001X1",
+    "name": "ブドウ酒",
+    "generic_name": "ブドウ酒",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ブドウ酒",
+        "kana": "ﾌﾞﾄﾞｳｼｭ"
+      }
+    ]
+  },
+  "indications": []
+}

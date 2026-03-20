@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7990101F1",
+    "name": "ビジクリア配合錠",
+    "generic_name": "ビジクリア配合",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビジクリア配合錠",
+        "kana": "ﾋﾞｼﾞｸﾘｱﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

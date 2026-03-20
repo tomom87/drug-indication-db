@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291402A1",
+    "name": "ノバントロン注２０ｍｇ　１０ｍＬ",
+    "generic_name": "ノバントロン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ノバントロン注２０ｍｇ　１０ｍＬ",
+        "kana": "ﾉﾊﾞﾝﾄﾛﾝﾁｭｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

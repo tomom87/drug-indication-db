@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699701M1",
+    "name": "オクソラレン軟膏０．３％",
+    "generic_name": "オクソラレン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "オクソラレン軟膏０．３％",
+        "kana": "ｵｸｿﾗﾚﾝﾅﾝｺｳ0.3%"
+      }
+    ]
+  },
+  "indications": []
+}

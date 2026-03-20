@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291059F1",
+    "name": "アーリーダ錠６０ｍｇ",
+    "generic_name": "アーリーダ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アーリーダ錠６０ｍｇ",
+        "kana": "ｱｰﾘｰﾀﾞｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

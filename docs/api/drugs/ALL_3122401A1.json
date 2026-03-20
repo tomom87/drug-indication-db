@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3122401A1",
+    "name": "アリナミンＦ５注　５ｍｇ",
+    "generic_name": "アリナミンＦ５",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アリナミンＦ５注　５ｍｇ",
+        "kana": "ｱﾘﾅﾐﾝF5ﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

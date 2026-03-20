@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0236",
+      "yj_code": "NAIKA_0228",
       "name": "ジフェニドール",
       "generic_name": "ジフェニドール",
       "category": "めまい薬"
     },
     {
-      "yj_code": "NAIKA_0095",
+      "yj_code": "NAIKA_0089",
       "name": "ベタヒスチン",
       "generic_name": "ベタヒスチン",
       "category": "めまい薬"
@@ -66,19 +66,19 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_1325701",
+      "yj_code": "ALL_1325701Q1",
       "name": "クロロマイセチン耳科用液０．５％　５ｍｇ",
       "generic_name": "クロロマイセチン耳科用",
       "category": "鎮暈薬"
     },
     {
-      "yj_code": "ALL_1325702",
+      "yj_code": "ALL_1325702Q1",
       "name": "ベストロン耳鼻科用１％　１０ｍｇ（溶解後の液として）",
       "generic_name": "ベストロン耳鼻科用",
       "category": "鎮暈薬"
     },
     {
-      "yj_code": "ALL_1325703",
+      "yj_code": "ALL_1325703Q1",
       "name": "ホスミシンＳ耳科用３％　３０ｍｇ（溶解後の液として）",
       "generic_name": "ホスミシンＳ耳科用",
       "category": "鎮暈薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100045X1",
+    "name": "ウチダのキジツＭ",
+    "generic_name": "ウチダのキジツＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのキジツＭ",
+        "kana": "ｳﾁﾀﾞﾉｷｼﾞﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

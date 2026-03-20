@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969021F1",
+    "name": "デベルザ錠２０ｍｇ",
+    "generic_name": "デベルザ",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "デベルザ錠２０ｍｇ",
+        "kana": "ﾃﾞﾍﾞﾙｻﾞｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

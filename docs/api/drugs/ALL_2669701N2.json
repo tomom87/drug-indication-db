@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2669701N2",
+    "name": "パスタロンクリーム２０％",
+    "generic_name": "パスタロン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "パスタロンクリーム２０％",
+        "kana": "ﾊﾟｽﾀﾛﾝｸﾘｰﾑ20%"
+      }
+    ]
+  },
+  "indications": []
+}

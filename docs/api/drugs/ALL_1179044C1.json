@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179044C1",
+    "name": "ジプレキサ細粒１％",
+    "generic_name": "ジプレキサ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ジプレキサ細粒１％",
+        "kana": "ｼﾞﾌﾟﾚｷｻｻｲﾘｭｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

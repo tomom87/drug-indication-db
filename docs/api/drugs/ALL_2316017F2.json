@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316017F2",
+    "name": "ビオスリー配合ＯＤ錠",
+    "generic_name": "ビオスリー配合ＯＤ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビオスリー配合ＯＤ錠",
+        "kana": "ﾋﾞｵｽﾘｰﾊｲｺﾞｳODｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

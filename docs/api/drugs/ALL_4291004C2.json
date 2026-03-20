@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291004C2",
+    "name": "ペラゾリン細粒８００ｍｇ",
+    "generic_name": "ペラゾリン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ペラゾリン細粒８００ｍｇ",
+        "kana": "ﾍﾟﾗｿﾞﾘﾝｻｲﾘｭｳ800MG"
+      }
+    ]
+  },
+  "indications": []
+}

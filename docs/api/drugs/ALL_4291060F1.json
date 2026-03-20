@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291060F1",
+    "name": "ヴァンフリタ錠１７．７ｍｇ",
+    "generic_name": "ヴァンフリタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ヴァンフリタ錠１７．７ｍｇ",
+        "kana": "ｳﾞｧﾝﾌﾘﾀｼﾞｮｳ17.7MG"
+      }
+    ]
+  },
+  "indications": []
+}

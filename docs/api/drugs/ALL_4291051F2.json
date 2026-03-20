@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291051F2",
+    "name": "イブランス錠１２５ｍｇ",
+    "generic_name": "イブランス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "イブランス錠１２５ｍｇ",
+        "kana": "ｲﾌﾞﾗﾝｽｼﾞｮｳ125MG"
+      }
+    ]
+  },
+  "indications": []
+}

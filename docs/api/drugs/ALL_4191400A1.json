@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4191400A1",
+    "name": "ロイコン注射液２０ｍｇ　１％２ｍＬ",
+    "generic_name": "ロイコン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロイコン注射液２０ｍｇ　１％２ｍＬ",
+        "kana": "ﾛｲｺﾝﾁｭｳｼｬｴｷ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

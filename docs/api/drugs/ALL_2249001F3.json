@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2249001F3",
+    "name": "レスプレン錠３０ｍｇ",
+    "generic_name": "レスプレン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レスプレン錠３０ｍｇ",
+        "kana": "ﾚｽﾌﾟﾚﾝｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

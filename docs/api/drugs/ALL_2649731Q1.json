@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649731Q1",
+    "name": "ナパゲルンローション３％",
+    "generic_name": "ナパ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ナパゲルンローション３％",
+        "kana": "ﾅﾊﾟｹﾞﾙﾝﾛｰｼｮﾝ3%"
+      }
+    ]
+  },
+  "indications": []
+}

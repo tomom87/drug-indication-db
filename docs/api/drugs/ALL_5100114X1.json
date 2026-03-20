@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100114X1",
+    "name": "花扇センタイＫ",
+    "generic_name": "花扇センタイＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇センタイＫ",
+        "kana": "ﾊﾅｵｳｷﾞｾﾝﾀｲK"
+      }
+    ]
+  },
+  "indications": []
+}

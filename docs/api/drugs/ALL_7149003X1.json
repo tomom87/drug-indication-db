@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7149003X1",
+    "name": "ハチミツ",
+    "generic_name": "ハチミツ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハチミツ",
+        "kana": "ﾊﾁﾐﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

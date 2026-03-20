@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291083F3",
+    "name": "オムジャラ錠２００ｍｇ",
+    "generic_name": "オムジャラ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "オムジャラ錠２００ｍｇ",
+        "kana": "ｵﾑｼﾞｬﾗｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2612701Q3",
+    "name": "イソジン液１０％",
+    "generic_name": "イソジン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "イソジン液１０％",
+        "kana": "ｲｿｼﾞﾝｴｷ10%"
+      }
+    ]
+  },
+  "indications": []
+}

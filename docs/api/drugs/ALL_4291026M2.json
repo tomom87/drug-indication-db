@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291026M2",
+    "name": "ザーコリカプセル２５０ｍｇ",
+    "generic_name": "ザーコリ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ザーコリカプセル２５０ｍｇ",
+        "kana": "ｻﾞｰｺﾘｶﾌﾟｾﾙ250MG"
+      }
+    ]
+  },
+  "indications": []
+}

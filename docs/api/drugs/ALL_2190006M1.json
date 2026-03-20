@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190006M1",
+    "name": "ユベラＮカプセル１００ｍｇ",
+    "generic_name": "ユベラＮ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ユベラＮカプセル１００ｍｇ",
+        "kana": "ﾕﾍﾞﾗNｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

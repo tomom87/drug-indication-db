@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100111A1",
+    "name": "ウチダのセンキュウ末Ｍ",
+    "generic_name": "ウチダのセンキュウ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのセンキュウ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｾﾝｷｭｳﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

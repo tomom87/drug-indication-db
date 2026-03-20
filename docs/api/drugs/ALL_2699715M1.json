@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699715M1",
+    "name": "モイゼルト軟膏０．３％",
+    "generic_name": "モイゼルト",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "モイゼルト軟膏０．３％",
+        "kana": "ﾓｲｾﾞﾙﾄﾅﾝｺｳ0.3%"
+      }
+    ]
+  },
+  "indications": []
+}

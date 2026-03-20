@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100136X1",
+    "name": "ウチダのトウガラシＭ",
+    "generic_name": "ウチダのトウガラシＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのトウガラシＭ",
+        "kana": "ｳﾁﾀﾞﾉﾄｳｶﾞﾗｼM"
+      }
+    ]
+  },
+  "indications": []
+}

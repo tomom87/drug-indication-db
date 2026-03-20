@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6424001X1",
+    "name": "サントニン",
+    "generic_name": "サントニン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サントニン",
+        "kana": "ｻﾝﾄﾆﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

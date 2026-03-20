@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490019F1",
+    "name": "エバスチン錠５ｍｇ「ＮＳ」",
+    "generic_name": "エバスチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エバスチン錠５ｍｇ「ＮＳ」",
+        "kana": "ｴﾊﾞｽﾁﾝｼﾞｮｳ5MGNS"
+      }
+    ]
+  },
+  "indications": []
+}

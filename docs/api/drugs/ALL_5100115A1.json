@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100115A1",
+    "name": "ウチダのセンナ末Ｍ",
+    "generic_name": "ウチダのセンナ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのセンナ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｾﾝﾅﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

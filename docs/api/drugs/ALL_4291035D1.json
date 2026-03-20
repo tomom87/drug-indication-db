@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291035D1",
+    "name": "ラパリムス顆粒０．２％",
+    "generic_name": "ラパリムス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ラパリムス顆粒０．２％",
+        "kana": "ﾗﾊﾟﾘﾑｽｶﾘｭｳ0.2%"
+      }
+    ]
+  },
+  "indications": []
+}

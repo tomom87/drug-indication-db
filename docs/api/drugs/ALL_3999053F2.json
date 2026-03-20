@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999053F2",
+    "name": "ジセレカ錠２００ｍｇ",
+    "generic_name": "ジセレカ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "ジセレカ錠２００ｍｇ",
+        "kana": "ｼﾞｾﾚｶｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121708X1",
+    "name": "ダイズ油",
+    "generic_name": "ダイズ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ダイズ油",
+        "kana": "ﾀﾞｲｽﾞﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3327002Q1",
+    "name": "トランサミンシロップ５％",
+    "generic_name": "トランサミン",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "トランサミンシロップ５％",
+        "kana": "ﾄﾗﾝｻﾐﾝｼﾛｯﾌﾟ5%"
+      }
+    ]
+  },
+  "indications": []
+}

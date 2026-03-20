@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190048F1",
+    "name": "ビヨントラ錠４００ｍｇ",
+    "generic_name": "ビヨントラ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ビヨントラ錠４００ｍｇ",
+        "kana": "ﾋﾞﾖﾝﾄﾗｼﾞｮｳ400MG"
+      }
+    ]
+  },
+  "indications": []
+}

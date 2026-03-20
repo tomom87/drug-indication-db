@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490010N1",
+    "name": "ケタスカプセル１０ｍｇ",
+    "generic_name": "ケタス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ケタスカプセル１０ｍｇ",
+        "kana": "ｹﾀｽｶﾌﾟｾﾙ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

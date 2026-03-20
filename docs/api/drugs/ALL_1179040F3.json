@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179040F3",
+    "name": "トレドミン錠１２．５ｍｇ",
+    "generic_name": "トレドミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "トレドミン錠１２．５ｍｇ",
+        "kana": "ﾄﾚﾄﾞﾐﾝｼﾞｮｳ12.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

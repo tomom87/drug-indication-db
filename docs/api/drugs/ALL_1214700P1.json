@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1214700P1",
+    "name": "キシロカインゼリー２％",
+    "generic_name": "キシロカインゼリー",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キシロカインゼリー２％",
+        "kana": "ｷｼﾛｶｲﾝｾﾞﾘｰ2%"
+      }
+    ]
+  },
+  "indications": []
+}

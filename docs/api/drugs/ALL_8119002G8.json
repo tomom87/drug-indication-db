@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119002G8",
+    "name": "オキシコンチンＴＲ錠４０ｍｇ",
+    "generic_name": "オキシコンチンＴＲ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オキシコンチンＴＲ錠４０ｍｇ",
+        "kana": "ｵｷｼｺﾝﾁﾝTRｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

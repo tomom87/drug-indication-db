@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291011F1",
+    "name": "グリベック錠１００ｍｇ",
+    "generic_name": "グリベック",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "グリベック錠１００ｍｇ",
+        "kana": "ｸﾞﾘﾍﾞｯｸｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

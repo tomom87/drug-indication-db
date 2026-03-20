@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179050M4",
+    "name": "ストラテラカプセル４０ｍｇ",
+    "generic_name": "ストラテラ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ストラテラカプセル４０ｍｇ",
+        "kana": "ｽﾄﾗﾃﾗｶﾌﾟｾﾙ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

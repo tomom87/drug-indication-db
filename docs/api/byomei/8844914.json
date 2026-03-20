@@ -6,37 +6,37 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0176",
+      "yj_code": "NAIKA_0169",
       "name": "ジルチアゼム",
       "generic_name": "ジルチアゼム",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0174",
+      "yj_code": "NAIKA_0167",
       "name": "ピルシカイニド",
       "generic_name": "ピルシカイニド",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0173",
+      "yj_code": "NAIKA_0166",
       "name": "フレカイニド",
       "generic_name": "フレカイニド",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0175",
+      "yj_code": "NAIKA_0168",
       "name": "ベラパミル",
       "generic_name": "ベラパミル",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0101",
+      "yj_code": "NAIKA_0095",
       "name": "アテノロール",
       "generic_name": "アテノロール",
       "category": "降圧薬"
     },
     {
-      "yj_code": "NAIKA_0102",
+      "yj_code": "NAIKA_0096",
       "name": "メトプロロール",
       "generic_name": "メトプロロール",
       "category": "降圧薬"

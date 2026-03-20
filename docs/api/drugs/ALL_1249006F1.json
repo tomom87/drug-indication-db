@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249006F1",
+    "name": "ギャバロン錠５ｍｇ",
+    "generic_name": "ギャバロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ギャバロン錠５ｍｇ",
+        "kana": "ｷﾞｬﾊﾞﾛﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

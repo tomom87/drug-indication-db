@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2333001X1",
+    "name": "苦味チンキ",
+    "generic_name": "苦味チンキ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "苦味チンキ",
+        "kana": "ｸﾐﾁﾝｷ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100101X1",
+    "name": "ウチダのシュクシャＭ",
+    "generic_name": "ウチダのシュクシャＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのシュクシャＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｭｸｼｬM"
+      }
+    ]
+  },
+  "indications": []
+}

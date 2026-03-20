@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100192X1",
+    "name": "チャヨウ",
+    "generic_name": "チャヨウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "チャヨウ",
+        "kana": "ﾁｬﾖｳ"
+      }
+    ]
+  },
+  "indications": []
+}

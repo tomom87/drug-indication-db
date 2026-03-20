@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6419001F1",
+    "name": "チニダゾール錠２００ｍｇ「Ｆ」",
+    "generic_name": "チニダゾール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "チニダゾール錠２００ｍｇ「Ｆ」",
+        "kana": "ﾁﾆﾀﾞｿﾞｰﾙｼﾞｮｳ200MGF"
+      }
+    ]
+  },
+  "indications": []
+}

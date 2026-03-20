@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4229401D1",
+    "name": "アリムタ注射用５００ｍｇ",
+    "generic_name": "アリムタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アリムタ注射用５００ｍｇ",
+        "kana": "ｱﾘﾑﾀﾁｭｳｼｬﾖｳ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

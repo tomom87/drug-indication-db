@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100013X1",
+    "name": "ウチダのウワウルシＭ",
+    "generic_name": "ウチダのウワウルシＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのウワウルシＭ",
+        "kana": "ｳﾁﾀﾞﾉｳﾜｳﾙｼM"
+      }
+    ]
+  },
+  "indications": []
+}

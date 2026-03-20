@@ -6,37 +6,43 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0118",
+      "yj_code": "NAIKA_0111",
       "name": "イプラグリフロジン",
       "generic_name": "イプラグリフロジン",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0125",
+      "yj_code": "NAIKA_0118",
       "name": "インスリンアスパルト",
       "generic_name": "インスリンアスパルト",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0025",
+      "yj_code": "NAIKA_0021",
       "name": "インスリングラルギン",
       "generic_name": "インスリングラルギン",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0126",
+      "yj_code": "NAIKA_0119",
       "name": "インスリンデグルデク",
       "generic_name": "インスリンデグルデク",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0018",
-      "name": "ダパグリフロジン",
-      "generic_name": "ダパグリフロジン",
+      "yj_code": "NAIKA_0235",
+      "name": "ダパグリフロジン10mg",
+      "generic_name": "ダパグリフロジン10mg",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0099",
+      "yj_code": "NAIKA_0234",
+      "name": "ダパグリフロジン5mg",
+      "generic_name": "ダパグリフロジン5mg",
+      "category": "糖尿病薬"
+    },
+    {
+      "yj_code": "NAIKA_0093",
       "name": "イミダプリル",
       "generic_name": "イミダプリル",
       "category": "降圧薬"

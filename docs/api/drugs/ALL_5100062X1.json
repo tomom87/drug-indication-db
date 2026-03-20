@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100062X1",
+    "name": "ウチダのコウカＭ",
+    "generic_name": "ウチダのコウカＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのコウカＭ",
+        "kana": "ｳﾁﾀﾞﾉｺｳｶM"
+      }
+    ]
+  },
+  "indications": []
+}

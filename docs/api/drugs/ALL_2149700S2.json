@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149700S2",
+    "name": "ビソノテープ８ｍｇ",
+    "generic_name": "ビソノ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ビソノテープ８ｍｇ",
+        "kana": "ﾋﾞｿﾉﾃｰﾌﾟ8MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

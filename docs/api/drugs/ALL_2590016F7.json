@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590016F7",
+    "name": "シアリス錠２０ｍｇ",
+    "generic_name": "シアリス",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "シアリス錠２０ｍｇ",
+        "kana": "ｼｱﾘｽｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

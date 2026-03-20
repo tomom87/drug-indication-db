@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179023F3",
+    "name": "ベタナミン錠５０ｍｇ",
+    "generic_name": "ベタナミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ベタナミン錠５０ｍｇ",
+        "kana": "ﾍﾞﾀﾅﾐﾝｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

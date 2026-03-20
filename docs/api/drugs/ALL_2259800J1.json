@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2259800J1",
+    "name": "アニスーマ坐剤",
+    "generic_name": "アニスーマ",
+    "category": "気管支拡張薬",
+    "brands": [
+      {
+        "name": "アニスーマ坐剤",
+        "kana": "ｱﾆｽｰﾏｻﾞｻﾞｲ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4939008",
+      "name": "気管支喘息",
+      "kana": "8",
+      "icd10": "J459"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999042F1",
+    "name": "オテズラ錠１０ｍｇ",
+    "generic_name": "オテズラ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "オテズラ錠１０ｍｇ",
+        "kana": "ｵﾃｽﾞﾗｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

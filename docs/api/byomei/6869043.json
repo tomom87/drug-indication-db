@@ -6,187 +6,415 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0063",
+      "yj_code": "NAIKA_0059",
       "name": "プレドニゾロン",
       "generic_name": "プレドニゾロン",
       "category": "ステロイド"
     },
     {
-      "yj_code": "ALL_2645701",
+      "yj_code": "ALL_2645701X1",
       "name": "「純生」ｄｌ－カンフル",
       "generic_name": "「純生」ｄｌ－カンフル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646727",
+      "yj_code": "ALL_2646727M1",
       "name": "アルクロメタゾンプロピオン酸エステル軟膏０．１％「イワキ」",
       "generic_name": "アルクロメタゾンプロピオン酸エステル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646730",
+      "yj_code": "ALL_2646730N1",
       "name": "アンテベートクリーム０．０５％",
       "generic_name": "アンテベート",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2643700",
+      "yj_code": "ALL_2646730M1",
+      "name": "アンテベート軟膏０．０５％",
+      "generic_name": "アンテベート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2643700X1",
       "name": "アンモニア水「ケンエー」",
       "generic_name": "アンモニア水「ケンエー」",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646729",
+      "yj_code": "ALL_2646729N1",
       "name": "エクラークリーム０．３％",
       "generic_name": "エクラー",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646704",
+      "yj_code": "ALL_2646729S2",
+      "name": "エクラープラスター２０μｇ／ｃｍ２　１．５ｍｇ７．５×１０ｃｍ",
+      "generic_name": "エクラープラスター２０μｇ／ｃｍ２",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646729Q1",
+      "name": "エクラーローション０．３％",
+      "generic_name": "エクラーローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646729M1",
+      "name": "エクラー軟膏０．３％",
+      "generic_name": "エクラー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646704N2",
       "name": "オイラゾンクリーム０．０５％",
       "generic_name": "オイラゾン",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646722",
+      "yj_code": "ALL_2646704N1",
+      "name": "オイラゾンクリーム０．１％",
+      "generic_name": "オイラゾン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646722M1",
       "name": "キンダベート軟膏０．０５％",
       "generic_name": "キンダベート",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2641700",
+      "yj_code": "ALL_2646722N1",
+      "name": "クロベタゾン酪酸エステルクリーム０．０５％「イワキ」",
+      "generic_name": "クロベタゾン酪酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646722Q1",
+      "name": "クロベタゾン酪酸エステルローション０．０５％「イワキ」",
+      "generic_name": "クロベタゾン酪酸エステルローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646713Q2",
+      "name": "コムクロシャンプー０．０５％",
+      "generic_name": "コムクロシャンプー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2641700X1",
       "name": "サリチル酸メチル",
       "generic_name": "サリチル酸メチル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2642701",
+      "yj_code": "ALL_2642701X1",
       "name": "ジフェンヒドラミン　５ｇ",
       "generic_name": "ジフェンヒドラミン　５ｇ",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646723",
+      "yj_code": "ALL_2646725Q1",
+      "name": "ジフルプレドナートローション０．０５％「イワキ」",
+      "generic_name": "ジフルプレドナートローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646723N1",
+      "name": "ダイアコートクリーム０．０５％",
+      "generic_name": "ダイアコート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646723M1",
       "name": "ダイアコート軟膏０．０５％",
       "generic_name": "ダイアコート",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646700",
+      "yj_code": "ALL_2646700N1",
+      "name": "テクスメテン　ユニバーサル　クリーム０．１％",
+      "generic_name": "テクスメテン　ユニバーサル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646700M1",
       "name": "テクスメテン軟膏０．１％",
       "generic_name": "テクスメテン",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646703",
+      "yj_code": "ALL_2646704Q1",
+      "name": "デキサメタゾンローション０．１％「イワキ」",
+      "generic_name": "デキサメタゾンローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646704M2",
+      "name": "デキサメタゾン軟膏０．１％「イワキ」",
+      "generic_name": "デキサメタゾン",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646703N1",
       "name": "デルモゾールＤＰクリーム０．０６４％",
       "generic_name": "デルモゾールＤＰ",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646713",
+      "yj_code": "ALL_2646703Q2",
+      "name": "デルモゾールＤＰローション０．０６４％",
+      "generic_name": "デルモゾールＤＰローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646703M1",
+      "name": "デルモゾールＤＰ軟膏０．０６４％",
+      "generic_name": "デルモゾールＤＰ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646713N1",
       "name": "デルモベートクリーム０．０５％",
       "generic_name": "デルモベート",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646708",
+      "yj_code": "ALL_2646713Q1",
+      "name": "デルモベートスカルプローション０．０５％",
+      "generic_name": "デルモベートスカルプローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646713M1",
+      "name": "デルモベート軟膏０．０５％",
+      "generic_name": "デルモベート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646708R2",
+      "name": "トプシムスプレー０．０１４３％",
+      "generic_name": "トプシムスプレー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646708Q1",
+      "name": "トプシムローション０．０５％",
+      "generic_name": "トプシムローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646708M1",
+      "name": "トプシム軟膏０．０５％",
+      "generic_name": "トプシム",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646708N1",
       "name": "トプシムＥクリーム０．０５％",
       "generic_name": "トプシムＥ",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646705",
+      "yj_code": "ALL_2646705N1",
+      "name": "トリアムシノロンアセトニドクリーム０．１％「ＴＫ」",
+      "generic_name": "トリアムシノロンアセトニド",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646705M1",
       "name": "ノギロン軟膏０．１％",
       "generic_name": "ノギロン",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646721",
+      "yj_code": "ALL_2646721N1",
       "name": "パンデルクリーム０．１％",
       "generic_name": "パンデル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646718",
+      "yj_code": "ALL_2646721Q1",
+      "name": "パンデルローション０．１％",
+      "generic_name": "パンデルローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646721M1",
+      "name": "パンデル軟膏０．１％",
+      "generic_name": "パンデル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646718N1",
       "name": "ビスダームクリーム０．１％",
       "generic_name": "ビスダーム",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646709",
+      "yj_code": "ALL_2646718M1",
+      "name": "ビスダーム軟膏０．１％",
+      "generic_name": "ビスダーム",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646709N1",
+      "name": "フルコートクリーム０．０２５％",
+      "generic_name": "フルコート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646709R2",
+      "name": "フルコートスプレー０．００７％",
+      "generic_name": "フルコートスプレー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646709Q1",
       "name": "フルコート外用液０．０１％",
       "generic_name": "フルコート外用",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646701",
+      "yj_code": "ALL_2646709M1",
+      "name": "フルコート軟膏０．０２５％",
+      "generic_name": "フルコート",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646701N2",
+      "name": "ベタメタゾン吉草酸エステルクリーム０．１２％「ＴＣＫ」",
+      "generic_name": "ベタメタゾン吉草酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646701Q1",
+      "name": "ベタメタゾン吉草酸エステルローション０．１２％「イワキ」",
+      "generic_name": "ベタメタゾン吉草酸エステルローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646701M2",
       "name": "ベタメタゾン吉草酸エステル軟膏０．１２％「イワキ」",
       "generic_name": "ベタメタゾン吉草酸エステル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646724",
+      "yj_code": "ALL_2646730Q1",
+      "name": "ベタメタゾン酪酸エステルプロピオン酸ローション０．０５％ＭＹＫ",
+      "generic_name": "ベタメタゾン酪酸エステルプロピオン酸ローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646724N1",
       "name": "ボアラクリーム０．１２％",
       "generic_name": "ボアラ",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646725",
+      "yj_code": "ALL_2646724M1",
+      "name": "ボアラ軟膏０．１２％",
+      "generic_name": "ボアラ",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646725N1",
+      "name": "マイザークリーム０．０５％",
+      "generic_name": "マイザー",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646725M1",
       "name": "マイザー軟膏０．０５％",
       "generic_name": "マイザー",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646726",
+      "yj_code": "ALL_2646726N1",
       "name": "メサデルムクリーム０．１％",
       "generic_name": "メサデルム",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646731",
+      "yj_code": "ALL_2646726Q1",
+      "name": "メサデルムローション０．１％",
+      "generic_name": "メサデルムローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646726M1",
+      "name": "メサデルム軟膏０．１％",
+      "generic_name": "メサデルム",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646731N1",
       "name": "モメタゾンフランカルボン酸エステルクリーム０．１％「イワキ」",
       "generic_name": "モメタゾンフランカルボン酸エステル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2642702",
+      "yj_code": "ALL_2646731Q1",
+      "name": "モメタゾンフランカルボン酸エステルローション０．１％「イワキ」",
+      "generic_name": "モメタゾンフランカルボン酸エステルローション",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646731M1",
+      "name": "モメタゾンフランカルボン酸エステル軟膏０．１％「イワキ」",
+      "generic_name": "モメタゾンフランカルボン酸エステル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2646703Q1",
+      "name": "リンデロン－ＤＰゾル　０．０６４％",
+      "generic_name": "リンデロン－ＤＰゾル",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2642702N1",
       "name": "レスタミンコーワクリーム１％",
       "generic_name": "レスタミンコーワ",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2646717",
+      "yj_code": "ALL_2646717N1",
       "name": "ロコイドクリーム０．１％",
       "generic_name": "ロコイド",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2645702",
+      "yj_code": "ALL_2646717M1",
+      "name": "ロコイド軟膏０．１％",
+      "generic_name": "ロコイド",
+      "category": "外用ステロイド"
+    },
+    {
+      "yj_code": "ALL_2645702X1",
       "name": "ｄ－カンフル",
       "generic_name": "ｄ－カンフル",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "ALL_2645700",
+      "yj_code": "ALL_2645700Q1",
       "name": "ｄｌ－カンフル精１０％「コザカイ」",
       "generic_name": "ｄｌ－カンフル精",
       "category": "外用ステロイド"
     },
     {
-      "yj_code": "NAIKA_0062",
+      "yj_code": "NAIKA_0058",
       "name": "エピナスチン",
       "generic_name": "エピナスチン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0059",
+      "yj_code": "NAIKA_0055",
       "name": "フェキソフェナジン",
       "generic_name": "フェキソフェナジン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0060",
+      "yj_code": "NAIKA_0056",
       "name": "ロラタジン",
       "generic_name": "ロラタジン",
       "category": "抗アレルギー薬"

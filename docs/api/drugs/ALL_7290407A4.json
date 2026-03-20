@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290407A4",
+    "name": "プロハンス静注１０ｍＬ",
+    "generic_name": "プロハンス静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロハンス静注１０ｍＬ",
+        "kana": "ﾌﾟﾛﾊﾝｽｼﾞｮｳﾁｭｳ10ML"
+      }
+    ]
+  },
+  "indications": []
+}

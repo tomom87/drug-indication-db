@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1219800S1",
+    "name": "エムラパッチ",
+    "generic_name": "エムラパッチ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エムラパッチ",
+        "kana": "ｴﾑﾗﾊﾟｯﾁ"
+      }
+    ]
+  },
+  "indications": []
+}

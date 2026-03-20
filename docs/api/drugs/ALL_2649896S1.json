@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649896S1",
+    "name": "ロコアテープ　１０ｃｍ×１４ｃｍ",
+    "generic_name": "ロコア",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ロコアテープ　１０ｃｍ×１４ｃｍ",
+        "kana": "ﾛｺｱﾃｰﾌﾟ"
+      }
+    ]
+  },
+  "indications": []
+}

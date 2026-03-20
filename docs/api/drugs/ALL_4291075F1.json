@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291075F1",
+    "name": "レットヴィモ錠４０ｍｇ",
+    "generic_name": "レットヴィモ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "レットヴィモ錠４０ｍｇ",
+        "kana": "ﾚｯﾄｳﾞｨﾓｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

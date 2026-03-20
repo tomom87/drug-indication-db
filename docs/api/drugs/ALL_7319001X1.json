@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7319001X1",
+    "name": "安息香酸",
+    "generic_name": "安息香酸",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "安息香酸",
+        "kana": "ｱﾝｿｸｺｳｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

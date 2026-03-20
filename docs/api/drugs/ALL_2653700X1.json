@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2653700X1",
+    "name": "チアントール",
+    "generic_name": "チアントール",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "チアントール",
+        "kana": "ﾁｱﾝﾄｰﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

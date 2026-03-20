@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699704M1",
+    "name": "ヨードコート軟膏０．９％",
+    "generic_name": "ヨードコート",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ヨードコート軟膏０．９％",
+        "kana": "ﾖｰﾄﾞｺｰﾄﾅﾝｺｳ0.9%"
+      }
+    ]
+  },
+  "indications": []
+}

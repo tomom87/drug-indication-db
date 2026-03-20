@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190034F3",
+    "name": "アデムパス錠２．５ｍｇ",
+    "generic_name": "アデムパス",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "アデムパス錠２．５ｍｇ",
+        "kana": "ｱﾃﾞﾑﾊﾟｽｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3160002Q1",
+    "name": "ケイツーシロップ０．２％",
+    "generic_name": "ケイツー",
+    "category": "ビタミンE薬",
+    "brands": [
+      {
+        "name": "ケイツーシロップ０．２％",
+        "kana": "ｹｲﾂｰｼﾛｯﾌﾟ0.2%"
+      }
+    ]
+  },
+  "indications": []
+}

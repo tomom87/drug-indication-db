@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249007F2",
+    "name": "コスパノン錠８０ｍｇ",
+    "generic_name": "コスパノン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "コスパノン錠８０ｍｇ",
+        "kana": "ｺｽﾊﾟﾉﾝｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

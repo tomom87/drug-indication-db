@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190033F2",
+    "name": "クービビック錠５０ｍｇ",
+    "generic_name": "クービビック",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "クービビック錠５０ｍｇ",
+        "kana": "ｸｰﾋﾞﾋﾞｯｸｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

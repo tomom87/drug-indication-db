@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1149036F1",
+    "name": "ロルカム錠２ｍｇ",
+    "generic_name": "ロルカム",
+    "category": "抗てんかん薬",
+    "brands": [
+      {
+        "name": "ロルカム錠２ｍｇ",
+        "kana": "ﾛﾙｶﾑｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3459001",
+      "name": "てんかん",
+      "kana": "4",
+      "icd10": "G409"
+    }
+  ]
+}

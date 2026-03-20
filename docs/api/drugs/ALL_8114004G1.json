@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114004G1",
+    "name": "ＭＳコンチン錠１０ｍｇ",
+    "generic_name": "ＭＳコンチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ＭＳコンチン錠１０ｍｇ",
+        "kana": "MSｺﾝﾁﾝｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

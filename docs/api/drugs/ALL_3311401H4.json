@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3311401H4",
+    "name": "生食液バッグ１００ｍＬ「ＣＭＸ」",
+    "generic_name": "生食",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "生食液バッグ１００ｍＬ「ＣＭＸ」",
+        "kana": "ｾｲｼｮｸｴｷﾊﾞｯｸﾞ100MLCMX"
+      }
+    ]
+  },
+  "indications": []
+}

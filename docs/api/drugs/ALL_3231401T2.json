@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231401T2",
+    "name": "光糖液３０％　５００ｍＬ",
+    "generic_name": "光糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "光糖液３０％　５００ｍＬ",
+        "kana": "ﾋｶﾘﾄｳｴｷ30%"
+      }
+    ]
+  },
+  "indications": []
+}

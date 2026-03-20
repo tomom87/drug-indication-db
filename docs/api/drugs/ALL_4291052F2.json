@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291052F2",
+    "name": "リムパーザ錠１５０ｍｇ",
+    "generic_name": "リムパーザ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "リムパーザ錠１５０ｍｇ",
+        "kana": "ﾘﾑﾊﾟｰｻﾞｼﾞｮｳ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

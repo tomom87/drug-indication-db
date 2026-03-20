@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291091F1",
+    "name": "ラズクルーズ錠８０ｍｇ",
+    "generic_name": "ラズクルーズ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ラズクルーズ錠８０ｍｇ",
+        "kana": "ﾗｽﾞｸﾙｰｽﾞｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

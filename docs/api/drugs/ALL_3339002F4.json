@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339002F4",
+    "name": "リクシアナＯＤ錠１５ｍｇ",
+    "generic_name": "リクシアナＯＤ",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "リクシアナＯＤ錠１５ｍｇ",
+        "kana": "ﾘｸｼｱﾅODｼﾞｮｳ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

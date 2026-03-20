@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649801M1",
+    "name": "グリメサゾン軟膏",
+    "generic_name": "グリメサゾン",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "グリメサゾン軟膏",
+        "kana": "ｸﾞﾘﾒｻｿﾞﾝﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

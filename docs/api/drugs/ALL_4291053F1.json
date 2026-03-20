@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291053F1",
+    "name": "ゾスパタ錠４０ｍｇ",
+    "generic_name": "ゾスパタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ゾスパタ錠４０ｍｇ",
+        "kana": "ｿﾞｽﾊﾟﾀｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

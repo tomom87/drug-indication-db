@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999051F2",
+    "name": "メーゼント錠２ｍｇ",
+    "generic_name": "メーゼント",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "メーゼント錠２ｍｇ",
+        "kana": "ﾒｰｾﾞﾝﾄｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

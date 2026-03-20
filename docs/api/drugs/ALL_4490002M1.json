@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490002M1",
+    "name": "リザベンカプセル１００ｍｇ",
+    "generic_name": "リザベン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リザベンカプセル１００ｍｇ",
+        "kana": "ﾘｻﾞﾍﾞﾝｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

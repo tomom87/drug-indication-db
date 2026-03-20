@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179001C1",
+    "name": "アモキサン細粒１０％",
+    "generic_name": "アモキサン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "アモキサン細粒１０％",
+        "kana": "ｱﾓｷｻﾝｻｲﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

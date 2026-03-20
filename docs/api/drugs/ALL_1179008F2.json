@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179008F2",
+    "name": "ルジオミール錠２５ｍｇ",
+    "generic_name": "ルジオミール",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ルジオミール錠２５ｍｇ",
+        "kana": "ﾙｼﾞｵﾐｰﾙｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

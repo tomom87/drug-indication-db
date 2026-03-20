@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3179515F1",
+    "name": "ダイメジン・マルチ注",
+    "generic_name": "ダイメジン・マルチ",
+    "category": "混合ビタミン薬",
+    "brands": [
+      {
+        "name": "ダイメジン・マルチ注",
+        "kana": "ﾀﾞｲﾒｼﾞﾝﾏﾙﾁﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300411A2",
+    "name": "テクネＭＡＡキット",
+    "generic_name": "テクネＭＡＡキット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＭＡＡキット",
+        "kana": "ﾃｸﾈMAAｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

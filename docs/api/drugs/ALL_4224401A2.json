@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4224401A2",
+    "name": "キロサイド注４０ｍｇ",
+    "generic_name": "キロサイド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キロサイド注４０ｍｇ",
+        "kana": "ｷﾛｻｲﾄﾞﾁｭｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

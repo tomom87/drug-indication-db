@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590100X1",
+    "name": "エルサメット配合錠",
+    "generic_name": "エルサメット配合",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "エルサメット配合錠",
+        "kana": "ｴﾙｻﾒｯﾄﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100142X1",
+    "name": "トコン",
+    "generic_name": "トコン",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トコン",
+        "kana": "ﾄｺﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

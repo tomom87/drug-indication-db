@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1231004B1",
+    "name": "ベサコリン散５％",
+    "generic_name": "ベサコリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ベサコリン散５％",
+        "kana": "ﾍﾞｻｺﾘﾝｻﾝ5%"
+      }
+    ]
+  },
+  "indications": []
+}

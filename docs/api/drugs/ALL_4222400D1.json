@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4222400D1",
+    "name": "注射用メソトレキセート５ｍｇ",
+    "generic_name": "",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "注射用メソトレキセート５ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳﾒｿﾄﾚｷｾｰﾄ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

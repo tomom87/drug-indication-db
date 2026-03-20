@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3922400D1",
+    "name": "タチオン注射用１００ｍｇ",
+    "generic_name": "タチオン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "タチオン注射用１００ｍｇ",
+        "kana": "ﾀﾁｵﾝﾁｭｳｼｬﾖｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

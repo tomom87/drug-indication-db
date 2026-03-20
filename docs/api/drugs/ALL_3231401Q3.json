@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231401Q3",
+    "name": "テルモ糖注５％　５００ｍＬ",
+    "generic_name": "テルモ糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "テルモ糖注５％　５００ｍＬ",
+        "kana": "ﾃﾙﾓﾄｳﾁｭｳ5%"
+      }
+    ]
+  },
+  "indications": []
+}

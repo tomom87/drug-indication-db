@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291067F2",
+    "name": "タブレクタ錠２００ｍｇ",
+    "generic_name": "タブレクタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タブレクタ錠２００ｍｇ",
+        "kana": "ﾀﾌﾞﾚｸﾀｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

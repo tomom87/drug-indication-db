@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100044X1",
+    "name": "ウチダのキササゲＭ",
+    "generic_name": "ウチダのキササゲＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのキササゲＭ",
+        "kana": "ｳﾁﾀﾞﾉｷｻｻｹﾞM"
+      }
+    ]
+  },
+  "indications": []
+}

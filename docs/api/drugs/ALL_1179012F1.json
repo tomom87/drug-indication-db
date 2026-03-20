@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179012F1",
+    "name": "リーゼ錠５ｍｇ",
+    "generic_name": "リーゼ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リーゼ錠５ｍｇ",
+        "kana": "ﾘｰｾﾞｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

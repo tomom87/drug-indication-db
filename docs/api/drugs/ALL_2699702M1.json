@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699702M1",
+    "name": "オルセノン軟膏０．２５％",
+    "generic_name": "オルセノン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "オルセノン軟膏０．２５％",
+        "kana": "ｵﾙｾﾉﾝﾅﾝｺｳ0.25%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,205 +6,319 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_1141400",
+      "yj_code": "ALL_1141400A2",
       "name": "アセリオ静注液１０００ｍｇバッグ　１，０００ｍｇ１００ｍＬ",
       "generic_name": "アセリオ静",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149026",
+      "yj_code": "ALL_1149026F1",
       "name": "アルボ錠１００ｍｇ",
       "generic_name": "アルボ",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149032",
+      "yj_code": "ALL_1149026F2",
+      "name": "アルボ錠２００ｍｇ",
+      "generic_name": "アルボ",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149032F1",
       "name": "オステラック錠１００　１００ｍｇ",
       "generic_name": "オステラック",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149031",
+      "yj_code": "ALL_1149032F2",
+      "name": "オステラック錠２００　２００ｍｇ",
+      "generic_name": "オステラック",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149031F1",
       "name": "オークル錠１００ｍｇ",
       "generic_name": "オークル",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149500",
+      "yj_code": "ALL_1149500A1",
       "name": "カシワドール静注　２０ｍＬ",
       "generic_name": "カシワドール静",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149109",
+      "yj_code": "ALL_1149109F1",
       "name": "クリアミン配合錠Ａ１．０",
       "generic_name": "クリアミン配合",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149115",
+      "yj_code": "ALL_1149115F1",
       "name": "クリアミン配合錠Ｓ０．５",
       "generic_name": "クリアミン配合",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149700",
+      "yj_code": "ALL_1149700J1",
       "name": "ケトプロフェン坐剤５０ｍｇ「日新」",
       "generic_name": "ケトプロフェン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149402",
+      "yj_code": "ALL_1149700J2",
+      "name": "ケトプロフェン坐剤７５ｍｇ「日新」",
+      "generic_name": "ケトプロフェン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149402A1",
       "name": "ケトプロフェン筋注５０ｍｇ「日新」",
       "generic_name": "ケトプロフェン筋",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149401",
+      "yj_code": "ALL_1149401A1",
       "name": "ソセゴン注射液１５ｍｇ",
       "generic_name": "ソセゴン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149034",
+      "yj_code": "ALL_1149401A2",
+      "name": "ソセゴン注射液３０ｍｇ",
+      "generic_name": "ソセゴン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149034F1",
       "name": "ソセゴン錠２５ｍｇ",
       "generic_name": "ソセゴン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149029",
+      "yj_code": "ALL_1149029F1",
       "name": "ソレトン錠８０　８０ｍｇ",
       "generic_name": "ソレトン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149400",
+      "yj_code": "ALL_1149400A1",
       "name": "トラマール注１００　１００ｍｇ",
       "generic_name": "トラマール",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149007",
+      "yj_code": "ALL_1149007F1",
       "name": "ナイキサン錠１００ｍｇ",
       "generic_name": "ナイキサン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149502",
+      "yj_code": "ALL_1149502G1",
       "name": "ネオビタカイン注シリンジ２ｍＬ",
       "generic_name": "ネオビタカイン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149503",
+      "yj_code": "ALL_1149503G1",
       "name": "ネオビタカイン注シリンジ５ｍＬ",
       "generic_name": "ネオビタカイン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149601",
+      "yj_code": "ALL_1149502A1",
+      "name": "ネオビタカイン注２ｍＬ",
+      "generic_name": "ネオビタカイン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149503A1",
+      "name": "ネオビタカイン注５ｍＬ",
+      "generic_name": "ネオビタカイン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149601A1",
       "name": "ノイロトロピン注射液１．２単位　１ｍＬ",
       "generic_name": "ノイロトロピン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149023",
+      "yj_code": "ALL_1149601A2",
+      "name": "ノイロトロピン注射液３．６単位　３ｍＬ",
+      "generic_name": "ノイロトロピン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149023F1",
       "name": "ノイロトロピン錠４単位",
       "generic_name": "ノイロトロピン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149704",
+      "yj_code": "ALL_1149704S2",
+      "name": "ノルスパンテープ１０ｍｇ",
+      "generic_name": "ノルスパン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149704S3",
+      "name": "ノルスパンテープ２０ｍｇ",
+      "generic_name": "ノルスパン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149704S1",
       "name": "ノルスパンテープ５ｍｇ",
       "generic_name": "ノルスパン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "NAIKA_0218",
+      "yj_code": "NAIKA_0210",
       "name": "バルプロ酸",
       "generic_name": "バルプロ酸",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149009",
+      "yj_code": "ALL_1149009M1",
       "name": "パラミヂンカプセル３００ｍｇ",
       "generic_name": "パラミヂン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149011",
+      "yj_code": "ALL_1149011F1",
       "name": "フロベン錠４０　４０ｍｇ",
       "generic_name": "フロベン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149001",
+      "yj_code": "ALL_1149011D1",
+      "name": "フロベン顆粒８％",
+      "generic_name": "フロベン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149001F1",
+      "name": "ブルフェン錠１００　１００ｍｇ",
+      "generic_name": "ブルフェン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149001F2",
       "name": "ブルフェン錠２００　２００ｍｇ",
       "generic_name": "ブルフェン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1141005",
+      "yj_code": "ALL_1149001D1",
+      "name": "ブルフェン顆粒２０％",
+      "generic_name": "ブルフェン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1141005M2",
       "name": "ポンタールカプセル２５０ｍｇ",
       "generic_name": "ポンタール",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149013",
+      "yj_code": "ALL_1141005Q1",
+      "name": "ポンタールシロップ３．２５％",
+      "generic_name": "ポンタール",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1141005B1",
+      "name": "ポンタール散５０％",
+      "generic_name": "ポンタール",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1141005C2",
+      "name": "ポンタール細粒９８．５％",
+      "generic_name": "ポンタール",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149013F1",
       "name": "ミグリステン錠２０　２０ｍｇ",
       "generic_name": "ミグリステン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149035",
+      "yj_code": "ALL_1149035F2",
+      "name": "モービック錠１０ｍｇ",
+      "generic_name": "モービック",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149035F1",
       "name": "モービック錠５ｍｇ",
       "generic_name": "モービック",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149501",
+      "yj_code": "ALL_1149501A1",
       "name": "ヤスラミン配合静注　１０ｍＬ",
       "generic_name": "ヤスラミン配合静",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149703",
+      "yj_code": "ALL_1149703J1",
       "name": "レペタン坐剤０．２ｍｇ",
       "generic_name": "レペタン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149403",
+      "yj_code": "ALL_1149703J2",
+      "name": "レペタン坐剤０．４ｍｇ",
+      "generic_name": "レペタン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149403A1",
       "name": "レペタン注０．２ｍｇ",
       "generic_name": "レペタン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149027",
+      "yj_code": "ALL_1149403A2",
+      "name": "レペタン注０．３ｍｇ",
+      "generic_name": "レペタン",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149027F1",
       "name": "レリフェン錠４００ｍｇ",
       "generic_name": "レリフェン",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149407",
+      "yj_code": "ALL_1149407A1",
       "name": "ロピオン静注５０ｍｇ　５ｍＬ",
       "generic_name": "ロピオン静",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149036",
+      "yj_code": "ALL_1149036F1",
       "name": "ロルカム錠２ｍｇ",
       "generic_name": "ロルカム",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "ALL_1149116",
+      "yj_code": "ALL_1149036F2",
+      "name": "ロルカム錠４ｍｇ",
+      "generic_name": "ロルカム",
+      "category": "抗てんかん薬"
+    },
+    {
+      "yj_code": "ALL_1149116D1",
       "name": "ＳＧ配合顆粒",
       "generic_name": "ＳＧ配合",
       "category": "抗てんかん薬"
     },
     {
-      "yj_code": "NAIKA_0220",
+      "yj_code": "NAIKA_0212",
       "name": "クロナゼパム",
       "generic_name": "クロナゼパム",
       "category": "抗不安薬"

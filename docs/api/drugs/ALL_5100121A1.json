@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100121A1",
+    "name": "ウチダのダイオウ末Ｍ",
+    "generic_name": "ウチダのダイオウ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのダイオウ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾀﾞｲｵｳﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

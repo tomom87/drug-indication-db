@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114004C1",
+    "name": "モルペス細粒２％",
+    "generic_name": "モルペス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "モルペス細粒２％",
+        "kana": "ﾓﾙﾍﾟｽｻｲﾘｭｳ2%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590500A1",
+    "name": "マグセント注１００ｍＬ",
+    "generic_name": "マグセント",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "マグセント注１００ｍＬ",
+        "kana": "ﾏｸﾞｾﾝﾄﾁｭｳ100ML"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1149026F1",
+    "name": "アルボ錠１００ｍｇ",
+    "generic_name": "アルボ",
+    "category": "抗てんかん薬",
+    "brands": [
+      {
+        "name": "アルボ錠１００ｍｇ",
+        "kana": "ｱﾙﾎﾞｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3459001",
+      "name": "てんかん",
+      "kana": "4",
+      "icd10": "G409"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2391008M1",
+    "name": "イメンドカプセル８０ｍｇ",
+    "generic_name": "イメンド",
+    "category": "下剤",
+    "brands": [
+      {
+        "name": "イメンドカプセル８０ｍｇ",
+        "kana": "ｲﾒﾝﾄﾞｶﾌﾟｾﾙ80MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8840042",
+      "name": "便秘症",
+      "kana": "6",
+      "icd10": "K590"
+    }
+  ]
+}

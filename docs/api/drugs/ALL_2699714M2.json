@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699714M2",
+    "name": "コレクチム軟膏０．２５％",
+    "generic_name": "コレクチム",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "コレクチム軟膏０．２５％",
+        "kana": "ｺﾚｸﾁﾑﾅﾝｺｳ0.25%"
+      }
+    ]
+  },
+  "indications": []
+}

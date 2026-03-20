@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100089X1",
+    "name": "花扇ジコッピＫ",
+    "generic_name": "花扇ジコッピＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇ジコッピＫ",
+        "kana": "ﾊﾅｵｳｷﾞｼﾞｺｯﾋﾟK"
+      }
+    ]
+  },
+  "indications": []
+}

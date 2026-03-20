@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100143X1",
+    "name": "ドベッコウ",
+    "generic_name": "ドベッコウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ドベッコウ",
+        "kana": "ﾄﾞﾍﾞｯｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

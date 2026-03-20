@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179045F2",
+    "name": "エビリファイ錠６ｍｇ",
+    "generic_name": "エビリファイ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "エビリファイ錠６ｍｇ",
+        "kana": "ｴﾋﾞﾘﾌｧｲｼﾞｮｳ6MG"
+      }
+    ]
+  },
+  "indications": []
+}

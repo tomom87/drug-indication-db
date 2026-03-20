@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2129006F2",
+    "name": "プロノン錠１００ｍｇ",
+    "generic_name": "プロノン",
+    "category": "不整脈用薬",
+    "brands": [
+      {
+        "name": "プロノン錠１００ｍｇ",
+        "kana": "ﾌﾟﾛﾉﾝｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4279016",
+      "name": "不整脈",
+      "kana": "6",
+      "icd10": "I499"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235403D1",
+    "name": "テラルビシン注射用１０ｍｇ",
+    "generic_name": "テラルビシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テラルビシン注射用１０ｍｇ",
+        "kana": "ﾃﾗﾙﾋﾞｼﾝﾁｭｳｼｬﾖｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190023F1",
+    "name": "ベルソムラ錠１５ｍｇ",
+    "generic_name": "ベルソムラ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "ベルソムラ錠１５ｍｇ",
+        "kana": "ﾍﾞﾙｿﾑﾗｼﾞｮｳ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

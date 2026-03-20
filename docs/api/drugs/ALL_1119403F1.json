@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1119403F1",
+    "name": "アネレム静注用５０ｍｇ",
+    "generic_name": "アネレム静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アネレム静注用５０ｍｇ",
+        "kana": "ｱﾈﾚﾑｼﾞｮｳﾁｭｳﾖｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,25 +6,19 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0065",
+      "yj_code": "NAIKA_0061",
       "name": "アピキサバン",
       "generic_name": "アピキサバン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0067",
+      "yj_code": "NAIKA_0062",
       "name": "エドキサバン",
       "generic_name": "エドキサバン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0066",
-      "name": "リバーロキサバン",
-      "generic_name": "リバーロキサバン",
-      "category": "抗凝固薬"
-    },
-    {
-      "yj_code": "NAIKA_0064",
+      "yj_code": "NAIKA_0060",
       "name": "ワルファリン",
       "generic_name": "ワルファリン",
       "category": "抗凝固薬"

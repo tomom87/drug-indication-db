@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2357700X1",
+    "name": "グリセリン「ケンエー」",
+    "generic_name": "グリセリン「ケンエー」",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "グリセリン「ケンエー」",
+        "kana": "ｸﾞﾘｾﾘﾝｹﾝｴｰ"
+      }
+    ]
+  },
+  "indications": []
+}

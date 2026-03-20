@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490021F1",
+    "name": "ラマトロバン錠５０ｍｇ「ＫＯ」",
+    "generic_name": "ラマトロバン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラマトロバン錠５０ｍｇ「ＫＯ」",
+        "kana": "ﾗﾏﾄﾛﾊﾞﾝｼﾞｮｳ50MGKO"
+      }
+    ]
+  },
+  "indications": []
+}

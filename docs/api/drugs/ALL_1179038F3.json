@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179038F3",
+    "name": "リスパダール錠３ｍｇ",
+    "generic_name": "リスパダール",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リスパダール錠３ｍｇ",
+        "kana": "ﾘｽﾊﾟﾀﾞｰﾙｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

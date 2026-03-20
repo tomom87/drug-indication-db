@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454404A2",
+    "name": "リンデロン注４ｍｇ（０．４％）",
+    "generic_name": "リンデロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リンデロン注４ｍｇ（０．４％）",
+        "kana": "ﾘﾝﾃﾞﾛﾝﾁｭｳ4MG0.4%"
+      }
+    ]
+  },
+  "indications": []
+}

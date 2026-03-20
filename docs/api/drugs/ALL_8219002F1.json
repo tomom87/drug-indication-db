@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219002F1",
+    "name": "メサペイン錠５ｍｇ",
+    "generic_name": "メサペイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "メサペイン錠５ｍｇ",
+        "kana": "ﾒｻﾍﾟｲﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

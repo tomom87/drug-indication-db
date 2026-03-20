@@ -6,91 +6,127 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2121400",
+      "yj_code": "ALL_2121400A1",
       "name": "アミサリン注１００ｍｇ　１０％１ｍＬ",
       "generic_name": "アミサリン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123014",
+      "yj_code": "ALL_2121400A2",
+      "name": "アミサリン注２００ｍｇ　１０％２ｍＬ",
+      "generic_name": "アミサリン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123014F2",
+      "name": "アロチノロール塩酸塩錠１０ｍｇ「ＤＳＰ」",
+      "generic_name": "アロチノロール塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123014F1",
       "name": "アロチノロール塩酸塩錠５ｍｇ「ＤＳＰ」",
       "generic_name": "アロチノロール塩酸塩",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123402",
+      "yj_code": "ALL_2123402A1",
       "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
       "generic_name": "インデラル",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123404",
+      "yj_code": "ALL_2123404D3",
+      "name": "オノアクト点滴静注用１５０ｍｇ",
+      "generic_name": "オノアクト",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123404D1",
       "name": "オノアクト点滴静注用５０ｍｇ",
       "generic_name": "オノアクト",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123015",
+      "yj_code": "ALL_2123404D2",
+      "name": "コアベータ静注用１２．５ｍｇ",
+      "generic_name": "コアベータ静",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123015F1",
       "name": "ナディック錠３０ｍｇ",
       "generic_name": "ナディック",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123405",
+      "yj_code": "ALL_2123405A1",
       "name": "ブレビブロック注　１００ｍｇ　１０ｍＬ",
       "generic_name": "ブレビブロック",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2121001",
+      "yj_code": "ALL_2121001F1",
       "name": "プロカインアミド塩酸塩錠　１２５ｍｇ",
       "generic_name": "プロカインアミド塩酸塩",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123005",
+      "yj_code": "ALL_2121001F2",
+      "name": "プロカインアミド塩酸塩錠　２５０ｍｇ",
+      "generic_name": "プロカインアミド塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123005F1",
+      "name": "ミケラン錠５ｍｇ",
+      "generic_name": "ミケラン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123005C1",
       "name": "小児用ミケラン細粒０．２％",
       "generic_name": "小児用ミケラン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "NAIKA_0171",
+      "yj_code": "NAIKA_0164",
       "name": "ジゴキシン",
       "generic_name": "ジゴキシン",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0173",
+      "yj_code": "NAIKA_0166",
       "name": "フレカイニド",
       "generic_name": "フレカイニド",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0065",
+      "yj_code": "NAIKA_0061",
       "name": "アピキサバン",
       "generic_name": "アピキサバン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0067",
+      "yj_code": "NAIKA_0062",
       "name": "エドキサバン",
       "generic_name": "エドキサバン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0183",
+      "yj_code": "NAIKA_0176",
       "name": "ダビガトラン",
       "generic_name": "ダビガトラン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0066",
-      "name": "リバーロキサバン",
-      "generic_name": "リバーロキサバン",
+      "yj_code": "NAIKA_0245",
+      "name": "リバーロキサバン15mg",
+      "generic_name": "リバーロキサバン15mg",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0064",
+      "yj_code": "NAIKA_0060",
       "name": "ワルファリン",
       "generic_name": "ワルファリン",
       "category": "抗凝固薬"

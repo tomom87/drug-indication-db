@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3311402G7",
+    "name": "生食注シリンジ「ＮＰ」　１０ｍＬ",
+    "generic_name": "生食",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "生食注シリンジ「ＮＰ」　１０ｍＬ",
+        "kana": "ｾｲｼｮｸﾁｭｳｼﾘﾝｼﾞNP"
+      }
+    ]
+  },
+  "indications": []
+}

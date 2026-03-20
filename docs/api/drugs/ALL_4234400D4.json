@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4234400D4",
+    "name": "ブレオ注射用５ｍｇ",
+    "generic_name": "ブレオ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ブレオ注射用５ｍｇ",
+        "kana": "ﾌﾞﾚｵﾁｭｳｼｬﾖｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

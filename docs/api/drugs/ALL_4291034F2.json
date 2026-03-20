@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291034F2",
+    "name": "ジャカビ錠１０ｍｇ",
+    "generic_name": "ジャカビ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ジャカビ錠１０ｍｇ",
+        "kana": "ｼﾞｬｶﾋﾞｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3321002F1",
+    "name": "アドナ錠１０ｍｇ",
+    "generic_name": "アドナ",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "アドナ錠１０ｍｇ",
+        "kana": "ｱﾄﾞﾅｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

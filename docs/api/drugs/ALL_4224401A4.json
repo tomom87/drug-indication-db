@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4224401A4",
+    "name": "キロサイド注１００ｍｇ",
+    "generic_name": "キロサイド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キロサイド注１００ｍｇ",
+        "kana": "ｷﾛｻｲﾄﾞﾁｭｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

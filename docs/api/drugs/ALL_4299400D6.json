@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4299400D6",
+    "name": "ピシバニール注射用５ＫＥ",
+    "generic_name": "ピシバニール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ピシバニール注射用５ＫＥ",
+        "kana": "ﾋﾟｼﾊﾞﾆｰﾙﾁｭｳｼｬﾖｳ5KE"
+      }
+    ]
+  },
+  "indications": []
+}

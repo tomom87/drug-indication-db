@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6124400D1",
+    "name": "トロビシン筋注用２ｇ",
+    "generic_name": "トロビシン筋",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トロビシン筋注用２ｇ",
+        "kana": "ﾄﾛﾋﾞｼﾝｷﾝﾁｭｳﾖｳ2G"
+      }
+    ]
+  },
+  "indications": []
+}

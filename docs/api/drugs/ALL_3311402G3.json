@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3311402G3",
+    "name": "大塚生食注ＴＮ　５０ｍＬ",
+    "generic_name": "大塚生食",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "大塚生食注ＴＮ　５０ｍＬ",
+        "kana": "ｵｵﾂｶｾｲｼｮｸﾁｭｳTN"
+      }
+    ]
+  },
+  "indications": []
+}

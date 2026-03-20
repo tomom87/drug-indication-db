@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2559001M1",
+    "name": "ヘモクロンカプセル２００ｍｇ",
+    "generic_name": "ヘモクロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヘモクロンカプセル２００ｍｇ",
+        "kana": "ﾍﾓｸﾛﾝｶﾌﾟｾﾙ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

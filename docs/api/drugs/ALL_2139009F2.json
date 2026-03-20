@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2139009F2",
+    "name": "ルプラック錠８ｍｇ",
+    "generic_name": "ルプラック",
+    "category": "利尿薬",
+    "brands": [
+      {
+        "name": "ルプラック錠８ｍｇ",
+        "kana": "ﾙﾌﾟﾗｯｸｼﾞｮｳ8MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7823024",
+      "name": "浮腫",
+      "kana": "3",
+      "icd10": "R609"
+    }
+  ]
+}

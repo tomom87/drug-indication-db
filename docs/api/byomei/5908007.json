@@ -6,43 +6,43 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0053",
+      "yj_code": "NAIKA_0049",
       "name": "アモキシシリン",
       "generic_name": "アモキシシリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0054",
+      "yj_code": "NAIKA_0050",
       "name": "セファレキシン",
       "generic_name": "セファレキシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0153",
+      "yj_code": "NAIKA_0146",
       "name": "セフカペン",
       "generic_name": "セフカペン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0154",
+      "yj_code": "NAIKA_0147",
       "name": "セフジトレン",
       "generic_name": "セフジトレン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0058",
+      "yj_code": "NAIKA_0054",
       "name": "セフトリアキソン",
       "generic_name": "セフトリアキソン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0156",
+      "yj_code": "NAIKA_0149",
       "name": "ファロペネム",
       "generic_name": "ファロペネム",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0057",
+      "yj_code": "NAIKA_0053",
       "name": "レボフロキサシン",
       "generic_name": "レボフロキサシン",
       "category": "抗菌薬"

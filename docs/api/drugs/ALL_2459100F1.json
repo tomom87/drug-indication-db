@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2459100F1",
+    "name": "セレスタミン配合錠",
+    "generic_name": "セレスタミン配合",
+    "category": "膵臓ホルモン薬",
+    "brands": [
+      {
+        "name": "セレスタミン配合錠",
+        "kana": "ｾﾚｽﾀﾐﾝﾊｲｺﾞｳｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

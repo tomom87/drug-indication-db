@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1139014F1",
+    "name": "フィコンパ錠２ｍｇ",
+    "generic_name": "フィコンパ",
+    "category": "抗不安薬",
+    "brands": [
+      {
+        "name": "フィコンパ錠２ｍｇ",
+        "kana": "ﾌｨｺﾝﾊﾟｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839596",
+      "name": "不安障害",
+      "kana": "8",
+      "icd10": "F419"
+    }
+  ]
+}

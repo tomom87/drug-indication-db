@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490700S2",
+    "name": "アレサガテープ８ｍｇ",
+    "generic_name": "アレサガ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレサガテープ８ｍｇ",
+        "kana": "ｱﾚｻｶﾞﾃｰﾌﾟ8MG"
+      }
+    ]
+  },
+  "indications": []
+}

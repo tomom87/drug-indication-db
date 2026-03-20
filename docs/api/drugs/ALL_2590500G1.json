@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590500G1",
+    "name": "マグセント注シリンジ４０ｍＬ",
+    "generic_name": "マグセント",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "マグセント注シリンジ４０ｍＬ",
+        "kana": "ﾏｸﾞｾﾝﾄﾁｭｳｼﾘﾝｼﾞ40ML"
+      }
+    ]
+  },
+  "indications": []
+}

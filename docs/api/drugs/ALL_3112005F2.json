@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3112005F2",
+    "name": "フルスタン錠０．３　０．３μｇ",
+    "generic_name": "フルスタン",
+    "category": "ビタミンA薬",
+    "brands": [
+      {
+        "name": "フルスタン錠０．３　０．３μｇ",
+        "kana": "ﾌﾙｽﾀﾝｼﾞｮｳ0.3"
+      }
+    ]
+  },
+  "indications": []
+}

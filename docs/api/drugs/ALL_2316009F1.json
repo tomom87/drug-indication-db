@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316009F1",
+    "name": "ミヤＢＭ錠",
+    "generic_name": "ミヤＢＭ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミヤＢＭ錠",
+        "kana": "ﾐﾔBMｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,25 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0017",
-      "name": "エンパグリフロジン",
-      "generic_name": "エンパグリフロジン",
+      "yj_code": "NAIKA_0236",
+      "name": "エンパグリフロジン10mg",
+      "generic_name": "エンパグリフロジン10mg",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0018",
-      "name": "ダパグリフロジン",
-      "generic_name": "ダパグリフロジン",
+      "yj_code": "NAIKA_0235",
+      "name": "ダパグリフロジン10mg",
+      "generic_name": "ダパグリフロジン10mg",
       "category": "糖尿病薬"
     },
     {
-      "yj_code": "NAIKA_0188",
+      "yj_code": "NAIKA_0181",
       "name": "セベラマー",
       "generic_name": "セベラマー",
       "category": "腎臓薬"
     },
     {
-      "yj_code": "NAIKA_0187",
+      "yj_code": "NAIKA_0180",
       "name": "炭酸ランタン",
       "generic_name": "炭酸ランタン",
       "category": "腎臓薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4213002B1",
+    "name": "マブリン散１％",
+    "generic_name": "マブリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "マブリン散１％",
+        "kana": "ﾏﾌﾞﾘﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": []
+}

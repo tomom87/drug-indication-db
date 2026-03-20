@@ -6,25 +6,31 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2431400",
+      "yj_code": "ALL_2431400A1",
       "name": "チラーヂンＳ静注液２００μｇ　１ｍＬ",
       "generic_name": "チラーヂンＳ静",
       "category": "甲状腺ホルモン薬"
     },
     {
-      "yj_code": "ALL_2431003",
+      "yj_code": "ALL_2431003F2",
+      "name": "リオチロニンナトリウム錠　２５μｇ",
+      "generic_name": "リオチロニンナトリウム",
+      "category": "甲状腺ホルモン薬"
+    },
+    {
+      "yj_code": "ALL_2431003F1",
       "name": "リオチロニンナトリウム錠　５μｇ",
       "generic_name": "リオチロニンナトリウム",
       "category": "甲状腺ホルモン薬"
     },
     {
-      "yj_code": "ALL_2431001",
+      "yj_code": "ALL_2431001X1",
       "name": "乾燥甲状腺",
       "generic_name": "乾燥甲状腺",
       "category": "甲状腺ホルモン薬"
     },
     {
-      "yj_code": "NAIKA_0073",
+      "yj_code": "NAIKA_0067",
       "name": "レボチロキシン",
       "generic_name": "レボチロキシン",
       "category": "甲状腺薬"

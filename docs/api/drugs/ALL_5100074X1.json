@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100074X1",
+    "name": "トチモトのコンズランゴ",
+    "generic_name": "トチモトのコンズランゴ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのコンズランゴ",
+        "kana": "ﾄﾁﾓﾄﾉｺﾝｽﾞﾗﾝｺﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

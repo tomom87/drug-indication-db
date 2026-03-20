@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100172X1",
+    "name": "マンケイシ",
+    "generic_name": "マンケイシ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "マンケイシ",
+        "kana": "ﾏﾝｹｲｼ"
+      }
+    ]
+  },
+  "indications": []
+}

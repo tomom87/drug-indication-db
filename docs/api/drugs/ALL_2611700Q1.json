@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2611700Q1",
+    "name": "テキサント消毒液６％",
+    "generic_name": "テキサント消毒",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テキサント消毒液６％",
+        "kana": "ﾃｷｻﾝﾄｼｮｳﾄﾞｸｴｷ6%"
+      }
+    ]
+  },
+  "indications": []
+}

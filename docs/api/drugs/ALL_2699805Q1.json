@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699805Q1",
+    "name": "エピデュオゲル",
+    "generic_name": "エピデュオ",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "エピデュオゲル",
+        "kana": "ｴﾋﾟﾃﾞｭｵｹﾞﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

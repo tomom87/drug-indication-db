@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6239001M1",
+    "name": "ランプレンカプセル５０ｍｇ",
+    "generic_name": "ランプレン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ランプレンカプセル５０ｍｇ",
+        "kana": "ﾗﾝﾌﾟﾚﾝｶﾌﾟｾﾙ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2478002F3",
+    "name": "ヒスロンＨ錠２００ｍｇ",
+    "generic_name": "ヒスロンＨ",
+    "category": "性ホルモン薬",
+    "brands": [
+      {
+        "name": "ヒスロンＨ錠２００ｍｇ",
+        "kana": "ﾋｽﾛﾝHｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

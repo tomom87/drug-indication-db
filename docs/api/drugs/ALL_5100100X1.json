@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100100X1",
+    "name": "ウチダのジュウヤクＭ",
+    "generic_name": "ウチダのジュウヤクＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのジュウヤクＭ",
+        "kana": "ｳﾁﾀﾞﾉｼﾞｭｳﾔｸM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2655712M1",
+    "name": "ルリコン軟膏１％",
+    "generic_name": "ルリコン",
+    "category": "外用抗菌薬",
+    "brands": [
+      {
+        "name": "ルリコン軟膏１％",
+        "kana": "ﾙﾘｺﾝﾅﾝｺｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

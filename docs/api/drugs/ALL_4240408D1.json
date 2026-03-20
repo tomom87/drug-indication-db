@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240408D1",
+    "name": "ハイカムチン注射用１．１ｍｇ",
+    "generic_name": "ハイカムチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハイカムチン注射用１．１ｍｇ",
+        "kana": "ﾊｲｶﾑﾁﾝﾁｭｳｼｬﾖｳ1.1MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2639700M1",
+    "name": "アクアチム軟膏１％",
+    "generic_name": "アクアチム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アクアチム軟膏１％",
+        "kana": "ｱｸｱﾁﾑﾅﾝｺｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

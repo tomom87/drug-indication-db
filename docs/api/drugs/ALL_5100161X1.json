@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100161X1",
+    "name": "ウチダのブクリョウＭ",
+    "generic_name": "ウチダのブクリョウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのブクリョウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾌﾞｸﾘｮｳM"
+      }
+    ]
+  },
+  "indications": []
+}

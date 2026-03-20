@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100109X1",
+    "name": "ウチダのセッコウＭ",
+    "generic_name": "ウチダのセッコウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのセッコウＭ",
+        "kana": "ｳﾁﾀﾞﾉｾｯｺｳM"
+      }
+    ]
+  },
+  "indications": []
+}

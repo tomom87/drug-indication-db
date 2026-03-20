@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291013F1",
+    "name": "イレッサ錠２５０　２５０ｍｇ",
+    "generic_name": "イレッサ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "イレッサ錠２５０　２５０ｍｇ",
+        "kana": "ｲﾚｯｻｼﾞｮｳ250"
+      }
+    ]
+  },
+  "indications": []
+}

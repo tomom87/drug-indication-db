@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179053G1",
+    "name": "インヴェガ錠３ｍｇ",
+    "generic_name": "インヴェガ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "インヴェガ錠３ｍｇ",
+        "kana": "ｲﾝｳﾞｪｶﾞｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

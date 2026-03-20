@@ -6,38 +6,68 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0239",
+      "yj_code": "NAIKA_0231",
       "name": "葉酸",
       "generic_name": "葉酸",
       "category": "ビタミン"
     },
     {
-      "yj_code": "ALL_3134002",
+      "yj_code": "ALL_3134002B2",
       "name": "ビタミンＢ６散１０％「マルイシ」",
       "generic_name": "ビタミンＢ６",
       "category": "葉酸"
     },
     {
-      "yj_code": "ALL_3134003",
+      "yj_code": "ALL_3134002F1",
+      "name": "ビタミンＢ６錠３０ｍｇ「Ｆ」",
+      "generic_name": "ビタミンＢ６",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134402A2",
+      "name": "ピドキサール注３０ｍｇ",
+      "generic_name": "ピドキサール",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134003F1",
       "name": "ピドキサール錠１０ｍｇ",
       "generic_name": "ピドキサール",
       "category": "葉酸"
     },
     {
-      "yj_code": "ALL_3134402",
+      "yj_code": "ALL_3134003F2",
+      "name": "ピドキサール錠２０ｍｇ",
+      "generic_name": "ピドキサール",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134003F3",
+      "name": "ピドキサール錠３０ｍｇ",
+      "generic_name": "ピドキサール",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134402A1",
       "name": "ピリドキサール注１０ｍｇ「イセイ」",
       "generic_name": "ピリドキサール",
       "category": "葉酸"
     },
     {
-      "yj_code": "ALL_3134001",
+      "yj_code": "ALL_3134001X1",
       "name": "ピリドキシン塩酸塩",
       "generic_name": "ピリドキシン塩酸塩",
       "category": "葉酸"
     },
     {
-      "yj_code": "ALL_3134400",
+      "yj_code": "ALL_3134400A1",
       "name": "ピリドキシン塩酸塩注射液　１０ｍｇ",
+      "generic_name": "ピリドキシン塩酸塩",
+      "category": "葉酸"
+    },
+    {
+      "yj_code": "ALL_3134400A3",
+      "name": "ピリドキシン塩酸塩注射液　３０ｍｇ",
       "generic_name": "ピリドキシン塩酸塩",
       "category": "葉酸"
     }

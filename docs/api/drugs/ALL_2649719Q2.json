@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649719Q2",
+    "name": "インテバン外用液１％",
+    "generic_name": "インテバン外用",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "インテバン外用液１％",
+        "kana": "ｲﾝﾃﾊﾞﾝｶﾞｲﾖｳｴｷ1%"
+      }
+    ]
+  },
+  "indications": []
+}

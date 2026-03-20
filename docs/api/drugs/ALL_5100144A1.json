@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100144A1",
+    "name": "トラガント末",
+    "generic_name": "トラガント末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トラガント末",
+        "kana": "ﾄﾗｶﾞﾝﾄﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

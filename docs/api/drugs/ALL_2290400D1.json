@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2290400D1",
+    "name": "ゾレア皮下注用１５０ｍｇ",
+    "generic_name": "ゾレア皮下",
+    "category": "呼吸器用薬",
+    "brands": [
+      {
+        "name": "ゾレア皮下注用１５０ｍｇ",
+        "kana": "ｿﾞﾚｱﾋｶﾁｭｳﾖｳ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

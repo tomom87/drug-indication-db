@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2134001X1",
+    "name": "アセタゾラミド",
+    "generic_name": "アセタゾラミド",
+    "category": "利尿薬",
+    "brands": [
+      {
+        "name": "アセタゾラミド",
+        "kana": "ｱｾﾀｿﾞﾗﾐﾄﾞ"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7823024",
+      "name": "浮腫",
+      "kana": "3",
+      "icd10": "R609"
+    }
+  ]
+}

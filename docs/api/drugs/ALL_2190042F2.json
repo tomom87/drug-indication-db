@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190042F2",
+    "name": "ベリキューボ錠５ｍｇ",
+    "generic_name": "ベリキューボ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ベリキューボ錠５ｍｇ",
+        "kana": "ﾍﾞﾘｷｭｰﾎﾞｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

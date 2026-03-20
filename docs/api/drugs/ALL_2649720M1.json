@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649720M1",
+    "name": "デルマクリンＡ軟膏１％",
+    "generic_name": "デルマクリンＡ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "デルマクリンＡ軟膏１％",
+        "kana": "ﾃﾞﾙﾏｸﾘﾝAﾅﾝｺｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6134400A2",
+    "name": "パニマイシン注射液１００ｍｇ",
+    "generic_name": "パニマイシン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "パニマイシン注射液１００ｍｇ",
+        "kana": "ﾊﾟﾆﾏｲｼﾝﾁｭｳｼｬｴｷ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0081",
+      "yj_code": "NAIKA_0075",
       "name": "トラマドール",
       "generic_name": "トラマドール",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0082",
+      "yj_code": "NAIKA_0076",
       "name": "プレガバリン",
       "generic_name": "プレガバリン",
       "category": "鎮痛薬"

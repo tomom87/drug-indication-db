@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100128X1",
+    "name": "ウチダのチョウジＭ",
+    "generic_name": "ウチダのチョウジＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのチョウジＭ",
+        "kana": "ｳﾁﾀﾞﾉﾁｮｳｼﾞM"
+      }
+    ]
+  },
+  "indications": []
+}

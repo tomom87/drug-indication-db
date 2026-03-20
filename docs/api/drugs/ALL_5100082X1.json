@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100082X1",
+    "name": "ウチダのサンシュユＭ",
+    "generic_name": "ウチダのサンシュユＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのサンシュユＭ",
+        "kana": "ｳﾁﾀﾞﾉｻﾝｼｭﾕM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300415A1",
+    "name": "ヘパティメージ注",
+    "generic_name": "ヘパティメージ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ヘパティメージ注",
+        "kana": "ﾍﾊﾟﾃｨﾒｰｼﾞﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

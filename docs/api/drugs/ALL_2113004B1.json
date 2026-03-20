@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2113004B1",
+    "name": "ジゴシン散０．１％",
+    "generic_name": "ジゴシン",
+    "category": "強心薬",
+    "brands": [
+      {
+        "name": "ジゴシン散０．１％",
+        "kana": "ｼﾞｺﾞｼﾝｻﾝ0.1%"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4289015",
+      "name": "心不全",
+      "kana": "5",
+      "icd10": "I509"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316020B1",
+    "name": "ビオフェルミン散剤",
+    "generic_name": "ビオフェルミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ビオフェルミン散剤",
+        "kana": "ﾋﾞｵﾌｪﾙﾐﾝｻﾝｻﾞｲ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1311706M1",
+    "name": "リュウアト１％眼軟膏",
+    "generic_name": "リュウアト",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "リュウアト１％眼軟膏",
+        "kana": "ﾘｭｳｱﾄ1%ｶﾞﾝﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

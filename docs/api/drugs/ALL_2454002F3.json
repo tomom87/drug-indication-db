@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454002F3",
+    "name": "デカドロン錠４ｍｇ",
+    "generic_name": "デカドロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "デカドロン錠４ｍｇ",
+        "kana": "ﾃﾞｶﾄﾞﾛﾝｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

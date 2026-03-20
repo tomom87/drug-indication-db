@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490020F1",
+    "name": "ジルテック錠５　５ｍｇ",
+    "generic_name": "ジルテック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ジルテック錠５　５ｍｇ",
+        "kana": "ｼﾞﾙﾃｯｸｼﾞｮｳ5"
+      }
+    ]
+  },
+  "indications": []
+}

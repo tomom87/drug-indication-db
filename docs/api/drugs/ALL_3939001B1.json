@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3939001B1",
+    "name": "ノックビン原末",
+    "generic_name": "ノックビン原末",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ノックビン原末",
+        "kana": "ﾉｯｸﾋﾞﾝｹﾞﾝﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

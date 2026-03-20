@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100169X1",
+    "name": "ウチダのボレイＭ",
+    "generic_name": "ウチダのボレイＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのボレイＭ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞﾚｲM"
+      }
+    ]
+  },
+  "indications": []
+}

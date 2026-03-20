@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291094F1",
+    "name": "ウェリレグ錠４０ｍｇ",
+    "generic_name": "ウェリレグ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ウェリレグ錠４０ｍｇ",
+        "kana": "ｳｪﾘﾚｸﾞｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

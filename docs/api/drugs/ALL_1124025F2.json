@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1124025F2",
+    "name": "メレックス錠１ｍｇ",
+    "generic_name": "メレックス",
+    "category": "催眠鎮静薬",
+    "brands": [
+      {
+        "name": "メレックス錠１ｍｇ",
+        "kana": "ﾒﾚｯｸｽｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999023F1",
+    "name": "レグパラ錠２５ｍｇ",
+    "generic_name": "レグパラ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "レグパラ錠２５ｍｇ",
+        "kana": "ﾚｸﾞﾊﾟﾗｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

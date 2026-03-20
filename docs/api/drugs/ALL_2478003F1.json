@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2478003F1",
+    "name": "デュファストン錠５ｍｇ",
+    "generic_name": "デュファストン",
+    "category": "性ホルモン薬",
+    "brands": [
+      {
+        "name": "デュファストン錠５ｍｇ",
+        "kana": "ﾃﾞｭﾌｧｽﾄﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

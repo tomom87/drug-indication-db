@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1214401A1",
+    "name": "リドカイン注射液　０．５％",
+    "generic_name": "リドカイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リドカイン注射液　０．５％",
+        "kana": "ﾘﾄﾞｶｲﾝﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

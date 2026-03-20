@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190028F1",
+    "name": "メラトベル錠小児用１ｍｇ",
+    "generic_name": "メラトベル",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "メラトベル錠小児用１ｍｇ",
+        "kana": "ﾒﾗﾄﾍﾞﾙｼﾞｮｳｼｮｳﾆﾖｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

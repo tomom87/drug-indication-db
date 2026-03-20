@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291480A2",
+    "name": "タービー皮下注４０ｍｇ　１ｍＬ",
+    "generic_name": "タービー皮下",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タービー皮下注４０ｍｇ　１ｍＬ",
+        "kana": "ﾀｰﾋﾞｰﾋｶﾁｭｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

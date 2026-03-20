@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319506A3",
+    "name": "ソルデム３ＰＧ輸液　２００ｍＬ",
+    "generic_name": "ソルデム３ＰＧ輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ソルデム３ＰＧ輸液　２００ｍＬ",
+        "kana": "ｿﾙﾃﾞﾑ3PGﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

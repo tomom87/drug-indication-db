@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100175X1",
+    "name": "ウチダのモッコウＭ",
+    "generic_name": "ウチダのモッコウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのモッコウＭ",
+        "kana": "ｳﾁﾀﾞﾉﾓｯｺｳM"
+      }
+    ]
+  },
+  "indications": []
+}

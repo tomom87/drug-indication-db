@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3321002B1",
+    "name": "アドナ散１０％",
+    "generic_name": "アドナ",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "アドナ散１０％",
+        "kana": "ｱﾄﾞﾅｻﾝ10%"
+      }
+    ]
+  },
+  "indications": []
+}

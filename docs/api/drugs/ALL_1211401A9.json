@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1211401A9",
+    "name": "ロカイン注２％　２ｍＬ",
+    "generic_name": "ロカイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロカイン注２％　２ｍＬ",
+        "kana": "ﾛｶｲﾝﾁｭｳ2%"
+      }
+    ]
+  },
+  "indications": []
+}

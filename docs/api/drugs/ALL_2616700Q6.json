@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2616700Q6",
+    "name": "オスバン消毒液０．１％",
+    "generic_name": "オスバン消毒",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オスバン消毒液０．１％",
+        "kana": "ｵｽﾊﾞﾝｼｮｳﾄﾞｸｴｷ0.1%"
+      }
+    ]
+  },
+  "indications": []
+}

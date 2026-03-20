@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2659711N1",
+    "name": "ペキロンクリーム０．５％",
+    "generic_name": "ペキロン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ペキロンクリーム０．５％",
+        "kana": "ﾍﾟｷﾛﾝｸﾘｰﾑ0.5%"
+      }
+    ]
+  },
+  "indications": []
+}

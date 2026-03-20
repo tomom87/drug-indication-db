@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291088M1",
+    "name": "フリュザクラカプセル１ｍｇ",
+    "generic_name": "フリュザクラ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "フリュザクラカプセル１ｍｇ",
+        "kana": "ﾌﾘｭｻﾞｸﾗｶﾌﾟｾﾙ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

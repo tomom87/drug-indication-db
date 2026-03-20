@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291038M4",
+    "name": "ポマリストカプセル４ｍｇ",
+    "generic_name": "ポマリスト",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ポマリストカプセル４ｍｇ",
+        "kana": "ﾎﾟﾏﾘｽﾄｶﾌﾟｾﾙ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

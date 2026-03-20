@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300444G1",
+    "name": "テクネＭＡＧ３キット",
+    "generic_name": "テクネＭＡＧ３キット",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＭＡＧ３キット",
+        "kana": "ﾃｸﾈMAG3ｷｯﾄ"
+      }
+    ]
+  },
+  "indications": []
+}

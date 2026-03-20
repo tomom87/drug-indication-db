@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190701S2",
+    "name": "アリドネパッチ５５ｍｇ",
+    "generic_name": "アリドネパッチ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "アリドネパッチ５５ｍｇ",
+        "kana": "ｱﾘﾄﾞﾈﾊﾟｯﾁ55MG"
+      }
+    ]
+  },
+  "indications": []
+}

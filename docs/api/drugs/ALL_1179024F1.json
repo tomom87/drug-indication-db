@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179024F1",
+    "name": "ロドピン錠２５ｍｇ",
+    "generic_name": "ロドピン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロドピン錠２５ｍｇ",
+        "kana": "ﾛﾄﾞﾋﾟﾝｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

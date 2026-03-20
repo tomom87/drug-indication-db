@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2339101B1",
+    "name": "健胃散「スズ」",
+    "generic_name": "健胃",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "健胃散「スズ」",
+        "kana": "ｹﾝｲｻﾝｽｽﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

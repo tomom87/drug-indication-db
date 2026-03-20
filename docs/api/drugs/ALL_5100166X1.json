@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100166X1",
+    "name": "ウチダの炮附子",
+    "generic_name": "ウチダの炮附子",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダの炮附子",
+        "kana": "ｳﾁﾀﾞﾉﾎｳﾌﾞｼ"
+      }
+    ]
+  },
+  "indications": []
+}

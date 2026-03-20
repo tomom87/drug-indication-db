@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235406D2",
+    "name": "カルセド注射用５０ｍｇ",
+    "generic_name": "カルセド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カルセド注射用５０ｍｇ",
+        "kana": "ｶﾙｾﾄﾞﾁｭｳｼｬﾖｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

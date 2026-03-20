@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179038F6",
+    "name": "リスパダールＯＤ錠２ｍｇ",
+    "generic_name": "リスパダールＯＤ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リスパダールＯＤ錠２ｍｇ",
+        "kana": "ﾘｽﾊﾟﾀﾞｰﾙODｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100140X1",
+    "name": "ウチダのトウヒＭ",
+    "generic_name": "ウチダのトウヒＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのトウヒＭ",
+        "kana": "ｳﾁﾀﾞﾉﾄｳﾋM"
+      }
+    ]
+  },
+  "indications": []
+}

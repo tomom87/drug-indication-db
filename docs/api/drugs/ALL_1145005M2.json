@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1145005M2",
+    "name": "インフリーＳカプセル２００ｍｇ",
+    "generic_name": "インフリーＳ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "インフリーＳカプセル２００ｍｇ",
+        "kana": "ｲﾝﾌﾘｰSｶﾌﾟｾﾙ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

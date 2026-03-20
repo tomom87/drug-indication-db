@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291005F1",
+    "name": "オダイン錠１２５ｍｇ",
+    "generic_name": "オダイン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "オダイン錠１２５ｍｇ",
+        "kana": "ｵﾀﾞｲﾝｼﾞｮｳ125MG"
+      }
+    ]
+  },
+  "indications": []
+}

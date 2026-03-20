@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100067X1",
+    "name": "ウチダのコウボクＭ",
+    "generic_name": "ウチダのコウボクＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのコウボクＭ",
+        "kana": "ｳﾁﾀﾞﾉｺｳﾎﾞｸM"
+      }
+    ]
+  },
+  "indications": []
+}

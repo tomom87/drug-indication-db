@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179040F4",
+    "name": "トレドミン錠５０ｍｇ",
+    "generic_name": "トレドミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "トレドミン錠５０ｍｇ",
+        "kana": "ﾄﾚﾄﾞﾐﾝｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

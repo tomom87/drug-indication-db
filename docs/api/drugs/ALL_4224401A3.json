@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4224401A3",
+    "name": "キロサイド注６０ｍｇ",
+    "generic_name": "キロサイド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キロサイド注６０ｍｇ",
+        "kana": "ｷﾛｻｲﾄﾞﾁｭｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

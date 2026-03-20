@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291405F3",
+    "name": "アクプラ静注用１００ｍｇ",
+    "generic_name": "アクプラ静",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "アクプラ静注用１００ｍｇ",
+        "kana": "ｱｸﾌﾟﾗｼﾞｮｳﾁｭｳﾖｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2414400A2",
+    "name": "アトニン－Ｏ注５単位",
+    "generic_name": "アトニン－Ｏ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アトニン－Ｏ注５単位",
+        "kana": "ｱﾄﾆﾝ-Oﾁｭｳ5ﾀﾝｲ"
+      }
+    ]
+  },
+  "indications": []
+}

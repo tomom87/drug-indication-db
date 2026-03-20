@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291003F2",
+    "name": "ノルバデックス錠２０ｍｇ",
+    "generic_name": "ノルバデックス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ノルバデックス錠２０ｍｇ",
+        "kana": "ﾉﾙﾊﾞﾃﾞｯｸｽｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

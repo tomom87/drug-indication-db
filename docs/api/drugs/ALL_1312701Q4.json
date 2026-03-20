@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1312701Q4",
+    "name": "サンピロ点眼液３％　５ｍＬ",
+    "generic_name": "サンピロ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サンピロ点眼液３％　５ｍＬ",
+        "kana": "ｻﾝﾋﾟﾛﾃﾝｶﾞﾝｴｷ3%"
+      }
+    ]
+  },
+  "indications": []
+}

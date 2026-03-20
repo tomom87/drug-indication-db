@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490025D1",
+    "name": "アレロック顆粒０．５％",
+    "generic_name": "アレロック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アレロック顆粒０．５％",
+        "kana": "ｱﾚﾛｯｸｶﾘｭｳ0.5%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2559814M1",
+    "name": "ネリザ軟膏",
+    "generic_name": "ネリザ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ネリザ軟膏",
+        "kana": "ﾈﾘｻﾞﾅﾝｺｳ"
+      }
+    ]
+  },
+  "indications": []
+}

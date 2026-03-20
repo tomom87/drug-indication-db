@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2655706N1",
+    "name": "オキナゾールクリーム１％",
+    "generic_name": "オキナゾール",
+    "category": "外用抗菌薬",
+    "brands": [
+      {
+        "name": "オキナゾールクリーム１％",
+        "kana": "ｵｷﾅｿﾞｰﾙｸﾘｰﾑ1%"
+      }
+    ]
+  },
+  "indications": []
+}

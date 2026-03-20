@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291046M2",
+    "name": "タフィンラーカプセル７５ｍｇ",
+    "generic_name": "タフィンラー",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タフィンラーカプセル７５ｍｇ",
+        "kana": "ﾀﾌｨﾝﾗｰｶﾌﾟｾﾙ75MG"
+      }
+    ]
+  },
+  "indications": []
+}

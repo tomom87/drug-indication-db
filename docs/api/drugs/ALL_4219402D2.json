@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4219402D2",
+    "name": "注射用サイメリン１００ｍｇ",
+    "generic_name": "",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "注射用サイメリン１００ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳｻｲﾒﾘﾝ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

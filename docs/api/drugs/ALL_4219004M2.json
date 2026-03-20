@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4219004M2",
+    "name": "テモダールカプセル１００ｍｇ",
+    "generic_name": "テモダール",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "テモダールカプセル１００ｍｇ",
+        "kana": "ﾃﾓﾀﾞｰﾙｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

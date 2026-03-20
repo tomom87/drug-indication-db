@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2139009F3",
+    "name": "トラセミドＯＤ錠４ｍｇ「ＴＥ」",
+    "generic_name": "トラセミドＯＤ",
+    "category": "利尿薬",
+    "brands": [
+      {
+        "name": "トラセミドＯＤ錠４ｍｇ「ＴＥ」",
+        "kana": "ﾄﾗｾﾐﾄﾞODｼﾞｮｳ4MGTE"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7823024",
+      "name": "浮腫",
+      "kana": "3",
+      "icd10": "R609"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4413004F1",
+    "name": "ニポラジン錠３ｍｇ",
+    "generic_name": "ニポラジン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ニポラジン錠３ｍｇ",
+        "kana": "ﾆﾎﾟﾗｼﾞﾝｼﾞｮｳ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

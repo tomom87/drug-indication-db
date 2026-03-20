@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100006X1",
+    "name": "花扇イレイセンＫ",
+    "generic_name": "花扇イレイセンＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇イレイセンＫ",
+        "kana": "ﾊﾅｵｳｷﾞｲﾚｲｾﾝK"
+      }
+    ]
+  },
+  "indications": []
+}

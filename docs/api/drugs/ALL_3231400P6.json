@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231400P6",
+    "name": "大塚糖液５％２ポート５０ｍＬ",
+    "generic_name": "大塚糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "大塚糖液５％２ポート５０ｍＬ",
+        "kana": "ｵｵﾂｶﾄｳｴｷ5%2ﾎﾟｰﾄ50ML"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291018F1",
+    "name": "スニチニブ錠１２．５ｍｇ「ＮＫ」",
+    "generic_name": "スニチニブ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "スニチニブ錠１２．５ｍｇ「ＮＫ」",
+        "kana": "ｽﾆﾁﾆﾌﾞｼﾞｮｳ12.5MGNK"
+      }
+    ]
+  },
+  "indications": []
+}

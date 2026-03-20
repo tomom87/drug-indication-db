@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179045B1",
+    "name": "エビリファイ散１％",
+    "generic_name": "エビリファイ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "エビリファイ散１％",
+        "kana": "ｴﾋﾞﾘﾌｧｲｻﾝ1%"
+      }
+    ]
+  },
+  "indications": []
+}

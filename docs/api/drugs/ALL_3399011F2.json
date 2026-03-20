@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3399011F2",
+    "name": "ブリリンタ錠９０ｍｇ",
+    "generic_name": "ブリリンタ",
+    "category": "その他の血液用薬",
+    "brands": [
+      {
+        "name": "ブリリンタ錠９０ｍｇ",
+        "kana": "ﾌﾞﾘﾘﾝﾀｼﾞｮｳ90MG"
+      }
+    ]
+  },
+  "indications": []
+}

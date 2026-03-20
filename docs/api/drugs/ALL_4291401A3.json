@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291401A3",
+    "name": "ランダ注５０ｍｇ／１００ｍＬ",
+    "generic_name": "ランダ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ランダ注５０ｍｇ／１００ｍＬ",
+        "kana": "ﾗﾝﾀﾞﾁｭｳ50MG/100ML"
+      }
+    ]
+  },
+  "indications": []
+}

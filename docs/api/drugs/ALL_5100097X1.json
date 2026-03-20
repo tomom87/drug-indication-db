@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100097X1",
+    "name": "ウチダのシャゼンシＭ",
+    "generic_name": "ウチダのシャゼンシＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのシャゼンシＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｬｾﾞﾝｼM"
+      }
+    ]
+  },
+  "indications": []
+}

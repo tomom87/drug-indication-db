@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2590700S1",
+    "name": "ネオキシテープ７３．５ｍｇ",
+    "generic_name": "ネオキシ",
+    "category": "泌尿器用薬",
+    "brands": [
+      {
+        "name": "ネオキシテープ７３．５ｍｇ",
+        "kana": "ﾈｵｷｼﾃｰﾌﾟ73.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

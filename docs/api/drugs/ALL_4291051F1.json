@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291051F1",
+    "name": "イブランス錠２５ｍｇ",
+    "generic_name": "イブランス",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "イブランス錠２５ｍｇ",
+        "kana": "ｲﾌﾞﾗﾝｽｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

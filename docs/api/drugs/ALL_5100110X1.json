@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100110X1",
+    "name": "ウチダのセネガＭ",
+    "generic_name": "ウチダのセネガＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのセネガＭ",
+        "kana": "ｳﾁﾀﾞﾉｾﾈｶﾞM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454002F2",
+    "name": "レナデックス錠４ｍｇ",
+    "generic_name": "レナデックス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レナデックス錠４ｍｇ",
+        "kana": "ﾚﾅﾃﾞｯｸｽｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

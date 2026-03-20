@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319529A2",
+    "name": "ソルデム２輸液　５００ｍＬ",
+    "generic_name": "ソルデム２輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ソルデム２輸液　５００ｍＬ",
+        "kana": "ｿﾙﾃﾞﾑ2ﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

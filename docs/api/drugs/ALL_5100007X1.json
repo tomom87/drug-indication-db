@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100007X1",
+    "name": "インチンコウダイコーＭ",
+    "generic_name": "インチンコウダイコーＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "インチンコウダイコーＭ",
+        "kana": "ｲﾝﾁﾝｺｳﾀﾞｲｺｰM"
+      }
+    ]
+  },
+  "indications": []
+}

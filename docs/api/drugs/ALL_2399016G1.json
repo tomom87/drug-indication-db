@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399016G1",
+    "name": "コレチメント錠９ｍｇ",
+    "generic_name": "コレチメント",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "コレチメント錠９ｍｇ",
+        "kana": "ｺﾚﾁﾒﾝﾄｼﾞｮｳ9MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219701S1",
+    "name": "フェントステープ１ｍｇ",
+    "generic_name": "フェントス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "フェントステープ１ｍｇ",
+        "kana": "ﾌｪﾝﾄｽﾃｰﾌﾟ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

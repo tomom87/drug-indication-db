@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4419008F1",
+    "name": "タベジール錠１ｍｇ",
+    "generic_name": "タベジール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "タベジール錠１ｍｇ",
+        "kana": "ﾀﾍﾞｼﾞｰﾙｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

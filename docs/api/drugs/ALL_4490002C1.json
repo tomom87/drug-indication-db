@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490002C1",
+    "name": "リザベン細粒１０％",
+    "generic_name": "リザベン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リザベン細粒１０％",
+        "kana": "ﾘｻﾞﾍﾞﾝｻｲﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

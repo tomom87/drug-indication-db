@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291021M2",
+    "name": "タシグナカプセル１５０ｍｇ",
+    "generic_name": "タシグナ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タシグナカプセル１５０ｍｇ",
+        "kana": "ﾀｼｸﾞﾅｶﾌﾟｾﾙ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3239527A2",
+    "name": "ハイカリックＲＦ輸液　５００ｍＬ",
+    "generic_name": "ハイカリックＲＦ輸",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "ハイカリックＲＦ輸液　５００ｍＬ",
+        "kana": "ﾊｲｶﾘｯｸRFﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

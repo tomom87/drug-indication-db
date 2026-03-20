@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3233400A4",
+    "name": "マルトス輸液１０％　５００ｍＬ",
+    "generic_name": "マルトス輸",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "マルトス輸液１０％　５００ｍＬ",
+        "kana": "ﾏﾙﾄｽﾕｴｷ10%"
+      }
+    ]
+  },
+  "indications": []
+}

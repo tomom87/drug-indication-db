@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291087F1",
+    "name": "タスフィゴ錠３５ｍｇ",
+    "generic_name": "タスフィゴ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タスフィゴ錠３５ｍｇ",
+        "kana": "ﾀｽﾌｨｺﾞｼﾞｮｳ35MG"
+      }
+    ]
+  },
+  "indications": []
+}

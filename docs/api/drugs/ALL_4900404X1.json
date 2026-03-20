@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900404X1",
+    "name": "ゾルゲンスマ点滴静注",
+    "generic_name": "ゾルゲンスマ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ゾルゲンスマ点滴静注",
+        "kana": "ｿﾞﾙｹﾞﾝｽﾏﾃﾝﾃｷｼﾞｮｳﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,13 +6,13 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0040",
+      "yj_code": "NAIKA_0036",
       "name": "メトクロプラミド",
       "generic_name": "メトクロプラミド",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0042",
+      "yj_code": "NAIKA_0038",
       "name": "酸化マグネシウム",
       "generic_name": "酸化マグネシウム",
       "category": "消化器薬"

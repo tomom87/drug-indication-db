@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291049M2",
+    "name": "ニンラーロカプセル３ｍｇ",
+    "generic_name": "ニンラーロ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ニンラーロカプセル３ｍｇ",
+        "kana": "ﾆﾝﾗｰﾛｶﾌﾟｾﾙ3MG"
+      }
+    ]
+  },
+  "indications": []
+}

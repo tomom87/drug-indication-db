@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2391400A3",
+    "name": "カイトリル注１ｍｇ　１ｍＬ",
+    "generic_name": "カイトリル",
+    "category": "下剤",
+    "brands": [
+      {
+        "name": "カイトリル注１ｍｇ　１ｍＬ",
+        "kana": "ｶｲﾄﾘﾙﾁｭｳ1MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8840042",
+      "name": "便秘症",
+      "kana": "6",
+      "icd10": "K590"
+    }
+  ]
+}

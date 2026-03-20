@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1311701Q1",
+    "name": "サイプレジン１％点眼液",
+    "generic_name": "サイプレジン",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "サイプレジン１％点眼液",
+        "kana": "ｻｲﾌﾟﾚｼﾞﾝ1%ﾃﾝｶﾞﾝｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

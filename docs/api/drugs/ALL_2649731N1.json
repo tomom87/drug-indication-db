@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649731N1",
+    "name": "ナパゲルンクリーム３％",
+    "generic_name": "ナパ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ナパゲルンクリーム３％",
+        "kana": "ﾅﾊﾟｹﾞﾙﾝｸﾘｰﾑ3%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179061F4",
+    "name": "ラツーダ錠８０ｍｇ",
+    "generic_name": "ラツーダ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ラツーダ錠８０ｍｇ",
+        "kana": "ﾗﾂｰﾀﾞｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

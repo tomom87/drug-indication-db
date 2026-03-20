@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649731M1",
+    "name": "ナパゲルン軟膏３％",
+    "generic_name": "ナパ",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ナパゲルン軟膏３％",
+        "kana": "ﾅﾊﾟｹﾞﾙﾝﾅﾝｺｳ3%"
+      }
+    ]
+  },
+  "indications": []
+}

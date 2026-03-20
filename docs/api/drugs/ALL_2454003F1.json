@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454003F1",
+    "name": "レダコート錠４ｍｇ",
+    "generic_name": "レダコート",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レダコート錠４ｍｇ",
+        "kana": "ﾚﾀﾞｺｰﾄｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

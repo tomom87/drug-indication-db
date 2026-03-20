@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300438A1",
+    "name": "カルディオダイン注",
+    "generic_name": "カルディオダイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カルディオダイン注",
+        "kana": "ｶﾙﾃﾞｨｵﾀﾞｲﾝﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,25 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0034",
+      "yj_code": "NAIKA_0030",
       "name": "エソメプラゾール",
       "generic_name": "エソメプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0036",
+      "yj_code": "NAIKA_0032",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0132",
+      "yj_code": "NAIKA_0125",
       "name": "ラベプラゾール",
       "generic_name": "ラベプラゾール",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0033",
+      "yj_code": "NAIKA_0029",
       "name": "ランソプラゾール",
       "generic_name": "ランソプラゾール",
       "category": "消化器薬"

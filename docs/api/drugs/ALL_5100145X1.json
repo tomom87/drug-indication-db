@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100145X1",
+    "name": "ナンテンジツ",
+    "generic_name": "ナンテンジツ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ナンテンジツ",
+        "kana": "ﾅﾝﾃﾝｼﾞﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,205 +6,463 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_1129007",
+      "yj_code": "ALL_1129007F2",
+      "name": "アモバン錠１０　１０ｍｇ",
+      "generic_name": "アモバン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129007F1",
       "name": "アモバン錠７．５　７．５ｍｇ",
       "generic_name": "アモバン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124001",
+      "yj_code": "ALL_1124001F1",
       "name": "エスタゾラム錠１ｍｇ「アメル」",
       "generic_name": "エスタゾラム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124010",
+      "yj_code": "ALL_1124001F2",
+      "name": "エスタゾラム錠２ｍｇ「アメル」",
+      "generic_name": "エスタゾラム",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124010F1",
       "name": "エバミール錠１．０　１ｍｇ",
       "generic_name": "エバミール",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124028",
+      "yj_code": "ALL_1124028B1",
       "name": "クロルジアゼポキシド散　１％",
       "generic_name": "クロルジアゼポキシド",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124026",
+      "yj_code": "ALL_1124028B2",
+      "name": "クロルジアゼポキシド散　１０％",
+      "generic_name": "クロルジアゼポキシド",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124028F2",
+      "name": "クロルジアゼポキシド錠　１０ｍｇ",
+      "generic_name": "クロルジアゼポキシド",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124028F1",
+      "name": "クロルジアゼポキシド錠　５ｍｇ",
+      "generic_name": "クロルジアゼポキシド",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124026F1",
       "name": "グランダキシン錠５０　５０ｍｇ",
       "generic_name": "グランダキシン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124023",
+      "yj_code": "ALL_1124023F1",
       "name": "コンスタン０．４ｍｇ錠",
       "generic_name": "コンスタン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124400",
+      "yj_code": "ALL_1124023F2",
+      "name": "コンスタン０．８ｍｇ錠",
+      "generic_name": "コンスタン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124400A1",
       "name": "サイレース静注２ｍｇ",
       "generic_name": "サイレース静",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124402",
+      "yj_code": "ALL_1124402A2",
       "name": "ジアゼパム注射液１０ｍｇ「ＮＩＧ」",
       "generic_name": "ジアゼパム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1129008",
+      "yj_code": "ALL_1124402A1",
+      "name": "ジアゼパム注射液５ｍｇ「ＮＩＧ」",
+      "generic_name": "ジアゼパム",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129008F2",
+      "name": "セディール錠１０ｍｇ",
+      "generic_name": "セディール",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129008F3",
       "name": "セディール錠２０ｍｇ",
       "generic_name": "セディール",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124014",
+      "yj_code": "ALL_1129008F1",
+      "name": "セディール錠５ｍｇ",
+      "generic_name": "セディール",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124014B1",
       "name": "セパゾン散１％",
       "generic_name": "セパゾン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124017",
+      "yj_code": "ALL_1124014F1",
+      "name": "セパゾン錠１　１ｍｇ",
+      "generic_name": "セパゾン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124014F2",
+      "name": "セパゾン錠２　２ｍｇ",
+      "generic_name": "セパゾン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124017B1",
       "name": "セルシン散１％",
       "generic_name": "セルシン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124013",
+      "yj_code": "ALL_1124013B1",
       "name": "セレナール散１０％",
       "generic_name": "セレナール",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124005",
+      "yj_code": "ALL_1124013F2",
+      "name": "セレナール錠１０　１０ｍｇ",
+      "generic_name": "セレナール",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124013F1",
+      "name": "セレナール錠５　５ｍｇ",
+      "generic_name": "セレナール",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124005C1",
+      "name": "ソメリン細粒１％",
+      "generic_name": "ソメリン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124005F2",
       "name": "ソメリン錠１０ｍｇ",
       "generic_name": "ソメリン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124701",
+      "yj_code": "ALL_1124005F1",
+      "name": "ソメリン錠５ｍｇ",
+      "generic_name": "ソメリン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124701J3",
+      "name": "ダイアップ坐剤１０　１０ｍｇ",
+      "generic_name": "ダイアップ",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124701J1",
       "name": "ダイアップ坐剤４　４ｍｇ",
       "generic_name": "ダイアップ",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124002",
+      "yj_code": "ALL_1124701J2",
+      "name": "ダイアップ坐剤６　６ｍｇ",
+      "generic_name": "ダイアップ",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124002M2",
       "name": "ダルメートカプセル１５　１５ｍｇ",
       "generic_name": "ダルメート",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1129004",
+      "yj_code": "ALL_1124026C1",
+      "name": "トフィソパム細粒１０％「ツルハラ」",
+      "generic_name": "トフィソパム",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129004Q1",
       "name": "トリクロリールシロップ１０％",
       "generic_name": "トリクロリール",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124030",
+      "yj_code": "ALL_1124030F1",
       "name": "ドラール錠１５　１５ｍｇ",
       "generic_name": "ドラール",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124031",
+      "yj_code": "ALL_1124030F2",
+      "name": "ドラール錠２０　２０ｍｇ",
+      "generic_name": "ドラール",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124031Q1",
       "name": "ドルミカムシロップ２ｍｇ／ｍＬ　０．２％",
       "generic_name": "ドルミカム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124401",
+      "yj_code": "ALL_1124401A1",
       "name": "ドルミカム注射液１０ｍｇ　２ｍＬ",
       "generic_name": "ドルミカム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124007",
+      "yj_code": "ALL_1124003B1",
+      "name": "ネルボン散１％",
+      "generic_name": "ネルボン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124003F3",
+      "name": "ネルボン錠１０ｍｇ",
+      "generic_name": "ネルボン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124007F1",
+      "name": "ハルシオン０．１２５ｍｇ錠",
+      "generic_name": "ハルシオン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124007F2",
       "name": "ハルシオン０．２５ｍｇ錠",
       "generic_name": "ハルシオン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124008",
+      "yj_code": "ALL_1124008F1",
       "name": "フルニトラゼパム錠１ｍｇ「アメル」",
       "generic_name": "フルニトラゼパム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124700",
+      "yj_code": "ALL_1124008F2",
+      "name": "フルニトラゼパム錠２ｍｇ「アメル」",
+      "generic_name": "フルニトラゼパム",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124700J1",
       "name": "ブロマゼパム坐剤３ｍｇ「サンド」",
       "generic_name": "ブロマゼパム",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1121001",
+      "yj_code": "ALL_1124020F3",
+      "name": "ブロマゼパム錠３ｍｇ「サンド」",
+      "generic_name": "ブロマゼパム",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1121001X1",
       "name": "ブロモバレリル尿素",
       "generic_name": "ブロモバレリル尿素",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1129400",
+      "yj_code": "ALL_1129400A1",
       "name": "プレセデックス静注液２００μｇ「ファイザー」　２ｍＬ",
       "generic_name": "プレセデックス静",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124003",
+      "yj_code": "ALL_1129400G1",
+      "name": "プレセデックス静注液２００μｇ／５０ｍＬシリンジ「ファイザー」",
+      "generic_name": "プレセデックス静",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124003C1",
+      "name": "ベンザリン細粒１％",
+      "generic_name": "ベンザリン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124003F1",
+      "name": "ベンザリン錠２　２ｍｇ",
+      "generic_name": "ベンザリン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124003F2",
       "name": "ベンザリン錠５　５ｍｇ",
       "generic_name": "ベンザリン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124029",
+      "yj_code": "ALL_1124029C1",
+      "name": "メイラックス細粒１％",
+      "generic_name": "メイラックス",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124029F1",
       "name": "メイラックス錠１ｍｇ",
       "generic_name": "メイラックス",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124025",
+      "yj_code": "ALL_1124029F2",
+      "name": "メイラックス錠２ｍｇ",
+      "generic_name": "メイラックス",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124025C1",
+      "name": "メレックス細粒０．１％",
+      "generic_name": "メレックス",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124025F1",
       "name": "メレックス錠０．５ｍｇ",
       "generic_name": "メレックス",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124015",
+      "yj_code": "ALL_1124025F2",
+      "name": "メレックス錠１ｍｇ",
+      "generic_name": "メレックス",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124015M2",
       "name": "メンドンカプセル７．５ｍｇ",
       "generic_name": "メンドン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1129006",
+      "yj_code": "ALL_1124001B1",
+      "name": "ユーロジン散１％",
+      "generic_name": "ユーロジン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129006F1",
       "name": "リスミー錠１ｍｇ",
       "generic_name": "リスミー",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1129010",
+      "yj_code": "ALL_1129006F2",
+      "name": "リスミー錠２ｍｇ",
+      "generic_name": "リスミー",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129010F1",
       "name": "ルネスタ錠１ｍｇ",
       "generic_name": "ルネスタ",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124020",
+      "yj_code": "ALL_1129010F2",
+      "name": "ルネスタ錠２ｍｇ",
+      "generic_name": "ルネスタ",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1129010F3",
+      "name": "ルネスタ錠３ｍｇ",
+      "generic_name": "ルネスタ",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124020C1",
+      "name": "レキソタン細粒１％",
+      "generic_name": "レキソタン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124020F1",
       "name": "レキソタン錠１　１ｍｇ",
       "generic_name": "レキソタン",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124021",
+      "yj_code": "ALL_1124020F2",
+      "name": "レキソタン錠２　２ｍｇ",
+      "generic_name": "レキソタン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124020F4",
+      "name": "レキソタン錠５　５ｍｇ",
+      "generic_name": "レキソタン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124021F1",
       "name": "レスミット錠２　２ｍｇ",
       "generic_name": "レスミット",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "ALL_1124009",
+      "yj_code": "ALL_1124021F2",
+      "name": "レスミット錠５　５ｍｇ",
+      "generic_name": "レスミット",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124009F1",
+      "name": "レンドルミン錠０．２５ｍｇ",
+      "generic_name": "レンドルミン",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124009F2",
       "name": "レンドルミンＤ錠０．２５ｍｇ",
       "generic_name": "レンドルミンＤ",
       "category": "催眠鎮静薬"
     },
     {
-      "yj_code": "NAIKA_0086",
+      "yj_code": "ALL_1124017F5",
+      "name": "１０ｍｇセルシン錠",
+      "generic_name": "",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124017F2",
+      "name": "２ｍｇセルシン錠",
+      "generic_name": "",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "ALL_1124017F4",
+      "name": "５ｍｇセルシン錠",
+      "generic_name": "",
+      "category": "催眠鎮静薬"
+    },
+    {
+      "yj_code": "NAIKA_0080",
       "name": "エチゾラム",
       "generic_name": "エチゾラム",
       "category": "抗不安薬"
@@ -300,25 +558,25 @@
       "category": "漢方"
     },
     {
-      "yj_code": "NAIKA_0088",
+      "yj_code": "NAIKA_0082",
       "name": "スボレキサント",
       "generic_name": "スボレキサント",
       "category": "睡眠薬"
     },
     {
-      "yj_code": "NAIKA_0087",
+      "yj_code": "NAIKA_0081",
       "name": "ゾルピデム",
       "generic_name": "ゾルピデム",
       "category": "睡眠薬"
     },
     {
-      "yj_code": "NAIKA_0219",
+      "yj_code": "NAIKA_0211",
       "name": "ラメルテオン",
       "generic_name": "ラメルテオン",
       "category": "睡眠薬"
     },
     {
-      "yj_code": "NAIKA_0089",
+      "yj_code": "NAIKA_0083",
       "name": "レンボレキサント",
       "generic_name": "レンボレキサント",
       "category": "睡眠薬"

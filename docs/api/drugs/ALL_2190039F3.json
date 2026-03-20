@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190039F3",
+    "name": "コララン錠７．５ｍｇ",
+    "generic_name": "コララン",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "コララン錠７．５ｍｇ",
+        "kana": "ｺﾗﾗﾝｼﾞｮｳ7.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

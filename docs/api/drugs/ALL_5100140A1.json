@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100140A1",
+    "name": "トウヒ末",
+    "generic_name": "トウヒ末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トウヒ末",
+        "kana": "ﾄｳﾋﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

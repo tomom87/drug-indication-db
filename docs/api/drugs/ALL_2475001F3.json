@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2475001F3",
+    "name": "エストリール錠１ｍｇ（持田）",
+    "generic_name": "エストリール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "エストリール錠１ｍｇ（持田）",
+        "kana": "ｴｽﾄﾘｰﾙｼﾞｮｳ1MGﾓﾁﾀﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

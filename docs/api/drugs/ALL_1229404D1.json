@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1229404D1",
+    "name": "ボトックス注用５０単位",
+    "generic_name": "ボトックス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ボトックス注用５０単位",
+        "kana": "ﾎﾞﾄｯｸｽﾁｭｳﾖｳ50ﾀﾝｲ"
+      }
+    ]
+  },
+  "indications": []
+}

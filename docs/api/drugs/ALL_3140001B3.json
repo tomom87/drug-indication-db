@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3140001B3",
+    "name": "アスコルビン酸散　２０％",
+    "generic_name": "アスコルビン酸",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アスコルビン酸散　２０％",
+        "kana": "ｱｽｺﾙﾋﾞﾝｻﾝｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

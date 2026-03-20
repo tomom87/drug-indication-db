@@ -6,145 +6,241 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2129004",
+      "yj_code": "ALL_2129004M1",
       "name": "アスペノンカプセル１０　１０ｍｇ",
       "generic_name": "アスペノン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2121400",
+      "yj_code": "ALL_2129004M2",
+      "name": "アスペノンカプセル２０　２０ｍｇ",
+      "generic_name": "アスペノン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2121400A1",
       "name": "アミサリン注１００ｍｇ　１０％１ｍＬ",
       "generic_name": "アミサリン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123014",
+      "yj_code": "ALL_2121400A2",
+      "name": "アミサリン注２００ｍｇ　１０％２ｍＬ",
+      "generic_name": "アミサリン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123014F2",
+      "name": "アロチノロール塩酸塩錠１０ｍｇ「ＤＳＰ」",
+      "generic_name": "アロチノロール塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123014F1",
       "name": "アロチノロール塩酸塩錠５ｍｇ「ＤＳＰ」",
       "generic_name": "アロチノロール塩酸塩",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123402",
+      "yj_code": "ALL_2123402A1",
       "name": "インデラル注射液２ｍｇ　０．１％２ｍＬ",
       "generic_name": "インデラル",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123404",
+      "yj_code": "ALL_2123404D3",
+      "name": "オノアクト点滴静注用１５０ｍｇ",
+      "generic_name": "オノアクト",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2123404D1",
       "name": "オノアクト点滴静注用５０ｍｇ",
       "generic_name": "オノアクト",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129408",
+      "yj_code": "ALL_2123404D2",
+      "name": "コアベータ静注用１２．５ｍｇ",
+      "generic_name": "コアベータ静",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129408A1",
       "name": "サンリズム注射液５０　５０ｍｇ５ｍＬ",
       "generic_name": "サンリズム",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129007",
+      "yj_code": "ALL_2129007F2",
+      "name": "シベノール錠１００ｍｇ",
+      "generic_name": "シベノール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129007F1",
       "name": "シベノール錠５０ｍｇ",
       "generic_name": "シベノール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129405",
+      "yj_code": "ALL_2129405A1",
       "name": "シベノール静注７０ｍｇ　５ｍＬ",
       "generic_name": "シベノール静",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129407",
+      "yj_code": "ALL_2129407D1",
       "name": "シンビット静注用５０ｍｇ",
       "generic_name": "シンビット静",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129013",
+      "yj_code": "ALL_2129013F1",
       "name": "ソタコール錠４０ｍｇ",
       "generic_name": "ソタコール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129406",
+      "yj_code": "ALL_2129013F2",
+      "name": "ソタコール錠８０ｍｇ",
+      "generic_name": "ソタコール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129406A1",
       "name": "タンボコール静注５０ｍｇ　５ｍＬ",
       "generic_name": "タンボコール静",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123015",
+      "yj_code": "ALL_2123015F1",
       "name": "ナディック錠３０ｍｇ",
       "generic_name": "ナディック",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129012",
+      "yj_code": "ALL_2129012M2",
+      "name": "ピメノールカプセル１００ｍｇ",
+      "generic_name": "ピメノール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129012M1",
       "name": "ピメノールカプセル５０ｍｇ",
       "generic_name": "ピメノール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123405",
+      "yj_code": "ALL_2123405A1",
       "name": "ブレビブロック注　１００ｍｇ　１０ｍＬ",
       "generic_name": "ブレビブロック",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2121001",
+      "yj_code": "ALL_2121001F1",
       "name": "プロカインアミド塩酸塩錠　１２５ｍｇ",
       "generic_name": "プロカインアミド塩酸塩",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129006",
+      "yj_code": "ALL_2121001F2",
+      "name": "プロカインアミド塩酸塩錠　２５０ｍｇ",
+      "generic_name": "プロカインアミド塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129006F2",
+      "name": "プロノン錠１００ｍｇ",
+      "generic_name": "プロノン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129006F1",
       "name": "プロノン錠１５０ｍｇ",
       "generic_name": "プロノン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129011",
+      "yj_code": "ALL_2129011F2",
+      "name": "ベプリコール錠１００ｍｇ",
+      "generic_name": "ベプリコール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129011F1",
       "name": "ベプリコール錠５０ｍｇ",
       "generic_name": "ベプリコール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129003",
+      "yj_code": "ALL_2123005F1",
+      "name": "ミケラン錠５ｍｇ",
+      "generic_name": "ミケラン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129003M2",
+      "name": "メキシチールカプセル１００ｍｇ",
+      "generic_name": "メキシチール",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129003M1",
       "name": "メキシチールカプセル５０ｍｇ",
       "generic_name": "メキシチール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129403",
+      "yj_code": "ALL_2129403A1",
       "name": "メキシチール点滴静注１２５ｍｇ　５ｍＬ",
       "generic_name": "メキシチール",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129002",
+      "yj_code": "ALL_2129003F2",
+      "name": "メキシレチン塩酸塩錠１００ｍｇ「ＫＣＣ」",
+      "generic_name": "メキシレチン塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129003F1",
+      "name": "メキシレチン塩酸塩錠５０ｍｇ「ＫＣＣ」",
+      "generic_name": "メキシレチン塩酸塩",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129002M2",
+      "name": "リスモダンカプセル１００ｍｇ",
+      "generic_name": "リスモダン",
+      "category": "不整脈用薬"
+    },
+    {
+      "yj_code": "ALL_2129002M1",
       "name": "リスモダンカプセル５０ｍｇ",
       "generic_name": "リスモダン",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129401",
+      "yj_code": "ALL_2129401A1",
       "name": "リスモダンＰ静注５０ｍｇ　５ｍＬ",
       "generic_name": "リスモダンＰ静",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129005",
+      "yj_code": "ALL_2129005F1",
       "name": "リスモダンＲ錠１５０ｍｇ",
       "generic_name": "リスモダンＲ",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2129409",
+      "yj_code": "ALL_2129409G1",
       "name": "リドカイン静注用２％シリンジ「テルモ」　５ｍＬ",
       "generic_name": "リドカイン静",
       "category": "不整脈用薬"
     },
     {
-      "yj_code": "ALL_2123005",
+      "yj_code": "ALL_2123005C1",
       "name": "小児用ミケラン細粒０．２％",
       "generic_name": "小児用ミケラン",
       "category": "不整脈用薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100154X1",
+    "name": "ウチダのハンゲＭ",
+    "generic_name": "ウチダのハンゲＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのハンゲＭ",
+        "kana": "ｳﾁﾀﾞﾉﾊﾝｹﾞM"
+      }
+    ]
+  },
+  "indications": []
+}

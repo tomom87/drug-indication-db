@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3327002F2",
+    "name": "トランサミン錠５００ｍｇ",
+    "generic_name": "トランサミン",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "トランサミン錠５００ｍｇ",
+        "kana": "ﾄﾗﾝｻﾐﾝｼﾞｮｳ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

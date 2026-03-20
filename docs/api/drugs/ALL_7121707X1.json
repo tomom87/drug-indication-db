@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121707X1",
+    "name": "サラシミツロウ（東豊）",
+    "generic_name": "サラシミツロウ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サラシミツロウ（東豊）",
+        "kana": "ｻﾗｼﾐﾂﾛｳﾄｳﾎｳ"
+      }
+    ]
+  },
+  "indications": []
+}

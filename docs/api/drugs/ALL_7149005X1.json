@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7149005X1",
+    "name": "ハッカ水",
+    "generic_name": "ハッカ水",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハッカ水",
+        "kana": "ﾊｯｶｽｲ"
+      }
+    ]
+  },
+  "indications": []
+}

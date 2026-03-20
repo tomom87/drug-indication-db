@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649729Q1",
+    "name": "セクターゲル３％",
+    "generic_name": "セクター",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "セクターゲル３％",
+        "kana": "ｾｸﾀｰｹﾞﾙ3%"
+      }
+    ]
+  },
+  "indications": []
+}

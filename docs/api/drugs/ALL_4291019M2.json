@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291019M2",
+    "name": "サレドカプセル５０　５０ｍｇ",
+    "generic_name": "サレド",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "サレドカプセル５０　５０ｍｇ",
+        "kana": "ｻﾚﾄﾞｶﾌﾟｾﾙ50"
+      }
+    ]
+  },
+  "indications": []
+}

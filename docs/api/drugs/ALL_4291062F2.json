@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291062F2",
+    "name": "ベネクレクスタ錠５０ｍｇ",
+    "generic_name": "ベネクレクスタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ベネクレクスタ錠５０ｍｇ",
+        "kana": "ﾍﾞﾈｸﾚｸｽﾀｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

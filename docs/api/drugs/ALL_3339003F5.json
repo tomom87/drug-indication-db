@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339003F5",
+    "name": "イグザレルト錠２．５ｍｇ",
+    "generic_name": "イグザレルト",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "イグザレルト錠２．５ｍｇ",
+        "kana": "ｲｸﾞｻﾞﾚﾙﾄｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

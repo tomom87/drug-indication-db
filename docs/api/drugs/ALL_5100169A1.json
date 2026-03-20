@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100169A1",
+    "name": "ウチダのボレイ末Ｍ",
+    "generic_name": "ウチダのボレイ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのボレイ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞﾚｲﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

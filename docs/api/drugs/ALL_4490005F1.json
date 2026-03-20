@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490005F1",
+    "name": "オキサトミド３０ｍｇ錠",
+    "generic_name": "オキサトミド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オキサトミド３０ｍｇ錠",
+        "kana": "ｵｷｻﾄﾐﾄﾞ30MGｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

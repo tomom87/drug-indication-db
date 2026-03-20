@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3322001X1",
+    "name": "ゼラチン",
+    "generic_name": "ゼラチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ゼラチン",
+        "kana": "ｾﾞﾗﾁﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

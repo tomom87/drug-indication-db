@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6219700J1",
+    "name": "サラゾピリン坐剤５００ｍｇ",
+    "generic_name": "サラゾピリン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "サラゾピリン坐剤５００ｍｇ",
+        "kana": "ｻﾗｿﾞﾋﾟﾘﾝｻﾞｻﾞｲ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

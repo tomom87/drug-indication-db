@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179017F2",
+    "name": "リーマス錠２００　２００ｍｇ",
+    "generic_name": "リーマス",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "リーマス錠２００　２００ｍｇ",
+        "kana": "ﾘｰﾏｽｼﾞｮｳ200"
+      }
+    ]
+  },
+  "indications": []
+}

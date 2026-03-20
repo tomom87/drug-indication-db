@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190023F1",
+    "name": "ミグシス錠５ｍｇ",
+    "generic_name": "ミグシス",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "ミグシス錠５ｍｇ",
+        "kana": "ﾐｸﾞｼｽｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

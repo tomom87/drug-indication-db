@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219700T4",
+    "name": "ワンデュロパッチ５ｍｇ",
+    "generic_name": "ワンデュロパッチ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ワンデュロパッチ５ｍｇ",
+        "kana": "ﾜﾝﾃﾞｭﾛﾊﾟｯﾁ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

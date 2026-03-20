@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219401D2",
+    "name": "アルチバ静注用５ｍｇ",
+    "generic_name": "アルチバ静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アルチバ静注用５ｍｇ",
+        "kana": "ｱﾙﾁﾊﾞｼﾞｮｳﾁｭｳﾖｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,37 +6,37 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0135",
+      "yj_code": "NAIKA_0128",
       "name": "トリメブチン",
       "generic_name": "トリメブチン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0039",
+      "yj_code": "NAIKA_0035",
       "name": "ドンペリドン",
       "generic_name": "ドンペリドン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0036",
+      "yj_code": "NAIKA_0032",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0038",
+      "yj_code": "NAIKA_0034",
       "name": "モサプリド",
       "generic_name": "モサプリド",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0037",
+      "yj_code": "NAIKA_0033",
       "name": "レバミピド",
       "generic_name": "レバミピド",
       "category": "消化器薬"
     },
     {
-      "yj_code": "ALL_2321001",
+      "yj_code": "ALL_2321001F1",
       "name": "キャベジンＵコーワ錠２５ｍｇ",
       "generic_name": "キャベジンＵコーワ",
       "category": "消化機能調整薬"

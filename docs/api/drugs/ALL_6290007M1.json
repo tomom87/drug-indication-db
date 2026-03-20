@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6290007M1",
+    "name": "ネイリンカプセル１００ｍｇ",
+    "generic_name": "ネイリン",
+    "category": "抗感染症薬",
+    "brands": [
+      {
+        "name": "ネイリンカプセル１００ｍｇ",
+        "kana": "ﾈｲﾘﾝｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

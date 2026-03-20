@@ -6,37 +6,37 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0093",
+      "yj_code": "NAIKA_0087",
       "name": "シロドシン",
       "generic_name": "シロドシン",
       "category": "排尿障害薬"
     },
     {
-      "yj_code": "NAIKA_0092",
+      "yj_code": "NAIKA_0086",
       "name": "タムスロシン",
       "generic_name": "タムスロシン",
       "category": "排尿障害薬"
     },
     {
-      "yj_code": "ALL_2531400",
+      "yj_code": "ALL_2531400A1",
       "name": "エルゴメトリンマレイン酸塩注射液　０．０２％１ｍＬ",
       "generic_name": "エルゴメトリンマレイン酸塩",
       "category": "泌尿器用薬"
     },
     {
-      "yj_code": "ALL_2531001",
+      "yj_code": "ALL_2531001F1",
       "name": "エルゴメトリンマレイン酸塩錠　０．５ｍｇ",
       "generic_name": "エルゴメトリンマレイン酸塩",
       "category": "泌尿器用薬"
     },
     {
-      "yj_code": "ALL_2531401",
+      "yj_code": "ALL_2531401A1",
       "name": "パルタンＭ注０．２ｍｇ　０．０２％１ｍＬ",
       "generic_name": "パルタンＭ",
       "category": "泌尿器用薬"
     },
     {
-      "yj_code": "ALL_2531002",
+      "yj_code": "ALL_2531002F1",
       "name": "メチルエルゴメトリンマレイン酸塩錠　０．１２５ｍｇ",
       "generic_name": "メチルエルゴメトリンマレイン酸塩",
       "category": "泌尿器用薬"

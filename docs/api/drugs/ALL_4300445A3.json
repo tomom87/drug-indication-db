@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300445A3",
+    "name": "テクネＭＡＧ３注射液　４００ＭＢｑ",
+    "generic_name": "テクネＭＡＧ３",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "テクネＭＡＧ３注射液　４００ＭＢｑ",
+        "kana": "ﾃｸﾈMAG3ﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3122401A2",
+    "name": "アリナミンＦ１０注　１０ｍｇ",
+    "generic_name": "アリナミンＦ１０",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アリナミンＦ１０注　１０ｍｇ",
+        "kana": "ｱﾘﾅﾐﾝF10ﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

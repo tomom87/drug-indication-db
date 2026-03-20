@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1129008F3",
+    "name": "セディール錠２０ｍｇ",
+    "generic_name": "セディール",
+    "category": "催眠鎮静薬",
+    "brands": [
+      {
+        "name": "セディール錠２０ｍｇ",
+        "kana": "ｾﾃﾞｨｰﾙｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

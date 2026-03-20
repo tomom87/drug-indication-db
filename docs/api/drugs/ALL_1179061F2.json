@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179061F2",
+    "name": "ラツーダ錠４０ｍｇ",
+    "generic_name": "ラツーダ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ラツーダ錠４０ｍｇ",
+        "kana": "ﾗﾂｰﾀﾞｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

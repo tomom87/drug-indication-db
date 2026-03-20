@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100148X1",
+    "name": "ウチダのニンジンＭ",
+    "generic_name": "ウチダのニンジンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのニンジンＭ",
+        "kana": "ｳﾁﾀﾞﾉﾆﾝｼﾞﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

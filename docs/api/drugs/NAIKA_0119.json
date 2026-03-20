@@ -1,12 +1,24 @@
 {
   "drug": {
     "yj_code": "NAIKA_0119",
-    "name": "リラグルチド",
-    "generic_name": "リラグルチド",
+    "name": "インスリンデグルデク",
+    "generic_name": "インスリンデグルデク",
     "category": "糖尿病薬",
     "brands": []
   },
   "indications": [
+    {
+      "code": "2500013",
+      "name": "糖尿病",
+      "kana": "8",
+      "icd10": "E14"
+    },
+    {
+      "code": "2500014",
+      "name": "１型糖尿病",
+      "kana": "11",
+      "icd10": "E10"
+    },
     {
       "code": "2500015",
       "name": "２型糖尿病",

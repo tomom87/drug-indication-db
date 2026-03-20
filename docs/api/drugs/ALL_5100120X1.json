@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100120X1",
+    "name": "ウチダのソヨウＭ",
+    "generic_name": "ウチダのソヨウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのソヨウＭ",
+        "kana": "ｳﾁﾀﾞﾉｿﾖｳM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7119002X1",
+    "name": "カプセル",
+    "generic_name": "",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "カプセル",
+        "kana": "ｶﾌﾟｾﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190026F2",
+    "name": "タリージェ錠５ｍｇ",
+    "generic_name": "タリージェ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "タリージェ錠５ｍｇ",
+        "kana": "ﾀﾘｰｼﾞｪｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

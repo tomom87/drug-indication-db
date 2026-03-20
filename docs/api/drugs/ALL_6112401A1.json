@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6112401A1",
+    "name": "ダラシンＳ注射液３００ｍｇ",
+    "generic_name": "ダラシンＳ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ダラシンＳ注射液３００ｍｇ",
+        "kana": "ﾀﾞﾗｼﾝSﾁｭｳｼｬｴｷ300MG"
+      }
+    ]
+  },
+  "indications": []
+}

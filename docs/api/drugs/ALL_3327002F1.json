@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3327002F1",
+    "name": "トランサミン錠２５０ｍｇ",
+    "generic_name": "トランサミン",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "トランサミン錠２５０ｍｇ",
+        "kana": "ﾄﾗﾝｻﾐﾝｼﾞｮｳ250MG"
+      }
+    ]
+  },
+  "indications": []
+}

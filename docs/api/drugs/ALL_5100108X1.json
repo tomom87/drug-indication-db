@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100108X1",
+    "name": "セキショウシ",
+    "generic_name": "セキショウシ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "セキショウシ",
+        "kana": "ｾｷｼｮｳｼ"
+      }
+    ]
+  },
+  "indications": []
+}

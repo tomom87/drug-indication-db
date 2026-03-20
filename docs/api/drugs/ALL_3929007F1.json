@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3929007F1",
+    "name": "ノベルジン錠２５ｍｇ",
+    "generic_name": "ノベルジン",
+    "category": "酵素製剤",
+    "brands": [
+      {
+        "name": "ノベルジン錠２５ｍｇ",
+        "kana": "ﾉﾍﾞﾙｼﾞﾝｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

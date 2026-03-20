@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2652700X1",
+    "name": "サリチル酸「ケンエー」",
+    "generic_name": "サリチル酸「ケンエー」",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "サリチル酸「ケンエー」",
+        "kana": "ｻﾘﾁﾙｻﾝｹﾝｴｰ"
+      }
+    ]
+  },
+  "indications": []
+}

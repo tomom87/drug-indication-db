@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100032X1",
+    "name": "ウチダのカッコンＭ",
+    "generic_name": "ウチダのカッコンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのカッコンＭ",
+        "kana": "ｳﾁﾀﾞﾉｶｯｺﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

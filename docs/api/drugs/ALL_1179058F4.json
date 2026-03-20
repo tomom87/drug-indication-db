@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179058F4",
+    "name": "レキサルティＯＤ錠１ｍｇ",
+    "generic_name": "レキサルティＯＤ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "レキサルティＯＤ錠１ｍｇ",
+        "kana": "ﾚｷｻﾙﾃｨODｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

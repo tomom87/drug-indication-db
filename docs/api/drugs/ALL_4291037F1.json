@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291037F1",
+    "name": "ゼルボラフ錠２４０ｍｇ",
+    "generic_name": "ゼルボラフ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ゼルボラフ錠２４０ｍｇ",
+        "kana": "ｾﾞﾙﾎﾞﾗﾌｼﾞｮｳ240MG"
+      }
+    ]
+  },
+  "indications": []
+}

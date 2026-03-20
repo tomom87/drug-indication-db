@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649729Q2",
+    "name": "セクターローション３％",
+    "generic_name": "セクターローション",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "セクターローション３％",
+        "kana": "ｾｸﾀｰﾛｰｼｮﾝ3%"
+      }
+    ]
+  },
+  "indications": []
+}

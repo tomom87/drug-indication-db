@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119002B5",
+    "name": "オキノーム散２０ｍｇ",
+    "generic_name": "オキノーム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オキノーム散２０ｍｇ",
+        "kana": "ｵｷﾉｰﾑｻﾝ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

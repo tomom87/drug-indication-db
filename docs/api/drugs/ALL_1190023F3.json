@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190023F3",
+    "name": "ベルソムラ錠１０ｍｇ",
+    "generic_name": "ベルソムラ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "ベルソムラ錠１０ｍｇ",
+        "kana": "ﾍﾞﾙｿﾑﾗｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

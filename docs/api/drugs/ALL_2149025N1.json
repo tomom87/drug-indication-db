@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149025N1",
+    "name": "ミケランＬＡカプセル１５ｍｇ",
+    "generic_name": "ミケランＬＡ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ミケランＬＡカプセル１５ｍｇ",
+        "kana": "ﾐｹﾗﾝLAｶﾌﾟｾﾙ15MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

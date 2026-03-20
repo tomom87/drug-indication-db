@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490021F2",
+    "name": "ラマトロバン錠７５ｍｇ「ＫＯ」",
+    "generic_name": "ラマトロバン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラマトロバン錠７５ｍｇ「ＫＯ」",
+        "kana": "ﾗﾏﾄﾛﾊﾞﾝｼﾞｮｳ75MGKO"
+      }
+    ]
+  },
+  "indications": []
+}

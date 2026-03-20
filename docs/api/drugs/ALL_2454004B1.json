@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454004B1",
+    "name": "リンデロン散０．１％",
+    "generic_name": "リンデロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リンデロン散０．１％",
+        "kana": "ﾘﾝﾃﾞﾛﾝｻﾝ0.1%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4420002F1",
+    "name": "リマチル錠１００ｍｇ",
+    "generic_name": "リマチル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リマチル錠１００ｍｇ",
+        "kana": "ﾘﾏﾁﾙｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5200120L1",
+    "name": "ウチダの八味丸Ｍ",
+    "generic_name": "ウチダの八味丸Ｍ",
+    "category": "漢方",
+    "brands": [
+      {
+        "name": "ウチダの八味丸Ｍ",
+        "kana": "ｳﾁﾀﾞﾉﾊﾁﾐｶﾞﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

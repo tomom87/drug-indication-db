@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4413002C1",
+    "name": "ピレチア細粒１０％",
+    "generic_name": "ピレチア",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ピレチア細粒１０％",
+        "kana": "ﾋﾟﾚﾁｱｻｲﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7112003X1",
+    "name": "トウモロコシデンプン",
+    "generic_name": "トウモロコシデンプン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トウモロコシデンプン",
+        "kana": "ﾄｳﾓﾛｺｼﾃﾞﾝﾌﾟﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

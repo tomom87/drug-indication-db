@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100003A1",
+    "name": "ウチダのアマチャ末Ｍ",
+    "generic_name": "ウチダのアマチャ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのアマチャ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｱﾏﾁｬﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

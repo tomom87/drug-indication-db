@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3922400D3",
+    "name": "タチオン注射用２００ｍｇ",
+    "generic_name": "タチオン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "タチオン注射用２００ｍｇ",
+        "kana": "ﾀﾁｵﾝﾁｭｳｼｬﾖｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

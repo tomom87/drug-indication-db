@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4490036M1",
+    "name": "オラデオカプセル１５０ｍｇ",
+    "generic_name": "オラデオ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "オラデオカプセル１５０ｍｇ",
+        "kana": "ｵﾗﾃﾞｵｶﾌﾟｾﾙ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

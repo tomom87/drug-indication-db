@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100073A1",
+    "name": "ウチダのコロンボ末Ｍ",
+    "generic_name": "ウチダのコロンボ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのコロンボ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｺﾛﾝﾎﾞﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

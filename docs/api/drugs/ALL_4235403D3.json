@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235403D3",
+    "name": "ピノルビン注射用３０ｍｇ",
+    "generic_name": "ピノルビン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ピノルビン注射用３０ｍｇ",
+        "kana": "ﾋﾟﾉﾙﾋﾞﾝﾁｭｳｼｬﾖｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

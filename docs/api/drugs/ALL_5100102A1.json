@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100102A1",
+    "name": "ウチダのショウキョウ末Ｍ",
+    "generic_name": "ウチダのショウキョウ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのショウキョウ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｼｮｳｷｮｳﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

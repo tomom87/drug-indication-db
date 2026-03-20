@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291060F2",
+    "name": "ヴァンフリタ錠２６．５ｍｇ",
+    "generic_name": "ヴァンフリタ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ヴァンフリタ錠２６．５ｍｇ",
+        "kana": "ｳﾞｧﾝﾌﾘﾀｼﾞｮｳ26.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

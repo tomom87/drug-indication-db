@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3922001F1",
+    "name": "タチオン錠５０ｍｇ",
+    "generic_name": "タチオン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "タチオン錠５０ｍｇ",
+        "kana": "ﾀﾁｵﾝｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

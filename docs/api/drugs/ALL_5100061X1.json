@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100061X1",
+    "name": "ウチダのゲンノショウコＭ",
+    "generic_name": "ウチダのゲンノショウコＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのゲンノショウコＭ",
+        "kana": "ｳﾁﾀﾞﾉｹﾞﾝﾉｼｮｳｺM"
+      }
+    ]
+  },
+  "indications": []
+}

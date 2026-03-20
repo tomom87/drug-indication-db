@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7123704X1",
+    "name": "マクロゴール６０００",
+    "generic_name": "マクロゴール６０００",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "マクロゴール６０００",
+        "kana": "ﾏｸﾛｺﾞｰﾙ6000"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291093F2",
+    "name": "バルバーサ錠４ｍｇ",
+    "generic_name": "バルバーサ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "バルバーサ錠４ｍｇ",
+        "kana": "ﾊﾞﾙﾊﾞｰｻｼﾞｮｳ4MG"
+      }
+    ]
+  },
+  "indications": []
+}

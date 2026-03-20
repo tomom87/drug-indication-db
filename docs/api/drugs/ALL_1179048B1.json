@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179048B1",
+    "name": "ロナセン散２％",
+    "generic_name": "ロナセン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロナセン散２％",
+        "kana": "ﾛﾅｾﾝｻﾝ2%"
+      }
+    ]
+  },
+  "indications": []
+}

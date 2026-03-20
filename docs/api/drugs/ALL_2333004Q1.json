@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2333004Q1",
+    "name": "トウヒシロップ",
+    "generic_name": "トウヒ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トウヒシロップ",
+        "kana": "ﾄｳﾋｼﾛｯﾌﾟ"
+      }
+    ]
+  },
+  "indications": []
+}

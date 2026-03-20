@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316014F1",
+    "name": "ラックビー錠",
+    "generic_name": "ラックビー",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラックビー錠",
+        "kana": "ﾗｯｸﾋﾞｰｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

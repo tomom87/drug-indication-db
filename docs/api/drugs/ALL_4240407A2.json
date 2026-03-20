@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240407A2",
+    "name": "ロゼウス静注液４０ｍｇ　４ｍＬ",
+    "generic_name": "ロゼウス静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロゼウス静注液４０ｍｇ　４ｍＬ",
+        "kana": "ﾛｾﾞｳｽｼﾞｮｳﾁｭｳｴｷ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

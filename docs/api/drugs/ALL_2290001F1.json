@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2290001F1",
+    "name": "リフヌア錠４５ｍｇ",
+    "generic_name": "リフヌア",
+    "category": "呼吸器用薬",
+    "brands": [
+      {
+        "name": "リフヌア錠４５ｍｇ",
+        "kana": "ﾘﾌﾇｱｼﾞｮｳ45MG"
+      }
+    ]
+  },
+  "indications": []
+}

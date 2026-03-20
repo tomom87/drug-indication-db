@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100037X1",
+    "name": "花扇カロニンＫ",
+    "generic_name": "花扇カロニンＫ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "花扇カロニンＫ",
+        "kana": "ﾊﾅｵｳｷﾞｶﾛﾆﾝK"
+      }
+    ]
+  },
+  "indications": []
+}

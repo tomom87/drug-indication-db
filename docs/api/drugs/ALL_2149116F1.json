@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149116F1",
+    "name": "ユニシア配合錠ＬＤ",
+    "generic_name": "ユニシア配合",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ユニシア配合錠ＬＤ",
+        "kana": "ﾕﾆｼｱﾊｲｺﾞｳｼﾞｮｳLD"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

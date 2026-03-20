@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179026F1",
+    "name": "トロペロン錠０．５ｍｇ",
+    "generic_name": "トロペロン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "トロペロン錠０．５ｍｇ",
+        "kana": "ﾄﾛﾍﾟﾛﾝｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

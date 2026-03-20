@@ -6,25 +6,25 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0062",
+      "yj_code": "NAIKA_0058",
       "name": "エピナスチン",
       "generic_name": "エピナスチン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0061",
+      "yj_code": "NAIKA_0057",
       "name": "ビラスチン",
       "generic_name": "ビラスチン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0059",
+      "yj_code": "NAIKA_0055",
       "name": "フェキソフェナジン",
       "generic_name": "フェキソフェナジン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0060",
+      "yj_code": "NAIKA_0056",
       "name": "ロラタジン",
       "generic_name": "ロラタジン",
       "category": "抗アレルギー薬"

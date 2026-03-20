@@ -1,12 +1,18 @@
 {
   "drug": {
     "yj_code": "NAIKA_0118",
-    "name": "イプラグリフロジン",
-    "generic_name": "イプラグリフロジン",
+    "name": "インスリンアスパルト",
+    "generic_name": "インスリンアスパルト",
     "category": "糖尿病薬",
     "brands": []
   },
   "indications": [
+    {
+      "code": "2500013",
+      "name": "糖尿病",
+      "kana": "8",
+      "icd10": "E14"
+    },
     {
       "code": "2500014",
       "name": "１型糖尿病",

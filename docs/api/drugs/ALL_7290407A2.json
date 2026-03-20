@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7290407A2",
+    "name": "プロハンス静注１５ｍＬ",
+    "generic_name": "プロハンス静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロハンス静注１５ｍＬ",
+        "kana": "ﾌﾟﾛﾊﾝｽｼﾞｮｳﾁｭｳ15ML"
+      }
+    ]
+  },
+  "indications": []
+}

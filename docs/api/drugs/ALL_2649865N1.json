@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649865N1",
+    "name": "ゼスタッククリーム",
+    "generic_name": "ゼスタック",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ゼスタッククリーム",
+        "kana": "ｾﾞｽﾀｯｸｸﾘｰﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

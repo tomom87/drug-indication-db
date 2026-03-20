@@ -96,25 +96,31 @@
       "category": "漢方"
     },
     {
-      "yj_code": "NAIKA_0152",
+      "yj_code": "NAIKA_0248",
+      "name": "アスピリン高用量330mg（バファリン等）",
+      "generic_name": "アスピリン高用量330mg（バファリン等）",
+      "category": "解熱鎮痛薬"
+    },
+    {
+      "yj_code": "NAIKA_0145",
       "name": "チペピジン",
       "generic_name": "チペピジン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0050",
+      "yj_code": "NAIKA_0046",
       "name": "デキストロメトルファン",
       "generic_name": "デキストロメトルファン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0078",
+      "yj_code": "NAIKA_0072",
       "name": "アセトアミノフェン",
       "generic_name": "アセトアミノフェン",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0079",
+      "yj_code": "NAIKA_0073",
       "name": "ロキソプロフェン",
       "generic_name": "ロキソプロフェン",
       "category": "鎮痛薬"

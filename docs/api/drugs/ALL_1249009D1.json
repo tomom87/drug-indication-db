@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249009D1",
+    "name": "ミオナール顆粒１０％",
+    "generic_name": "ミオナール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ミオナール顆粒１０％",
+        "kana": "ﾐｵﾅｰﾙｶﾘｭｳ10%"
+      }
+    ]
+  },
+  "indications": []
+}

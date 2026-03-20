@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4300446D1",
+    "name": "マイオビュー「注射用」",
+    "generic_name": "マイオビュー「",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "マイオビュー「注射用」",
+        "kana": "ﾏｲｵﾋﾞｭｰﾁｭｳｼｬﾖｳ"
+      }
+    ]
+  },
+  "indications": []
+}

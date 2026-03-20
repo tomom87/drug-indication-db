@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114700J2",
+    "name": "アンペック坐剤２０ｍｇ",
+    "generic_name": "アンペック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アンペック坐剤２０ｍｇ",
+        "kana": "ｱﾝﾍﾟｯｸｻﾞｻﾞｲ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

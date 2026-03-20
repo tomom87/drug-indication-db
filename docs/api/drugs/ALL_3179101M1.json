@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3179101M1",
+    "name": "ジアイナ配合カプセル",
+    "generic_name": "ジアイナ配合",
+    "category": "混合ビタミン薬",
+    "brands": [
+      {
+        "name": "ジアイナ配合カプセル",
+        "kana": "ｼﾞｱｲﾅﾊｲｺﾞｳｶﾌﾟｾﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

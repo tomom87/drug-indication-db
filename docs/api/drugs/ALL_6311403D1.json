@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6311403D1",
+    "name": "アクトヒブ　１０μｇ（溶解液付）",
+    "generic_name": "アクトヒブ　１０μｇ",
+    "category": "ワクチン",
+    "brands": [
+      {
+        "name": "アクトヒブ　１０μｇ（溶解液付）",
+        "kana": "ｱｸﾄﾋﾌﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,67 +6,73 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0052",
+      "yj_code": "NAIKA_0048",
       "name": "アンブロキソール",
       "generic_name": "アンブロキソール",
       "category": "去痰薬"
     },
     {
-      "yj_code": "NAIKA_0051",
+      "yj_code": "NAIKA_0047",
       "name": "カルボシステイン",
       "generic_name": "カルボシステイン",
       "category": "去痰薬"
     },
     {
-      "yj_code": "ALL_2233004",
+      "yj_code": "ALL_2233004S1",
+      "name": "クリアナール内用液８％",
+      "generic_name": "クリアナール内用",
+      "category": "去痰薬"
+    },
+    {
+      "yj_code": "ALL_2233004F1",
       "name": "クリアナール錠２００ｍｇ",
       "generic_name": "クリアナール",
       "category": "去痰薬"
     },
     {
-      "yj_code": "ALL_2231001",
+      "yj_code": "ALL_2231001Q1",
       "name": "セネガシロップ",
       "generic_name": "セネガ",
       "category": "去痰薬"
     },
     {
-      "yj_code": "ALL_2233001",
+      "yj_code": "ALL_2233001F1",
       "name": "チスタニン糖衣錠１００ｍｇ",
       "generic_name": "チスタニン糖衣",
       "category": "去痰薬"
     },
     {
-      "yj_code": "NAIKA_0151",
+      "yj_code": "NAIKA_0144",
       "name": "フドステイン",
       "generic_name": "フドステイン",
       "category": "去痰薬"
     },
     {
-      "yj_code": "ALL_2233700",
+      "yj_code": "ALL_2233700G2",
       "name": "ムコフィリン吸入液２０％　１７．６２％２ｍＬ",
       "generic_name": "ムコフィリン",
       "category": "去痰薬"
     },
     {
-      "yj_code": "NAIKA_0047",
+      "yj_code": "NAIKA_0043",
       "name": "チオトロピウム",
       "generic_name": "チオトロピウム",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0147",
+      "yj_code": "NAIKA_0140",
       "name": "ツロブテロール",
       "generic_name": "ツロブテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0048",
+      "yj_code": "NAIKA_0044",
       "name": "テオフィリン",
       "generic_name": "テオフィリン",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0146",
+      "yj_code": "NAIKA_0139",
       "name": "プロカテロール",
       "generic_name": "プロカテロール",
       "category": "呼吸器薬"

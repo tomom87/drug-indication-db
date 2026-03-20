@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2333004S1",
+    "name": "トウヒチンキ",
+    "generic_name": "トウヒチンキ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トウヒチンキ",
+        "kana": "ﾄｳﾋﾁﾝｷ"
+      }
+    ]
+  },
+  "indications": []
+}

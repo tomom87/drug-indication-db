@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149019F1",
+    "name": "ペルジピン錠１０ｍｇ",
+    "generic_name": "ペルジピン",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ペルジピン錠１０ｍｇ",
+        "kana": "ﾍﾟﾙｼﾞﾋﾟﾝｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

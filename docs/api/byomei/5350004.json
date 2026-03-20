@@ -6,19 +6,19 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0133",
+      "yj_code": "NAIKA_0126",
       "name": "テプレノン",
       "generic_name": "テプレノン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0036",
+      "yj_code": "NAIKA_0032",
       "name": "ファモチジン",
       "generic_name": "ファモチジン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0037",
+      "yj_code": "NAIKA_0033",
       "name": "レバミピド",
       "generic_name": "レバミピド",
       "category": "消化器薬"

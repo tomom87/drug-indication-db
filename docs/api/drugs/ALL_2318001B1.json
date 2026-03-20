@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2318001B1",
+    "name": "ガスコン散１０％",
+    "generic_name": "ガスコン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ガスコン散１０％",
+        "kana": "ｶﾞｽｺﾝｻﾝ10%"
+      }
+    ]
+  },
+  "indications": []
+}

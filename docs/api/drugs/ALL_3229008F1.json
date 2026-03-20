@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3229008F1",
+    "name": "ジンタス錠５０ｍｇ",
+    "generic_name": "ジンタス",
+    "category": "鉄剤",
+    "brands": [
+      {
+        "name": "ジンタス錠５０ｍｇ",
+        "kana": "ｼﾞﾝﾀｽｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2809009",
+      "name": "鉄欠乏性貧血",
+      "kana": "12",
+      "icd10": "D509"
+    }
+  ]
+}

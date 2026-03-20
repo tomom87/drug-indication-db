@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1229407D2",
+    "name": "ゼオマイン注用１００単位",
+    "generic_name": "ゼオマイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ゼオマイン注用１００単位",
+        "kana": "ｾﾞｵﾏｲﾝﾁｭｳﾖｳ100ﾀﾝｲ"
+      }
+    ]
+  },
+  "indications": []
+}

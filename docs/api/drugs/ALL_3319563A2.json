@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319563A2",
+    "name": "ビカーボン輸液　５００ｍＬ",
+    "generic_name": "ビカーボン輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ビカーボン輸液　５００ｍＬ",
+        "kana": "ﾋﾞｶｰﾎﾞﾝﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

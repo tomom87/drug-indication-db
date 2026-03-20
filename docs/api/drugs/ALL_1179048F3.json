@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179048F3",
+    "name": "ロナセン錠８ｍｇ",
+    "generic_name": "ロナセン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロナセン錠８ｍｇ",
+        "kana": "ﾛﾅｾﾝｼﾞｮｳ8MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149700S1",
+    "name": "ビソノテープ４ｍｇ",
+    "generic_name": "ビソノ",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "ビソノテープ４ｍｇ",
+        "kana": "ﾋﾞｿﾉﾃｰﾌﾟ4MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

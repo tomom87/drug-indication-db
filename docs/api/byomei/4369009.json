@@ -6,9 +6,15 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0183",
+      "yj_code": "NAIKA_0176",
       "name": "ダビガトラン",
       "generic_name": "ダビガトラン",
+      "category": "抗凝固薬"
+    },
+    {
+      "yj_code": "NAIKA_0245",
+      "name": "リバーロキサバン15mg",
+      "generic_name": "リバーロキサバン15mg",
       "category": "抗凝固薬"
     }
   ]

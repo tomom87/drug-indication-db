@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2149023F2",
+    "name": "バソメット錠０．５ｍｇ",
+    "generic_name": "バソメット",
+    "category": "降圧薬",
+    "brands": [
+      {
+        "name": "バソメット錠０．５ｍｇ",
+        "kana": "ﾊﾞｿﾒｯﾄｼﾞｮｳ0.5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8833421",
+      "name": "高血圧症",
+      "kana": "9",
+      "icd10": "I10"
+    }
+  ]
+}

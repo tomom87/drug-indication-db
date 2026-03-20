@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291030F2",
+    "name": "ジオトリフ錠３０ｍｇ",
+    "generic_name": "ジオトリフ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ジオトリフ錠３０ｍｇ",
+        "kana": "ｼﾞｵﾄﾘﾌｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

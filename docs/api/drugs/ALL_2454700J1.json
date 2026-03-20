@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2454700J1",
+    "name": "リンデロン坐剤０．５ｍｇ",
+    "generic_name": "リンデロン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "リンデロン坐剤０．５ｍｇ",
+        "kana": "ﾘﾝﾃﾞﾛﾝｻﾞｻﾞｲ0.5MG"
+      }
+    ]
+  },
+  "indications": []
+}

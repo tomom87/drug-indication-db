@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100087X1",
+    "name": "ウチダのジオウＭ",
+    "generic_name": "ウチダのジオウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのジオウＭ",
+        "kana": "ｳﾁﾀﾞﾉｼﾞｵｳM"
+      }
+    ]
+  },
+  "indications": []
+}

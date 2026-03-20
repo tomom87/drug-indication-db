@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179024C2",
+    "name": "ロドピン細粒５０％",
+    "generic_name": "ロドピン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ロドピン細粒５０％",
+        "kana": "ﾛﾄﾞﾋﾟﾝｻｲﾘｭｳ50%"
+      }
+    ]
+  },
+  "indications": []
+}

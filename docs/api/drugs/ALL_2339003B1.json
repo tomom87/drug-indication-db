@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2339003B1",
+    "name": "ガランターゼ散５０％",
+    "generic_name": "ガランターゼ",
+    "category": "消化器薬",
+    "brands": [
+      {
+        "name": "ガランターゼ散５０％",
+        "kana": "ｶﾞﾗﾝﾀｰｾﾞｻﾝ50%"
+      }
+    ]
+  },
+  "indications": []
+}

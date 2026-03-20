@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291082F2",
+    "name": "トルカプ錠２００ｍｇ",
+    "generic_name": "トルカプ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "トルカプ錠２００ｍｇ",
+        "kana": "ﾄﾙｶﾌﾟｼﾞｮｳ200MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190030F1",
+    "name": "アドシルカ錠２０ｍｇ",
+    "generic_name": "アドシルカ",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "アドシルカ錠２０ｍｇ",
+        "kana": "ｱﾄﾞｼﾙｶｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3999020F3",
+    "name": "アラバ錠１００ｍｇ",
+    "generic_name": "アラバ",
+    "category": "骨粗鬆症薬",
+    "brands": [
+      {
+        "name": "アラバ錠１００ｍｇ",
+        "kana": "ｱﾗﾊﾞｼﾞｮｳ100MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "7330006",
+      "name": "骨粗鬆症",
+      "kana": "9",
+      "icd10": "M8199"
+    }
+  ]
+}

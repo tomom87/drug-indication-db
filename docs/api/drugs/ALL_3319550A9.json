@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319550A9",
+    "name": "ペンライブ注　３００ｍＬ",
+    "generic_name": "ペンライブ",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ペンライブ注　３００ｍＬ",
+        "kana": "ﾍﾟﾝﾗｲﾌﾞﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

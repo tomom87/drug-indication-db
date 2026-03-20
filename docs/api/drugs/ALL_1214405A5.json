@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1214405A5",
+    "name": "アナペイン注１０ｍｇ／ｍＬ　１％１０ｍＬ",
+    "generic_name": "アナペイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アナペイン注１０ｍｇ／ｍＬ　１％１０ｍＬ",
+        "kana": "ｱﾅﾍﾟｲﾝﾁｭｳ10MG/ML"
+      }
+    ]
+  },
+  "indications": []
+}

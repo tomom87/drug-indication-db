@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1339500A1",
+    "name": "トラベルミン注　１ｍＬ",
+    "generic_name": "トラベルミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トラベルミン注　１ｍＬ",
+        "kana": "ﾄﾗﾍﾞﾙﾐﾝﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

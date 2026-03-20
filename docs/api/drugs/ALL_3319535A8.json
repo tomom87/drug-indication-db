@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319535A8",
+    "name": "ラクテックＧ輸液　１Ｌ",
+    "generic_name": "ラクテックＧ輸",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ラクテックＧ輸液　１Ｌ",
+        "kana": "ﾗｸﾃｯｸGﾕｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

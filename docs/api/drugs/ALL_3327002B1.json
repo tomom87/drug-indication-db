@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3327002B1",
+    "name": "トランサミン散５０％",
+    "generic_name": "トランサミン",
+    "category": "止血薬",
+    "brands": [
+      {
+        "name": "トランサミン散５０％",
+        "kana": "ﾄﾗﾝｻﾐﾝｻﾝ50%"
+      }
+    ]
+  },
+  "indications": []
+}

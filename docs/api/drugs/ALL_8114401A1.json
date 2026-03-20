@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114401A1",
+    "name": "アンペック注１０ｍｇ　１％１ｍＬ",
+    "generic_name": "アンペック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アンペック注１０ｍｇ　１％１ｍＬ",
+        "kana": "ｱﾝﾍﾟｯｸﾁｭｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

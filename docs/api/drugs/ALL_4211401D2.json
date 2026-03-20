@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4211401D2",
+    "name": "注射用エンドキサン５００ｍｇ",
+    "generic_name": "",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "注射用エンドキサン５００ｍｇ",
+        "kana": "ﾁｭｳｼｬﾖｳｴﾝﾄﾞｷｻﾝ500MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,85 +6,187 @@
   },
   "drugs": [
     {
-      "yj_code": "ALL_2391406",
+      "yj_code": "ALL_2391406A1",
       "name": "アロカリス点滴静注２３５ｍｇ　１０ｍＬ",
       "generic_name": "アロカリス",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391404",
+      "yj_code": "ALL_2391404G1",
+      "name": "アロキシ点滴静注バッグ０．７５ｍｇ　５０ｍＬ",
+      "generic_name": "アロキシ",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391404A1",
       "name": "アロキシ静注０．７５ｍｇ　５ｍＬ",
       "generic_name": "アロキシ静",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391008",
+      "yj_code": "ALL_2391008M3",
+      "name": "イメンドカプセルセット",
+      "generic_name": "イメンド",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391008M2",
+      "name": "イメンドカプセル１２５ｍｇ",
+      "generic_name": "イメンド",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391008M1",
       "name": "イメンドカプセル８０ｍｇ",
       "generic_name": "イメンド",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391401",
+      "yj_code": "ALL_2391401A1",
       "name": "オンダンセトロン注射液４ｍｇ「サンド」　２ｍＬ",
       "generic_name": "オンダンセトロン",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391001",
+      "yj_code": "ALL_2391401G1",
+      "name": "オンダンセトロン注４ｍｇシリンジ「マルイシ」　２ｍＬ",
+      "generic_name": "オンダンセトロン",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391001F3",
       "name": "オンダンセトロンＯＤフィルム２ｍｇ「ＧＦＰ」",
       "generic_name": "オンダンセトロンＯＤフィルム",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391400",
+      "yj_code": "ALL_2391001F4",
+      "name": "オンダンセトロンＯＤフィルム４ｍｇ「ＧＦＰ」",
+      "generic_name": "オンダンセトロンＯＤフィルム",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400A3",
       "name": "カイトリル注１ｍｇ　１ｍＬ",
       "generic_name": "カイトリル",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391002",
+      "yj_code": "ALL_2391400A4",
+      "name": "カイトリル注３ｍｇ　３ｍＬ",
+      "generic_name": "カイトリル",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391002C1",
+      "name": "カイトリル細粒０．４％　２ｍｇ",
+      "generic_name": "カイトリル",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391002F1",
       "name": "カイトリル錠１ｍｇ",
       "generic_name": "カイトリル",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391403",
+      "yj_code": "ALL_2391002F2",
+      "name": "カイトリル錠２ｍｇ",
+      "generic_name": "カイトリル",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391002Q1",
+      "name": "グラニセトロン内服ゼリー１ｍｇ「ケミファ」",
+      "generic_name": "グラニセトロン内服ゼリー",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391002Q2",
+      "name": "グラニセトロン内服ゼリー２ｍｇ「ケミファ」",
+      "generic_name": "グラニセトロン内服ゼリー",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400G5",
+      "name": "グラニセトロン点滴静注バッグ１ｍｇ／５０ｍＬ「ＮＩＧ」",
+      "generic_name": "グラニセトロン",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400G4",
+      "name": "グラニセトロン点滴静注バッグ３ｍｇ／５０ｍＬ「ＨＫ」",
+      "generic_name": "グラニセトロン",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400G1",
+      "name": "グラニセトロン点滴静注液３ｍｇバッグ「アイロム」　１００ｍＬ",
+      "generic_name": "グラニセトロン",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400G3",
+      "name": "グラニセトロン静注液１ｍｇシリンジ「サワイ」　１ｍＬ",
+      "generic_name": "グラニセトロン静",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391400G2",
+      "name": "グラニセトロン静注液３ｍｇシリンジ「サワイ」　３ｍＬ",
+      "generic_name": "グラニセトロン静",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391403A1",
       "name": "ナゼア注射液０．３ｍｇ　２ｍＬ",
       "generic_name": "ナゼア",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391004",
+      "yj_code": "ALL_2391004F1",
       "name": "ナゼアＯＤ錠０．１ｍｇ",
       "generic_name": "ナゼアＯＤ",
       "category": "下剤"
     },
     {
-      "yj_code": "ALL_2391405",
+      "yj_code": "ALL_2391404A2",
+      "name": "パロノセトロン静注０．７５ｍｇ／２ｍＬ「日医工」",
+      "generic_name": "パロノセトロン静",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391404G2",
+      "name": "パロノセトロン静注０．７５ｍｇ／２ｍＬシリンジ「トーワ」",
+      "generic_name": "パロノセトロン静",
+      "category": "下剤"
+    },
+    {
+      "yj_code": "ALL_2391405D1",
       "name": "プロイメンド点滴静注用１５０ｍｇ",
       "generic_name": "プロイメンド",
       "category": "下剤"
     },
     {
-      "yj_code": "NAIKA_0041",
+      "yj_code": "NAIKA_0037",
       "name": "センノシド",
       "generic_name": "センノシド",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0141",
+      "yj_code": "NAIKA_0134",
       "name": "ピコスルファート",
       "generic_name": "ピコスルファート",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0043",
+      "yj_code": "NAIKA_0039",
       "name": "ルビプロストン",
       "generic_name": "ルビプロストン",
       "category": "消化器薬"
     },
     {
-      "yj_code": "NAIKA_0042",
+      "yj_code": "NAIKA_0038",
       "name": "酸化マグネシウム",
       "generic_name": "酸化マグネシウム",
       "category": "消化器薬"

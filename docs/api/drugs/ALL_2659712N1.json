@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2659712N1",
+    "name": "ゼフナートクリーム２％",
+    "generic_name": "ゼフナート",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ゼフナートクリーム２％",
+        "kana": "ｾﾞﾌﾅｰﾄｸﾘｰﾑ2%"
+      }
+    ]
+  },
+  "indications": []
+}

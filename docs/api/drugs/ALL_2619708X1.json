@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2619708X1",
+    "name": "ホルマリン「ケンエー」",
+    "generic_name": "ホルマリン「ケンエー」",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ホルマリン「ケンエー」",
+        "kana": "ﾎﾙﾏﾘﾝｹﾝｴｰ"
+      }
+    ]
+  },
+  "indications": []
+}

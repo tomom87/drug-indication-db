@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7112004X1",
+    "name": "バレイショデンプン",
+    "generic_name": "バレイショデンプン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "バレイショデンプン",
+        "kana": "ﾊﾞﾚｲｼｮﾃﾞﾝﾌﾟﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2659705M1",
+    "name": "ハイアラージン軟膏２％",
+    "generic_name": "ハイアラージン",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ハイアラージン軟膏２％",
+        "kana": "ﾊｲｱﾗｰｼﾞﾝﾅﾝｺｳ2%"
+      }
+    ]
+  },
+  "indications": []
+}

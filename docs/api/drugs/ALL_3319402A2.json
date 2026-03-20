@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319402A2",
+    "name": "ＫＣＬ補正液１ｍＥｑ／ｍＬ　１モル２０ｍＬ",
+    "generic_name": "ＫＣＬ補正",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "ＫＣＬ補正液１ｍＥｑ／ｍＬ　１モル２０ｍＬ",
+        "kana": "KCLﾎｾｲｴｷ1MEQ/ML"
+      }
+    ]
+  },
+  "indications": []
+}

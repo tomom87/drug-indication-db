@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121709X1",
+    "name": "単軟膏「ヨシダ」",
+    "generic_name": "単",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "単軟膏「ヨシダ」",
+        "kana": "ﾀﾝﾅﾝｺｳﾖｼﾀﾞ"
+      }
+    ]
+  },
+  "indications": []
+}

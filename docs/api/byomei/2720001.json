@@ -6,43 +6,43 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0027",
+      "yj_code": "NAIKA_0023",
       "name": "アトルバスタチン",
       "generic_name": "アトルバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0029",
+      "yj_code": "NAIKA_0025",
       "name": "エゼチミブ",
       "generic_name": "エゼチミブ",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0131",
+      "yj_code": "NAIKA_0124",
       "name": "コレスチミド",
       "generic_name": "コレスチミド",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0129",
+      "yj_code": "NAIKA_0122",
       "name": "シンバスタチン",
       "generic_name": "シンバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0128",
+      "yj_code": "NAIKA_0121",
       "name": "ピタバスタチン",
       "generic_name": "ピタバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0028",
+      "yj_code": "NAIKA_0024",
       "name": "プラバスタチン",
       "generic_name": "プラバスタチン",
       "category": "脂質異常症薬"
     },
     {
-      "yj_code": "NAIKA_0026",
+      "yj_code": "NAIKA_0022",
       "name": "ロスバスタチン",
       "generic_name": "ロスバスタチン",
       "category": "脂質異常症薬"

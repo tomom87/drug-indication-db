@@ -24,73 +24,91 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_2359006",
+      "yj_code": "ALL_2359006M2",
+      "name": "アミティーザカプセル１２μｇ",
+      "generic_name": "アミティーザ",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359006M1",
       "name": "アミティーザカプセル２４μｇ",
       "generic_name": "アミティーザ",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359001",
+      "yj_code": "ALL_2359001X2",
       "name": "カルメロースナトリウム",
       "generic_name": "カルメロースナトリウム",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359008",
+      "yj_code": "ALL_2359008F1",
       "name": "グーフィス錠５ｍｇ",
       "generic_name": "グーフィス",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359007",
+      "yj_code": "ALL_2359007F1",
       "name": "スインプロイク錠０．２ｍｇ",
       "generic_name": "スインプロイク",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359103",
+      "yj_code": "ALL_2359103X1",
       "name": "セチロ配合錠",
       "generic_name": "セチロ配合",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359700",
+      "yj_code": "ALL_2359700J2",
       "name": "テレミンソフト坐薬１０ｍｇ",
       "generic_name": "テレミンソフト坐薬",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359108",
+      "yj_code": "ALL_2359700J1",
+      "name": "テレミンソフト坐薬２ｍｇ",
+      "generic_name": "テレミンソフト坐薬",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359108F1",
       "name": "ビーマス配合錠",
       "generic_name": "ビーマス配合",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359102",
+      "yj_code": "ALL_2359102X1",
       "name": "ピムロ顆粒",
       "generic_name": "ピムロ",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359701",
+      "yj_code": "ALL_2359701X1",
       "name": "メチルセルロース",
       "generic_name": "メチルセルロース",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359110",
+      "yj_code": "ALL_2359110B2",
+      "name": "モビコール配合内用剤ＨＤ　１３．７０４６ｇ",
+      "generic_name": "モビコール配合内用剤ＨＤ　１３．７０４６ｇ",
+      "category": "肝臓用薬"
+    },
+    {
+      "yj_code": "ALL_2359110B1",
       "name": "モビコール配合内用剤ＬＤ　６．８５２３ｇ",
       "generic_name": "モビコール配合内用剤ＬＤ　６．８５２３ｇ",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359800",
+      "yj_code": "ALL_2359800J1",
       "name": "新レシカルボン坐剤",
       "generic_name": "新レシカルボン",
       "category": "肝臓用薬"
     },
     {
-      "yj_code": "ALL_2359106",
+      "yj_code": "ALL_2359106B1",
       "name": "複方甘草散「スズ」",
       "generic_name": "複方甘草",
       "category": "肝臓用薬"

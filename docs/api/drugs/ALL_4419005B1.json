@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4419005B1",
+    "name": "ペリアクチン散１％",
+    "generic_name": "ペリアクチン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ペリアクチン散１％",
+        "kana": "ﾍﾟﾘｱｸﾁﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": []
+}

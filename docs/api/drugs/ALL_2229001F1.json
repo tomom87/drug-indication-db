@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2229001F1",
+    "name": "アストミン錠１０ｍｇ",
+    "generic_name": "アストミン",
+    "category": "鎮咳薬",
+    "brands": [
+      {
+        "name": "アストミン錠１０ｍｇ",
+        "kana": "ｱｽﾄﾐﾝｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8840325",
+      "name": "慢性咳嗽",
+      "kana": "8",
+      "icd10": "R05"
+    }
+  ]
+}

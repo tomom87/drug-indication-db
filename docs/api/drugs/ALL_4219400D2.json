@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4219400D2",
+    "name": "ニドラン注射用５０ｍｇ",
+    "generic_name": "ニドラン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ニドラン注射用５０ｍｇ",
+        "kana": "ﾆﾄﾞﾗﾝﾁｭｳｼｬﾖｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

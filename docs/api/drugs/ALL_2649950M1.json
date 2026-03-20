@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2649950M1",
+    "name": "ヒルドイドゲル０．３％",
+    "generic_name": "ヒルドイド",
+    "category": "外用薬",
+    "brands": [
+      {
+        "name": "ヒルドイドゲル０．３％",
+        "kana": "ﾋﾙﾄﾞｲﾄﾞｹﾞﾙ0.3%"
+      }
+    ]
+  },
+  "indications": []
+}

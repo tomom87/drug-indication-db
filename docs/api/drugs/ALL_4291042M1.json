@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291042M1",
+    "name": "タルグレチンカプセル７５ｍｇ",
+    "generic_name": "タルグレチン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タルグレチンカプセル７５ｍｇ",
+        "kana": "ﾀﾙｸﾞﾚﾁﾝｶﾌﾟｾﾙ75MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316016F1",
+    "name": "レベニン錠",
+    "generic_name": "レベニン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レベニン錠",
+        "kana": "ﾚﾍﾞﾆﾝｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

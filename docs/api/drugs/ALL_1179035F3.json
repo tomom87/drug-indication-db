@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179035F3",
+    "name": "クレミン錠２５ｍｇ",
+    "generic_name": "クレミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "クレミン錠２５ｍｇ",
+        "kana": "ｸﾚﾐﾝｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

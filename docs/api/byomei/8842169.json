@@ -6,49 +6,67 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0056",
+      "yj_code": "NAIKA_0052",
       "name": "アジスロマイシン",
       "generic_name": "アジスロマイシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6141400",
+      "yj_code": "ALL_6141001R1",
+      "name": "エリスロシンドライシロップ１０％　１００ｍｇ",
+      "generic_name": "エリスロシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141001R2",
+      "name": "エリスロシンドライシロップＷ２０％　２００ｍｇ",
+      "generic_name": "エリスロシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141400D1",
       "name": "エリスロシン点滴静注用５００ｍｇ",
       "generic_name": "エリスロシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6141004",
+      "yj_code": "ALL_6141004F1",
       "name": "エリスロシン錠１００ｍｇ",
       "generic_name": "エリスロシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6141001",
+      "yj_code": "ALL_6141004F2",
+      "name": "エリスロシン錠２００ｍｇ",
+      "generic_name": "エリスロシン",
+      "category": "抗菌薬"
+    },
+    {
+      "yj_code": "ALL_6141001D1",
       "name": "エリスロシンＷ顆粒２０％　２００ｍｇ",
       "generic_name": "エリスロシンＷ",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "ALL_6141002",
+      "yj_code": "ALL_6141002F2",
       "name": "エリスロマイシン錠２００ｍｇ「サワイ」",
       "generic_name": "エリスロマイシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0055",
+      "yj_code": "NAIKA_0051",
       "name": "クラリスロマイシン",
       "generic_name": "クラリスロマイシン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0158",
+      "yj_code": "NAIKA_0151",
       "name": "ドキシサイクリン",
       "generic_name": "ドキシサイクリン",
       "category": "抗菌薬"
     },
     {
-      "yj_code": "NAIKA_0157",
+      "yj_code": "NAIKA_0150",
       "name": "ミノサイクリン",
       "generic_name": "ミノサイクリン",
       "category": "抗菌薬"

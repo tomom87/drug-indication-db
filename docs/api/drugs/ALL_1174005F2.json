@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1174005F2",
+    "name": "スルモンチール錠２５ｍｇ",
+    "generic_name": "スルモンチール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "スルモンチール錠２５ｍｇ",
+        "kana": "ｽﾙﾓﾝﾁｰﾙｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

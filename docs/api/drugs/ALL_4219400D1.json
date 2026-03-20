@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4219400D1",
+    "name": "ニドラン注射用２５ｍｇ",
+    "generic_name": "ニドラン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ニドラン注射用２５ｍｇ",
+        "kana": "ﾆﾄﾞﾗﾝﾁｭｳｼｬﾖｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

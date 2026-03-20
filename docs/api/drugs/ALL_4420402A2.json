@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4420402A2",
+    "name": "シオゾール注２５ｍｇ　１ｍＬ",
+    "generic_name": "シオゾール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "シオゾール注２５ｍｇ　１ｍＬ",
+        "kana": "ｼｵｿﾞｰﾙﾁｭｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -6,31 +6,31 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0063",
+      "yj_code": "NAIKA_0059",
       "name": "プレドニゾロン",
       "generic_name": "プレドニゾロン",
       "category": "ステロイド"
     },
     {
-      "yj_code": "NAIKA_0193",
+      "yj_code": "NAIKA_0186",
       "name": "アザチオプリン",
       "generic_name": "アザチオプリン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0196",
+      "yj_code": "NAIKA_0189",
       "name": "サラゾスルファピリジン",
       "generic_name": "サラゾスルファピリジン",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0194",
+      "yj_code": "NAIKA_0187",
       "name": "タクロリムス",
       "generic_name": "タクロリムス",
       "category": "免疫抑制薬"
     },
     {
-      "yj_code": "NAIKA_0143",
+      "yj_code": "NAIKA_0136",
       "name": "メサラジン",
       "generic_name": "メサラジン",
       "category": "消化器薬"

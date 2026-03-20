@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100023A1",
+    "name": "ウチダのオンジ末Ｍ",
+    "generic_name": "ウチダのオンジ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのオンジ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｵﾝｼﾞﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

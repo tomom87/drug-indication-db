@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2451700R1",
+    "name": "ネフィー点鼻液１ｍｇ　０．１ｍＬ",
+    "generic_name": "ネフィー点鼻",
+    "category": "膵臓ホルモン薬",
+    "brands": [
+      {
+        "name": "ネフィー点鼻液１ｍｇ　０．１ｍＬ",
+        "kana": "ﾈﾌｨｰﾃﾝﾋﾞｴｷ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

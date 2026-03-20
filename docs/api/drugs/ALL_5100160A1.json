@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100160A1",
+    "name": "ビンロウジ末",
+    "generic_name": "ビンロウジ末",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ビンロウジ末",
+        "kana": "ﾋﾞﾝﾛｳｼﾞﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

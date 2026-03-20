@@ -6,37 +6,37 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0068",
-      "name": "アスピリン",
-      "generic_name": "アスピリン",
+      "yj_code": "NAIKA_0247",
+      "name": "アスピリン低用量100mg（バイアスピリン）",
+      "generic_name": "アスピリン低用量100mg（バイアスピリン）",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "ALL_3331700",
+      "yj_code": "ALL_3331700X1",
       "name": "クエン酸ナトリウム水和物原末「ニッコー」",
       "generic_name": "クエン酸ナトリウム水和物原末「ニッコー」",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "NAIKA_0069",
+      "yj_code": "NAIKA_0063",
       "name": "クロピドグレル",
       "generic_name": "クロピドグレル",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "NAIKA_0181",
+      "yj_code": "NAIKA_0174",
       "name": "シロスタゾール",
       "generic_name": "シロスタゾール",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "ALL_3331401",
+      "yj_code": "ALL_3331401A2",
       "name": "チトラミン液「フソー」－４％　５００ｍＬ",
       "generic_name": "チトラミン",
       "category": "抗血小板薬"
     },
     {
-      "yj_code": "ALL_3331400",
+      "yj_code": "ALL_3331400A1",
       "name": "輸血用クエン酸ナトリウム注射液　１０％５ｍＬ",
       "generic_name": "輸血用クエン酸ナトリウム",
       "category": "抗血小板薬"

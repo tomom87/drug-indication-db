@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190031M2",
+    "name": "ジスバルカプセル２０ｍｇ",
+    "generic_name": "ジスバル",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "ジスバルカプセル２０ｍｇ",
+        "kana": "ｼﾞｽﾊﾞﾙｶﾌﾟｾﾙ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

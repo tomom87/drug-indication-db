@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291401A1",
+    "name": "ランダ注１０ｍｇ／２０ｍＬ",
+    "generic_name": "ランダ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ランダ注１０ｍｇ／２０ｍＬ",
+        "kana": "ﾗﾝﾀﾞﾁｭｳ10MG/20ML"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179015F2",
+    "name": "スピロピタン錠１ｍｇ",
+    "generic_name": "スピロピタン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "スピロピタン錠１ｍｇ",
+        "kana": "ｽﾋﾟﾛﾋﾟﾀﾝｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

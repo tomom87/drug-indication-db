@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100033X1",
+    "name": "トチモトのカッセキ",
+    "generic_name": "トチモトのカッセキ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのカッセキ",
+        "kana": "ﾄﾁﾓﾄﾉｶｯｾｷ"
+      }
+    ]
+  },
+  "indications": []
+}

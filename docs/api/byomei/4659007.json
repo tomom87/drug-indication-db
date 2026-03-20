@@ -6,7 +6,7 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0051",
+      "yj_code": "NAIKA_0047",
       "name": "カルボシステイン",
       "generic_name": "カルボシステイン",
       "category": "去痰薬"
@@ -18,37 +18,37 @@
       "category": "漢方"
     },
     {
-      "yj_code": "NAIKA_0049",
+      "yj_code": "NAIKA_0045",
       "name": "コデインリン酸塩",
       "generic_name": "コデインリン酸塩",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0152",
+      "yj_code": "NAIKA_0145",
       "name": "チペピジン",
       "generic_name": "チペピジン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0050",
+      "yj_code": "NAIKA_0046",
       "name": "デキストロメトルファン",
       "generic_name": "デキストロメトルファン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2222001",
+      "yj_code": "ALL_2222001A1",
       "name": "ノスカピン",
       "generic_name": "ノスカピン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0078",
+      "yj_code": "NAIKA_0072",
       "name": "アセトアミノフェン",
       "generic_name": "アセトアミノフェン",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0079",
+      "yj_code": "NAIKA_0073",
       "name": "ロキソプロフェン",
       "generic_name": "ロキソプロフェン",
       "category": "鎮痛薬"

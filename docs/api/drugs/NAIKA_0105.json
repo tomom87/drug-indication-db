@@ -1,23 +1,17 @@
 {
   "drug": {
     "yj_code": "NAIKA_0105",
-    "name": "エサキセレノン",
-    "generic_name": "エサキセレノン",
-    "category": "降圧薬",
+    "name": "テネリグリプチン",
+    "generic_name": "テネリグリプチン",
+    "category": "糖尿病薬",
     "brands": []
   },
   "indications": [
     {
-      "code": "8840107",
-      "name": "本態性高血圧症",
-      "kana": "15",
-      "icd10": "I10"
-    },
-    {
-      "code": "8833421",
-      "name": "高血圧症",
-      "kana": "9",
-      "icd10": "I10"
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
     }
   ]
 }

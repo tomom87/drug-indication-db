@@ -6,61 +6,79 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0211",
+      "yj_code": "NAIKA_0204",
       "name": "デュロキセチン",
       "generic_name": "デュロキセチン",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "ALL_1151001",
+      "yj_code": "ALL_1151001F1",
       "name": "ヒロポン錠　１ｍｇ",
       "generic_name": "ヒロポン",
       "category": "解熱鎮痛消炎薬"
     },
     {
-      "yj_code": "ALL_2647705",
+      "yj_code": "ALL_2647705M1",
       "name": "テラ・コートリル軟膏",
       "generic_name": "テラ・コートリル",
       "category": "鎮痛外用薬"
     },
     {
-      "yj_code": "ALL_2647709",
+      "yj_code": "ALL_2647709M1",
       "name": "デキサンＶＧ軟膏０．１２％",
       "generic_name": "デキサンＶＧ",
       "category": "鎮痛外用薬"
     },
     {
-      "yj_code": "ALL_2647707",
+      "yj_code": "ALL_2647707M1",
       "name": "フルコートＦ軟膏",
       "generic_name": "フルコートＦ",
       "category": "鎮痛外用薬"
     },
     {
-      "yj_code": "ALL_2647708",
+      "yj_code": "ALL_2647708N1",
       "name": "ベトネベートＮクリーム",
       "generic_name": "ベトネベートＮ",
       "category": "鎮痛外用薬"
     },
     {
-      "yj_code": "NAIKA_0078",
+      "yj_code": "ALL_2647708M1",
+      "name": "ベトネベートＮ軟膏",
+      "generic_name": "ベトネベートＮ",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "ALL_2647709N1",
+      "name": "ベトノバールＧクリーム０．１２％",
+      "generic_name": "ベトノバールＧ",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "ALL_2647709Q1",
+      "name": "リンデロン－ＶＧローション",
+      "generic_name": "リンデロン－ＶＧローション",
+      "category": "鎮痛外用薬"
+    },
+    {
+      "yj_code": "NAIKA_0072",
       "name": "アセトアミノフェン",
       "generic_name": "アセトアミノフェン",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0080",
+      "yj_code": "NAIKA_0074",
       "name": "セレコキシブ",
       "generic_name": "セレコキシブ",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0081",
+      "yj_code": "NAIKA_0075",
       "name": "トラマドール",
       "generic_name": "トラマドール",
       "category": "鎮痛薬"
     },
     {
-      "yj_code": "NAIKA_0079",
+      "yj_code": "NAIKA_0073",
       "name": "ロキソプロフェン",
       "generic_name": "ロキソプロフェン",
       "category": "鎮痛薬"

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2249001F2",
+    "name": "レスプレン錠２０ｍｇ",
+    "generic_name": "レスプレン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "レスプレン錠２０ｍｇ",
+        "kana": "ﾚｽﾌﾟﾚﾝｼﾞｮｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

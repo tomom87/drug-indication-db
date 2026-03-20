@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1125700J4",
+    "name": "ルピアール坐剤５０　５０ｍｇ",
+    "generic_name": "ルピアール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ルピアール坐剤５０　５０ｍｇ",
+        "kana": "ﾙﾋﾟｱｰﾙｻﾞｻﾞｲ50"
+      }
+    ]
+  },
+  "indications": []
+}

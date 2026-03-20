@@ -4,8 +4,10 @@ from pathlib import Path
 
 from indication_seed import get_indication_map
 from indication_seed_ext import get_indication_map_ext
+from indication_seed_dosage import get_indication_map_dosage
 from drug_seed import NAIKA_DRUGS, TSUMURA_KAMPO
 from drug_seed_ext import NAIKA_DRUGS_EXT
+from drug_seed_dosage import NAIKA_DRUGS_DOSAGE, DOSAGE_REPLACES
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DB_PATH = DATA_DIR / "drug_indication.db"
@@ -41,7 +43,14 @@ def build():
     drug_id = 0
     drug_keys = {}  # drug_key -> yj_code (ここでは連番IDで代用)
 
-    for name, category in NAIKA_DRUGS + NAIKA_DRUGS_EXT:
+    # DOSAGE_REPLACESに含まれる薬剤は除外し、用量別エントリに置き換え
+    base_drugs = [
+        (name, cat) for name, cat in NAIKA_DRUGS + NAIKA_DRUGS_EXT
+        if name not in DOSAGE_REPLACES
+    ]
+    all_naika = base_drugs + NAIKA_DRUGS_DOSAGE
+
+    for name, category in all_naika:
         drug_id += 1
         yj_code = f"NAIKA_{drug_id:04d}"
         c.execute(
@@ -64,6 +73,12 @@ def build():
     # indicationテーブルにデータ投入
     indication_map = get_indication_map()
     indication_map.update(get_indication_map_ext())
+    # 用量別データで上書き（単一エントリの適応は用量別に分割される）
+    dosage_map = get_indication_map_dosage()
+    # DOSAGE_REPLACESの元エントリを削除
+    for name in DOSAGE_REPLACES:
+        indication_map.pop(name, None)
+    indication_map.update(dosage_map)
     matched = 0
     unmatched_names = set()
 

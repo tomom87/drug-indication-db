@@ -6,19 +6,19 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0083",
+      "yj_code": "NAIKA_0077",
       "name": "エスシタロプラム",
       "generic_name": "エスシタロプラム",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "NAIKA_0212",
+      "yj_code": "NAIKA_0205",
       "name": "パロキセチン",
       "generic_name": "パロキセチン",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "NAIKA_0213",
+      "yj_code": "NAIKA_0206",
       "name": "フルボキサミン",
       "generic_name": "フルボキサミン",
       "category": "抗うつ薬"

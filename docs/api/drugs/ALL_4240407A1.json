@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4240407A1",
+    "name": "ロゼウス静注液１０ｍｇ　１ｍＬ",
+    "generic_name": "ロゼウス静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロゼウス静注液１０ｍｇ　１ｍＬ",
+        "kana": "ﾛｾﾞｳｽｼﾞｮｳﾁｭｳｴｷ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

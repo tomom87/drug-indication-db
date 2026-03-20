@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8119003F1",
+    "name": "ナルラピド錠１ｍｇ",
+    "generic_name": "ナルラピド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ナルラピド錠１ｍｇ",
+        "kana": "ﾅﾙﾗﾋﾟﾄﾞｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

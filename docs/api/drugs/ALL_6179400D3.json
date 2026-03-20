@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6179400D3",
+    "name": "ファンガード点滴用２５ｍｇ",
+    "generic_name": "ファンガード",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ファンガード点滴用２５ｍｇ",
+        "kana": "ﾌｧﾝｶﾞｰﾄﾞﾃﾝﾃｷﾖｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

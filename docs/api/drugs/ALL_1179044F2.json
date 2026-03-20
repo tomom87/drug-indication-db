@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179044F2",
+    "name": "ジプレキサ錠５ｍｇ",
+    "generic_name": "ジプレキサ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ジプレキサ錠５ｍｇ",
+        "kana": "ｼﾞﾌﾟﾚｷｻｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

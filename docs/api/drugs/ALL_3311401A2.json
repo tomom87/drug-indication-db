@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3311401A2",
+    "name": "生食注２０ｍＬ「ＣＭＸ」",
+    "generic_name": "生食",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "生食注２０ｍＬ「ＣＭＸ」",
+        "kana": "ｾｲｼｮｸﾁｭｳ20MLCMX"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291416D1",
+    "name": "ミリプラ動注用７０ｍｇ",
+    "generic_name": "ミリプラ動",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ミリプラ動注用７０ｍｇ",
+        "kana": "ﾐﾘﾌﾟﾗﾄﾞｳﾁｭｳﾖｳ70MG"
+      }
+    ]
+  },
+  "indications": []
+}

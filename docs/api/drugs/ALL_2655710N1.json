@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2655710N1",
+    "name": "アスタットクリーム１％",
+    "generic_name": "アスタット",
+    "category": "外用抗菌薬",
+    "brands": [
+      {
+        "name": "アスタットクリーム１％",
+        "kana": "ｱｽﾀｯﾄｸﾘｰﾑ1%"
+      }
+    ]
+  },
+  "indications": []
+}

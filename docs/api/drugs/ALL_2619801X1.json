@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2619801X1",
+    "name": "東豊消アル",
+    "generic_name": "東豊消アル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "東豊消アル",
+        "kana": "ﾄｳﾎｳｼｮｳｱﾙ"
+      }
+    ]
+  },
+  "indications": []
+}

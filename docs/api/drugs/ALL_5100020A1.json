@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100020A1",
+    "name": "ウチダのオウバク末Ｍ",
+    "generic_name": "ウチダのオウバク末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのオウバク末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｵｳﾊﾞｸﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

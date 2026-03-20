@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2478001G1",
+    "name": "プロスタールＬ錠５０ｍｇ",
+    "generic_name": "プロスタールＬ",
+    "category": "性ホルモン薬",
+    "brands": [
+      {
+        "name": "プロスタールＬ錠５０ｍｇ",
+        "kana": "ﾌﾟﾛｽﾀｰﾙLｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

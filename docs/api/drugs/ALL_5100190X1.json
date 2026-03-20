@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100190X1",
+    "name": "トチモトのトチュウ",
+    "generic_name": "トチモトのトチュウ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "トチモトのトチュウ",
+        "kana": "ﾄﾁﾓﾄﾉﾄﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

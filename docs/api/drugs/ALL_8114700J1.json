@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114700J1",
+    "name": "アンペック坐剤１０ｍｇ",
+    "generic_name": "アンペック",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アンペック坐剤１０ｍｇ",
+        "kana": "ｱﾝﾍﾟｯｸｻﾞｻﾞｲ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

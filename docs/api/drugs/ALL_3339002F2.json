@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3339002F2",
+    "name": "リクシアナ錠３０ｍｇ",
+    "generic_name": "リクシアナ",
+    "category": "血液用薬",
+    "brands": [
+      {
+        "name": "リクシアナ錠３０ｍｇ",
+        "kana": "ﾘｸｼｱﾅｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

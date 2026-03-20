@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231400P7",
+    "name": "テルモ糖注ＴＫ　５％５０ｍＬ",
+    "generic_name": "テルモ糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "テルモ糖注ＴＫ　５％５０ｍＬ",
+        "kana": "ﾃﾙﾓﾄｳﾁｭｳTK"
+      }
+    ]
+  },
+  "indications": []
+}

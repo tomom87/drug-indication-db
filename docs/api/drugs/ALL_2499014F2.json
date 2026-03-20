@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499014F2",
+    "name": "リベルサス錠７ｍｇ",
+    "generic_name": "リベルサス",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "リベルサス錠７ｍｇ",
+        "kana": "ﾘﾍﾞﾙｻｽｼﾞｮｳ7MG"
+      }
+    ]
+  },
+  "indications": []
+}

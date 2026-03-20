@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4419002B1",
+    "name": "ポララミン散１％",
+    "generic_name": "ポララミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ポララミン散１％",
+        "kana": "ﾎﾟﾗﾗﾐﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2616701Q1",
+    "name": "ハイアミン液１０％",
+    "generic_name": "ハイアミン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ハイアミン液１０％",
+        "kana": "ﾊｲｱﾐﾝｴｷ10%"
+      }
+    ]
+  },
+  "indications": []
+}

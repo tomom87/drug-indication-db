@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2356002X1",
+    "name": "加香ヒマシ油",
+    "generic_name": "加香ヒマシ油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "加香ヒマシ油",
+        "kana": "ｶｺｳﾋﾏｼﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100163X1",
+    "name": "ウチダのボウイＭ",
+    "generic_name": "ウチダのボウイＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのボウイＭ",
+        "kana": "ｳﾁﾀﾞﾉﾎﾞｳｲM"
+      }
+    ]
+  },
+  "indications": []
+}

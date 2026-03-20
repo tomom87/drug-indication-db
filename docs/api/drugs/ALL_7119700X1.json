@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7119700X1",
+    "name": "アラビアゴム",
+    "generic_name": "アラビアゴム",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アラビアゴム",
+        "kana": "ｱﾗﾋﾞｱｺﾞﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

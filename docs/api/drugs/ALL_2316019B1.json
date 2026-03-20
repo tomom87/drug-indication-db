@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2316019B1",
+    "name": "ラックビーＲ散",
+    "generic_name": "ラックビーＲ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラックビーＲ散",
+        "kana": "ﾗｯｸﾋﾞｰRｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

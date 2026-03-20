@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179035F1",
+    "name": "クレミン錠１０ｍｇ",
+    "generic_name": "クレミン",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "クレミン錠１０ｍｇ",
+        "kana": "ｸﾚﾐﾝｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

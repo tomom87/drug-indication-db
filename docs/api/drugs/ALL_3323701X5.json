@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3323701X5",
+    "name": "トロンビン　２０，０００単位",
+    "generic_name": "トロンビン　２０，０００単位",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "トロンビン　２０，０００単位",
+        "kana": "ﾄﾛﾝﾋﾞﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

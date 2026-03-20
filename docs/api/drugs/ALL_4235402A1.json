@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4235402A1",
+    "name": "ドキシル注２０ｍｇ　１０ｍＬ",
+    "generic_name": "ドキシル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ドキシル注２０ｍｇ　１０ｍＬ",
+        "kana": "ﾄﾞｷｼﾙﾁｭｳ20MG"
+      }
+    ]
+  },
+  "indications": []
+}

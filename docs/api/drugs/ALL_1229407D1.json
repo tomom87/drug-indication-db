@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1229407D1",
+    "name": "ゼオマイン注用５０単位",
+    "generic_name": "ゼオマイン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ゼオマイン注用５０単位",
+        "kana": "ｾﾞｵﾏｲﾝﾁｭｳﾖｳ50ﾀﾝｲ"
+      }
+    ]
+  },
+  "indications": []
+}

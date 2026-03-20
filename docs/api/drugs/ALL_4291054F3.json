@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291054F3",
+    "name": "ベージニオ錠１５０ｍｇ",
+    "generic_name": "ベージニオ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ベージニオ錠１５０ｍｇ",
+        "kana": "ﾍﾞｰｼﾞﾆｵｼﾞｮｳ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

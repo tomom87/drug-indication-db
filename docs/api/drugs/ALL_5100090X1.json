@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100090X1",
+    "name": "ウチダのシコンＭ",
+    "generic_name": "ウチダのシコンＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのシコンＭ",
+        "kana": "ｳﾁﾀﾞﾉｼｺﾝM"
+      }
+    ]
+  },
+  "indications": []
+}

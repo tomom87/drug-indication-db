@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2655711M1",
+    "name": "アトラント軟膏１％",
+    "generic_name": "アトラント",
+    "category": "外用抗菌薬",
+    "brands": [
+      {
+        "name": "アトラント軟膏１％",
+        "kana": "ｱﾄﾗﾝﾄﾅﾝｺｳ1%"
+      }
+    ]
+  },
+  "indications": []
+}

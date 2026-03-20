@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6241009M1",
+    "name": "バレオンカプセル１００ｍｇ",
+    "generic_name": "バレオン",
+    "category": "抗ウイルス薬",
+    "brands": [
+      {
+        "name": "バレオンカプセル１００ｍｇ",
+        "kana": "ﾊﾞﾚｵﾝｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6222005A1",
+    "name": "ネオイスコチン原末",
+    "generic_name": "ネオイスコチン原末",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ネオイスコチン原末",
+        "kana": "ﾈｵｲｽｺﾁﾝｹﾞﾝﾏﾂ"
+      }
+    ]
+  },
+  "indications": []
+}

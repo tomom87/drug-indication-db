@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3319550A3",
+    "name": "エスロンＢ注　５００ｍＬ",
+    "generic_name": "エスロンＢ",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "エスロンＢ注　５００ｍＬ",
+        "kana": "ｴｽﾛﾝBﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

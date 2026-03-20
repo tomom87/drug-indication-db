@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_3969009F5",
+    "name": "セイブルＯＤ錠７５ｍｇ",
+    "generic_name": "セイブルＯＤ",
+    "category": "糖尿病薬",
+    "brands": [
+      {
+        "name": "セイブルＯＤ錠７５ｍｇ",
+        "kana": "ｾｲﾌﾞﾙODｼﾞｮｳ75MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "2500015",
+      "name": "２型糖尿病",
+      "kana": "11",
+      "icd10": "E11"
+    }
+  ]
+}

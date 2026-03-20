@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1319738Q2",
+    "name": "トルソプト点眼液１％",
+    "generic_name": "トルソプト",
+    "category": "眼科用薬",
+    "brands": [
+      {
+        "name": "トルソプト点眼液１％",
+        "kana": "ﾄﾙｿﾌﾟﾄﾃﾝｶﾞﾝｴｷ1%"
+      }
+    ]
+  },
+  "indications": []
+}

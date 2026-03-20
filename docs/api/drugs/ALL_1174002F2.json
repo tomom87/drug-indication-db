@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1174002F2",
+    "name": "アナフラニール錠２５ｍｇ",
+    "generic_name": "アナフラニール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アナフラニール錠２５ｍｇ",
+        "kana": "ｱﾅﾌﾗﾆｰﾙｼﾞｮｳ25MG"
+      }
+    ]
+  },
+  "indications": []
+}

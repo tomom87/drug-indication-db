@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291031F2",
+    "name": "イクスタンジ錠８０ｍｇ",
+    "generic_name": "イクスタンジ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "イクスタンジ錠８０ｍｇ",
+        "kana": "ｲｸｽﾀﾝｼﾞｼﾞｮｳ80MG"
+      }
+    ]
+  },
+  "indications": []
+}

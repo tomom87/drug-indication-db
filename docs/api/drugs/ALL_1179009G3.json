@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179009G3",
+    "name": "コンサータ錠３６ｍｇ",
+    "generic_name": "コンサータ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "コンサータ錠３６ｍｇ",
+        "kana": "ｺﾝｻｰﾀｼﾞｮｳ36MG"
+      }
+    ]
+  },
+  "indications": []
+}

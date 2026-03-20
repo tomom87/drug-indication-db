@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399014F2",
+    "name": "イリボー錠５μｇ",
+    "generic_name": "イリボー",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "イリボー錠５μｇ",
+        "kana": "ｲﾘﾎﾞｰｼﾞｮｳ5ﾏｲｸﾛG"
+      }
+    ]
+  },
+  "indications": []
+}

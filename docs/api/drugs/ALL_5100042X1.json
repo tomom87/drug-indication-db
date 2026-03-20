@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100042X1",
+    "name": "ウチダのキキョウＭ",
+    "generic_name": "ウチダのキキョウＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのキキョウＭ",
+        "kana": "ｳﾁﾀﾞﾉｷｷｮｳM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1149011D1",
+    "name": "フロベン顆粒８％",
+    "generic_name": "フロベン",
+    "category": "抗てんかん薬",
+    "brands": [
+      {
+        "name": "フロベン顆粒８％",
+        "kana": "ﾌﾛﾍﾞﾝｶﾘｭｳ8%"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "3459001",
+      "name": "てんかん",
+      "kana": "4",
+      "icd10": "G409"
+    }
+  ]
+}

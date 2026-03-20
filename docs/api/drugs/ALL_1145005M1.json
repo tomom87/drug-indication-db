@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1145005M1",
+    "name": "インフリーカプセル１００ｍｇ",
+    "generic_name": "インフリー",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "インフリーカプセル１００ｍｇ",
+        "kana": "ｲﾝﾌﾘｰｶﾌﾟｾﾙ100MG"
+      }
+    ]
+  },
+  "indications": []
+}

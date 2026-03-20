@@ -6,19 +6,19 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0083",
+      "yj_code": "NAIKA_0077",
       "name": "エスシタロプラム",
       "generic_name": "エスシタロプラム",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "NAIKA_0084",
+      "yj_code": "NAIKA_0078",
       "name": "セルトラリン",
       "generic_name": "セルトラリン",
       "category": "抗うつ薬"
     },
     {
-      "yj_code": "NAIKA_0085",
+      "yj_code": "NAIKA_0079",
       "name": "ミルタザピン",
       "generic_name": "ミルタザピン",
       "category": "抗うつ薬"
@@ -30,69 +30,171 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_1172007",
+      "yj_code": "ALL_1172007B1",
       "name": "トリラホン散１％",
       "generic_name": "トリラホン",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172005",
+      "yj_code": "ALL_1172005S1",
+      "name": "ニューレプチル内服液１％",
+      "generic_name": "ニューレプチル内服",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172005C1",
+      "name": "ニューレプチル細粒１０％",
+      "generic_name": "ニューレプチル",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172005F2",
       "name": "ニューレプチル錠１０ｍｇ",
       "generic_name": "ニューレプチル",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172404",
+      "yj_code": "ALL_1172005F3",
+      "name": "ニューレプチル錠２５ｍｇ",
+      "generic_name": "ニューレプチル",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172005F1",
+      "name": "ニューレプチル錠５ｍｇ",
+      "generic_name": "ニューレプチル",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172404A1",
       "name": "ノバミン筋注５ｍｇ　０．５％１ｍＬ",
       "generic_name": "ノバミン筋",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172014",
+      "yj_code": "ALL_1172014C1",
+      "name": "ヒルナミン細粒１０％",
+      "generic_name": "ヒルナミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014F2",
       "name": "ヒルナミン錠（２５ｍｇ）",
       "generic_name": "ヒルナミン",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172004",
+      "yj_code": "ALL_1172004B1",
       "name": "ピーゼットシー散１％",
       "generic_name": "ピーゼットシー",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172402",
+      "yj_code": "ALL_1172402A1",
       "name": "ピーゼットシー筋注２ｍｇ　０．２％１ｍＬ",
       "generic_name": "ピーゼットシー筋",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172405",
+      "yj_code": "ALL_1172405A1",
       "name": "フルデカシン筋注２５ｍｇ　１ｍＬ",
       "generic_name": "フルデカシン筋",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172009",
+      "yj_code": "ALL_1172009B1",
       "name": "フルメジン散０．２％",
       "generic_name": "フルメジン",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172010",
+      "yj_code": "ALL_1172009F1",
+      "name": "フルメジン糖衣錠（０．２５）　０．２５ｍｇ",
+      "generic_name": "フルメジン糖衣",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172009F2",
+      "name": "フルメジン糖衣錠（０．５）　０．５ｍｇ",
+      "generic_name": "フルメジン糖衣",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172009F3",
+      "name": "フルメジン糖衣錠（１）　１ｍｇ",
+      "generic_name": "フルメジン糖衣",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172010F1",
       "name": "プロクロルペラジンマレイン酸塩錠　５ｍｇ",
       "generic_name": "プロクロルペラジンマレイン酸塩",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172013",
+      "yj_code": "ALL_1172013F1",
       "name": "ペルフェナジンマレイン酸塩錠　２ｍｇ",
       "generic_name": "ペルフェナジンマレイン酸塩",
       "category": "精神神経用薬"
     },
     {
-      "yj_code": "ALL_1172006",
+      "yj_code": "ALL_1172013F2",
+      "name": "ペルフェナジンマレイン酸塩錠　４ｍｇ",
+      "generic_name": "ペルフェナジンマレイン酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172013F3",
+      "name": "ペルフェナジンマレイン酸塩錠　８ｍｇ",
+      "generic_name": "ペルフェナジンマレイン酸塩",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172006F1",
       "name": "ペルフェナジン錠　２ｍｇ",
       "generic_name": "ペルフェナジン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172006F2",
+      "name": "ペルフェナジン錠　４ｍｇ",
+      "generic_name": "ペルフェナジン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172006F3",
+      "name": "ペルフェナジン錠　８ｍｇ",
+      "generic_name": "ペルフェナジン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014B1",
+      "name": "レボトミン散１０％",
+      "generic_name": "レボトミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014B2",
+      "name": "レボトミン散５０％",
+      "generic_name": "レボトミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014F3",
+      "name": "レボトミン錠５０ｍｇ",
+      "generic_name": "レボトミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014F1",
+      "name": "レボトミン錠５ｍｇ",
+      "generic_name": "レボトミン",
+      "category": "精神神経用薬"
+    },
+    {
+      "yj_code": "ALL_1172014D1",
+      "name": "レボトミン顆粒１０％",
+      "generic_name": "レボトミン",
       "category": "精神神経用薬"
     }
   ]

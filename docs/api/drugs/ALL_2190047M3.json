@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190047M3",
+    "name": "カムザイオスカプセル５ｍｇ",
+    "generic_name": "カムザイオス",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "カムザイオスカプセル５ｍｇ",
+        "kana": "ｶﾑｻﾞｲｵｽｶﾌﾟｾﾙ5MG"
+      }
+    ]
+  },
+  "indications": []
+}

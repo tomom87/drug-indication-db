@@ -72,63 +72,93 @@
       "category": "漢方"
     },
     {
-      "yj_code": "ALL_2229001",
+      "yj_code": "ALL_2229001Q1",
+      "name": "アストミンシロップ０．２５％",
+      "generic_name": "アストミン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229001B1",
       "name": "アストミン散１０％",
       "generic_name": "アストミン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229114",
+      "yj_code": "ALL_2229001F1",
+      "name": "アストミン錠１０ｍｇ",
+      "generic_name": "アストミン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229114F2",
       "name": "カフコデＮ配合錠",
       "generic_name": "カフコデＮ配合",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229102",
+      "yj_code": "ALL_2229102Q1",
       "name": "クロフェドリンＳ配合シロップ",
       "generic_name": "クロフェドリンＳ配合",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229101",
+      "yj_code": "ALL_2229101F1",
       "name": "クロフェドリンＳ配合錠",
       "generic_name": "クロフェドリンＳ配合",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0049",
+      "yj_code": "NAIKA_0045",
       "name": "コデインリン酸塩",
       "generic_name": "コデインリン酸塩",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229002",
+      "yj_code": "ALL_2229002F1",
+      "name": "コルドリン錠１２．５ｍｇ",
+      "generic_name": "コルドリン",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229002D1",
       "name": "コルドリン顆粒４．１７％",
       "generic_name": "コルドリン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "NAIKA_0050",
+      "yj_code": "ALL_2229001R1",
+      "name": "ジメモルファンリン酸塩ＤＳ小児用２．５％「タカタ」",
+      "generic_name": "ジメモルファンリン酸塩ＤＳ小児用",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "NAIKA_0046",
       "name": "デキストロメトルファン",
       "generic_name": "デキストロメトルファン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2222001",
+      "yj_code": "ALL_2222001A1",
       "name": "ノスカピン",
       "generic_name": "ノスカピン",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229006",
+      "yj_code": "ALL_2229006B1",
       "name": "フスタゾール散１０％",
       "generic_name": "フスタゾール",
       "category": "鎮咳薬"
     },
     {
-      "yj_code": "ALL_2229004",
+      "yj_code": "ALL_2229004F1",
       "name": "フスタゾール糖衣錠１０ｍｇ",
       "generic_name": "フスタゾール糖衣",
+      "category": "鎮咳薬"
+    },
+    {
+      "yj_code": "ALL_2229006F1",
+      "name": "フスタゾール錠小児用２．５ｍｇ",
+      "generic_name": "フスタゾール",
       "category": "鎮咳薬"
     }
   ]

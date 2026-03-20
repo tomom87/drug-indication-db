@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2699802R1",
+    "name": "ドボベットフォーム",
+    "generic_name": "ドボベットフォーム",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ドボベットフォーム",
+        "kana": "ﾄﾞﾎﾞﾍﾞｯﾄﾌｫｰﾑ"
+      }
+    ]
+  },
+  "indications": []
+}

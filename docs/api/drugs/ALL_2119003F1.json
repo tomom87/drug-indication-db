@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_2119003F1",
+    "name": "ノイキノン錠５ｍｇ",
+    "generic_name": "ノイキノン",
+    "category": "強心薬",
+    "brands": [
+      {
+        "name": "ノイキノン錠５ｍｇ",
+        "kana": "ﾉｲｷﾉﾝｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "4289015",
+      "name": "心不全",
+      "kana": "5",
+      "icd10": "I509"
+    }
+  ]
+}

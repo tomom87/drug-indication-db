@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2616707Q2",
+    "name": "プリビーシー液０．０５％",
+    "generic_name": "プリビーシー",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プリビーシー液０．０５％",
+        "kana": "ﾌﾟﾘﾋﾞｰｼｰｴｷ0.05%"
+      }
+    ]
+  },
+  "indications": []
+}

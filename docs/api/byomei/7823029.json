@@ -6,7 +6,7 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0107",
+      "yj_code": "NAIKA_0101",
       "name": "アゾセミド",
       "generic_name": "アゾセミド",
       "category": "降圧薬"
@@ -18,7 +18,7 @@
       "category": "降圧薬"
     },
     {
-      "yj_code": "NAIKA_0108",
+      "yj_code": "NAIKA_0102",
       "name": "トリクロルメチアジド",
       "generic_name": "トリクロルメチアジド",
       "category": "降圧薬"
@@ -30,7 +30,7 @@
       "category": "降圧薬"
     },
     {
-      "yj_code": "NAIKA_0106",
+      "yj_code": "NAIKA_0100",
       "name": "フロセミド",
       "generic_name": "フロセミド",
       "category": "降圧薬"

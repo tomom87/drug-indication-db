@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6419001F2",
+    "name": "チニダゾール錠５００ｍｇ「Ｆ」",
+    "generic_name": "チニダゾール",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "チニダゾール錠５００ｍｇ「Ｆ」",
+        "kana": "ﾁﾆﾀﾞｿﾞｰﾙｼﾞｮｳ500MGF"
+      }
+    ]
+  },
+  "indications": []
+}

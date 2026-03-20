@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2190045F4",
+    "name": "フォゼベル錠３０ｍｇ",
+    "generic_name": "フォゼベル",
+    "category": "その他の循環器薬",
+    "brands": [
+      {
+        "name": "フォゼベル錠３０ｍｇ",
+        "kana": "ﾌｫｾﾞﾍﾞﾙｼﾞｮｳ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

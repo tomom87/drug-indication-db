@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3113001X1",
+    "name": "肝油",
+    "generic_name": "肝油",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "肝油",
+        "kana": "ｶﾝﾕ"
+      }
+    ]
+  },
+  "indications": []
+}

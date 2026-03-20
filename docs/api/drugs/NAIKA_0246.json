@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "NAIKA_0246",
+    "name": "リバーロキサバン2.5mg",
+    "generic_name": "リバーロキサバン2.5mg",
+    "category": "抗凝固薬",
+    "brands": [
+      {
+        "name": "イグザレルト錠２．５ｍｇ",
+        "kana": "ｲｸﾞｻﾞﾚﾙﾄｼﾞｮｳ2.5MG"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8846372",
+      "name": "急性冠症候群",
+      "kana": "14",
+      "icd10": "I249"
+    }
+  ]
+}

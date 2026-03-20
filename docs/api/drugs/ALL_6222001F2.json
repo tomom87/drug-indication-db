@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6222001F2",
+    "name": "イソニアジド錠　５０ｍｇ",
+    "generic_name": "イソニアジド",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "イソニアジド錠　５０ｍｇ",
+        "kana": "ｲｿﾆｱｼﾞﾄﾞｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

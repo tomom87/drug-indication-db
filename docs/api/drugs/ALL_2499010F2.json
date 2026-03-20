@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2499010F2",
+    "name": "ディナゲストＯＤ錠１ｍｇ",
+    "generic_name": "ディナゲストＯＤ",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "ディナゲストＯＤ錠１ｍｇ",
+        "kana": "ﾃﾞｨﾅｹﾞｽﾄODｼﾞｮｳ1MG"
+      }
+    ]
+  },
+  "indications": []
+}

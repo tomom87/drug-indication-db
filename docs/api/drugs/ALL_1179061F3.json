@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179061F3",
+    "name": "ラツーダ錠６０ｍｇ",
+    "generic_name": "ラツーダ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "ラツーダ錠６０ｍｇ",
+        "kana": "ﾗﾂｰﾀﾞｼﾞｮｳ60MG"
+      }
+    ]
+  },
+  "indications": []
+}

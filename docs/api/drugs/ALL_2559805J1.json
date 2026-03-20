@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2559805J1",
+    "name": "プロクトセディル坐薬",
+    "generic_name": "プロクトセディル坐薬",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロクトセディル坐薬",
+        "kana": "ﾌﾟﾛｸﾄｾﾃﾞｨﾙｻﾞﾔｸ"
+      }
+    ]
+  },
+  "indications": []
+}

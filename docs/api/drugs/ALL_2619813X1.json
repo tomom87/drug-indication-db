@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2619813X1",
+    "name": "ネオ兼一消アルＡ",
+    "generic_name": "ネオ兼一消アルＡ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ネオ兼一消アルＡ",
+        "kana": "ﾈｵｶﾈｲﾁｼｮｳｱﾙA"
+      }
+    ]
+  },
+  "indications": []
+}

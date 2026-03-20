@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1249351B1",
+    "name": "ロートエキス散",
+    "generic_name": "ロートエキス",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ロートエキス散",
+        "kana": "ﾛｰﾄｴｷｽｻﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

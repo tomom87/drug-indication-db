@@ -1,0 +1,22 @@
+{
+  "drug": {
+    "yj_code": "ALL_1124003B1",
+    "name": "ネルボン散１％",
+    "generic_name": "ネルボン",
+    "category": "催眠鎮静薬",
+    "brands": [
+      {
+        "name": "ネルボン散１％",
+        "kana": "ﾈﾙﾎﾞﾝｻﾝ1%"
+      }
+    ]
+  },
+  "indications": [
+    {
+      "code": "8839792",
+      "name": "不眠症",
+      "kana": "6",
+      "icd10": "G470"
+    }
+  ]
+}

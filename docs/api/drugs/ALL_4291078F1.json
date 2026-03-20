@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291078F1",
+    "name": "ジェセリ錠４０ｍｇ",
+    "generic_name": "ジェセリ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "ジェセリ錠４０ｍｇ",
+        "kana": "ｼﾞｪｾﾘｼﾞｮｳ40MG"
+      }
+    ]
+  },
+  "indications": []
+}

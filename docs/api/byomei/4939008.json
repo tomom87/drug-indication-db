@@ -6,265 +6,397 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0063",
+      "yj_code": "NAIKA_0059",
       "name": "プレドニゾロン",
       "generic_name": "プレドニゾロン",
       "category": "ステロイド"
     },
     {
-      "yj_code": "NAIKA_0052",
+      "yj_code": "NAIKA_0048",
       "name": "アンブロキソール",
       "generic_name": "アンブロキソール",
       "category": "去痰薬"
     },
     {
-      "yj_code": "NAIKA_0051",
+      "yj_code": "NAIKA_0047",
       "name": "カルボシステイン",
       "generic_name": "カルボシステイン",
       "category": "去痰薬"
     },
     {
-      "yj_code": "NAIKA_0045",
+      "yj_code": "NAIKA_0041",
       "name": "サルメテロール・フルチカゾン",
       "generic_name": "サルメテロール・フルチカゾン",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0047",
+      "yj_code": "NAIKA_0043",
       "name": "チオトロピウム",
       "generic_name": "チオトロピウム",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0147",
+      "yj_code": "NAIKA_0140",
       "name": "ツロブテロール",
       "generic_name": "ツロブテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0048",
+      "yj_code": "NAIKA_0044",
       "name": "テオフィリン",
       "generic_name": "テオフィリン",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0144",
+      "yj_code": "NAIKA_0137",
       "name": "フルチカゾン",
       "generic_name": "フルチカゾン",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0046",
+      "yj_code": "NAIKA_0042",
       "name": "ブデソニド・ホルモテロール",
       "generic_name": "ブデソニド・ホルモテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0150",
+      "yj_code": "NAIKA_0143",
       "name": "プランルカスト",
       "generic_name": "プランルカスト",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0146",
+      "yj_code": "NAIKA_0139",
       "name": "プロカテロール",
       "generic_name": "プロカテロール",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0145",
+      "yj_code": "NAIKA_0138",
       "name": "ベクロメタゾン",
       "generic_name": "ベクロメタゾン",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "NAIKA_0044",
+      "yj_code": "NAIKA_0040",
       "name": "モンテルカスト",
       "generic_name": "モンテルカスト",
       "category": "呼吸器薬"
     },
     {
-      "yj_code": "ALL_3949101",
+      "yj_code": "ALL_3949101F1",
+      "name": "ウラリット配合錠",
+      "generic_name": "ウラリット配合",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949101A1",
       "name": "ウラリット－Ｕ配合散",
       "generic_name": "ウラリット－Ｕ配合",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "ALL_3949004",
+      "yj_code": "ALL_3949004F1",
       "name": "ウリアデック錠２０ｍｇ",
       "generic_name": "ウリアデック",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "NAIKA_0062",
+      "yj_code": "ALL_3949004F2",
+      "name": "ウリアデック錠４０ｍｇ",
+      "generic_name": "ウリアデック",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949004F3",
+      "name": "ウリアデック錠６０ｍｇ",
+      "generic_name": "ウリアデック",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "NAIKA_0058",
       "name": "エピナスチン",
       "generic_name": "エピナスチン",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "ALL_3949005",
+      "yj_code": "ALL_3949005F1",
       "name": "ユリス錠０．５ｍｇ",
       "generic_name": "ユリス",
       "category": "抗アレルギー薬"
     },
     {
-      "yj_code": "ALL_2252700",
+      "yj_code": "ALL_3949005F2",
+      "name": "ユリス錠１ｍｇ",
+      "generic_name": "ユリス",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_3949005F3",
+      "name": "ユリス錠２ｍｇ",
+      "generic_name": "ユリス",
+      "category": "抗アレルギー薬"
+    },
+    {
+      "yj_code": "ALL_2252700G1",
       "name": "アスプール液（０．５％）",
       "generic_name": "アスプール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259702",
+      "yj_code": "ALL_2259702G2",
       "name": "アトロベントエロゾル２０μｇ　４．２０ｍｇ１０ｍＬ",
       "generic_name": "アトロベントエロゾル２０μｇ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259800",
+      "yj_code": "ALL_2259800J1",
       "name": "アニスーマ坐剤",
       "generic_name": "アニスーマ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259806",
+      "yj_code": "ALL_2259806G2",
+      "name": "アノーロエリプタ３０吸入用",
+      "generic_name": "アノーロエリプタ３０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259806G1",
       "name": "アノーロエリプタ７吸入用",
       "generic_name": "アノーロエリプタ７",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259801",
+      "yj_code": "ALL_2259801X1",
       "name": "アレベール吸入用溶解液０．１２５％",
       "generic_name": "アレベール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259700",
+      "yj_code": "ALL_2259003Q1",
+      "name": "イノリンシロップ０．１％",
+      "generic_name": "イノリン",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259700G1",
       "name": "イノリン吸入液０．５％",
       "generic_name": "イノリン",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259003",
+      "yj_code": "ALL_2259003B1",
       "name": "イノリン散１％",
       "generic_name": "イノリン",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259701",
+      "yj_code": "ALL_2259701G1",
       "name": "インタール吸入液１％　２ｍＬ",
       "generic_name": "インタール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259805",
+      "yj_code": "ALL_2259805G1",
       "name": "ウルティブロ吸入用カプセル",
       "generic_name": "ウルティブロ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259713",
+      "yj_code": "ALL_2259713G1",
       "name": "エクリラ４００μｇジェヌエア３０吸入用",
       "generic_name": "エクリラ４００μｇジェヌエア３０",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259714",
+      "yj_code": "ALL_2259713G2",
+      "name": "エクリラ４００μｇジェヌエア６０吸入用",
+      "generic_name": "エクリラ４００μｇジェヌエア６０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259714G2",
+      "name": "エンクラッセ６２．５μｇエリプタ３０吸入用",
+      "generic_name": "エンクラッセ６２．５μｇエリプタ３０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259714G1",
       "name": "エンクラッセ６２．５μｇエリプタ７吸入用",
       "generic_name": "エンクラッセ６２．５μｇエリプタ７",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259710",
+      "yj_code": "ALL_2259710G1",
       "name": "オンブレス吸入用カプセル１５０μｇ",
       "generic_name": "オンブレス",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259711",
+      "yj_code": "ALL_2259711G1",
       "name": "オーキシス９μｇタービュヘイラー２８吸入　２５２μｇ（９μｇ）",
       "generic_name": "オーキシス９μｇタービュヘイラー２８",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259703",
+      "yj_code": "ALL_2259711G2",
+      "name": "オーキシス９μｇタービュヘイラー６０吸入　５４０μｇ（９μｇ）",
+      "generic_name": "オーキシス９μｇタービュヘイラー６０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259703Y1",
+      "name": "キュバール１００エアゾール　１５ｍｇ８．７ｇ",
+      "generic_name": "キュバール１００エアゾール",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259703G9",
       "name": "キュバール５０エアゾール　７ｍｇ８．７ｇ",
       "generic_name": "キュバール５０エアゾール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2254700",
+      "yj_code": "ALL_2254700G4",
       "name": "サルタノールインヘラー１００μｇ　０．１６％１３．５ｍＬ",
       "generic_name": "サルタノールインヘラー１００μｇ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259712",
+      "yj_code": "ALL_2254001F1",
+      "name": "サルブタモール錠２ｍｇ「日医工」",
+      "generic_name": "サルブタモール",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259712G1",
       "name": "シーブリ吸入用カプセル５０μｇ",
       "generic_name": "シーブリ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259807",
+      "yj_code": "ALL_2259807G1",
       "name": "スピオルトレスピマット２８吸入",
       "generic_name": "スピオルトレスピマット２８",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259709",
+      "yj_code": "ALL_2259807G2",
+      "name": "スピオルトレスピマット６０吸入",
+      "generic_name": "スピオルトレスピマット６０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259709G1",
       "name": "スピリーバ吸入用カプセル１８μｇ",
       "generic_name": "スピリーバ",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259006",
+      "yj_code": "ALL_2259709G3",
+      "name": "スピリーバ１．２５μｇレスピマット６０吸入　７５μｇ",
+      "generic_name": "スピリーバ１．２５μｇレスピマット６０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259709G2",
+      "name": "スピリーバ２．５μｇレスピマット６０吸入　１５０μｇ",
+      "generic_name": "スピリーバ２．５μｇレスピマット６０",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259006F1",
       "name": "スピロペント錠１０μｇ",
       "generic_name": "スピロペント",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259708",
+      "yj_code": "ALL_2259708G3",
       "name": "セレベント５０ディスカス　５０μｇ６０ブリスター",
       "generic_name": "セレベント５０ディスカス　５０μｇ６０ブリスター",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259808",
+      "yj_code": "ALL_2259808G2",
       "name": "ビベスピエアロスフィア１２０吸入",
       "generic_name": "ビベスピエアロスフィア１２０",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252006",
+      "yj_code": "ALL_2252006R2",
       "name": "フェノテロール臭化水素酸塩ＤＳ小児用０．５％「タカタ」",
       "generic_name": "フェノテロール臭化水素酸塩ＤＳ小児用",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252401",
+      "yj_code": "ALL_2252003Q1",
+      "name": "ブリカニールシロップ０．５ｍｇ／ｍＬ　０．０５％",
+      "generic_name": "ブリカニール",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2252401A1",
       "name": "ブリカニール皮下注０．２ｍｇ",
       "generic_name": "ブリカニール皮下",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252003",
+      "yj_code": "ALL_2252003F1",
       "name": "ブリカニール錠２ｍｇ",
       "generic_name": "ブリカニール",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2254001",
+      "yj_code": "ALL_2254001Q1",
       "name": "ベネトリンシロップ０．０４％",
       "generic_name": "ベネトリン",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2252704",
+      "yj_code": "ALL_2254700G2",
+      "name": "ベネトリン吸入液０．５％",
+      "generic_name": "ベネトリン",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2252704G2",
       "name": "ベロテックエロゾル１００　２０ｍｇ１０ｍＬ",
       "generic_name": "ベロテックエロゾル１００",
       "category": "気管支拡張薬"
     },
     {
-      "yj_code": "ALL_2259704",
+      "yj_code": "ALL_2259704G9",
+      "name": "メプチンエアー１０μｇ吸入１００回　０．０１４３％５ｍＬ",
+      "generic_name": "メプチンエアー１０μｇ",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259704G8",
+      "name": "メプチンキッドエアー５μｇ吸入１００回　０．０１４３％２．５ｍＬ",
+      "generic_name": "メプチンキッドエアー５μｇ",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259704Y1",
+      "name": "メプチンスイングヘラー１０μｇ吸入１００回　１ｍｇ",
+      "generic_name": "メプチンスイングヘラー１０μｇ",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259704G5",
+      "name": "メプチン吸入液ユニット０．３ｍＬ　０．０１％",
+      "generic_name": "メプチン",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259704G6",
+      "name": "メプチン吸入液ユニット０．５ｍＬ　０．０１％",
+      "generic_name": "メプチン",
+      "category": "気管支拡張薬"
+    },
+    {
+      "yj_code": "ALL_2259704G1",
       "name": "メプチン吸入液０．０１％",
       "generic_name": "メプチン",
       "category": "気管支拡張薬"

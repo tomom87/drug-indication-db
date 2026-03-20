@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3311402P5",
+    "name": "テルモ生食ＴＫ　５０ｍＬ",
+    "generic_name": "テルモ生食ＴＫ　５０ｍＬ",
+    "category": "血液凝固阻止薬",
+    "brands": [
+      {
+        "name": "テルモ生食ＴＫ　５０ｍＬ",
+        "kana": "ﾃﾙﾓｾｲｼｮｸTK"
+      }
+    ]
+  },
+  "indications": []
+}

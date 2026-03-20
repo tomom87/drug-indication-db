@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2669701N1",
+    "name": "ウレパールクリーム１０％",
+    "generic_name": "ウレパール",
+    "category": "皮膚用薬",
+    "brands": [
+      {
+        "name": "ウレパールクリーム１０％",
+        "kana": "ｳﾚﾊﾟｰﾙｸﾘｰﾑ10%"
+      }
+    ]
+  },
+  "indications": []
+}

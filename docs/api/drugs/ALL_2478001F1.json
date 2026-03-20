@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2478001F1",
+    "name": "ルトラール錠２ｍｇ",
+    "generic_name": "ルトラール",
+    "category": "性ホルモン薬",
+    "brands": [
+      {
+        "name": "ルトラール錠２ｍｇ",
+        "kana": "ﾙﾄﾗｰﾙｼﾞｮｳ2MG"
+      }
+    ]
+  },
+  "indications": []
+}

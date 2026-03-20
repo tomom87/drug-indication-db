@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2477400A2",
+    "name": "プロゲデポー筋注１２５ｍｇ",
+    "generic_name": "プロゲデポー筋",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "プロゲデポー筋注１２５ｍｇ",
+        "kana": "ﾌﾟﾛｹﾞﾃﾞﾎﾟｰｷﾝﾁｭｳ125MG"
+      }
+    ]
+  },
+  "indications": []
+}

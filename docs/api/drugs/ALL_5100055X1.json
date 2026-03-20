@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100055X1",
+    "name": "ウチダのケイガイＭ",
+    "generic_name": "ウチダのケイガイＭ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのケイガイＭ",
+        "kana": "ｳﾁﾀﾞﾉｹｲｶﾞｲM"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291019M3",
+    "name": "サレドカプセル２５　２５ｍｇ",
+    "generic_name": "サレド",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "サレドカプセル２５　２５ｍｇ",
+        "kana": "ｻﾚﾄﾞｶﾌﾟｾﾙ25"
+      }
+    ]
+  },
+  "indications": []
+}

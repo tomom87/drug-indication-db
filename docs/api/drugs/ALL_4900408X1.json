@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4900408X1",
+    "name": "アロフィセル注　４瓶",
+    "generic_name": "アロフィセル",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "アロフィセル注　４瓶",
+        "kana": "ｱﾛﾌｨｾﾙﾁｭｳ"
+      }
+    ]
+  },
+  "indications": []
+}

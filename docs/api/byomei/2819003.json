@@ -6,31 +6,85 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0239",
+      "yj_code": "NAIKA_0231",
       "name": "葉酸",
       "generic_name": "葉酸",
       "category": "ビタミン"
     },
     {
-      "yj_code": "ALL_3133400",
+      "yj_code": "ALL_3133400A3",
       "name": "パンテチン注２００ｍｇ「ＫＣＣ」",
       "generic_name": "パンテチン",
       "category": "ビタミンB12薬"
     },
     {
-      "yj_code": "ALL_3133401",
+      "yj_code": "ALL_3133001C1",
+      "name": "パンテチン細粒２０％「ツルハラ」",
+      "generic_name": "パンテチン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133401A1",
       "name": "パンテノール注１００ｍｇ「ＫＣＣ」",
       "generic_name": "パンテノール",
       "category": "ビタミンB12薬"
     },
     {
-      "yj_code": "ALL_3133001",
+      "yj_code": "ALL_3133401A2",
+      "name": "パンテノール注２５０ｍｇ「ＫＣＣ」",
+      "generic_name": "パンテノール",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133401A3",
+      "name": "パンテノール注５００ｍｇ「ＫＣＣ」",
+      "generic_name": "パンテノール",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001B1",
       "name": "パントシン散２０％",
       "generic_name": "パントシン",
       "category": "ビタミンB12薬"
     },
     {
-      "yj_code": "ALL_3133002",
+      "yj_code": "ALL_3133400A2",
+      "name": "パントシン注５％　１００ｍｇ",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001C3",
+      "name": "パントシン細粒５０％",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001F3",
+      "name": "パントシン錠１００　１００ｍｇ",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001F4",
+      "name": "パントシン錠２００　２００ｍｇ",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001F1",
+      "name": "パントシン錠３０　３０ｍｇ",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133001F2",
+      "name": "パントシン錠６０　６０ｍｇ",
+      "generic_name": "パントシン",
+      "category": "ビタミンB12薬"
+    },
+    {
+      "yj_code": "ALL_3133002X1",
       "name": "パントテン酸カルシウム",
       "generic_name": "パントテン酸カルシウム",
       "category": "ビタミンB12薬"

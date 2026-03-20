@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179045F6",
+    "name": "エビリファイＯＤ錠１２ｍｇ",
+    "generic_name": "エビリファイＯＤ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "エビリファイＯＤ錠１２ｍｇ",
+        "kana": "ｴﾋﾞﾘﾌｧｲODｼﾞｮｳ12MG"
+      }
+    ]
+  },
+  "indications": []
+}

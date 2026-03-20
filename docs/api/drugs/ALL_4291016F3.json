@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291016F3",
+    "name": "タルセバ錠１５０ｍｇ",
+    "generic_name": "タルセバ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "タルセバ錠１５０ｍｇ",
+        "kana": "ﾀﾙｾﾊﾞｼﾞｮｳ150MG"
+      }
+    ]
+  },
+  "indications": []
+}

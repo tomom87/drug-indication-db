@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4291058F1",
+    "name": "メクトビ錠１５ｍｇ",
+    "generic_name": "メクトビ",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "メクトビ錠１５ｍｇ",
+        "kana": "ﾒｸﾄﾋﾞｼﾞｮｳ15MG"
+      }
+    ]
+  },
+  "indications": []
+}

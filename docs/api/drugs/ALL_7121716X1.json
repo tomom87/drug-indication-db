@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_7121716X1",
+    "name": "パラフィン",
+    "generic_name": "パラフィン",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "パラフィン",
+        "kana": "ﾊﾟﾗﾌｨﾝ"
+      }
+    ]
+  },
+  "indications": []
+}

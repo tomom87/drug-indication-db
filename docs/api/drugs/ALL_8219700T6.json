@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8219700T6",
+    "name": "ラフェンタテープ１．３８ｍｇ",
+    "generic_name": "ラフェンタ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "ラフェンタテープ１．３８ｍｇ",
+        "kana": "ﾗﾌｪﾝﾀﾃｰﾌﾟ1.38MG"
+      }
+    ]
+  },
+  "indications": []
+}

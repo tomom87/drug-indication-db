@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179032C1",
+    "name": "バルネチール細粒５０％",
+    "generic_name": "バルネチール",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "バルネチール細粒５０％",
+        "kana": "ﾊﾞﾙﾈﾁｰﾙｻｲﾘｭｳ50%"
+      }
+    ]
+  },
+  "indications": []
+}

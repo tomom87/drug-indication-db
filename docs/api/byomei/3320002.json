@@ -6,169 +6,337 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0230",
+      "yj_code": "NAIKA_0222",
       "name": "プラミペキソール",
       "generic_name": "プラミペキソール",
       "category": "パーキンソン病薬"
     },
     {
-      "yj_code": "NAIKA_0229",
+      "yj_code": "NAIKA_0221",
       "name": "レボドパ・カルビドパ",
       "generic_name": "レボドパ・カルビドパ",
       "category": "パーキンソン病薬"
     },
     {
-      "yj_code": "NAIKA_0231",
+      "yj_code": "NAIKA_0223",
       "name": "ロピニロール",
       "generic_name": "ロピニロール",
       "category": "パーキンソン病薬"
     },
     {
-      "yj_code": "ALL_1162400",
+      "yj_code": "ALL_1162400A1",
       "name": "アキネトン注射液５ｍｇ　０．５％１ｍＬ",
       "generic_name": "アキネトン",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1162001",
+      "yj_code": "ALL_1162001C1",
       "name": "アキネトン細粒１％",
       "generic_name": "アキネトン",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169017",
+      "yj_code": "ALL_1162001F1",
+      "name": "アキネトン錠１ｍｇ",
+      "generic_name": "アキネトン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169017F1",
+      "name": "アジレクト錠０．５ｍｇ",
+      "generic_name": "アジレクト",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169017F2",
       "name": "アジレクト錠１ｍｇ",
       "generic_name": "アジレクト",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169400",
+      "yj_code": "ALL_1169400G1",
       "name": "アポカイン皮下注３０ｍｇ　３ｍＬ",
       "generic_name": "アポカイン皮下",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1161001",
+      "yj_code": "ALL_1161001C1",
       "name": "アマンタジン塩酸塩１０％細粒",
       "generic_name": "アマンタジン塩酸塩",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169002",
+      "yj_code": "ALL_1161001F2",
+      "name": "アマンタジン塩酸塩１００ｍｇ錠",
+      "generic_name": "アマンタジン塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169002B1",
       "name": "アーテン散１％",
       "generic_name": "アーテン",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169100",
+      "yj_code": "ALL_1169100F1",
       "name": "イーシー・ドパール配合錠",
       "generic_name": "イーシー・ドパール配合",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169018",
+      "yj_code": "ALL_1169018F1",
       "name": "エクフィナ錠５０ｍｇ",
       "generic_name": "エクフィナ",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169019",
+      "yj_code": "ALL_1169010F2",
+      "name": "エフピーＯＤ錠２．５　２．５ｍｇ",
+      "generic_name": "エフピーＯＤ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169019F1",
       "name": "オンジェンティス錠２５ｍｇ",
       "generic_name": "オンジェンティス",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169011",
+      "yj_code": "ALL_1169011F1",
       "name": "カバサール錠０．２５ｍｇ",
       "generic_name": "カバサール",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169014",
+      "yj_code": "ALL_1169011F2",
+      "name": "カバサール錠１．０ｍｇ　１ｍｇ",
+      "generic_name": "カバサール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169014F1",
       "name": "コムタン錠１００ｍｇ",
       "generic_name": "コムタン",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169102",
+      "yj_code": "ALL_1161001F1",
+      "name": "シンメトレル錠５０ｍｇ",
+      "generic_name": "シンメトレル",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169102F2",
+      "name": "スタレボ配合錠Ｌ１００",
+      "generic_name": "スタレボ配合",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169102F1",
       "name": "スタレボ配合錠Ｌ５０",
       "generic_name": "スタレボ配合",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169010",
+      "yj_code": "ALL_1169010F1",
       "name": "セレギリン塩酸塩錠２．５ｍｇ「アメル」",
       "generic_name": "セレギリン塩酸塩",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169001",
+      "yj_code": "ALL_1169001F1",
       "name": "トリヘキシフェニジル塩酸塩錠　２ｍｇ",
       "generic_name": "トリヘキシフェニジル塩酸塩",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169003",
+      "yj_code": "ALL_1169003C1",
       "name": "トリモール細粒２％",
       "generic_name": "トリモール",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169015",
+      "yj_code": "ALL_1169003F1",
+      "name": "トリモール錠２ｍｇ",
+      "generic_name": "トリモール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169015F2",
       "name": "トレリーフＯＤ錠２５ｍｇ",
       "generic_name": "トレリーフＯＤ",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1164001",
+      "yj_code": "ALL_1169015F3",
+      "name": "トレリーフＯＤ錠５０ｍｇ",
+      "generic_name": "トレリーフＯＤ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1164001M2",
       "name": "ドパストンカプセル２５０ｍｇ",
       "generic_name": "ドパストン",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1164400",
+      "yj_code": "ALL_1164001B1",
+      "name": "ドパストン散９８．５％",
+      "generic_name": "ドパストン",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1164400A1",
       "name": "ドパストン静注２５ｍｇ　０．２５％１０ｍＬ",
       "generic_name": "ドパストン静",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169006",
+      "yj_code": "ALL_1164400A2",
+      "name": "ドパストン静注５０ｍｇ　０．２５％２０ｍＬ",
+      "generic_name": "ドパストン静",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1164001F1",
+      "name": "ドパゾール錠２００ｍｇ",
+      "generic_name": "ドパゾール",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169006C1",
+      "name": "ドプス細粒２０％",
+      "generic_name": "ドプス",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169006F1",
+      "name": "ドプスＯＤ錠１００ｍｇ",
+      "generic_name": "ドプスＯＤ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169006F2",
+      "name": "ドプスＯＤ錠２００ｍｇ",
+      "generic_name": "ドプスＯＤ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169006M1",
       "name": "ドロキシドパカプセル１００ｍｇ「アメル」",
       "generic_name": "ドロキシドパ",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169700",
+      "yj_code": "ALL_1169006M2",
+      "name": "ドロキシドパカプセル２００ｍｇ「アメル」",
+      "generic_name": "ドロキシドパ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169700S4",
+      "name": "ニュープロパッチ１３．５ｍｇ",
+      "generic_name": "ニュープロパッチ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169700S5",
+      "name": "ニュープロパッチ１８ｍｇ",
+      "generic_name": "ニュープロパッチ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169700S1",
       "name": "ニュープロパッチ２．２５ｍｇ",
       "generic_name": "ニュープロパッチ",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169016",
+      "yj_code": "ALL_1169700S2",
+      "name": "ニュープロパッチ４．５ｍｇ",
+      "generic_name": "ニュープロパッチ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169700S3",
+      "name": "ニュープロパッチ９ｍｇ",
+      "generic_name": "ニュープロパッチ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169016F1",
       "name": "ノウリアスト錠２０ｍｇ",
       "generic_name": "ノウリアスト",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169701",
+      "yj_code": "ALL_1169701S2",
+      "name": "ハルロピテープ１６ｍｇ",
+      "generic_name": "ハルロピ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169701S3",
+      "name": "ハルロピテープ２４ｍｇ",
+      "generic_name": "ハルロピ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169701S4",
+      "name": "ハルロピテープ３２ｍｇ",
+      "generic_name": "ハルロピ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169701S5",
+      "name": "ハルロピテープ４０ｍｇ",
+      "generic_name": "ハルロピ",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169701S1",
       "name": "ハルロピテープ８ｍｇ",
       "generic_name": "ハルロピ",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169005",
+      "yj_code": "ALL_1162001B1",
+      "name": "ビペリデン塩酸塩散１％「ヨシトミ」",
+      "generic_name": "ビペリデン塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1162001F2",
+      "name": "ビペリデン塩酸塩錠２ｍｇ「サワイ」",
+      "generic_name": "ビペリデン塩酸塩",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169005F1",
       "name": "ブロモクリプチンメシル酸塩２．５ｍｇ錠",
       "generic_name": "ブロモクリプチンメシル酸塩",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169008",
+      "yj_code": "ALL_1169008F2",
+      "name": "ペルマックス錠２５０μｇ",
+      "generic_name": "ペルマックス",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169008F1",
       "name": "ペルマックス錠５０μｇ",
       "generic_name": "ペルマックス",
       "category": "抗パーキンソン薬"
     },
     {
-      "yj_code": "ALL_1169500",
+      "yj_code": "ALL_1169100F2",
+      "name": "マドパー配合錠Ｌ５０",
+      "generic_name": "マドパー配合",
+      "category": "抗パーキンソン薬"
+    },
+    {
+      "yj_code": "ALL_1169500A1",
       "name": "ヴィアレブ配合持続皮下注　１０ｍＬ",
       "generic_name": "ヴィアレブ配合持続皮下",
       "category": "抗パーキンソン薬"

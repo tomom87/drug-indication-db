@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2451402G2",
+    "name": "エピペン注射液０．１５ｍｇ",
+    "generic_name": "エピペン",
+    "category": "膵臓ホルモン薬",
+    "brands": [
+      {
+        "name": "エピペン注射液０．１５ｍｇ",
+        "kana": "ｴﾋﾟﾍﾟﾝﾁｭｳｼｬｴｷ0.15MG"
+      }
+    ]
+  },
+  "indications": []
+}

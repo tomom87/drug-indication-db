@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100065A1",
+    "name": "ウチダのコウブシ末Ｍ",
+    "generic_name": "ウチダのコウブシ末Ｍ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ウチダのコウブシ末Ｍ",
+        "kana": "ｳﾁﾀﾞﾉｺｳﾌﾞｼﾏﾂM"
+      }
+    ]
+  },
+  "indications": []
+}

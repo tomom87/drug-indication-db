@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2492416A3",
+    "name": "ランタス注１００単位／ｍＬ",
+    "generic_name": "ランタス",
+    "category": "その他のホルモン薬",
+    "brands": [
+      {
+        "name": "ランタス注１００単位／ｍＬ",
+        "kana": "ﾗﾝﾀｽﾁｭｳ100ﾀﾝｲ/ML"
+      }
+    ]
+  },
+  "indications": []
+}

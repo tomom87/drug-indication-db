@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100107X1",
+    "name": "ツムラの生薬シンイ",
+    "generic_name": "ツムラの生薬シンイ",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "ツムラの生薬シンイ",
+        "kana": "ﾂﾑﾗﾉｼｮｳﾔｸｼﾝｲ"
+      }
+    ]
+  },
+  "indications": []
+}

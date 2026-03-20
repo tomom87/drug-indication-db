@@ -6,21 +6,21 @@
   },
   "drugs": [
     {
-      "yj_code": "NAIKA_0178",
+      "yj_code": "NAIKA_0171",
       "name": "硝酸イソソルビド",
       "generic_name": "硝酸イソソルビド",
       "category": "循環器薬"
     },
     {
-      "yj_code": "NAIKA_0064",
+      "yj_code": "NAIKA_0060",
       "name": "ワルファリン",
       "generic_name": "ワルファリン",
       "category": "抗凝固薬"
     },
     {
-      "yj_code": "NAIKA_0068",
-      "name": "アスピリン",
-      "generic_name": "アスピリン",
+      "yj_code": "NAIKA_0247",
+      "name": "アスピリン低用量100mg（バイアスピリン）",
+      "generic_name": "アスピリン低用量100mg（バイアスピリン）",
       "category": "抗血小板薬"
     }
   ]

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179056F2",
+    "name": "シクレスト舌下錠１０ｍｇ",
+    "generic_name": "シクレスト舌下",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "シクレスト舌下錠１０ｍｇ",
+        "kana": "ｼｸﾚｽﾄｾﾞｯｶｼﾞｮｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

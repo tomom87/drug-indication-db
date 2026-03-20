@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_3231401A7",
+    "name": "ブドウ糖注射液　５％１Ｌ",
+    "generic_name": "ブドウ糖",
+    "category": "カリウム製剤",
+    "brands": [
+      {
+        "name": "ブドウ糖注射液　５％１Ｌ",
+        "kana": "ﾌﾞﾄﾞｳﾄｳﾁｭｳｼｬｴｷ"
+      }
+    ]
+  },
+  "indications": []
+}

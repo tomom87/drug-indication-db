@@ -1,0 +1,15 @@
+{
+  "byomei": {
+    "code": "8848988",
+    "name": "肺血栓塞栓症",
+    "icd10": "I269"
+  },
+  "drugs": [
+    {
+      "yj_code": "NAIKA_0244",
+      "name": "リバーロキサバン10mg",
+      "generic_name": "リバーロキサバン10mg",
+      "category": "抗凝固薬"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4224401A7",
+    "name": "キロサイドＮ注１ｇ",
+    "generic_name": "キロサイドＮ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "キロサイドＮ注１ｇ",
+        "kana": "ｷﾛｻｲﾄﾞNﾁｭｳ1G"
+      }
+    ]
+  },
+  "indications": []
+}

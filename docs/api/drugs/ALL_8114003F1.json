@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_8114003F1",
+    "name": "モルヒネ塩酸塩錠　１０ｍｇ",
+    "generic_name": "モルヒネ塩酸塩",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "モルヒネ塩酸塩錠　１０ｍｇ",
+        "kana": "ﾓﾙﾋﾈｴﾝｻﾝｴﾝｼﾞｮｳ"
+      }
+    ]
+  },
+  "indications": []
+}

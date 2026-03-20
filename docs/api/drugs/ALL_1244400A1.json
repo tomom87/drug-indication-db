@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1244400A1",
+    "name": "静注用マグネゾール２０ｍＬ",
+    "generic_name": "静",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "静注用マグネゾール２０ｍＬ",
+        "kana": "ｼﾞｮｳﾁｭｳﾖｳﾏｸﾞﾈｿﾞｰﾙ20M"
+      }
+    ]
+  },
+  "indications": []
+}

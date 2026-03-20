@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_6222006F1",
+    "name": "デルティバ錠５０ｍｇ",
+    "generic_name": "デルティバ",
+    "category": "その他",
+    "brands": [
+      {
+        "name": "デルティバ錠５０ｍｇ",
+        "kana": "ﾃﾞﾙﾃｨﾊﾞｼﾞｮｳ50MG"
+      }
+    ]
+  },
+  "indications": []
+}

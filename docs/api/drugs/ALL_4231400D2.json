@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_4231400D2",
+    "name": "マイトマイシン注用１０ｍｇ",
+    "generic_name": "マイトマイシン",
+    "category": "抗悪性腫瘍薬",
+    "brands": [
+      {
+        "name": "マイトマイシン注用１０ｍｇ",
+        "kana": "ﾏｲﾄﾏｲｼﾝﾁｭｳﾖｳ10MG"
+      }
+    ]
+  },
+  "indications": []
+}

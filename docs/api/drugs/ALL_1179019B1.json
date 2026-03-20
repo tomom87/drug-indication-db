@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1179019B1",
+    "name": "アタラックス－Ｐ散１０％",
+    "generic_name": "アタラックス－Ｐ",
+    "category": "精神神経用薬",
+    "brands": [
+      {
+        "name": "アタラックス－Ｐ散１０％",
+        "kana": "ｱﾀﾗｯｸｽ-Pｻﾝ10%"
+      }
+    ]
+  },
+  "indications": []
+}

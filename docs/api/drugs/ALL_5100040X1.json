@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_5100040X1",
+    "name": "カンタリス",
+    "generic_name": "カンタリス",
+    "category": "生薬",
+    "brands": [
+      {
+        "name": "カンタリス",
+        "kana": "ｶﾝﾀﾘｽ"
+      }
+    ]
+  },
+  "indications": []
+}

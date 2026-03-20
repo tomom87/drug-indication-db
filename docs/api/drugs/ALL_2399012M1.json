@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_2399012M1",
+    "name": "エボザックカプセル３０ｍｇ",
+    "generic_name": "エボザック",
+    "category": "その他の消化器薬",
+    "brands": [
+      {
+        "name": "エボザックカプセル３０ｍｇ",
+        "kana": "ｴﾎﾞｻﾞｯｸｶﾌﾟｾﾙ30MG"
+      }
+    ]
+  },
+  "indications": []
+}

@@ -1,0 +1,15 @@
+{
+  "drug": {
+    "yj_code": "ALL_1190014F2",
+    "name": "セレジストＯＤ錠５ｍｇ",
+    "generic_name": "セレジストＯＤ",
+    "category": "その他の神経系薬",
+    "brands": [
+      {
+        "name": "セレジストＯＤ錠５ｍｇ",
+        "kana": "ｾﾚｼﾞｽﾄODｼﾞｮｳ5MG"
+      }
+    ]
+  },
+  "indications": []
+}
